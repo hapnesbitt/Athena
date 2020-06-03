@@ -1,8 +1,8 @@
-# Athena
- The Musical
+## Athena
+# The Musical
 
 
-Council of the Gods excluding Poseidon 
+* Council of the Gods excluding Poseidon 
 
 Zeus: OMG Mortals. Everything they blame on Gods.
 
