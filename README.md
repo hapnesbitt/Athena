@@ -12,3 +12,9 @@ Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blind
 
 Athena: Well, if we're in agreement let I'll send Telemachus to get him, and the Gods know he's coming home.
 
+Garden of Telmachus
+
+Telemachus come stranger, have meat, then tell me how we can help.
+
+Athena: You must be the son of Odysseus
+
