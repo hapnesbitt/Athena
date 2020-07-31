@@ -18,5 +18,6 @@ Garden of Telmachus
 
 Telemachus come stranger, have meat, then tell me how we can help.
 
-Athena: You must be the son of Odysseus
+Athena: You must be the son of Odysseus.
 
+Telemachus: So they say.
