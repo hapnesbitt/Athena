@@ -12,9 +12,9 @@ Athena: Odysseus isn't complaining. You were happy with his victory and sacrifce
 
 Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blinding his son.
 
-Athena: Well, if we're in agreement let I'll send Telemachus to get him, and the Gods know he's coming home.
+Athena: Well, if we're in agreement I will talk to Telemachus to find his father: Tell the Gods; he's coming home.
 
-Garden of Telmachus
+* Garden of Telmachus
 
 Telemachus come stranger, have meat, then tell me how we can help.
 
