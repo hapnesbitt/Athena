@@ -25,3 +25,6 @@ Telemachus: So they say.
 Athena: No, you definitely are, But tell me...what is going on with these woowers? 
 
 Telemachus: Don't think me rude but these wooers couldn't care less about the bones of those whose house they loot.
+But may I ask who you are.
+
+Athena: I avow to be Mentes friend of your Fathers.
