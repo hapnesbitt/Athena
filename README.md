@@ -27,4 +27,7 @@ Athena: No, you definitely are, But tell me...what is going on with these woower
 Telemachus: Don't think me rude but these wooers couldn't care less about the bones of those whose house they loot.
 But may I ask who you are.
 
-Athena: I avow to be Mentes friend of your Fathers.
+Athena: I avow to be Mentes friend of your Fathers. As you can see I am here with a ships crew I came to see your father they said he what is with his people but looks like the cards are holding him up odysseus isn't dead he's a prisoner on a far off island but tell me are you really so tall you are definitely the son of Odysseus!
+
+Telemachus: Yes I am my mother says they say I am same as you.
+
