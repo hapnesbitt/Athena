@@ -39,14 +39,18 @@ Athena: God help thee! You talk to those wooers in the morning and get them out 
 
 Telemachus: Don't go.
 
-Athena: hold me no longer, that I am eager for the way. But whatsoever gift line hard shell paid the give me when I am on my way back let it be mine to carry home bear from the stores a gift right goodly and it shall bring me the worse there of in return.
+Athena: hold me no longer, that I am eager for the way. But whatsoever gift thine heart shall feel to give me when I am on my way back let it be mine to carry home bear from the stores a gift right goodly and it shall bring thee the worth thereof in return.
 
-She spoke and departed the gray eyed Athena and like an eagle of the sea she flew away but in his spirit she planted might and courage and put him in mind of his father yet more than before and he felt it and was amazed for he deemed that it was a god and anon he went to among the wooers, a god-like man.
+She spoke and departed the gray eyed Athena and like an eagle of the sea she flew away but in his spirit she planted might and courage and put him in mind of his father yet more than before and he felt it and was amazed for he deemed that it was a God and anon he went among the wooers, a god-like man.
 
-Telemachus: to wooers: sadist though that this is the worst Hap that can be fall a man sun person will be king half of the kingdom now that Odysseus is gone but for me I will be the Lord of our house and trolls that greatly Odysseus gave me with his spear.
+Telemachus: to wooers: Sayest thou that this is the worst Hap that can be fall a man? Somebody will be king of the kingdom now that Odysseus is gone but for me, I will be the Lord of our house and all that great Odysseus gave me with his spear.
 They gawk in amazement, He ponders the journey all night.
 
+Book 2
+Scene one
 
+Telemachus summoning of the wooers in the morning:
+GTFO LOL!
 
 
 
