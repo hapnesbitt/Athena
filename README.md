@@ -31,3 +31,15 @@ Athena: I avow to be Mentes friend of your Fathers. As you can see I am here wit
 
 Telemachus: Yes I am my mother says they say I am same as you.
 
+Athena: No you definitely are Penelope popped out a good one, LOL, but tell me what is going on with these wooers, nobody is bringing their own share.
+
+Telemachus: we were rich but they we're not honorable after he odysseus was gone the guards must be keeping him away.
+
+Athena: God help thee! You talk to those wooers in the morning and get them out and get a ship with your 20 best rowers. Calling all leather boys. (soto voce).
+
+Telemachus: Don't go.
+
+Athena: hold me no longer, that I am eager for the way. But whatsoever gift line hard shell paid the give me when I am on my way back let it be mine to carry home bear from the stores a gift right goodly and it shall bring me the worse there of in return.
+
+She spoke and departed the gray eyed Athena and like an eagle of the sea she flew away but in his spirit she planted might and courage and put him in mind of his father yet more than before and he felt it and was amazed for he deemed that it was a god and anon he went to among the wooers, a god-like man.
+
