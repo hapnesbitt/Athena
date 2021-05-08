@@ -43,3 +43,10 @@ Athena: hold me no longer, that I am eager for the way. But whatsoever gift line
 
 She spoke and departed the gray eyed Athena and like an eagle of the sea she flew away but in his spirit she planted might and courage and put him in mind of his father yet more than before and he felt it and was amazed for he deemed that it was a god and anon he went to among the wooers, a god-like man.
 
+Telemachus: to wooers: sadist though that this is the worst Hap that can be fall a man sun person will be king half of the kingdom now that Odysseus is gone but for me I will be the Lord of our house and trolls that greatly Odysseus gave me with his spear.
+They gawk in amazement, He ponders the journey all night.
+
+
+
+
+
