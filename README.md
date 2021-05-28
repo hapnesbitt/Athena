@@ -3,8 +3,7 @@
 ## The Musical
 
 
-
-* 1 In a council of the guards Poseidon absent, Athena procureth an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
+* BOOK I In a council of the guards Poseidon absent, Athena procureth an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
 
 
 Zeus: OMG Mortals. Everything they blame on Gods.
@@ -15,7 +14,7 @@ Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blind
 
 Athena: Well, if we're in agreement I will talk to Telemachus to find his father: Tell the Gods; he's coming home.
 
-- Garden of Telmachus
+Garden of Telmachus
 
 Telemachus come stranger, have meat, then tell me how we can help.
 
@@ -47,7 +46,7 @@ She spoke and departed the gray eyed Athena and like an eagle of the sea she fle
 Telemachus: to wooers: Sayest thou that this is the worst Hap that can be fall a man? Somebody will be king of the kingdom now that Odysseus is gone but for me, I will be the Lord of our house and all that great Odysseus gave me with his spear.
 They gawk in amazement, He ponders the journey all night.
 
-* 2 Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how he was there received.
+* BOOK II Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how He Was there received.
 
 Telemachus summoning of the wooers in the morning:
 You must leave!
@@ -57,4 +56,10 @@ Get out
 
 Athena:
 Good job
+
+* BOOK III Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
+
+* BOOK IV Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
+
+* Book V
 
