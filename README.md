@@ -52,7 +52,7 @@ They gawk in amazement, He ponders the journey all night.
 Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how he was there received.
 
 Telemachus summoning of the wooers in the morning:
-GTFO LOL!
+You must leave!
 
 Telemachus:
 Get out
@@ -60,6 +60,3 @@ Get out
 Athena:
 Good job
 
-Testing testing
-
-OK write this downm
