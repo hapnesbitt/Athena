@@ -47,7 +47,7 @@ Telemachus: to wooers: Sayest thou that this is the worst Hap that can be fall a
 They gawk in amazement, He ponders the journey all night.
 
 Book 2
-Scene one
+Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how he was there received.
 
 Telemachus summoning of the wooers in the morning:
 GTFO LOL!
