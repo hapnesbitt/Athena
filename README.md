@@ -15,7 +15,7 @@ Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blind
 
 Athena: Well, if we're in agreement I will talk to Telemachus to find his father: Tell the Gods; he's coming home.
 
-* Garden of Telmachus
+- Garden of Telmachus
 
 Telemachus come stranger, have meat, then tell me how we can help.
 
@@ -47,9 +47,7 @@ She spoke and departed the gray eyed Athena and like an eagle of the sea she fle
 Telemachus: to wooers: Sayest thou that this is the worst Hap that can be fall a man? Somebody will be king of the kingdom now that Odysseus is gone but for me, I will be the Lord of our house and all that great Odysseus gave me with his spear.
 They gawk in amazement, He ponders the journey all night.
 
-* Book 2
-
-Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how he was there received.
+* 2 Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how he was there received.
 
 Telemachus summoning of the wooers in the morning:
 You must leave!
