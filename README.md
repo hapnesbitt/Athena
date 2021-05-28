@@ -51,7 +51,7 @@ Book 2
 Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how he was there received.
 
 Telemachus summoning of the wooers in the morning:
-GTFO LOL!
+You must leave!
 
 Telemachus:
 Get out
