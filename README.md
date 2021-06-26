@@ -49,7 +49,8 @@
 #### They gawk in amazement, He ponders the journey all night.
 
 ## BOOK II
-### Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how He Was there received.
+### Telemachus
+#### Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how He Was there received.
 
 #### Telemachus summoning of the wooers in the morning:
 * Telemachus: You must leave! Get out.
