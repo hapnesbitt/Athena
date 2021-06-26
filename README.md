@@ -1,12 +1,12 @@
-#### In a council of the Gods, Poseidon absent, Athena procureth from Zeus an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
+#### In a council of the Gods, Poseidon absent, Athena procureth an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
 
 ![GettyImages-157774290-52a8e3ffb3174346b378aca89317f6b0](https://user-images.githubusercontent.com/66383118/123524866-42d4b800-d68a-11eb-9dd8-4eb64806298f.jpg)
 
 
 
-* Zeus: Mortals blame everything on the Gods!
+* Zeus: OMG Mortals. Everything they blame on Gods.
 
-* Athena: Odysseus is not complaining. You were happy with his victory and sacrifce then but seem to have forgotten about that now.
+* Athena: Odysseus isn't complaining. You were happy with his victory and sacrifce then but whatever.
 
 * Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blinding his son.
 
@@ -47,22 +47,19 @@
 
 ## BOOK II
 ### Telemachus
-#### Telemachus complains in vain and borrowing a ship goes secretly too Pylos by night and how he Was there received.
 ![Telemachos_Saarbruecken](https://user-images.githubusercontent.com/66383118/123525451-f7bca400-d68d-11eb-964e-9cd44aff03ca.jpg)
-
+#### Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how He Was there received.
 
 #### Telemachus summoning of the wooers in the morning:
 * Telemachus: You must leave! Get out.
 
 * Athena: Good job
 
-## BOOK III
-### Nestor
-#### Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
+## BOOK III 
+### Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
 
 ## BOOK IV
-### Menalaus
-#### Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
+### Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
 
 ## Book V
 
@@ -70,4 +67,10 @@
 
 
 
+https://user-images.githubusercontent.com/66383118/123526042-83d0ca80-d692-11eb-9048-cbedca6dfa34.mp4
+
+
 https://www.buymeacoffee.com/rossnesbitt
+
+
+
