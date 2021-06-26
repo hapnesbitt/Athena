@@ -3,7 +3,6 @@
 ![GettyImages-157774290-52a8e3ffb3174346b378aca89317f6b0](https://user-images.githubusercontent.com/66383118/123524866-42d4b800-d68a-11eb-9dd8-4eb64806298f.jpg)
 
 
-
 * Zeus: Mortals blame everything on the Gods!
 
 * Athena: Odysseus is not complaining. You were happy with his victory and sacrifce then but seem to have forgotten about that now.
