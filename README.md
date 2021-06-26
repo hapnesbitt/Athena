@@ -57,11 +57,13 @@
 
 * Athena: Good job
 
-## BOOK III 
-### Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
+## BOOK III
+### Nestor
+#### Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
 
 ## BOOK IV
-### Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
+### Menalaus
+#### Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
 
 ## Book V
 
