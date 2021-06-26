@@ -8,8 +8,9 @@
 
 
 * Zeus: OMG Mortals. Everything they blame on Gods.
+* Zeus: Mortals blame everything on the Gods!
 
-* Athena: Odysseus isn't complaining. You were happy with his victory and sacrifce then but whatever.
+* Athena: Odysseus is not complaining. You were happy with his victory and sacrifce then but seem to have forgotten about that now.
 
 * Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blinding his son.
 
@@ -50,6 +51,7 @@
 
 ## BOOK II
 ### Telemachus
+
 #### Telemachus complains in vain and borrowing a ship goes secretly two Pylos by night and how He Was there received.
 
 #### Telemachus summoning of the wooers in the morning:
