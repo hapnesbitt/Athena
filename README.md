@@ -1,16 +1,17 @@
 # Athena The Musical
-## Athena and Telemachus
+## Book I
+### Athena and Zeus
+#### In a council of the Gods, Poseidon absent, Athena procureth an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
 
 ![GettyImages-157774290-52a8e3ffb3174346b378aca89317f6b0](https://user-images.githubusercontent.com/66383118/123524866-42d4b800-d68a-11eb-9dd8-4eb64806298f.jpg)
 
-* BOOK I In a council of the Gods, Poseidon absent, Athena procureth an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
 
 
-Zeus: OMG Mortals. Everything they blame on Gods.
+* Zeus: OMG Mortals. Everything they blame on Gods.
 
-Athena: Odysseus isn't complaining. You were happy with his victory and sacrifce then but whatever.
+* Athena: Odysseus isn't complaining. You were happy with his victory and sacrifce then but whatever.
 
-Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blinding his son.
+* Zeus: Pallas Athena how can you say that, Poseidon has him pinned down for blinding his son.
 
 Athena: Well, if we're in agreement I will talk to Telemachus to find his father: Tell the Gods; he's coming home.
 
