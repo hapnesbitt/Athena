@@ -1,7 +1,7 @@
 # Athena The Musical
 ## Athena and Telemachus
 
-GettyImages-157774290-52a8e3ffb3174346b378aca89317f6b0.jpg
+![GettyImages-157774290-52a8e3ffb3174346b378aca89317f6b0](https://user-images.githubusercontent.com/66383118/123524866-42d4b800-d68a-11eb-9dd8-4eb64806298f.jpg)
 
 * BOOK I In a council of the Gods, Poseidon absent, Athena procureth an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
 
