@@ -92,7 +92,7 @@ Telemachus' entertainment at Sparta where Menelaus tells him what befell many of
 
 In Sparta they are received by Menelaus and the famous Helen now restored to her husband and learn that Odysseus is in Ogygia. Telemachus decides to return to Ithaca, where the suiters are plotting his death.
 
-Brogi,_Giacomo_(1822-1881)_-_n._4140_-_Roma_-_Vaticano_-_Menelao_-_Busto_in_marmo.jpg![Brogi,_Giacomo_(1822-1881)_-_n _4140_-_Roma_-_Vaticano_-_Menelao_-_Busto_in_marmo](https://user-images.githubusercontent.com/66383118/123714608-e57c6a80-d833-11eb-9e1b-8fca558243fa.jpg)
+![Brogi,_Giacomo_(1822-1881)_-_n _4140_-_Roma_-_Vaticano_-_Menelao_-_Busto_in_marmo](https://user-images.githubusercontent.com/66383118/123714608-e57c6a80-d833-11eb-9e1b-8fca558243fa.jpg)
 
 
 
