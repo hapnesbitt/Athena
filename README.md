@@ -49,7 +49,7 @@
 ##### They gawk in amazement, He ponders the journey all night.
 
 ##### BOOK II
-##### Telemachus
+
 ##### Telemachus complains in vain and borrowing a ship goes secretly to Pylos by night and how he was there received.
 
 ##### Failing in an attempt to get the Ithicans to help him to assert his rights Telemachus departs for Pylus under the guidance of the goddess Athene, who is disguised as Mentor a friendly chief.
