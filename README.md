@@ -1,6 +1,10 @@
-#### In a council of the Gods, Poseidon absent, Athena procureth from Zeus an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
+##### When the poem opens it is the tenth year since the fall of Troy. Odysseus has not yet returned to his home in the island of Ithica but is detained in Ogygia, an island in the west by the nymph Calypso. Meantime at home his wife Penelope is beset by suitors who fiest riotously in the house of the absent warrior.
+
+##### In a council of the Gods, Poseidon absent, Athena procureth from Zeus an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
 
 ![GettyImages-157774290-52a8e3ffb3174346b378aca89317f6b0](https://user-images.githubusercontent.com/66383118/123524866-42d4b800-d68a-11eb-9dd8-4eb64806298f.jpg)
+
+
 
 
 * Zeus: Mortals blame everything on the Gods!
