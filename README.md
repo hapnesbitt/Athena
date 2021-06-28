@@ -86,7 +86,8 @@ Then the goddess gray eyed Athene spoke to him again.
 
 So spoke Pallas Athena and led the way quickly and he followed hard in the steps of the Goddess and they came to the gathering and the session of the men of Pylus. There was Nester seated with his sons, and round him his company making ready for the feast.
 
-BOOK IV
+**BOOK IV**
+
 Telemachus' entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
 
 In Sparta they are received by Menelaus and the famous Helen now restored to her husband and learn that Odysseus is in Ogygia. Telemachus decides to return to Ithaca, where the suiters are plotting his death.
