@@ -1,4 +1,3 @@
-![Sacrifice_Nestor_Pylos_Meleager_Painter_MAN](https://user-images.githubusercontent.com/66383118/123713432-a2b99300-d831-11eb-8f72-0c3c97c84ce4.jpeg)
 When the poem opens it is the tenth year since the fall of Troy. Odysseus has not yet returned to his home in the island of Ithica but is detained in Ogygia, an island in the west by the nymph Calypso. Meantime at home his wife Penelope is beset by suitors who fiest riotously in the house of the absent warrior.
 
 In a council of the Gods, Poseidon absent, Athena procureth from Zeus an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
@@ -72,6 +71,8 @@ Nestor, the aged king of Pylus receives them hospitably; and while he is banquet
 
 Nestor is having a giant feast on Pylus just as the ships of Telemachus arrive, and Athena leads the way.
 
+![Sacrifice_Nestor_Pylos_Meleager_Painter_MAN](https://user-images.githubusercontent.com/66383118/123713432-a2b99300-d831-11eb-8f72-0c3c97c84ce4.jpeg)
+
 * Athena: Telemachus, thou needest not now be abashed, no not one whit. For to this very end dids't thou sail over the deep that thou mightest hear tidings of thy father, even where the earth closed over him, in what manner of death he met, but come now go straight to Nester tamer of horses. Let us learn what counsel he hath in the secret of his heart. And beseech him thyself that he may give unerring answer; and he will not lie to thee, for he is very wise.
 
 The wise Telemachus answered saying.
@@ -83,8 +84,6 @@ Then the goddess gray eyed Athene spoke to him again.
 * Athena: Telemachus, thou shalt bethink thee of somewhat in thine breast and somwhat Gods will give thee to say, for thou methinks of all men, were not born and bred without the will of the Gods.
 
 So spoke Pallas Athena and led the way quickly and he followed hard in the steps of the Goddess and they came to the gathering and the session of the men of Pylus. There was Nester seated with his sons, and round him his company making ready for the feast.
-
-Sacrifice_Nestor_Pylos_Meleager_Painter_MAN.jpeg![Sacrifice_Nestor_Pylos_Meleager_Painter_MAN](https://user-images.githubusercontent.com/66383118/123713493-c8df3300-d831-11eb-860c-6c55360bd7fa.jpeg)
 
 BOOK IV
 Telemachus' entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
