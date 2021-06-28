@@ -69,6 +69,20 @@ Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from 
 
 Nestor, the aged king of Pylus receives them hospitably; and while he is banqueting his guests the supposed Mentor vanishes and it is recognized that he was the guardian goddess of the family of Odysseus. From Pylus, Telemachus sets out for Sparta, accompanied by the son of Nestor, Peisistratus.
 
+Nestor is having a giant feast on Pylus just as the ships of Telemachus arrive, and Athena leads the way.
+
+* Athena: Telemachus, thou needest not now be abashed, no not one whit. For to this very end dids't thou sail over the deep that thou mightest hear tidings of thy father, even where the earth closed over him, in what manner of death he met, but come now go straight to Nester tamer of horses. Let us learn what counsel he hath in the secret of his heart. And beseech him thyself that he may give unerring answer; and he will not lie to thee, for he is very wise.
+
+The wise Telemachus answered saying.
+
+* Telemachus: Mentor, and how shall I go how shall I greet him? I who am untried in words of wisdom, moreover a young man may well be abashed to question an elder.
+
+Then the goddess gray eyed Athene spoke to him again.
+
+* Athena: Telemachus, thou shalt bethink thee of somewhat in thine breast and somwhat Gods will give thee to say, for thou methinks of all men, were not born and bred without the will of the Gods.
+
+So spoke Pallas Athena and led the way quickly and he followed hard in the steps of the Goddess and they came to the gathering and the session of the men of Pylus. There was Nester seated with his sons, and round him his company making ready for the feast.
+
 
 BOOK IV
 Telemachus' entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
