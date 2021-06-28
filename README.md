@@ -15,7 +15,7 @@
 
 * Athena: Well, if we're in agreement I will talk to Telemachus to find his father: Tell the Gods; he's coming home.
 
-#### Garden of Telmachus
+##### Garden of Telmachus
 
 * Telemachus: Come stranger, have meat, then tell me how we can help.
 
@@ -42,15 +42,15 @@
 
 * Athena: Hold me no longer, that I am eager for the way. But whatsoever gift thine heart shall feel to give me when I am on my way back let it be mine to carry home, bear from the stores a gift right goodly and it shall bring thee the worth thereof in return.
 
-#### She spoke and departed the gray eyed Athena and like an eagle of the sea she flew away but in his spirit she planted might and courage and put him in mind of his father yet more than before and he felt it and was amazed for he deemed that it was a God and anon he went among the wooers, a god-like man.
+##### She spoke and departed the gray eyed Athena and like an eagle of the sea she flew away but in his spirit she planted might and courage and put him in mind of his father yet more than before and he felt it and was amazed for he deemed that it was a God and anon he went among the wooers, a god-like man.
 
 * Telemachus: to wooers: Sayest thou that this is the worst Hap that can be fall a man? Somebody will be king of the kingdom now that Odysseus is gone but for me, I will be the Lord of our house and all that great Odysseus gave me with his spear.
 
-#### They gawk in amazement, He ponders the journey all night.
+##### They gawk in amazement, He ponders the journey all night.
 
-## BOOK II
-### Telemachus
-#### Telemachus complains in vain and borrowing a ship goes secretly too Pylos by night and how he Was there received.
+##### BOOK II
+##### Telemachus
+##### Telemachus complains in vain and borrowing a ship goes secretly to Pylos by night and how he was there received.
 
 ##### Failing in an attempt to get the Ithicans to help him to assert his rights Telemachus departs for Pylus under the guidance of the goddess Athene, who is disguised as Mentor a friendly chief.
 
@@ -58,20 +58,20 @@
 ![Telemachos_Saarbruecken](https://user-images.githubusercontent.com/66383118/123525451-f7bca400-d68d-11eb-964e-9cd44aff03ca.jpg)
 
 
-#### Telemachus summoning of the wooers in the morning:
+##### Telemachus summoning of the wooers in the morning:
 * Telemachus: You must leave! Get out.
 
 * Athena: Good job
 
-## BOOK III
-### Nestor
-#### Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
+##### BOOK III
+##### Nestor
+##### Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
 
-## BOOK IV
-### Menalaus
-#### Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
+##### BOOK IV
+##### Menalaus
+##### Telemachus's entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
 
-## Book V
+
 
 
 
