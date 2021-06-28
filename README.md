@@ -76,11 +76,11 @@ Nestor is having a giant feast on Pylus just as the ships of Telemachus arrive, 
 
 * Athena: Telemachus, thou needest not now be abashed, no not one whit. For to this very end dids't thou sail over the deep that thou mightest hear tidings of thy father, even where the earth closed over him, in what manner of death he met, but come now go straight to Nester tamer of horses. Let us learn what counsel he hath in the secret of his heart. And beseech him thyself that he may give unerring answer; and he will not lie to thee, for he is very wise.
 
-The wise Telemachus answered saying.
+The wise Telemachus answered saying:
 
 * "Mentor, and how shall I go how shall I greet him? I who am untried in words of wisdom, moreover a young man may well be abashed to question an elder."
 
-Then the goddess gray eyed Athene spoke to him again.
+Then the goddess grey-eyed Athene spoke to him again:
 
 * "Telemachus, thou shalt bethink thee of somewhat in thine breast and somwhat Gods will give thee to say, for thou methinks of all men, were not born and bred without the will of the Gods."
 
