@@ -51,6 +51,10 @@
 ## BOOK II
 ### Telemachus
 #### Telemachus complains in vain and borrowing a ship goes secretly too Pylos by night and how he Was there received.
+
+##### Failing in an attempt to get the Ithicans to help him to assert his rights Telemachus departs for Pylus under the guidance of the goddess Athene, who is disguised as Mentor a friendly chief.
+
+
 ![Telemachos_Saarbruecken](https://user-images.githubusercontent.com/66383118/123525451-f7bca400-d68d-11eb-964e-9cd44aff03ca.jpg)
 
 
