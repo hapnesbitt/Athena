@@ -1,3 +1,5 @@
+**Book I**
+
 When the poem opens it is the tenth year since the fall of Troy. Odysseus has not yet returned to his home in the island of Ithica but is detained in Ogygia, an island in the west by the nymph Calypso. Meantime at home his wife Penelope is beset by suitors who fiest riotously in the house of the absent warrior.
 
 In a council of the Gods, Poseidon absent, Athena procureth from Zeus an order for the restitution of Odysseus and appearing to his son Telemachus in human shape adviseth him to complain of the wooers before the council of the people and then go to Pylos and Sparta to inquire about his father.
@@ -15,7 +17,7 @@ In a council of the Gods, Poseidon absent, Athena procureth from Zeus an order f
 
 * Athena: Well, if we're in agreement I will talk to Telemachus to find his father: Tell the Gods; he's coming home.
 
-Garden of Telmachus
+**Garden of Telmachus**
 
 * Telemachus: Come stranger, have meat, then tell me how we can help.
 
@@ -48,7 +50,7 @@ She spoke and departed the gray eyed Athena and like an eagle of the sea she fle
 
 They gawk in amazement, He ponders the journey all night.
 
-BOOK II
+**BOOK II**
 
 Telemachus complains in vain and borrowing a ship goes secretly to Pylos by night and how he was there received.
 
@@ -56,7 +58,6 @@ Failing in an attempt to get the Ithicans to help him to assert his rights Telem
 
 
 ![Telemachos_Saarbruecken](https://user-images.githubusercontent.com/66383118/123525451-f7bca400-d68d-11eb-964e-9cd44aff03ca.jpg)
-
 
 Telemachus summoning of the wooers in the morning:
 * Telemachus: You must leave! Get out.
@@ -89,10 +90,6 @@ BOOK IV
 Telemachus' entertainment at Sparta where Menelaus tells him what befell many of the Greeks on their return; that Odysseus was with calypso in the isle Ogygia, as he was told by Proteus.
 
 In Sparta they are received by Menelaus and the famous Helen now restored to her husband and learn that Odysseus is in Ogygia. Telemachus decides to return to Ithaca, where the suiters are plotting his death.
-
-
-
-
 
 
 
