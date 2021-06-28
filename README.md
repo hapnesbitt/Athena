@@ -78,11 +78,11 @@ Nestor is having a giant feast on Pylus just as the ships of Telemachus arrive, 
 
 The wise Telemachus answered saying.
 
-* Telemachus: Mentor, and how shall I go how shall I greet him? I who am untried in words of wisdom, moreover a young man may well be abashed to question an elder.
+* "Mentor, and how shall I go how shall I greet him? I who am untried in words of wisdom, moreover a young man may well be abashed to question an elder."
 
 Then the goddess gray eyed Athene spoke to him again.
 
-* Athena: Telemachus, thou shalt bethink thee of somewhat in thine breast and somwhat Gods will give thee to say, for thou methinks of all men, were not born and bred without the will of the Gods.
+* "Telemachus, thou shalt bethink thee of somewhat in thine breast and somwhat Gods will give thee to say, for thou methinks of all men, were not born and bred without the will of the Gods."
 
 So spoke Pallas Athena and led the way quickly and he followed hard in the steps of the Goddess and they came to the gathering and the session of the men of Pylus. There was Nester seated with his sons, and round him his company making ready for the feast.
 
