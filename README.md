@@ -63,7 +63,8 @@ Telemachus summoning of the wooers in the morning:
 
 * Athena: Good job
 
-BOOK III
+**BOOK III**
+
 Nestor entertains Telmachus at Pylos and tells him how the Greeks departed from Troy; and sends him for further information to Sparta.
 
 Nestor, the aged king of Pylus receives them hospitably; and while he is banqueting his guests the supposed Mentor vanishes and it is recognized that he was the guardian goddess of the family of Odysseus. From Pylus, Telemachus sets out for Sparta, accompanied by the son of Nestor, Peisistratus.
