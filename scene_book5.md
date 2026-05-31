@@ -151,3 +151,12 @@ My vow is cast, I'll sail through storm and sea,
 To answer to the call that echoes in me,
 Odysseus returns, his journey starts now,
 To face his destiny, the city-sacker goes.
+
+### Turn 9 — NARRATOR 📜
+
+THE SCENE — FINAL
+## NARRATOR
+
+With Calypso's tears, the raft began, a testament of plunder and regret;
+The long journey home, at last, underway. A city-sacker's tale, reborn,
+Silent waves echoed their song as Odysseus took his leave, set free by fate.
