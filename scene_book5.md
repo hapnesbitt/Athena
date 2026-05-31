@@ -48,3 +48,14 @@ The gods should mind their own affairs,
 But they'll see my type won't disappear,
 Odysseus and I have a bond that's deep,
 A sea-witch and her city-sacker can't be so easily kept."
+
+### Turn 3 — ODYSSEUS 🗡️
+
+*Odysseus steps forth, eyes heavy with years and sea*
+My heart beats a war drum, echoing the past
+The cities I sacked, their ghosts whisper of plunder
+But home calls now, my Penelope's voice haunts me fast
+Calypso's red coat I see, but her truck ain't mine to burn
+Ten years of partnership, ten years in the sea-witch's turn
+A sacker of cities and a sea-witch, predator meets predator
+But who's to say we wasn't something more than that?
