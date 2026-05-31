@@ -129,3 +129,25 @@ But know this well, the bond we shared was deep,
 A partnership born from sea and stealthy seep.
 I'll watch the stars that guide you on your way,
 And I'll remember, Odysseus, every day.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+By Zeus and Poseidon's decree, I take my leave,
+From Calypso's arms, this partnership must end,
+I sail for home with plunder and with pain,
+My heart beats heavy in the briny deep.
+
+The raft I'll build, from driftwood and seaweed,
+And set my sights on Ithaca, a beacon bright,
+I'll meet Penelope beneath the moon,
+And tell my son of battles, war, and fight.
+
+But in my heart, this city-sacker knows,
+A part of me was born upon this shore,
+With Calypso's kiss, I grew into a king,
+I carry her with me, on every voyage.
+
+My vow is cast, I'll sail through storm and sea,
+To answer to the call that echoes in me,
+Odysseus returns, his journey starts now,
+To face his destiny, the city-sacker goes.
