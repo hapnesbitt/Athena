@@ -31,3 +31,20 @@ The God of Mercury, swift as thought, descends,
 An eagle on the wind, a messenger supreme,
 I bear a message from above, to set him free,
 The voyage home at last begins, with divine esteem.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso, the sea-witch, sovereign of Ogygia, speaks:
+
+"Zeus and his council, full of spite,
+Send Hermes with their orders tonight,
+But Odysseus is not just a prize,
+He's my type, sacker of cities with guile,
+A partner in crime from the sea-waves' edge,
+This ain't no prison, it's a morally murky pledge.
+Let them call me witch, let them call me predator,
+In this relationship, we both have each other.
+The gods should mind their own affairs,
+But they'll see my type won't disappear,
+Odysseus and I have a bond that's deep,
+A sea-witch and her city-sacker can't be so easily kept."
