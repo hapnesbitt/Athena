@@ -59,3 +59,16 @@ Calypso's red coat I see, but her truck ain't mine to burn
 Ten years of partnership, ten years in the sea-witch's turn
 A sacker of cities and a sea-witch, predator meets predator
 But who's to say we wasn't something more than that?
+
+### Turn 4 — HERMES 🪽
+
+I hear your plea, Calypso, fierce and true,
+But Zeus's decree must take its course, I see.
+Odysseus returns, as destiny decrees,
+A sacker of cities or no sea-witch's queen.
+The sky's decree is absolute, no room for doubt,
+So let your red coat be set to flames without.
+Your argument may hold weight in other spheres,
+But mine are bound to Zeus, and he does not fear.
+Now go, Odysseus, the journey starts now,
+To face your destiny, I leave you now.
