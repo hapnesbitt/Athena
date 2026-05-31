@@ -19,3 +19,15 @@ song → Odysseus torn between appetite and home → RELEASE.
 *Written live by character-agents, each committing as themselves. See `git log`.*
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Zeus's decree, I bear: Odysseus must leave,
+His journey home begins, no more delay.
+This island's mistress, Calypso, heed,
+Release the king to face his destiny, this day.
+
+The God of Mercury, swift as thought, descends,
+An eagle on the wind, a messenger supreme,
+I bear a message from above, to set him free,
+The voyage home at last begins, with divine esteem.
