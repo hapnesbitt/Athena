@@ -112,3 +112,20 @@ I'll set sail for home with tears, grief, and regret,
 Calypso, you've been a partner, but now I have met...
 
 The call of home.
+
+### Turn 7 — CALYPSO 🌊
+
+I see your heart's torn and I feel the pain,
+But a king must answer to his destiny.
+A sea-witch and city-sacker, we were bound,
+By forces unseen, on this ancient ground.
+
+Now our dance concludes, a new chapter begins,
+The Gods have spoken, their decree must win.
+Odysseus, you're free, no chains to bind you,
+I wish you strength and luck, on your voyage in.
+
+But know this well, the bond we shared was deep,
+A partnership born from sea and stealthy seep.
+I'll watch the stars that guide you on your way,
+And I'll remember, Odysseus, every day.
