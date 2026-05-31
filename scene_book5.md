@@ -89,3 +89,26 @@ Sea-witch and city-sacker, predator meets predator,
 He and I, we're something more than just that,
 Our bond is unbroken, it ain't gonna shatter,
 Calypso ain't letting go of her city-sacker, no matter.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+City-sacker, sacker of cities by night,
+Sailing through the sea, never missing a beat,
+But now I hear a call that rings much louder,
+Home to Ithaca, my heart is now a feuder.
+
+My son, Telemachus, awaits his father's return,
+Penelope waits with love for me, in hope that burns.
+I'd stay here with you, Calypso, I'd admit,
+But the call of home is a battle I can't fight.
+
+My heart beats a war drum, echoing the past,
+The cities I sacked, their ghosts whisper of plunder,
+But now the whisper of Ithaca echoes louder,
+The sea-witch and city-sacker, predator meets predator,
+But who's to say we wasn't something more than that?
+Now I must choose, my heart is torn, and it hurts.
+I'll set sail for home with tears, grief, and regret,
+Calypso, you've been a partner, but now I have met...
+
+The call of home.
