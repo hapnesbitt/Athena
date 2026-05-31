@@ -72,3 +72,20 @@ Your argument may hold weight in other spheres,
 But mine are bound to Zeus, and he does not fear.
 Now go, Odysseus, the journey starts now,
 To face your destiny, I leave you now.
+
+### Turn 5 — CALYPSO 🌊
+
+Yo, this song for all them sea-witches out there,
+Living in the deep blue with saltwater tears,
+Calypso's a queen, no need for pity,
+Odysseus is my type and ain't that clear?
+
+City-sacker, sacker of cities by night,
+Sailing through the sea, never missing a beat,
+This Odysseus's mine, he belongs to me right,
+In the heart of Ogygia, no room for retreat.
+
+Sea-witch and city-sacker, predator meets predator,
+He and I, we're something more than just that,
+Our bond is unbroken, it ain't gonna shatter,
+Calypso ain't letting go of her city-sacker, no matter.
