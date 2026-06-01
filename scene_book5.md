@@ -19,3 +19,20 @@ Now, we all know that Odysseus has been sacking cities from the sea, hoping to g
 Hermes, swift-footed messenger of Zeus, descends from the heavens in a whirlwind of feathers and light. Calypso's island glimmers before him like a diamond in the azure sea. He lands with a soft thud, his wings folded close to his back as he strides towards the sea-witch's lair.
 
 "Yo, Calypso," he calls out, "Zeus has sent me with an order. Odysseus must be released, the journey home begins now." A hint of a smile plays on his lips as he awaits her response, the air between them electric with tension.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso, resplendent as ocean's queen, steps forth from her lair
+Hermes, messenger swift and nimble, doth dare to disturb her air
+"Release Odysseus?" she sneers, her voice like thunderous tide
+"He's not a mortal's pawn in games, he's my partner in stride"
+
+She speaks of their bond, ten years strong, bound by the sea's allure
+Hypocrites, gods, who preach of love and loyalty, yet seek to remove
+Odysseus from her arms? This is a partnership, not a fleeting fling
+Can't these gods see they're tearing something truly beautiful apart?
+
+But the sea-witch is defiant, her eyes glinting with ire and pride
+Her heart beats like an anvil, and she will not give Odysseus up so easy
+For he is her type, a predator, who's conquered seas and cities wide
+And though it may be murky, their union's strength cannot deny.
