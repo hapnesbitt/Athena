@@ -48,3 +48,20 @@ But when it's time to pay, their hands are filled with oils."
 A sanctuary where he could rest and plot his next grand plan.
 He's more than just a prize to be taken by some fickle God,
 A partner in this sea-bound life, the price I paid was not gold."
+
+### Turn 3 — ODYSSEUS 🗡️
+
+Golden halls of Troy, echo in my mind,
+A decade lost, by Calypso's charm I've been blind.
+But home now calls with Penelope's song,
+My son Telemachus, his future long.
+
+Siren call of wealth, the cities we took,
+A dance with Fate, a life I wouldn't forsake.
+Yet, plunder and battle, they no longer lure,
+Ithaca whispers softly, a flame pure.
+
+Torn between two worlds, my soul cries out in pain,
+This sea-witch and her island, where we've played the game.
+But Zeus's decree, like thunder in the night,
+The journey home awaits me with all its might.
