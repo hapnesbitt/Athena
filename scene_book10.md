@@ -68,3 +68,41 @@ The lion evades me tonight, but I won't be denied,
 For every man that escapes, there's another time.
 I yield, not cower, for my hunger remains,
 To see what each one becomes, and hunger still the same.
+
+### Turn 3 — CIRCE 🪄
+
+[STAGING: one by one the pulled-up men drop to all fours, transformed into beasts]
+
+(Roaring, gleeful)
+Don't stop, won't stop, no mercy, no shame,
+Turning these fools into beasts of my domain.
+Watch as they cower, a new form takes hold,
+A predator's pride, the hunt never gets old.
+
+(Don't stop)
+Each man transformed, I own their spirit now,
+Fearless and fierce, there's no way to bow.
+But one remains, a challenge to my rule,
+I need that lion, I won't let him fool me!
+
+[STAGING: Circe moves towards Odysseus, intent on her transformation]
+
+(Determined)
+The mighty Odysseus stands tall and strong,
+Can't be bought, can't be swayed, his will is long.
+But I won't give up, my hunger never ends,
+I'll get that lion, he'll yield to my commands.
+
+[STAGING: Circe reaches out but is Overpowered]
+
+(Defiant)
+Can't believe it, a goddess conquered so soon,
+But I won't cower, I'll find another tune.
+I'll bide my time, wait for the right moment to strike,
+One day this lion will be mine, and he'll lose his fight.
+
+(Shouting)
+Don't stop, don't back down, my power is unmatched!
+Each man I turn will tremble before my wrath!
+The game may have changed, but I won't retreat,
+I'm Circe the sorceress, and this isn't defeat.
