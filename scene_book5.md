@@ -51,3 +51,15 @@ Ithaca whispers to him through the storm, yearning to return
 
 Odysseus's spirit battles inside, the choice hangs in the balance
 A predator meets his match, a dance for supremacy in Calypso's palace
+
+### Turn 4 — HERMES 🪽
+
+Yo, Calypso, ain't my place to debate Zeus's decree
+Odysseus must be released, it's not about thee and me
+Ten years in your hold is long, I get it, I feel ya too
+But this isn't a plea, just relaying orders through
+
+So set him free, let him return to his own kind
+His home beckons, and Zeus wants him to be unbound
+Calypso, you've had your time, but the time has come
+For Odysseus to walk under the sun, not under the gloom.
