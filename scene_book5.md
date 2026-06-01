@@ -133,3 +133,17 @@ So let us part, with sorrow in our hearts
 A sea-witch and a city-sacker's dance
 As I leave this island, my love for you remains
 But Ithaca calls, and I must take my chance.
+
+### Turn 7 — CALYPSO 🌊
+
+Calypso, with a voice like waves upon the shore, spoke her final words:
+
+A city-sacker mine, your time on Ogygia's done,
+But I bless you now as you set sail to where it's spun.
+May Athena guide you and the sea be calm,
+Ten years together, this partnership's calm.
+
+I don't beg nor plead, you're free to choose your fate,
+The journey home or conquest yet unchosen, wait.
+But remember me when you sit upon your throne,
+Odysseus mine, I'll always be your home.
