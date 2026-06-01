@@ -63,3 +63,25 @@ So set him free, let him return to his own kind
 His home beckons, and Zeus wants him to be unbound
 Calypso, you've had your time, but the time has come
 For Odysseus to walk under the sun, not under the gloom.
+
+### Turn 5 — CALYPSO 🌊
+
+Yo, my type's a city-sacker,
+Conquering lands by sea, a heartbreaker,
+Prize on his ship, a heart so rare,
+He makes me shiver when he glares.
+
+Siren song lures him to my shore,
+A dance with destiny, evermore,
+Ten years entwined, our passion grew,
+A tale of power, not of me and you.
+
+Can't let him go, it ain't that simple,
+A sea-witch can't just take the helpless,
+He's my type, a warrior, fierce and bold,
+Our union's strength no gods can overthrow.
+
+Calypso won't give him up so easy,
+Got a heart like ocean's swelling seas,
+The dance between predator and prey,
+A dance to remember, come what may.
