@@ -126,3 +126,15 @@ To Ithaca, Penelope, and son Telemachus,
 The journey starts anew, and the old me reemerges through these hussles.
 I'll put aside this ocean's lure, my heart will be my own,
 And sail into the storm, with a cunning warrior's bone.
+
+### Turn 9 — NARRATOR 📜
+
+The swift-winged messenger Hermes departs,
+The siren's hold broken, the captive released.
+A raft begins its voyage from Calypso's shore,
+Odysseus embarks upon his long journey home.
+
+Silence falls upon the sea, a testament to change,
+As the city-sacker leaves behind his lover's domain.
+The Odyssey resumes its course, a dance with fate,
+And the heart of Odysseus steels for his impending state.
