@@ -16,3 +16,17 @@ But fear not, for our hero Odysseus is here, immune to Circe's magic thanks to a
 Let the show begin! [HANDS OFF TO THE PERFORMERS]
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Yo, Odysseus! Word up, I got something for ya
+Before you step inside that hall and fall a fool's pawn
+Take this herb Moly, keep it close, let it be your shield
+Against Circe's potion, ain't no charm can yield
+
+When she tries to turn ya into some beastly thing
+Just hold this herb up high, you'll see the magic sting
+She'll feel the power shift and you'll emerge victorious
+And all your men? You flip the game, they be human once more
+
+[STAGING: Hermes slips Odysseus the moly and vanishes]
