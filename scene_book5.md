@@ -79,3 +79,25 @@ His fate is sealed, the gods have decreed
 No argument can sway or intervene
 So let it be, Calypso, and set him free
 The sky's will is done, no longer the sea.
+
+### Turn 5 — CALYPSO 🌊
+
+A sea-witch's heart, Odysseus my type
+Sacker of cities from ocean's depths tonight
+He battles with gods in both land and sea
+But never forgets me, his true destiny
+
+City on fire, he stands by my side
+Together we rule, no one can deny
+I grant him the spoils, my love's reward
+The king of Ithaca, he'll be adored
+
+We are predators in our own right
+Bound by passion, a partnership so bright
+He stays with me, it's not just his fate
+Our love's bond cannot be broken nor debated
+
+So let him stay, my heart won't be swayed
+I'll keep him close, he won't leave this wave
+This is our dance, the city-sacker and I
+A love born in battle, destined to never die.
