@@ -101,3 +101,20 @@ So let him stay, my heart won't be swayed
 I'll keep him close, he won't leave this wave
 This is our dance, the city-sacker and I
 A love born in battle, destined to never die.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+City-sacker, sea-witch's mate
+But I must leave, that fate's not mine
+Ithaca calls, can't you see?
+My son, my Penelope need me
+
+A love I forged in fire and smoke
+Now crumbles like a city's choke
+The sea-witch's kiss becomes a snare
+But my home, it whispers "Dare"
+
+I leave with grief, not with cheer
+For the city-sacker's work is near
+A journey home awaits my soul
+To save Ithaca from its doom's toll.
