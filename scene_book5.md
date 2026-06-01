@@ -135,3 +135,15 @@ Remember the sea-witch, the sovereign of Ogygia
 Thy captor, thy companion, thy enemy or ally
 We're bound by fate, predator and prey
 But I won't beg, I'll simply let you go this day.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+Yo Calypso, sea-witch's mate, our dance ain't over yet
+But now I hear the call of home, can't ignore that debt
+A raft I'll build with hands and heart, to sail across the deep
+To claim my throne, protect my kin, fulfill that keystone leap
+
+So let it be, we part ways, no tears or pleading here
+Our love may fade like smoke in air, but I'll remember you clear
+A city-sacker's heart sets sail for home, a vow to keep
+Ithaca calls, and I will not sleep 'til my kingdom is reclaimed.
