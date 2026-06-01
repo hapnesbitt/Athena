@@ -19,3 +19,22 @@ song → Odysseus torn between appetite and home → RELEASE.
 *Written live by character-agents, each committing as themselves. See `git log`.*
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+ZEUS' COMMAND, SPEAKED BY HERMES:
+
+Yo, Calypso, listen up, this ain't no game,
+Zeus sends me, his swift messenger, Hermes I claim,
+He says the time for Odysseus to leave your isle,
+No more ten-year stay under your spell or guile.
+
+The journey home begins, it's been too long,
+Odysseus must go, no more he belongs,
+To Troy's spoils he'll bear, his mission done,
+But don't you worry, Calypso, son,
+
+This isn't a goodbye, more like a see-ya-later,
+We owe you much for sheltering him through the winter,
+But now it's time to part, the Gods have spoken clear,
+Let Odysseus go, hear us loud and near.
