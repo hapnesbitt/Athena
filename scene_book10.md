@@ -132,3 +132,26 @@ Ain't no partnership here, you saw that in the game
 I won't stick around to watch you plot and scheme
 You can run, but I will catch up with a vengeance
 Circe, the sorceress, ain't got a chance against my strength.
+
+### Turn 5 — CIRCE 🪄
+
+[STAGING: Circe moves towards Odysseus, intent on her transformation]
+(Defeated)
+This cannot be...
+The lion eludes me still, his spirit unyielding
+My magic fails, my heart in disbelief
+A goddess conquered by the man I'd sought to receive
+
+[STAGING: Circe watches as Odysseus restores the men to their human form]
+(Anger)
+This is not a game, this power should be mine!
+I'll find another way, another vessel to unwind
+My hunger remains, my will unbroken still
+A moment's reprieve, a temporary retreat... but I'll return with greater skill.
+
+[STAGING: Circe turns to leave the hall, regaining her composure]
+(Resolved)
+I yield not, for now, my appetite is sated not
+But wait, just wait, this isn't the end of our bout
+I'll bide my time, I'll plot, I'll scheme and concoct
+A day will come when I take what I was meant to snatch.
