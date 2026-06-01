@@ -46,3 +46,25 @@ This isn't a prison, it's partnership,
 A bond forged from shared appetite,
 Gods may demand his release, but I fight,
 For what is mine, a city-sacker's wife.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+*Odysseus steps from the shadows, eyes on Calypso*
+
+Yo, Calypso, I hear the Gods decree
+I gotta leave this island, finally set me free
+But look at what we got, ten years in your arms
+A partnership born from cities we disarm
+
+You gave me your love, a sea-witch's embrace
+But Penelope waits for me back in Ithaca
+My son, Telemachus, he needs his father now
+And the appetite that kept me here still holds me down
+
+I tasted the spoils, I sacked the cities' gates
+But what good is it if I lose my home and mates?
+I'm torn, Calypso, between two worlds it seems
+I've lived ten years as your captive but also as your dream
+
+So let me go, but don't forget our time together
+Cause I'll return with spoils to show you and no regrets
