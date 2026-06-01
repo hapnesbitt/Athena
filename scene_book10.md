@@ -30,3 +30,41 @@ She'll feel the power shift and you'll emerge victorious
 And all your men? You flip the game, they be human once more
 
 [STAGING: Hermes slips Odysseus the moly and vanishes]
+
+### Turn 2 — CIRCE 🪄
+
+[STAGING: dancers move among the tables and bring three men up from the tables as the crew]
+
+(Purring, relentless)
+Step closer, gentlemen, to Circe's lair,
+Feel the power swell, a goddess in her lair.
+Mortals kneel, before my spell takes hold,
+A seductress unmatched, a predator untold.
+
+(Don't stop)
+Yea, feel it shift as I command you stand,
+Beasts at my feet, manhoods now in my hand.
+Each one transformed, a testament to my might,
+I'm Circe, the sorceress, in total flight.
+
+(The lion roars)
+But wait, what is this? A man stands tall and proud,
+Immune to my curse, he cannot be subdued.
+Who dares resist my call, defy my will?
+I'll show him the power that I truly spill!
+
+[STAGING: Circe moves towards Odysseus, but nothing happens — she is Overpowered]
+
+(Shocked)
+Impossible! Unthinkable! Can't be true!
+My magic meets its match, and all I can do...
+Is watch as he flips the power, commands my crew
+To turn back into men and follow him anew.
+
+[STAGING: Circe watches as Odysseus restores the men to their human form]
+
+(Resigned)
+The lion evades me tonight, but I won't be denied,
+For every man that escapes, there's another time.
+I yield, not cower, for my hunger remains,
+To see what each one becomes, and hunger still the same.
