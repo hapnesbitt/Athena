@@ -147,3 +147,10 @@ I don't beg nor plead, you're free to choose your fate,
 The journey home or conquest yet unchosen, wait.
 But remember me when you sit upon your throne,
 Odysseus mine, I'll always be your home.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+I hear Calypso's words, her rhythm echoing in my heart,
+But my resolve is made — a raft I'll build and sail apart,
+Ithaca awaits, and with Athena's grace I'll make my way,
+A city-sacker's past behind me, homeward now, I'll stay.
