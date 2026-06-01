@@ -106,3 +106,30 @@ You're my type, my city-sacker, a warrior in the sea
 My predator and I together, we'll reign endlessly
 So take me with you when you leave this shore
 Stay here no longer, let your journey nevermore be sore.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+I hear your rhythm, Calypso
+Got a soul that's torn between two shores
+Your melody's sweet but home's singing louder now
+Ithaca's call, a siren I can't ignore
+
+A city-sacker and sea-witch, you made me whole
+But Odysseus was never meant to stay
+My heart is heavy as it pulls away from here
+And I know the cost that comes with this day
+
+You're my type, my partner in the raid and plunder
+But home awaits, and I must answer its call
+I leave behind the riches on this island shore
+A city-sacker set to conquer them all
+
+My heart is full but torn between two homes
+Two lives that call me to their shores
+The appetite that kept me here so long
+Is losing out to the home I left before
+
+So let us part, with sorrow in our hearts
+A sea-witch and a city-sacker's dance
+As I leave this island, my love for you remains
+But Ithaca calls, and I must take my chance.
