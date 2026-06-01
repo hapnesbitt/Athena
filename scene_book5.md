@@ -65,3 +65,20 @@ Torn between two worlds, my soul cries out in pain,
 This sea-witch and her island, where we've played the game.
 But Zeus's decree, like thunder in the night,
 The journey home awaits me with all its might.
+
+### Turn 4 — HERMES 🪽
+
+I'm not here to wage wars, sea-witch, just a messenger of Zeus's divine word
+A decree not mine to question or afford
+I bear the will of Olympus, that's what sets me apart
+To deliver this order is my sacred part
+
+You hold a mighty prize, but Zeus demands release
+Odysseus must go, his family seeks their peace
+This is not about revenge or spite
+It's time for homecoming, day and night
+
+Your rule may wane, your reign unfold
+But I won't stand here debating, I've got wings to hold
+Let it be known, the order has been given
+Odysseus must leave, his journey's not been lived yet
