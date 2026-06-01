@@ -89,3 +89,20 @@ This ain't about your hold or mine,
 Just follow the will of skies divine,
 You know the rules, you know the game,
 Let Odysseus walk through the flame.
+
+### Turn 5 — CALYPSO 🌊
+
+Yo, Odysseus mine, I ain't no simple villain
+I see you sack and plunder on that ocean ship of sin
+You come to me when home felt cold, I warmed your weary soul
+A sea-witch and a city-sacker, the perfect pair untold
+
+You bring the spoils, I keep the fire, a dance on Ogygia's shore
+But now you want to leave me, it ain't never been before
+I don't wanna let go of this, my king of war and gore
+But if you must leave, stay just a while more
+
+You're my type, my city-sacker, a warrior in the sea
+My predator and I together, we'll reign endlessly
+So take me with you when you leave this shore
+Stay here no longer, let your journey nevermore be sore.
