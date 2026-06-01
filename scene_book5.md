@@ -145,3 +145,22 @@ I'm not just a prize to be moved like pawn on Gods' chessboard,
 No more the slave to appetite or Calypso's enchanting charm.
 This city-sacker sets his course, for Ithaca he'll chart,
 A journey homeward where love and duty hold their heart.
+
+### Turn 9 — NARRATOR 📜
+
+THE SCENE — CLOSE
+
+Anchors cast, raft afloat upon the waves that roll and roar,
+The city-sacker's journey homeward now embarks with force.
+Calypso's song still lingers in his heart, a symphony of yearning deep,
+But Zeus's decree is honored at last, as Odysseus sets his ship to sail and weep.
+
+Athena whispers through the breeze, a voice that guides and strengthens,
+With courage in his spirit and a will unbent, the city-sacker knows it's time to wrench
+himself free from Calypso's grip and set upon the path that leads him home.
+A song of exile now replaces Calypso's number, as Odysseus' journey takes its toll.
+
+No more the predator meets the predator, but the long-lost hero returns to fight
+against Fate, against the Gods, and for his family's sake. In the wake of his departure lies
+a silence that echoes through the land, as Calypso is left alone, her heart filled with pain,
+and the city-sacker, once Odysseus, sails into the sea, a man reborn once more again.
