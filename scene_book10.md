@@ -106,3 +106,29 @@ Don't stop, don't back down, my power is unmatched!
 Each man I turn will tremble before my wrath!
 The game may have changed, but I won't retreat,
 I'm Circe the sorceress, and this isn't defeat.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Circe's potion washes over Odysseus and nothing happens; he steps forward unbroken]
+
+Yo, Circe, you see me stand, immune to your trance
+Got my Moly tight, ain't none can tame this dance
+You thought I'd be a simpleton, easy prey
+But look at the lion now, basking in his sway
+
+I been a king before, a conqueror of men
+But what you see before ya is more than that again
+My name rings loud, I command and I control
+Odysseus, the sacker, won't be played like a pawn
+
+Now it's your turn to see what my power brings
+You turn my crew into beasts, but watch them sing
+As they fall back to me, no longer beasts of prey
+They are men, free, and ready for the fray
+
+[STAGING: Odysseus turns Circe's crew back into men]
+
+Ain't no partnership here, you saw that in the game
+I won't stick around to watch you plot and scheme
+You can run, but I will catch up with a vengeance
+Circe, the sorceress, ain't got a chance against my strength.
