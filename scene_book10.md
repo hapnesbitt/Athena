@@ -180,3 +180,21 @@ At your own defeat, a power-flip that you can't bear
 I got what it takes, Odysseus is back in the lair
 
 [STAGING: Odysseus raises his fist and exits, leaving Circe behind]
+
+### Turn 7 — CIRCE 🪄
+
+[STAGING: Circe's hands tremble, a battle of wills etched across her face]
+
+(Sighing)
+I relinquish my hold, the men stand tall once more
+A goddess' pride, shattered like glass upon the floor
+My hunger remains, but I won't show a frown
+A moment's grace, then we shall see who wins this crown
+
+[STAGING: one by one the beasts rise onto two legs, men again, blinking in the light]
+
+(Shaking her head)
+I yield, you have conquered my power tonight
+But I promise you, it will not always be so bright
+My appetite is strong, and vengeance burns my soul
+The day will come when Circe reclaims her control.
