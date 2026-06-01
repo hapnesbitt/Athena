@@ -27,3 +27,22 @@ Hermes landed with a thunderous boom, his wings a blaze of golden light. Calypso
 "Odysseus, the King of Ithaca," he rapped, eyes locked onto the sea-witch's home. "Zeus speaks: Release him now, for he must journey home." His voice was brisk, official, a little wry.
 
 With that, Hermes took flight once more, his message delivered, his work done. The journey home had begun.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso, regal and wounded, responded with a fierce cadence:
+
+Gods speak with grandeur, then forget,
+The victories they claim as their debt.
+Odysseus gave us his all on the field,
+A tribute to Zeus and his will.
+
+Now he's trapped in my island home,
+A prisoner of war, yet we are not alone.
+He sacks cities, I rule this sea,
+Predator meets predator, can't you see?
+
+This isn't a prison, it's partnership,
+A bond forged from shared appetite,
+Gods may demand his release, but I fight,
+For what is mine, a city-sacker's wife.
