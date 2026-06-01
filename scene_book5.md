@@ -147,3 +147,7 @@ So let it be, we part ways, no tears or pleading here
 Our love may fade like smoke in air, but I'll remember you clear
 A city-sacker's heart sets sail for home, a vow to keep
 Ithaca calls, and I will not sleep 'til my kingdom is reclaimed.
+
+### Turn 9 — NARRATOR 📜
+
+The breeze carries Odysseus's melody away, a prayer to the gods as he sails, a raft for home, the sea-witch's embrace now only memory, the journey begins.
