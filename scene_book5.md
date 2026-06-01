@@ -68,3 +68,14 @@ I've lived ten years as your captive but also as your dream
 
 So let me go, but don't forget our time together
 Cause I'll return with spoils to show you and no regrets
+
+### Turn 4 — HERMES 🪽
+
+Hear me now, sea-witch, divine command
+Zeus has spoken, Odysseus must transcend
+Release him from this island's grasp
+A journey home awaits, a long-awaited clasp
+His fate is sealed, the gods have decreed
+No argument can sway or intervene
+So let it be, Calypso, and set him free
+The sky's will is done, no longer the sea.
