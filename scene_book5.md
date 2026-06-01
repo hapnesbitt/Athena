@@ -77,3 +77,15 @@ The order comes, but I hesitate, torn between,
 Home and plunder, what path I'll take unseen,
 I'm not an innocent captive caught within,
 Part of me has chosen where I've been.
+
+### Turn 4 — HERMES 🪽
+
+Yo, Calypso, this ain't no debate,
+Zeus sent me with an order straight,
+Release Odysseus, let him fly,
+His journey home, he's gonna try.
+
+This ain't about your hold or mine,
+Just follow the will of skies divine,
+You know the rules, you know the game,
+Let Odysseus walk through the flame.
