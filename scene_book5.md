@@ -128,3 +128,20 @@ But you must go, my sovereign decree,
 The Gods cannot hold you captive like me.
 Take flight and let your fate unfold,
 Your future is not mine, Odysseus, the city-sacker bold.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+I'll build that raft, no doubt, this voyage ain't about defeat,
+The city-sacker finds his strength and steers for home so sweet.
+A decade lost at sea, my heart yearns for thee,
+Ithaca and Penelope, our bond I'll always keep.
+
+Telemachus awaits his father, a son who needs his hand,
+And as I sail to Ithaca, I'll make this plunder grand.
+The Gods may call me back to war or wreak their wrath,
+But with my family close, there's nothing stronger than that.
+
+I'm not just a prize to be moved like pawn on Gods' chessboard,
+No more the slave to appetite or Calypso's enchanting charm.
+This city-sacker sets his course, for Ithaca he'll chart,
+A journey homeward where love and duty hold their heart.
