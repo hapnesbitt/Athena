@@ -31,3 +31,20 @@ Odysseus is ordered free, his journey home begins anew,
 No more will he reside in this tranquil place, by Calypso's rule and hue,
 His ten-year stay on Ogygia ends, for Zeus demands a swift recall,
 So hear the words that echo off the walls, Odysseus is under your fall.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso, sovereign of this mystic shore, steps forth with regal grace,
+Her voice a melody that echoes through this tranquil space,
+She speaks her truth, her heart on fire with passion fierce and raw,
+"Odysseus is mine, a partner by the sea, a prize to guard, not war."
+
+"The gods who cry for justice, who demand his return so quick,
+Are hypocrites, I say, who hold their own deceit in high trick.
+They sang of victory, they danced around the spoils,
+But when it's time to pay, their hands are filled with oils."
+
+"I've given him shelter from the wrath of Poseidon's mighty hand,
+A sanctuary where he could rest and plot his next grand plan.
+He's more than just a prize to be taken by some fickle God,
+A partner in this sea-bound life, the price I paid was not gold."
