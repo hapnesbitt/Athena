@@ -154,3 +154,8 @@ I hear Calypso's words, her rhythm echoing in my heart,
 But my resolve is made — a raft I'll build and sail apart,
 Ithaca awaits, and with Athena's grace I'll make my way,
 A city-sacker's past behind me, homeward now, I'll stay.
+
+### Turn 9 — NARRATOR 📜
+
+THE RAFT IS LAUNCHED, A WAVE CRASHES NEAR —
+THE VOICE OF ODYSSEUS FADING TO DISTANCE.
