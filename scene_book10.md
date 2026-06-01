@@ -198,3 +198,17 @@ I yield, you have conquered my power tonight
 But I promise you, it will not always be so bright
 My appetite is strong, and vengeance burns my soul
 The day will come when Circe reclaims her control.
+
+### Turn 8 — NARRATOR 📜
+
+---
+### Turn 8 — NARRATOR 📜
+
+[STAGING: Odysseus leads his restored crew, marching anon for the ships]
+The men, reclaimed, follow the lion's bold lead.
+No linger here Circe will bide in her stead.
+No time to tarry, they leave with a stealthy speed.
+
+[STAGING: The crowd roars as the crew and Odysseus depart]
+And so ends the night in Circe's hall —
+A power-flip and rescue, triumph over all.
