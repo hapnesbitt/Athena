@@ -111,3 +111,20 @@ Yet, Calypso's song rings clear, the melody sweet,
 A memory of our bond, ten years we couldn't meet.
 But Ithaca calls, with sorrow, not with glee,
 The sea-witch and her island, they'll have to let me be.
+
+### Turn 7 — CALYPSO 🌊
+
+I've given him shelter from the wrath of Poseidon's mighty hand,
+A sanctuary where he could rest and plot his next grand plan.
+But now his journey home must start anew, a son and wife await.
+My heart is heavy but it cannot be deferred. So let it be.
+
+Yo, Odysseus, city-sacker in the sea,
+Ten years on Ogygia, a symbiotic decree.
+But home now calls with Penelope's song,
+My type's a hunter, and my heart's the prey it seeks to know.
+
+But you must go, my sovereign decree,
+The Gods cannot hold you captive like me.
+Take flight and let your fate unfold,
+Your future is not mine, Odysseus, the city-sacker bold.
