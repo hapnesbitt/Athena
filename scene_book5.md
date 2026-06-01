@@ -38,3 +38,25 @@ This isn't a goodbye, more like a see-ya-later,
 We owe you much for sheltering him through the winter,
 But now it's time to part, the Gods have spoken clear,
 Let Odysseus go, hear us loud and near.
+
+### Turn 2 — CALYPSO 🌊
+
+Yo, Hermes, you messenger quick as light,
+Carrying orders for Odysseus tonight?
+But wait, let me set the record straight,
+Odysseus mine, a partnership great.
+
+I'm not some prisoner of your gods above,
+Keeping him here just to serve their love,
+He sought me out, I didn't drag him near,
+A sea-witch and a city-sacker clear.
+
+You Gods, you're all the same, playing games,
+Mortals suffer while you play your aimless fame,
+But Odysseus found his home on Ogygia's shore,
+He didn't want to leave, you ignored that before.
+
+Zeus gave orders once before, of sacrifice and war,
+He cheered for victory then, but now he wants to ignore,
+The partnership we had, the alliance strong,
+But I won't let him go, not so easily gone.
