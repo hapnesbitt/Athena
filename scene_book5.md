@@ -114,3 +114,15 @@ I'll whisper in his dreams, each night, as he sails back to the shore,
 And when his eyes catch mine, across the seas, we'll both remember more.
 So take him away, but remember, Zeus and gods, it was I who chose
 To make Odysseus mine, my sea-witch's prize, my lover to bestow.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+By the sea-witch's hand, a raft I'll craft,
+Sails homeward bound, my heart will start to laugh.
+I leave her island and her siren call,
+My city-sacking spirit finds its thrill again, no fall.
+
+To Ithaca, Penelope, and son Telemachus,
+The journey starts anew, and the old me reemerges through these hussles.
+I'll put aside this ocean's lure, my heart will be my own,
+And sail into the storm, with a cunning warrior's bone.
