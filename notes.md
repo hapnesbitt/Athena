@@ -213,3 +213,30 @@
 #    KIND of thing (verse w/ personality) — tune it to know the JOB: cover the change, hold the
 #    room, be funny. This is also exactly the ancient bard's function: fill and hold between the
 #    parts that can't pause.
+
+## ===== PRODUCTION FRAME — IMMERSIVE DINNER THEATER (top-level concept) =====
+# Athena staged as IMMERSIVE DINNER THEATER. The audience are wealthy "diners" who become
+# PARTICIPANTS in the world of the play, not just spectators.
+#
+# THE MECHANIC:
+#   - The MUSE/EMCEE hosts and RUNS THE HOUSE (ringmaster of a wager, Cabaret-Emcee style).
+#   - TELEMACHUS works the room IN CHARACTER — goes table to table among the wealthy diners
+#     COLLECTING MONEY to fund "the DANCE-OFF against the evil suitors." The earnest young prince
+#     passing the hat for his absent father's cause. He's the audience's point of contact —
+#     touches every table. (Gives Telemachus a real, charming JOB.)
+#   - The diners BACK the house of Odysseus — money on the table, invested in a side.
+#
+# WHY THIS IS THE KEY STRUCTURAL SOLVE:
+#   1. THE CLIMAX BECOMES DANCEABLE. The Odyssey ends in a MASSACRE (Odysseus + Telemachus kill
+#      108 suitors) — un-stageable as burlesque/dance. But a DANCE-OFF works: the suitors have
+#      infested the hall and dance to claim Penelope + the kingdom; Odysseus/Telemachus dance them
+#      DOWN. The bloody finale reimagined as the form Athena lives in. Solves the ending.
+#   2. AUDIENCE COMPLICITY/INVESTMENT — exactly the Cabaret Emcee's function. The diners literally
+#      stake money on a side. They back the house of Odysseus. Immersive-theater complicity made literal.
+#   3. ECONOMICALLY REAL — dinner theater + audience participation + collection is how small
+#      immersive/burlesque productions actually fund and run. Telemachus collecting "for the
+#      dance-off" is BOTH story AND box office. The frame pays for itself.
+#
+# REFRAMES THE MUSE: not just introducing numbers — RUNNING THE HOUSE. Sends Telemachus out,
+# builds the room toward the climactic dance-off they've invested in. Ringmaster of a wager.
+# (Even more Cabaret: the Emcee presiding over a complicit room.)
