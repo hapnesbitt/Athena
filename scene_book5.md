@@ -118,3 +118,20 @@ I leave with grief, not with cheer
 For the city-sacker's work is near
 A journey home awaits my soul
 To save Ithaca from its doom's toll.
+
+### Turn 7 — CALYPSO 🌊
+
+So be it, Odysseus, your journey shall commence
+The sea-witch's love was a force that held you in tense
+But I have no need for tears or pleading now
+I grant you the gift of freedom, to return and conquer town
+
+My heart may ache but my pride remains unbroken
+The city-sacker sails again, and so isoken
+Take what you've earned, my love, my spoils and treasure
+You'll see this parting as a victory not despair
+
+Remember the sea-witch, the sovereign of Ogygia
+Thy captor, thy companion, thy enemy or ally
+We're bound by fate, predator and prey
+But I won't beg, I'll simply let you go this day.
