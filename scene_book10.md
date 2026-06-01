@@ -155,3 +155,28 @@ I yield not, for now, my appetite is sated not
 But wait, just wait, this isn't the end of our bout
 I'll bide my time, I'll plot, I'll scheme and concoct
 A day will come when I take what I was meant to snatch.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus raises the moly]
+
+Yo, Circe, I've got what you ain't, a secret antidote
+I'm here to set my crew free, your spell is about
+To crack and crumble 'fore this night is through
+I won't be caged in your realm, it's time they break through
+
+[STAGING: Odysseus moves towards Circe]
+
+With each step I take, the power grows within
+Your hold on them weakens, their spirits start to win
+They shudder and twitch, a new form starts to show
+The beast inside begins to fade, no longer on display
+
+[STAGING: Odysseus's crew transform back into men]
+
+By Zeus, I done it! A clean triumph for the books
+You won't conquer my men again, it's time you look
+At your own defeat, a power-flip that you can't bear
+I got what it takes, Odysseus is back in the lair
+
+[STAGING: Odysseus raises his fist and exits, leaving Circe behind]
