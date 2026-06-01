@@ -82,3 +82,20 @@ Your rule may wane, your reign unfold
 But I won't stand here debating, I've got wings to hold
 Let it be known, the order has been given
 Odysseus must leave, his journey's not been lived yet
+
+### Turn 5 — CALYPSO 🌊
+
+Yo, Calypso's here, and this my type,
+City-sacker on the ocean, a man of might,
+Sailor and conqueror, a predator in disguise,
+On Ogygia's shores you find your prize.
+
+Golden helmeted, shield on your arm,
+Strong as Zeus, fearless like Poseidon, charm,
+The city-sacker, I can't let him go,
+My type's a hunter, and my heart's the prey it seeks to know.
+
+This is where we danced in shadows deep,
+Ten years entwined, we wove a secret keep,
+No mortal knows our bond, no God has ever seen,
+Odysseus, you're my type, this is our dream.
