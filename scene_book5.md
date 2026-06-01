@@ -36,3 +36,18 @@ But the sea-witch is defiant, her eyes glinting with ire and pride
 Her heart beats like an anvil, and she will not give Odysseus up so easy
 For he is her type, a predator, who's conquered seas and cities wide
 And though it may be murky, their union's strength cannot deny.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+In the heart of Calypso's lair, the sea-witch's voice rings out
+Odysseus stands, listening hard, his gut in knots
+The offer echoes through the cavern air, his home beckons near
+Yet here he is, a sacker of cities, with spoils he holds dear
+
+Ten years on this island, his heart has been tamed
+By Calypso's siren song, he felt no shame
+But now Zeus calls, with words that wound and burn
+Ithaca whispers to him through the storm, yearning to return
+
+Odysseus's spirit battles inside, the choice hangs in the balance
+A predator meets his match, a dance for supremacy in Calypso's palace
