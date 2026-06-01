@@ -60,3 +60,20 @@ Zeus gave orders once before, of sacrifice and war,
 He cheered for victory then, but now he wants to ignore,
 The partnership we had, the alliance strong,
 But I won't let him go, not so easily gone.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+My heart beats quick as Hermes' winged feet,
+A call from home, but plunder's sweet retreat,
+Ten years here, and riches to my name,
+But Ithaca, she sings my homeland's fame.
+
+Yet here on Calypso's isle, her charm runs deep,
+I chose this life of predator and prey,
+This sea-witch, a partner in the raid,
+My soul still wrestles with its will to stray.
+
+The order comes, but I hesitate, torn between,
+Home and plunder, what path I'll take unseen,
+I'm not an innocent captive caught within,
+Part of me has chosen where I've been.
