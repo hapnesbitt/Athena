@@ -85,3 +85,20 @@ Calypso won't give him up so easy,
 Got a heart like ocean's swelling seas,
 The dance between predator and prey,
 A dance to remember, come what may.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+A siren's call, in Calypso's lyrics, I feel it
+Ithaca whispers louder now, I can hardly breathe
+Ten years a captive, yet part of me chose this fate
+Now, the home I left behind, demands a recompense
+
+A city-sacker by trade, but a father first and foremost
+My heart is torn, caught between two distant shores
+The spoils that held me here, now feel like chains
+I'll leave with you Calypso, but this doesn't mean I remain
+
+My son Telemachus, my wife Penelope
+Their love and life are all I have left to protect
+I leave with heavy heart, a warrior torn apart
+A dance between predator and prey, drawing to its close
