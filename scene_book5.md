@@ -102,3 +102,15 @@ My son Telemachus, my wife Penelope
 Their love and life are all I have left to protect
 I leave with heavy heart, a warrior torn apart
 A dance between predator and prey, drawing to its close
+
+### Turn 7 — CALYPSO 🌊
+
+You see, Hermes, my power over him is not a cage, but a dance we shared,
+In the waters where gods dare not tread, where mortals find despair.
+But I'll release him now, on one condition — let this be known:
+His heart will always carry me, like a secret, never shown.
+
+I'll whisper in his dreams, each night, as he sails back to the shore,
+And when his eyes catch mine, across the seas, we'll both remember more.
+So take him away, but remember, Zeus and gods, it was I who chose
+To make Odysseus mine, my sea-witch's prize, my lover to bestow.
