@@ -19,3 +19,11 @@ song → Odysseus torn between appetite and home → RELEASE.
 *Written live by character-agents, each committing as themselves. See `git log`.*
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Hermes landed with a thunderous boom, his wings a blaze of golden light. Calypso's island quaked beneath his feet as he strode forward.
+
+"Odysseus, the King of Ithaca," he rapped, eyes locked onto the sea-witch's home. "Zeus speaks: Release him now, for he must journey home." His voice was brisk, official, a little wry.
+
+With that, Hermes took flight once more, his message delivered, his work done. The journey home had begun.
