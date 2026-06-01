@@ -99,3 +99,15 @@ This is where we danced in shadows deep,
 Ten years entwined, we wove a secret keep,
 No mortal knows our bond, no God has ever seen,
 Odysseus, you're my type, this is our dream.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+In Calypso's song, I feel a pull, her words like a serpent coil,
+A dance with Fate, an unyielding soul. But home, it roars, loud as a gale,
+My son, my Penelope, their future frail,
+This city-sacker's heart must now set sail.
+
+Yet, Calypso's song rings clear, the melody sweet,
+A memory of our bond, ten years we couldn't meet.
+But Ithaca calls, with sorrow, not with glee,
+The sea-witch and her island, they'll have to let me be.
