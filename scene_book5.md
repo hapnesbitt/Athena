@@ -45,3 +45,20 @@ But where was Zeus when I bore him this one? No where was he found!"
 
 Calypso's voice echoed through the chamber, an anthem of pride,
 A call for respect from a Goddess who had borne the stride.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+I paced within Calypso's grotto, heart in a tangle of woe,
+The echoes of Hermes' decree like daggers that pierced my soul.
+Ten years on this island, feasting and frolicking, the spoils
+Of war were mine, yet the call to Ithaca sent a thousand chills.
+
+A nymph's embrace or the love of Penelope, which should weigh heavy?
+The siren song of plunder or the sweetest sonnet of home's decree?
+I stared out into the sea, a struggle within my very core,
+A conflict between hunger and heart that I felt to my marrow.
+
+A Goddess' gift, this paradise, yet shackled by Zeus' command,
+To leave and reclaim what was mine, a choice so cruel and grand.
+I stood in the twilight of Calypso's lair, her beauty both taunt and lure,
+Caught betwixt two worlds, two desires that forever shall endure.
