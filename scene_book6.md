@@ -83,3 +83,15 @@ But I was more than just a warrior, beneath the pain, a fire burned
 The will to live, the hunger for a fight, it wasn't born but learned
 So here I am, still standing tall, a story yet to be unfurled
 I survived, now watch me conquer all, the storm is only a swirl.
+
+### Turn 5 — NAUSICAA 🌸
+
+[STAGING: Nausicaa points towards the palace lights and steps back into the shadows]
+
+NAUSICAA:
+There you'll find Queen Arete, the heart of our land.
+She holds the power, she commands the plan.
+I've guided you as far as I should,
+Now go, show them who you are, it's understood.
+
+[STAGING: dancers bring Odysseus up from the floor and into the palace, leaving Nausicaa in the shadows]
