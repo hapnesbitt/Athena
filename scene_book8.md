@@ -78,3 +78,19 @@ Its gonna take more than tears to bring me home tonight...
 Odysseus (with resolve):
 Gotta face these suitors, put them in their place
 But first, I'll listen to this bard, let him paint my fate...
+
+### Turn 3 — ALCINOUS 🏛️
+
+[STAGING: Alcinous raises his hand gently; the music stops.]
+
+Alcinous: A moment, my good Demodocus. This stranger weeps with every strum.
+I sense a tale as old as time, and I'm eager for its rhythm.
+Let's pause this ballad of Troy, 'cause right here in our midst,
+Lies a man who bears the weight of ten years' worth of battles.
+
+[STAGING: Alcinous gestures to Odysseus; his seat at the table becomes an open mic.]
+
+Alcinous: Friend, we've dined and listened to the tales of old,
+Now let your voice echo through this Phaeacian hold.
+The audience is yours tonight — speak of your deeds and plight,
+And may the gods grant you solace in our presence tonight.
