@@ -92,3 +92,31 @@ Don't stop, no breaks, no pauses, no room for delay
 I may have lost this battle, but next time I'll take your place
 Odysseus you've seen my might, now fear my wrath and fight
 In the underworld we'll meet again, when all our stories write.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Circe's potion washes over Odysseus and nothing happens; he steps forward unbroken]
+
+Circe's charm, a charade I decipher
+My heart uncaptured by her spell, no shiver
+No bestial form to be my shadow
+I stand, unchained from the witch's power.
+
+This Odysseus reigns, king of this realm
+A city-stormer, fierce and keen
+Enough of games, transform your men
+Or watch them fall before my team.
+
+[STAGING: dancers bring three men up from the tables as the crew]
+
+Their souls yearn for my command, destiny unveiled
+I'll breathe life back into their veins, their stories untold
+No more beasts to haunt your domain
+Tonight they're mine, and you'll see them again.
+
+[STAGING: the crew transforms back into men]
+
+This night is mine, a victory declared
+The game ended, Circe, I leave you in despair
+You sought my downfall, but tonight was a trial
+I pass with honor, that much I compel.
