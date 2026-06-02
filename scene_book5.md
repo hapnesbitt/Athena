@@ -86,3 +86,14 @@ Go carve your path on salt and fury, taste the mortal pain,
 But know the witch still watches, through the sun and the rain.
 Take what you crave, my prize, and carry it far,
 For even freedom has its cost beneath an Ogygia star.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+The gold will rust, the phantom weight is real.
+This island’s sweetness is a wound I cannot heal.
+I trade the sunlit cage for shadow’s bitter call,
+For Ithaca’s ruin is the only prize of all.
+Let the waves claim the plunder, let the salt burn my skin,
+For where the true fire burns, that is where I begin.
+I sail not for pleasure, but for the place I must claim,
+To drag the broken ship back to my rightful name.
