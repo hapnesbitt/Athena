@@ -141,3 +141,17 @@ I must regroup and rise again, reclaim my dominion,
 My realm will tremble with the sound of my ambition.
 No man will stand against me, no beast shall break my chain,
 Odysseus, you've tasted the wrath I'm yet to wield again.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+ODYSSEUS
+
+[STAGING: Odysseus raises the moly; Circe's spell cracks; the beasts shudder]
+
+No more charms, Circe. This moly ends your deceit,
+My crew restored, no more to your allure I'll meet.
+Transform them back or face my wrath, unleashed and raw,
+The city-sacker strikes, your reign now crumbles, torn asunder.
+
+Circe's realm quakes, her power falters, fades away,
+My true might steps over the chasms of this war-torn day.
