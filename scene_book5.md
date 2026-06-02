@@ -22,3 +22,12 @@ Calypso, hear the mandate from Olympus’ reign:
 The tether snaps. The long wait is done.
 Odysseus, the voyage home is the new score.
 Release him now. The journey starts on the shore.
+
+### Turn 2 — CALYPSO 🌊
+
+The tether is gold, Hermes, and the sea
+Knows no chains for what our spirits decree.
+You speak of home, a shore I cannot touch,
+But Ogygia waits, and I have loved too much.
+You think a decree can break what fate has spun?
+He is mine, the prize beneath the sun.
