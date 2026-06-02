@@ -120,3 +120,24 @@ This night is mine, a victory declared
 The game ended, Circe, I leave you in despair
 You sought my downfall, but tonight was a trial
 I pass with honor, that much I compel.
+
+### Turn 5 — CIRCE 🪄
+
+CIRCE
+
+This lion's den I thought was mine, now shaken and unraveled,
+A fury born of power lost, a new reality unveiled.
+The one who'd dance with beasts and roars, now stands before me tall,
+Defying my enchantments, the battle's course forever stalled.
+[STAGING: Circe moves back, the lion's presence radiates]
+
+With every beat, I feel the fire in my soul, ignited by the rage,
+A storm brewing within me, a tempest I can no longer cage.
+This city-sacker, this legend, has left me standing here,
+A sorceress, bested, a power unclear.
+[STAGING: dancers move among the men on the floor]
+
+I must regroup and rise again, reclaim my dominion,
+My realm will tremble with the sound of my ambition.
+No man will stand against me, no beast shall break my chain,
+Odysseus, you've tasted the wrath I'm yet to wield again.
