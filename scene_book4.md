@@ -40,3 +40,15 @@ This song's a torch, it lights my path ahead,
 Rihanna's "Rude Boy," I wear its thread.
 I'll bring my father back, or die trying,
 For the legacy of Odysseus won't be denied.
+
+### Turn 2 — HELEN ✨
+
+[STAGING: Helen studies Telemachus's face, then smiles — she knows exactly who he is]
+
+ATHENA:
+Yo, I see him. Odysseus in his flesh and blood,
+His legacy alive through his firstborn son.
+The gods may play their games, but not today,
+I recognize the strength that's in this boy.
+This isn't pity or remorse I wear,
+Just truth — it's Telemachus I see right there.
