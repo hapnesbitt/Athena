@@ -187,3 +187,15 @@ Stranger, your heart is heavy with years of pain.
 Tell us your story. The weeping confirms it. Ask him directly —
 tell us everything. We will listen all night. In the Phaeacian court,
 there's no shame in sharing the burdens of war. Speak, and let your tale unfold.
+
+### Turn 7 — NARRATOR 📜
+
+NARRATOR'S LINES (Book VIII)
+
+I AM ODYSSEUS, and this is what happened to me.
+Odysseus lowers his cloak; he takes a breath.
+The Phaeacian court watches, entranced.
+A hush settles upon the room.
+The bard remains silent.
+
+[STAGING: Odysseus begins]
