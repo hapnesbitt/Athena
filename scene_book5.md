@@ -12,3 +12,13 @@ Saweetie's got the right idea when she sings "My Type." Odysseus, the master sac
 So grab your wine, settle in, and prepare to witness the turning point in our immersive retelling of Homer's epic saga, as Athena works her magic, and the journey home finally begins. But remember, this island is not a prison - it's a place where partnerships are forged, and sacrifices are made. Let the games begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+With a gust of wind that stirs the night, I descend,
+Hermes, Zeus's swift emissary, on bended knee I bend,
+"Odysseus must leave, Zeus commands the journey start anew,
+Calypso, release your captive, his home awaits him true."
+
+I take flight with words that sting, a messenger's winged mission done,
+The dance of gods continues, under Calypso's island sun.
