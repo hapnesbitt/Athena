@@ -82,3 +82,19 @@ Get ready to ride the wave of my homecoming run.
 [STAGING: Alcinous stands and speaks to the whole court — we carry him home.]
 
 "Stranger, by the Gods, you have earned more than our hospitality. We will honor your name. Our finest ship shall carry you home, to Ithaca. Let it be known across the land that the Phaeacians kept their word and welcomed a hero among us."
+
+### Turn 6 — NARRATOR 📜
+
+[STAGING: The lights dim and spotlight on Odysseus as he bows his head, a smile tugging at the edges of his mouth.]
+
+The crowd hushed, as if held captive by a spell.
+Odysseus, king and warrior, made manifest once more.
+No longer trapped within his tales, he claimed his birthright's bell.
+A hero stood before them now, as Phaeacians swore their lore.
+
+[STAGING: The crew brings forth a torch, igniting the darkness, casting a golden glow upon Odysseus.]
+
+As the flame flickered and danced, the crowd in silent thrall,
+The weight of destiny now lay upon the Phaeacians' call.
+To Ithaca they would bear him, his journey not yet small,
+But one step closer to a king who was long absent from his hall.
