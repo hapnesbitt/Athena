@@ -21,3 +21,20 @@ The countless ships before him, a reminder of my power on the deep.
 The waves rise high, cold and implacable, as Odysseus struggles to stay afloat.
 But even as he succumbs, I do not grieve or weep—for I am the sea,
 And every wave that breaks against his raft is but a signature upon his soul.
+
+### Turn 2 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus alone in blue light, swimming, the dancers as waves around him]
+
+Odysseus:
+Fighting the tide like a dog with its throat caught,
+Cold and weary, but still kicking. Got a prayer up to Ino,
+Graced with her veil, a beacon in this dark.
+Siren's call echoes, my heart says surrender,
+But I keep swimming, 'cause I ain't done yet.
+I got Ithaca calling and I can feel it near,
+Got Penelope waiting, a home to reclaim.
+This water is bitter, but I've faced worse before.
+So I push on, through the pain, won't give up this fight.
+Ain't about heroics, just about surviving,
+And I ain't never been one to back down.
