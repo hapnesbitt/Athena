@@ -22,3 +22,20 @@ Calypso, release your captive, his home awaits him true."
 
 I take flight with words that sting, a messenger's winged mission done,
 The dance of gods continues, under Calypso's island sun.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso, the sea-witch sovereign, scoffs with haughty grace,
+A twisted smile graces her lips as she gazes at Hermes' face,
+She speaks with a hiss that could freeze the Aegean breeze,
+"Dismissed, impudent messenger, by Zeus' decree? I disagree!"
+
+Her voice rings out like the echo of thunderous waves,
+As Calypso's eyes gleam like the emerald jewels she saves,
+"Odysseus, my type, is no mere plaything for gods to toy,
+I will not release him, not yet, or else suffer the boy."
+
+With a sinister laugh that echoes through Calypso's realm,
+She vows to keep her prize, and make those gods pay their dues,
+In this game of cat-and-mouse, it seems Calypso will prove true,
+A predator as cunning as any who have come before.
