@@ -47,3 +47,48 @@ Let the game begin, let us see what they become,
 Circe's realm is where they're doomed.
 The lion lies within him, I'll force it to shine bright,
 But first, my crew must transform through this mystic night.
+
+### Turn 3 — CIRCE 🪄
+
+CIRCE
+
+Step inside my den, let me see what I got here
+Men of all shapes and forms, no need to fear
+I'm the mistress of this art, this is my turf, my court
+Transform 'em one by one, unclause, don't abort
+[STAGING: dancers bring three men up from the tables as the crew]
+
+Don't stop, no breaks, no pauses, no room for delay
+Got a beast in each one, watch me make them prey
+Turn 'em into wolves, lions, bears, all mine to claim
+Each man is under my command, no more remains
+[STAGING: one by one the pulled-up men drop to all fours, transformed into beasts]
+
+But there's a special prize, a king with a lion inside
+I can feel it in his eyes, he's gonna be my guide
+Odysseus, I've been waiting for this moment, long and hard
+This lion's heart, I'll pull it out, like a card
+[STAGING: Circe moves towards Odysseus]
+
+Here's the potion, drink it down, don't even frown
+I know you want to fight, but it's futile now
+You'll be mine, no question, bow and bend
+With this lion at my side, I will command
+[STAGING: Circe offers Odysseus the potion]
+
+But something strange is happening here tonight
+Odysseus remains upright, he won't take a bite
+This lion inside him, it doesn't want to come out
+I feel a sudden surge of power, getting shaken about
+[STAGING: Circe recoils as Odysseus forces her to transform the crew back into men]
+
+I can't hold him, I'm overwhelmed, this is a first
+Odysseus, you've bested me, and I have to admit
+You're the city-sacker, the legend that won't bend
+This defeat won't break me, but it will send a warning
+[STAGING: the men revert back to their human forms]
+
+Don't stop, no breaks, no pauses, no room for delay
+I may have lost this battle, but next time I'll take your place
+Odysseus you've seen my might, now fear my wrath and fight
+In the underworld we'll meet again, when all our stories write.
