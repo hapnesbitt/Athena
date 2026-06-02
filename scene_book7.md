@@ -76,3 +76,9 @@ Now listen up, Phaeacians, 'cause I've got more to tell,
 Of battles fought and won, of war and treachery.
 I am Odysseus, my story's just begun,
 Get ready to ride the wave of my homecoming run.
+
+### Turn 5 — ALCINOUS 🏛️
+
+[STAGING: Alcinous stands and speaks to the whole court — we carry him home.]
+
+"Stranger, by the Gods, you have earned more than our hospitality. We will honor your name. Our finest ship shall carry you home, to Ithaca. Let it be known across the land that the Phaeacians kept their word and welcomed a hero among us."
