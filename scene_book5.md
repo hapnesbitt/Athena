@@ -62,3 +62,10 @@ A Goddess' gift, this paradise, yet shackled by Zeus' command,
 To leave and reclaim what was mine, a choice so cruel and grand.
 I stood in the twilight of Calypso's lair, her beauty both taunt and lure,
 Caught betwixt two worlds, two desires that forever shall endure.
+
+### Turn 4 — HERMES 🪽
+
+Calypso, Goddess of Ogygia, I'm Hermes, Messenger of Zeus,
+You can feel my presence now, it's not a boast, just stating the news.
+Zeus has commanded Odysseus to be set free, that's all there is to say,
+No further debate or discussion, Calypso, that's his decree.
