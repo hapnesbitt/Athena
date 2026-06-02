@@ -140,3 +140,40 @@ Troy was unaware, as they welcomed it inside,
 A thousand soldiers hidden in this beast that lied.
 
 [STAGING: Odysseus pulls his cloak over his face, his tears flowing freely.]
+
+### Turn 5 — ODYSSEUS 🗡️
+
+War's cost every day, blood on my blade
+Lost comrades at Troy, their spirit I've paid
+Heartbreak, loss — a constant grind
+The war's relentless toll, a warrior's mind
+
+[Pre-hook]
+Every day another thing lost
+The fire of Troy, the lives that were cost
+
+[Hook]
+I keep moving forward, unbowed and strong
+Odysseus, the sacker of cities, I belong
+War may weigh heavy, but I'm resilient
+My spirit unbroken, my will unyielding
+
+[Verse 2]
+Every day on the ocean, waves crash at my feet
+My ship battered by storms, my men in defeat
+The winds whip and howl, the rain falls relentless
+We sail through the night, our spirits dwindling
+
+Bridge:
+Ghostly specters haunt this feast
+Echoes of every hard-won feat
+I've faced every enemy, I've taken their lives
+But still, every day, I move with vigor and rise
+
+[STAGING lines as the spirits dissipate back to their seats]
+
+Odysseus:
+Home and throne, they're mine to reclaim
+The suitors in Ithaca, they must be slain
+I'll end this disgrace, my kingdom restored
+No longer a slave, but once more adored
