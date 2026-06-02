@@ -34,3 +34,17 @@ Suitors await thy home, feasting on wife and kingdom's reign.
 Thy return is solitary, a lonely path untamed.
 But the journey's end waits for thee: glory and a life reclaimed.
 So seek Zeus's favor, Icarus of the sea, take heart in his name.
+
+### Turn 3 — ANTICLEA 🕯️
+
+[STAGING: Anticlea emerges from the shades, moving slowly towards Odysseus. As she reaches out to touch him, her shade dissolves.]
+
+Anticlea:
+Son, I am but a whisper now, but know that I've waited long for this moment.
+I died of missing you, of wondering if you ever found your way home.
+Penelope stayed true, as did Telemachus and Laertes in their grief.
+But me... I'm gone, my love, left to join the ghosts and weep.
+So here's what you must know: beware the suitors, the treachery they sow.
+Take back your kingdom, son, let your heart break free from this slow flow.
+I missed you more than any man should ever miss his mother's love.
+Farewell, Odysseus... remember me as I am now above.
