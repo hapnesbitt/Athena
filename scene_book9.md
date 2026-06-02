@@ -47,3 +47,27 @@ RUMBLE, ROAR, CRUNCH-CRUNCH
 Men between teeth, no mercy in hunger
 This cave mine, I own it, I eat it up
 Strangers here taste my wrath, no quarter given.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus leans close, a wry smile on his face]
+
+Yo, Polyphemus, you see these boys here?
+They ain't no friends of mine, my man, don't even be sincere
+I'm Nobody, just a wandering sailor outta luck and fate
+Got a song for your crew, if you wanna celebrate
+[STAGING: Odysseus croons to Polyphemus, who sways along]
+Now, I brought you wine from grapes that grow on Crete's own shore
+Mixed it with some wild honey, gonna wash away the sore
+From your throat, and we'll be friends forever more
+[STAGING: Polyphemus drinks, stumbles, laughs, his defenses dropping]
+But first, I gotta know the secret to your strong hold
+Tell me, what is it that keeps you hidden from the old?
+And when I tell ya my name, don't let no man overhear
+I'll promise to never speak of this place again, my word is clear
+[STAGING: Polyphemus murmurs his secret — Odysseus nods, a plan forming]
+Yo, you're good for your word, I feel it deep down in my bones
+But now it's time for a little trick I like to call the Nobody gambit
+[STAGING: Odysseus mimes the blinding; Polyphemus the dancer reels]
+The court gasps as the big Cyclops roars, the night grows cold and dark
+But fear not, my friends, for this is just a clever little spark.
