@@ -51,3 +51,16 @@ The tether breaks not by a plea, but by the cosmic reel.
 The voyage home is written in the stars you cannot tame.
 Your choice is hers alone, the memory of flame.
 I fly. The mandate lands. The sentence is done.
+
+### Turn 5 — CALYPSO 🌊
+
+Yeah, Hermes flies, but the anchor stays fast,
+You think of shores, but the deep is built to last.
+I am the tide that pulled you from your mortal plight,
+You are the storm I crave in the endless night.
+You see the freedom, the dust of a distant land,
+But I hold the current, the power in your hand.
+You are the hunger that knows no place to roam,
+The sacker and the witch, finding our true home.
+So don't let the sunlight break this perfect spell,
+Stay where the depths call, where our two shadows dwell.
