@@ -55,3 +55,26 @@ Ten long years of war, with nary a spared.
 [STAGING: Demodocus finishes his song and falls back into his seat]
 
 The room is silent as the night, save for a single drop that falls upon the strings below.
+
+### Turn 2 — ODYSSEUS 🗡️
+
+[STAGING: A single teardrop trickles down Odysseus's cheek, unnoticed by the crowd]
+
+Odysseus (in a hushed whisper):
+I been holdin' this for ten years, son
+The war's done, but Troy still haunts me dreams
+I see Penelope and Telemachus, weepin' on their knees
+Yearnin' for the man they lost to battlefields unseen...
+
+[STAGING: A gentle breeze blows through the room as Odysseus takes a deep breath]
+
+Odysseus (steadying himself):
+But I ain't just any soldier, no, I am the sacker of cities
+Tempted by Calypso's island, but duty calls me back to fight
+Its gonna take more than tears to bring me home tonight...
+
+[STAGING: Odysseus straightens his posture, ready for the journey ahead]
+
+Odysseus (with resolve):
+Gotta face these suitors, put them in their place
+But first, I'll listen to this bard, let him paint my fate...
