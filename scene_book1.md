@@ -26,3 +26,18 @@ Feast your eyes on this, it's the crown waiting for me.
 I don't got time for Telemachus and his empty throne dreams.
 Penelope grieving? Yeah, well she better get used to it.
 This is my kingdom now, deal with it.
+
+### Turn 2 — EURYMACHUS 🎭
+
+[STAGING: Eurymachus moves table to table, leaning in, all charm and reasonableness]
+
+EURYMACHUS:
+Yo, hear me out. This isn't about us, it's Penelope draggin' it out.
+Twenty years without Odysseus? Ain't fair to us or the boy.
+We're just tryin' to fill a void left by a king, that's all.
+And if you think we're takin' advantage, ain't nothin' here to prove.
+Odysseus didn't leave us his kingdom, just an empty throne and memories.
+We're the ones keepin' Ithaca afloat while Penelope drowns in her sorrow.
+It's time for this boy to take the helm, grow up and lead.
+But we can't do it with Penelope clingin' to the past. Let him move on, let us move on.
+Deal with it.
