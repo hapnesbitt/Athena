@@ -31,3 +31,13 @@ You speak of home, a shore I cannot touch,
 But Ogygia waits, and I have loved too much.
 You think a decree can break what fate has spun?
 He is mine, the prize beneath the sun.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+The tether snaps, and the phantom weight of ten years shifts.
+A sudden freedom tastes like ash and salt on my tongue.
+I see the shore, a ghost line in the fading light,
+But the gold of this island still settles deep in the bone.
+I feel the pull—not to the wind that calls me free,
+But to a silence I have never truly known.
+I am a ghost ship, adrift between two kinds of hell.
