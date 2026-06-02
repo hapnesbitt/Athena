@@ -79,3 +79,10 @@ Fund the journey of Telemachus, the brave!
 
 Farewell, young man. May Athena guide your path
 And bring you home to Ithaca once more.
+
+### Turn 6 — NARRATOR 📜
+
+---
+### Turn 6 — NARRATOR ⚔️
+
+With newfound purpose, Telemachus steps forth. Sparta's horizon calls him home. The sea around him swells and expands like an endless breath, a world ripe for exploration. Nestor's benediction echoes through the night, as the young hero ventures onward to his destiny. [STAGING: As Telemachus departs, the dancers form waves that part around him.]
