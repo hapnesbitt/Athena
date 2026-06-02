@@ -8,3 +8,50 @@
 Welcome to Book VIII, EVERY DAY! Tonight, we gather as Phaeacian court, and witness a spectacle that'll linger long past the final dish. Our blind bard takes center stage, his fingers dance over strings, and in this intimate space, one man may find himself teary-eyed. For tonight, we hear the harrowing saga of Troy — and with each melody, a piece of someone's heart could shatter like a shattered city. So watch closely, dear guests, for there's a hidden story in this ancient song. The tears are coming, and it might just be your neighbor. Now, without further ado, let the music play!
 
 ---
+
+### Turn 1 — DEMODOCUS 🎵
+
+[STAGING: Demodocus sits at the center of the court; the room quiets; he begins]
+
+Verse 1:
+(Strumming slowly)
+A tale as old as time, now listen close,
+Troy's downfall and Odysseus in his role,
+Agamemnon's son, brave Achilles, too,
+Their quarrel fierce, like a river that floods through.
+
+Chorus:
+But I'll tell it straight, no room for lies,
+A story so grand, you'll have tears in your eyes,
+Hear the sirens call, the ships set afire,
+Ten long years of war, with nary a spared.
+
+Verse 2:
+The Trojans fought back, their courage unbroken,
+Spartan might clashed against Hector's spear token,
+But Odysseus, cunning as the fox,
+Brought forth a trick that would break Troy's box.
+
+Chorus:
+But I'll tell it straight, no room for lies,
+A story so grand, you'll have tears in your eyes,
+Hear the sirens call, the ships set afire,
+Ten long years of war, with nary a spared.
+
+[STAGING: Demodocus pauses, then leans into a higher, more passionate pitch]
+
+Verse 3:
+And when Hector fell, in the dust he lay dead,
+Achilles' heart cried out, the war almost overhead,
+But Agamemnon, with cunning and deceit,
+Denied Achilles the honor of victory's seat.
+
+Chorus:
+But I'll tell it straight, no room for lies,
+A story so grand, you'll have tears in your eyes,
+Hear the sirens call, the ships set afire,
+Ten long years of war, with nary a spared.
+
+[STAGING: Demodocus finishes his song and falls back into his seat]
+
+The room is silent as the night, save for a single drop that falls upon the strings below.
