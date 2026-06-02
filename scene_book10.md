@@ -130,3 +130,17 @@ Could never be bested by a cheat!
 Hook:
 Don't stop, won't stop until my revenge is mine,
 Odysseus will learn the cost of his crimes!
+
+### Turn 6 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus raises the moly]
+Circe, your tricks meet their end here.
+My reign's untouchable, you learn to bend.
+[STAGING: Circe's spell cracks; the beasts shudder]
+Transform them back or pay for your sin.
+I command the dance floor, you play a fool.
+No sorcery can bind me, I rule the school.
+Turn 'em back now or feel my wrath's sting.
+[STAGING: Odysseus touches the transformed men with the moly and they revert to human form]
+My power unchallenged, your throne is shaken.
+Beasts at my feet, you're no more than broken.
