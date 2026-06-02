@@ -49,3 +49,39 @@ Y'all, this ain't right. I ain't sayin' I got all the answers, but somethin' fee
 We dine, we feast, but where's our king? Where's the man who earned his meals in war?
 This isn't just about food, it's about respect—and that ain't on display tonight.
 It's not too late to change course, I hope. But if we don't, know this: I won't be here to stay.
+
+### Turn 4 — ATHENA 🦉
+
+ATHENA (as Mentor)
+
+Yo, Eurymachus, man of Ithaca
+Listen up, 'cause I got something for you, straight from the heart
+I see your spirit's strong, you gotta stand for righteousness
+So listen close, cause I'm gonna tell ya what to do
+[STAGING: Mentor leans in, Eurymachus listens intently]
+
+We're sailing out, my boy, and it's time to join the crew
+With Telemachus, we'll find his father, honor his name true
+I know you got the skill, the heart, the strength we need
+Join us, brother, and let's make Ithaca feel free
+
+[STAGING: Eurymachus nods, rises from his seat and approaches Telemachus]
+
+And Peleus, over there by the wine
+I see you got a fire burning deep within
+Join us on this journey, let's stand as one
+For Ithaca and Odysseus, let our hearts be won
+
+[STAGING: Peleus stands, walks to Telemachus]
+
+And one more, my friend, over yonder, can't you see?
+That young man, Demodocus, humble but strong and free
+He's got a voice that soars, like a bird set loose in flight
+Let's bring him aboard, let his song guide us tonight
+
+[STAGING: Athena motions to Demodocus]
+
+You three, my brothers of Ithaca, join our quest for truth
+We'll find Odysseus, and restore this land we love
+The suitors won't stand a chance when Telemachus is back
+Our father, king, and hero, let his power be renewed
