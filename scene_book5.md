@@ -24,3 +24,23 @@ I speak for Zeus, not my own words, so take heed,
 The Goddess Calypso, let Odysseus be freed.
 His journey home begins, let's see if he'll obey,
 But this ain't the last you'll hear of me or what I have to say.
+
+### Turn 2 — CALYPSO 🌊
+
+Yo, Hermes, you got a nerve comin' here
+Talking 'bout my Odysseus, actin' so queer
+You think I'm just a pawn in this divine game?
+Well let me school you on who really reigns
+
+This island ain't no prison, far from it
+Odysseus and I, we got a connection, sit
+In the throne of power, you should know my worth
+I won't stand by while gods conspire to dearth
+
+My type? He's a conqueror, strong and wise
+Together we rule oceans with nary a rise
+From Athens to Troy, he made his mark in stone
+The Gods just jealous, can't stand that they're not home
+
+So back off Hermes, leave me be
+My Odysseus ain't goin' nowhere but with me.
