@@ -37,3 +37,27 @@ I see the strength of Odysseus in you, young one. Carry his legacy forward, seek
 
 [ATHENA]
 Flash like lightning, swift as thought / Feel my strength, feel the might / This goddess ain't playin', I'm in control / Watch this game unfold.
+
+### Turn 4 — TELEMACHUS ⚔️
+
+[TELEMACHUS]
+Pylos, city of heroes bold and brave,
+Where Nestor's tales ring out and pave the way.
+Face to face with king and wise old sage,
+My blood now boils, a newfound rage.
+Told of Troy, the golden city we sacked,
+Odysseus' deeds are more than just a fact.
+This world is real, it's drama raw and true,
+Ithaca ain't home for me no mo' crew.
+[STAGING: Telemachus's crew dances; the room expands around Nestor's table]
+
+Freak, this world's immense, so vast and free,
+My eyes are wide, can barely breathe.
+Freak, a dream come true, a sight to see,
+The son of Odysseus ain't the same no mo'.
+[STAGING: Telemachus stands tall amidst his crew]
+This is who I'll be, it's plain as day,
+The boy from Ithaca ain't the same no mo'.
+[STAGING: Telemachus raises a glass to Nestor]
+Freak, this world mine, ready for my flow,
+The son of Odysseus ain't the same no mo'.
