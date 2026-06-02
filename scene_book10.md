@@ -96,3 +96,37 @@ You ain't gonna stop me now — that much is clear.
 [STAGING: Odysseus forces Circe to transform one final time and she shrinks into a bat, flitting away in panic]
 
 Game over, girl — I rule this sphere unchallenged.
+
+### Turn 5 — CIRCE 🪄
+
+[STAGING: Circe recovers from her shock and lunges at Odysseus with a snarl]
+
+Verse 3:
+Thought I had him, thought my spell would hold,
+But he's too strong, his will too bold.
+No charm for me — this lion cannot bend,
+His power unmatched by any end.
+
+Pre-Hook:
+This isn't fair, can't believe it's true,
+My dominion shattered by this few.
+
+Hook:
+Don't stop, won't stop until I show my might,
+Odysseus will tremble before my fight!
+
+[STAGING: Circe struggles against Odysseus but can't break his grip]
+
+Verse 4:
+Fury in my heart, my eyes ablaze,
+He's taken my power without a price.
+No mercy shown, no quarter given,
+This lion roars as I begin to shiver.
+
+Pre-Hook:
+Never before have I faced defeat,
+Could never be bested by a cheat!
+
+Hook:
+Don't stop, won't stop until my revenge is mine,
+Odysseus will learn the cost of his crimes!
