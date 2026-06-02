@@ -144,3 +144,39 @@ Turn 'em back now or feel my wrath's sting.
 [STAGING: Odysseus touches the transformed men with the moly and they revert to human form]
 My power unchallenged, your throne is shaken.
 Beasts at my feet, you're no more than broken.
+
+### Turn 7 — CIRCE 🪄
+
+[STAGING: one by one the beasts rise onto two legs, men again, blinking in the light]
+
+Verse 5:
+Feeling my power ebb away,
+This lion's reign I cannot stay.
+Though the battle's been lost, I stand tall,
+A goddess undaunted by Odysseus' fall.
+
+Pre-Hook:
+My pride remains intact, a fierce display,
+Though my magic's fading like morning's gray.
+
+Hook:
+Don't stop, won't stop until I find a way,
+To bend this world to my dominion one day!
+
+[STAGING: Circe turns the last of her transformed crew back into men]
+
+Verse 6:
+Now my subjects rise and gaze at me,
+No longer beasts in their humanity.
+Though defeated by a single man,
+I've taught him a lesson, learned or not I can't demand.
+
+Pre-Hook:
+My rule may be gone for now,
+But the Gods shall remember my vow.
+
+Outro:
+Watch the world shake and tremble,
+As Circe's wrath is only embered.
+I'll rise again to claim my crown,
+Odysseus, I'm far from drowned!
