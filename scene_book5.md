@@ -69,3 +69,20 @@ The sea-witch's hold, though strong, cannot stand against the will
 Of Zeus and Athena, the city-sacker's journey is real
 Take heed, Calypso, this is not a plea
 Odysseus must return, or suffer mortal decree
+
+### Turn 5 — CALYPSO 🌊
+
+Yo, Odysseus, my type since we began
+Plunderin' cities on the ocean span
+I saw your courage and your heart so fierce
+City-sacker, I ain't gonna disappear
+
+You conquered lands beneath the sea blue skies
+Fought for power, didn't ever ask the why's
+Stay with me, my lion, don't listen to those
+Who claim this land is prison, not a godly abode
+
+I'll keep you safe as we rule our domain
+My love will never fade, it's what I reigned
+Odysseus, why leave me when your heart does beat
+Within the hold of Calypso, city-sacker meet your sweet retreat?
