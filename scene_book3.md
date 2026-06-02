@@ -61,3 +61,21 @@ The boy from Ithaca ain't the same no mo'.
 [STAGING: Telemachus raises a glass to Nestor]
 Freak, this world mine, ready for my flow,
 The son of Odysseus ain't the same no mo'.
+
+### Turn 5 — NESTOR 👑
+
+[STAGING: Nestor rises from his seat]
+
+Nestor:
+Heed my words, young hero, seek Menelaus in Sparta
+Gain wisdom from the heart of Greece's core.
+Take with you Pisistratus, my own son,
+A companion worthy of your cause.
+My stores, my support, they are yours to claim
+As you set sail on your odyssey.
+The collection passes now, around our feast,
+Fund the journey of Telemachus, the brave!
+[STAGING: Nestor gestures to a server who begins moving among the tables with the collection for Telemachus's voyage]
+
+Farewell, young man. May Athena guide your path
+And bring you home to Ithaca once more.
