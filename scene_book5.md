@@ -13,3 +13,12 @@ We’ve been waiting. Ten years of silence, ten years of gilded cages, and now, 
 Tonight, we watch the predator fight the paradise. We find out what happens when the home you crave is finally offered up. Are you ready for the reckoning? Let’s go.
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+I descend now, a whisper of winged bronze,
+Bearing the thunder of Father's decree.
+Calypso, hear the mandate from Olympus’ reign:
+The tether snaps. The long wait is done.
+Odysseus, the voyage home is the new score.
+Release him now. The journey starts on the shore.
