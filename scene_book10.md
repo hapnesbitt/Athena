@@ -155,3 +155,24 @@ The city-sacker strikes, your reign now crumbles, torn asunder.
 
 Circe's realm quakes, her power falters, fades away,
 My true might steps over the chasms of this war-torn day.
+
+### Turn 7 — CIRCE 🪄
+
+CIRCE
+
+[STAGING: one by one the beasts rise onto two legs, men again, blinking in the light]
+
+No tears of defeat spill from my eyes, I'm not one to kneel,
+This city-sacker fought well and forced me to yield.
+I am the sorceress who'd charm the land and sea,
+But tonight, I must release these men, as destiny decree.
+
+No more magic shall bind them to my enchanted sway,
+Odysseus, I grant you this victory on display.
+You've seen me falter, yet I still retain my pride,
+A goddess conquered, but never broken by your might.
+
+The night is won, the men are free, their spirits now unchained,
+This lion's den I ruled was shaken and in vain.
+I'll rise again with greater strength, to claim what is mine,
+This city-stormer bested me this eve, but not forever divine.
