@@ -85,3 +85,37 @@ You three, my brothers of Ithaca, join our quest for truth
 We'll find Odysseus, and restore this land we love
 The suitors won't stand a chance when Telemachus is back
 Our father, king, and hero, let his power be renewed
+
+### Turn 5 — TELEMACHUS ⚔️
+
+Fast like a ship slicing through the sea,
+No more waiting, no more time for me.
+Suitors roar but their noise can't drown my call,
+I'm not just seeking my father, I'm claiming my role.
+[STAGING: The recruited men rise from their tables as the crew]
+Fast like the fire in my heart now burning bright,
+My destiny on the horizon, a beacon of light.
+We sail for Odysseus, we'll make him whole again,
+This crew is assembled, ready to break free from this prison, my kin.
+[STAGING: Telemachus points at each man who stands with him]
+Fast like the wind carrying us away,
+A new chapter begins today.
+Hook:
+Fast, moving fast, towards a father and a future,
+Claiming my birthright, no more doubt or certainty.
+
+Fast as a ship that cuts through the briny deep,
+No more stalling, no more time to sleep.
+Suitors roar but they can't block my plea,
+I'm not just searching for dad, I'm taking control, see?
+[STAGING: The recruited men rise from their seats as the crew]
+Fast as the blaze burning in my heart,
+My destiny calls me from the start.
+We sail for Odysseus, we'll make him whole again,
+This crew is assembled, breaking free from this den.
+[STAGING: Telemachus points at each man who stands with him]
+Fast as the wind that carries us far,
+A new chapter starts right now, no scar.
+Hook:
+Fast, moving fast, towards a father and a future,
+Claiming my birthright, no more fear or turmoil.
