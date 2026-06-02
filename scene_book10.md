@@ -12,3 +12,15 @@ Ladies and gentlemen, esteemed diners, welcome back to ATHENA, where gods and go
 But beware, for not all is what it seems! [STAGING: dancers begin moving among the tables, choosing their men] The bewitching Circe awaits, with her potions that could turn friends into foes—or worse, beasts. But fear not, for heroes aren't made to be tamed, and tonight our hero, Odysseus, will prove it once more. So, settle in as we enter the halls of Circe, where even the boldest men must face their limits—and perhaps discover new ones! Let the games begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Yo, Odysseus, straight from Zeus's throne,
+Got a gift for ya in this palm alone.
+It's moly, my man, an antidote divine,
+To Circe's potion, keep you pure and fine.
+Don't touch her elixir, no matter the plight,
+This moly'll save your soul through the night.
+Keep close to heart, it's power in yer hand,
+With this tool, you can change Circe's command.
+[STAGING: Hermes slips Odysseus the moly and vanishes]
