@@ -16,3 +16,13 @@ So, settle in, dear guests, and witness the climactic dance-off that defines our
 Now, let the show begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Zeus's decree in hand, Hermes touched down on Ogygia's shores,
+Striding forth with a swagger that spoke of Godhood and more,
+"Odysseus must be released," he rapped, his voice like thunderous rain,
+"The journey home begins anew, feel the change."
+
+He spoke and vanished swift as a bird on the wind,
+Leaving behind a world altered by Zeus' command.
