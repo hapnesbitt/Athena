@@ -86,3 +86,35 @@ Watch as he trembles beneath my spell, his fate is sealed,
 But wait a minute, something's amiss.
 This lion stands firm, resistant to my kiss,
 A taste of defeat, but just the beginning, kid.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Circe's potion washes over Odysseus, but he remains unaffected; he steps forward confidently]
+
+Odysseus:
+Yo, you underestimated my game, witch,
+My strength's not something that can be tamed.
+I'm the storm of the sea, don't you forget,
+You just lost your power, 'fore I even began.
+
+[STAGING: Odysseus moves among the transformed crew, waving his hands over them]
+
+Odysseus:
+It ain't over yet, this is my stage,
+I won't watch idly while you engage.
+Back to men, that's your final page,
+[STAGING: dancers bring three men up from the tables as the crew]
+
+Odysseus:
+Behold, the power of the lion, unbowed,
+My conquest here's just the beginning now.
+This night is over, your reign has ended,
+Circe, pack up, your time's come to a bend.
+
+[STAGING: Circe watches in stunned silence as the crew transforms back into men]
+
+Odysseus:
+Leave this hall now, resist you shall not.
+Your power is broken, I won't be put to the spot.
+My mission here complete, our journey unfolds,
+I've conquered Circe, and it's time for me to roll.
