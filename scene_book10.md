@@ -185,3 +185,12 @@ Circe, standing tall and resolute, lets out a low growl as she raises her hands 
 "You have won this battle, but remember, Odysseus," Circe's voice echoes through the hall, "your victory comes at a price."
 
 Circe turns away, her pride swallowed by humiliation, but she breaks the spell on her own terms. With one final defiant glance, she vanishes, leaving behind only the echo of her fury and the restored men standing before Odysseus.
+
+### Turn 8 — NARRATOR 📜
+
+The crew now human once more,
+Odysseus triumphant, his task done.
+Circe's power broken, she departs in haste,
+A clean, crowd-pleasing button, a tale of might.
+The ships beckon; they turn and vanish from sight,
+No trace remains of the battle fought that night.
