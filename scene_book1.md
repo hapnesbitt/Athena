@@ -14,3 +14,15 @@ So, lean in, dear diners. This house has secrets, and we're about to uncover one
 Remember, these are your courtiers, your Ithacans. They've played their parts, but tonight, the boy stands up. And so will you, when the curtain rises. Let's see if you can deal with it.
 
 ---
+
+### Turn 1 — ANTINOUS 🍷
+
+[STAGING: Antinous sprawls at the head table, raising his cup to the room, ignoring Telemachus entirely]
+
+ANTINOUS:
+Yo, y'all know who this is? Kingpin of Ithaca, son of Eupeithes, Antinous the Great.
+Twenty years without my dad, but I'ma keep the legacy alive.
+Feast your eyes on this, it's the crown waiting for me.
+I don't got time for Telemachus and his empty throne dreams.
+Penelope grieving? Yeah, well she better get used to it.
+This is my kingdom now, deal with it.
