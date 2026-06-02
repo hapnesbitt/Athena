@@ -114,3 +114,13 @@ So listen up suitors, to my words so clear,
 From this moment on, your rule comes to an end here.
 My father returns, and he won't be silenced,
 Your days are numbered, now you gotta face it.
+
+### Turn 7 — ANTINOUS 🍷
+
+[STAGING: Antinous laughs and raises his cup; the other suitors follow suit, utterly unbothered]
+
+ANTINOUS:
+Ha! This boy's no match for Ithaca's king.
+His father may be alive or dead, it doesn't mean a thing.
+He thinks he'll take my throne? Don't make me laugh.
+I'm Antinous, and this kingdom is my birthright after all.
