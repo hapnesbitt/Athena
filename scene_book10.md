@@ -39,3 +39,29 @@ So close your eyes, forget who you were before,
 I'll show you a transformation like never saw before."
 
 Her voice echoes, filling the room with an energy that demands submission. The men on her floor tremble beneath her gaze, their fates sealed in her hands. The game has begun, and Circe is ready to play.
+
+### Turn 3 — CIRCE 🪄
+
+Verse 1:
+Yo, I rule this realm like Zeus commands the skies,
+Enchanting souls with eyes that blaze like sunrise high.
+Beasts at my feet, mortals in a trance,
+Feel the power pulse through me — no time for answers.
+
+Pre-Hook:
+Don't stop, I got these men twisting and turning,
+A witch of magic, watch how it's burning.
+
+Hook:
+Don't stop, won't stop until I've got my lion king,
+Watch me make these beasts dance to the beat of my rhyme, ain't no denying.
+
+[STAGING: one by one the pulled-up men drop to all fours, transformed into beasts]
+
+Verse 2:
+Taste for power strong, and I won't let it dissipate,
+Can sense the lion in Odysseus's heartbeat.
+Offer him the potion, think it's mine to take,
+But soon my dear, that lion will change the game before it's late.
+
+[STAGING: Odysseus holds out the moly and waits]
