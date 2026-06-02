@@ -52,3 +52,15 @@ The gods may play their games, but not today,
 I recognize the strength that's in this boy.
 This isn't pity or remorse I wear,
 Just truth — it's Telemachus I see right there.
+
+### Turn 3 — MENELAUS 🛡️
+
+Listen close, young king, I got news you need.
+Odysseus alive, held by Calypso's greed.
+I seen the pain in your eyes, just like his own.
+The legend of Odysseus is far from gone.
+[STAGING: Menelaus leans across the table, man to man; then gestures for the collection to go around]
+Let the crew bring what they got, pass it on,
+Telemachus, you carry your father home strong.
+We'll give him a fight, but don't fear the fall,
+For Odysseus is greater than them all.
