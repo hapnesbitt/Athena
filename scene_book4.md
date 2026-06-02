@@ -79,3 +79,16 @@ My father's legacy now my sworn mantle (Verse 2)
 Suitors won't see me coming, son of Odysseus (Hook)
 This is for the throne, this is for the fame (Bridge)
 I'm the rude boy, I'm stepping up to claim.
+
+### Turn 5 — NARRATOR 📜
+
+*Athena*
+
+[STAGING: Menelaus confirms Odysseus's survival, his eyes narrow in determination]
+Telemachus receives the truth, a fire burns within.
+His father's legacy now, he bears the weight of kings.
+
+Ithaca awaits its prince, the suitors gather near,
+Plotting an ambush, but their plans shall fail to pierce.
+A hinge swings open on four books spun, a shift in song and tale,
+Odysseus himself takes center stage, with Athena by his side.
