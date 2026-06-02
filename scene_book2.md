@@ -39,3 +39,13 @@ But we won't stand for it, not us, the men who keep Ithaca alive. Your daddy's d
 get used to it. And when Penelope tires of her weaving tricks, she'll be ours.
 [STAGING: Antinous gestures at the suitors, three men rise and join him]
 We don't need you to find your father, Telemachus—we are the future here.
+
+### Turn 3 — AMPHINOMUS 🕊️
+
+[STAGING: Amphinomus sets down his cup and stares at the table, not laughing with the others]
+
+AMPHINOMUS:
+Y'all, this ain't right. I ain't sayin' I got all the answers, but somethin' feels wrong here.
+We dine, we feast, but where's our king? Where's the man who earned his meals in war?
+This isn't just about food, it's about respect—and that ain't on display tonight.
+It's not too late to change course, I hope. But if we don't, know this: I won't be here to stay.
