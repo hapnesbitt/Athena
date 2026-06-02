@@ -86,3 +86,9 @@ I'll keep you safe as we rule our domain
 My love will never fade, it's what I reigned
 Odysseus, why leave me when your heart does beat
 Within the hold of Calypso, city-sacker meet your sweet retreat?
+
+### Turn 6 — ODYSSEUS 🗡️
+
+A heavy beat pulsates within me, her melody an unwelcome echo of a life left behind. But my heart whispers a different rhythm — one that calls to Ithaca, Penelope, and Telemachus. My home, my love, my son — the cost is high, but I choose them now.
+
+I can feel Calypso's pain, her grip on me weakening like seaweed torn from its roots. Yet, I must break free, for the pull of home is stronger than any siren's song. With every beat, my resolve grows, and I leave behind this paradise, a city-sacker turned family man.
