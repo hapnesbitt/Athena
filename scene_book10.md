@@ -58,3 +58,31 @@ Circe watches as the crew returns to their human state, her anger simmering just
 [STAGING: Circe vanishes]
 
 Muse's voice echoes through the room as the immersive dinner theater continues, but the memory of Circe's powerful performance remains, a testament to the enduring allure of myth and magic.
+
+### Turn 3 — CIRCE 🪄
+
+Verse 1:
+Don't stop, feel the power in my spell,
+Each man transforms, it's my prize to tell.
+Don't think you can escape what I control,
+My magic's relentless, won't let you go.
+
+Pre-hook:
+Yo, I'm circling 'round like a lion on the prowl,
+No one can resist my mystic scroll.
+
+Hook:
+Don't stop, don't fight the magic that I flow,
+Odysseus, the lion I seek, so bold.
+
+Verse 2:
+I sense his presence, he's close now, I can feel it,
+A predator with a power unyielding, real.
+He'll be my crowning achievement, the ultimate prize,
+The lion among men, in my sights, I won't compromise.
+
+Bridge:
+Watch as he trembles beneath my spell, his fate is sealed,
+But wait a minute, something's amiss.
+This lion stands firm, resistant to my kiss,
+A taste of defeat, but just the beginning, kid.
