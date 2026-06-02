@@ -26,3 +26,22 @@ Striding forth with a swagger that spoke of Godhood and more,
 
 He spoke and vanished swift as a bird on the wind,
 Leaving behind a world altered by Zeus' command.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso reclined upon her throne, a vision of iridescence and grace,
+The Goddess' voice, rich and resonant, filled the chamber with her pace:
+
+"Mortals play their games, Zeus among them all,
+But this is no mere mortal, in his grasp I have him thrall.
+Odysseus of Ithaca, a name I sing and scream,
+He's mine, he's mine, he'll never be freed from my dream."
+
+Her eyes flashed like the sea beneath a moonlit night,
+A testament to her power, a warning in her plight:
+
+"You gods claim your virtues when your work is done,
+But where was Zeus when I bore him this one? No where was he found!"
+
+Calypso's voice echoed through the chamber, an anthem of pride,
+A call for respect from a Goddess who had borne the stride.
