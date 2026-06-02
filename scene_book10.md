@@ -24,3 +24,18 @@ This moly'll save your soul through the night.
 Keep close to heart, it's power in yer hand,
 With this tool, you can change Circe's command.
 [STAGING: Hermes slips Odysseus the moly and vanishes]
+
+### Turn 2 — CIRCE 🪄
+
+Circe, the sorceress of Aiaia, commands with a grace that pulses like thunder. Her eyes flash like jewels as she purrs, captivating every soul who dares approach her domain. She stands tall, regal and relentless, a predator on the prowl.
+
+[STAGING: dancers move among the tables and bring three men up from the tables as the crew]
+
+"Stepping off the ship, sailors and warriors alike,
+Each man here has potential, just wait for my bite.
+Don't try to resist, I've seen it all before,
+This dance, this power struggle — it's mine to explore.
+So close your eyes, forget who you were before,
+I'll show you a transformation like never saw before."
+
+Her voice echoes, filling the room with an energy that demands submission. The men on her floor tremble beneath her gaze, their fates sealed in her hands. The game has begun, and Circe is ready to play.
