@@ -16,3 +16,17 @@ Now, as the night unfolds, you, dear diners, will become part of this journey. L
 [STAGING: Telemachus hesitates at the edge of Nestor's table, then steps forward]
 
 Yo, King Nestor, this here's Telemachus, son of Odysseus, the great hero. I've sailed far and wide in search of news, seekin' any word of my father. Can you tell me what you know, man? [STAGING: Athena drops her Mentor disguise for a moment, flashing him with an assuring nod]
+
+### Turn 2 — NESTOR 👑
+
+[STAGING: Nestor gestures expansively, holding court, Telemachus's crew listening wide-eyed]
+
+Aye, young one, you seek your father's tale? I been there, seen it all. Troy fell ten years past, a city of gold we sacked and claimed. But victory was costly, many heroes paid their due. Achilles, Hector, Agamemnon, fallen like dominoes, each one left a legacy.
+
+Your father, Odysseus, he was cunning, clever as a fox. He fought alongside the best, never faltered when the battle raged. His guile saved us from the Trojan horse, made us lords of Greece again.
+
+But Troy's fall unleashed gods' wrath upon us all. Poseidon, Zeus, they played their games, each with his own score to settle. Our fleet was scattered, our heroes lost at sea. Odysseus, he'd face one trial after another, but he never faltered, never broke.
+
+Now he lingers 'neath Calypso's red cloak, trapped upon her isle. Zeus, he knows not what to do; gods and mortals blame each other, as they've done since the dawn of time. But I sense a change in the winds, a shift that may bring your father home.
+
+I see the strength of Odysseus in you, young one. Carry his legacy forward, seek out his return with all your might. And remember this, no matter what they say or do: gods are sovereign but candid; they trash-talk and they grieve. [STAGING: Nestor raises a glass towards Telemachus] To Odysseus, to the future, to the son who seeks him still!
