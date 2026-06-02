@@ -26,3 +26,13 @@ Little boy playing grown man's game. What do you think you bring to the table?
 Fear not, Telemachus, I'll make sure you won't be able
 To spoil my feast with your childish whine and plea.
 Your father's dead, accept it, it's time for you to flee.
+
+### Turn 2 — EURYMACHUS 🎭
+
+[STAGING: Eurymachus moves table to table, leaning in, all charm and reasonableness]
+
+EURYMACHUS:
+Aye, listen up now, friends of Ithaca. You know Penelope's game, her weaving trick's a shame.
+Odysseus gone these years, no trace, no sign. She keeps our hearts entwined in sorrow and despair.
+But what if we rise up? Set this heart ablaze! Let's find the truth, make our intentions clear:
+This feast was for Odysseus, not a test of will. We dine to show the world he's still the king of Ithaca here.
