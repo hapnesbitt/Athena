@@ -36,3 +36,18 @@ Yet those ropes are all that keeps you from the end,
 One step towards us, and wisdom bequeathed again.
 
 [STAGING lines showing Odysseus straining at the mast]
+
+### Turn 2 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus steps forward, eyes locked on the dancers as Scylla. The ship groans.]
+
+Odysseus:
+Scylla's callin', six men I trade for all we sail,
+The ship'll split if we stay here, our fate to prevail.
+Gotta make this choice, can't hold back the pain,
+Six souls to keep me sane, my heart in the game.
+[STAGING: Six dancers fall, Odysseus turns away.]
+I chose six men to save Ithaca,
+No remorse for the loss, no moment of regret.
+The choice was mine, I made it clear,
+Now we set a course through danger and fear.
