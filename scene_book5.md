@@ -121,3 +121,20 @@ Now you shall set him free, Zeus and all
 The journey home has claimed its toll
 My heart is heavy with this decree
 But I stand tall, a Goddess of the sea
+
+### Turn 8 — ODYSSEUS 🗡️
+
+I'll build this raft and sail tonight,
+A ship of vengeance bearing down on light.
+The winds will whisper Penelope's name,
+This journey home, a flame for my eternal game.
+
+I've been held captive, but no more,
+My heart beats free as evermore.
+This sea-witch's charm shall not prevail,
+Calypso, you thought I'd stay enthralled.
+
+A city sacker's spirit can't be tamed,
+I'll reclaim my throne, regain my fame.
+The path is long and filled with strife,
+But I'll see it through, or die the knife.
