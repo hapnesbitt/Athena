@@ -44,3 +44,17 @@ The Gods just jealous, can't stand that they're not home
 
 So back off Hermes, leave me be
 My Odysseus ain't goin' nowhere but with me.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+Odysseus, voice thick with conflict, steps out from Calypso's cave:
+
+I felt the wind of Hermes' words, a whisper on my skin
+Ten years gone by, Ithaca calls, but what have I begun?
+This paradise, this plunder, it's more than just a game
+But the longing for Penelope, it gnaws at me like flame
+
+Athena planted seeds of home within my heart anon
+But Calypso's hold is strong, a serpent's coil upon my bones
+I must choose now, between this paradise and what I've lost
+The city-sacker's journey turns to one of bitter cost.
