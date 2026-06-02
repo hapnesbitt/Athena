@@ -75,3 +75,17 @@ I felt weary, and sleep crept upon me like a snare
 The beast within stirred, it yearned for that meat so rare
 My men devoured as I slumbered, my caution laid bare
 Now Zeus' wrath looms over us, my heart heavy with despair
+
+### Turn 5 — NARRATOR 📜
+
+NARRATOR'S LINES
+
+## THE SCENE SO FAR
+The ship, timbers crack, as Zeus hurls his thunderous wrath.
+Mortals lost at sea, the crew swallowed by the depths.
+Only Odysseus remains, adrift on Calypso's shore.
+
+## [STAGING: A storm brews overhead as the ship is torn apart and swallowed by the waves.]
+
+The retrospective closes, and the final chapter begins,
+A tale of survival, a saga of a king reclaimed.
