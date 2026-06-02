@@ -138,3 +138,10 @@ A city sacker's spirit can't be tamed,
 I'll reclaim my throne, regain my fame.
 The path is long and filled with strife,
 But I'll see it through, or die the knife.
+
+### Turn 9 — NARRATOR 📜
+
+The sea-witch's hold was broken,
+Odysseus released, the raft begun,
+The long journey home finally underway,
+Silence fell upon Calypso's grotto.
