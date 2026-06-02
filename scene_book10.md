@@ -118,3 +118,42 @@ Leave this hall now, resist you shall not.
 Your power is broken, I won't be put to the spot.
 My mission here complete, our journey unfolds,
 I've conquered Circe, and it's time for me to roll.
+
+### Turn 5 — CIRCE 🪄
+
+[STAGING: Circe turns to face the lion]
+
+Circe, roaring like a wounded beast:
+YOU. DEFEATED MY. MAGIC.
+How dare you stand against my might?
+I. SHAKE WITH RAGE AND FURY.
+
+[STAGING: dancers move among the tables and bring three men up from the tables as the crew]
+
+Circe, her voice dripping with contempt:
+NOW. IT'S MY TURN TO PLAY.
+You think you can outsmart me? Watch.
+As I strip away your power.
+
+[STAGING: Circe transforms the crew back into beasts]
+
+Circe, hissing like a snake:
+YOU WILL BEGIN TO UNDERSTAND.
+The true nature of my power now.
+I AM THE GODDESS OF REVENGE.
+
+[STAGING: Circe unleashes her full fury on Odysseus and the beasts, but she cannot defeat them]
+
+Circe, panting with exertion:
+IMPOSSIBLE. THIS IS UNFAIR.
+My magic is gone, and I am left weak.
+I WILL NOT BE MERCIFUL.
+
+[STAGING: Odysseus stands firm against Circe's onslaught]
+
+Circe, snarling in rage:
+YOU WILL PAY FOR THIS INSULT.
+You have shamed me before my peers.
+I WILL NOT BE FORGIVEN.
+
+[STAGING: Circe vanishes, humiliated and furious]
