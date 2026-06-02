@@ -14,3 +14,29 @@ But before our performers take the stage, let's keep this party rolling—the co
 [gestures to a couple at a prominent table as Menelaus and Helen]
 
 ---
+
+### Turn 1 — TELEMACHUS ⚔️
+
+[STAGING: Telemachus approaches with the ease of a man who has done this before]
+
+TELEMACHUS:
+Yo, I'm Telemachus, son of the cunning Odysseus,
+I come from Ithaca, a kingdom under duress.
+Mighty Menelaus, you've heard my name and fame,
+Now I seek the truth about my father's fame.
+
+[STAGING: Helen recognizes him by his father's face]
+
+TELEMACHUS:
+Her eyes flashed as she saw my lineage,
+In her heart she knew the pain of deceit.
+I spoke to Menelaus, seeking clarity,
+His words brought hope and set me on the way.
+
+[STAGING: Telemachus turns for home a changed man]
+
+TELEMACHUS:
+This song's a torch, it lights my path ahead,
+Rihanna's "Rude Boy," I wear its thread.
+I'll bring my father back, or die trying,
+For the legacy of Odysseus won't be denied.
