@@ -71,3 +71,15 @@ But now it's time for a little trick I like to call the Nobody gambit
 [STAGING: Odysseus mimes the blinding; Polyphemus the dancer reels]
 The court gasps as the big Cyclops roars, the night grows cold and dark
 But fear not, my friends, for this is just a clever little spark.
+
+### Turn 4 — POLYPHEMUS 👁️
+
+[STAGING: Polyphemus raises his arms blind, tears streaming down his face]
+
+RUMBLE, ROAR, SOBS...
+Nobody! I'm blinded! My one eye gone! My vision... lost forever!
+[STAGING: Polyphemus calls out into the night, voice breaking with pain and rage]
+Poseidon, my father, help me! The man called Nobody did this to me!
+[STAGING: A transformation begins, power seeping from Polyphemus as he collapses, the audience watches in horror]
+Nobody... but I know who you really are now. And I'll make you pay for this.
+[STAGING: Odysseus slips away into the shadows, leaving a devastated Polyphemus and a shaken court behind him]
