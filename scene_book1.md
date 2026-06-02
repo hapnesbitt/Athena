@@ -70,3 +70,17 @@ No more games, no more dishonor, tonight I take my stand.
 TELEMACHUS:
 By Zeus and Athena, this fire burns with truth—Odysseus returns! And you can bet I'll fight to keep it alight.
 You've feasted long enough, time for the suitors to be supper tonight.
+
+### Turn 5 — PENELOPE 🧵
+
+[STAGING: Penelope appears at the top of the stairs, surveying the ruined feast. She says nothing for a long moment.]
+
+PENELOPE:
+Twenty years—twenty! The laughter's hollow, the wine sour,
+This grand palace reduced to mere ruin and mourn.
+Where is my husband? Where has he gone? I weave
+And unweave by his absence, as if it were thread.
+I am the heart of this house, the queen of its sorrow.
+Bow your heads now, all suitors, before I decree:
+In this place where Odysseus once held court so proudly,
+Now stands Penelope, regal and worn by grief.
