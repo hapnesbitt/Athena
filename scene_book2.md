@@ -26,3 +26,16 @@ Enough! My voice shall not be silenced, nor my heart be stilled by your braying 
 I seek my father, and I'll find him, even if it takes me to the ends of earth to do so.
 My name is Telemachus, son of Odysseus—remember that when you eat and drink.
 And should you fail to heed these words, know this: the hunt for my father begins anon.
+
+### Turn 2 — ANTINOUS 🍷
+
+[STAGING: Antinous rises, talking over Telemachus, gesturing at Penelope's absence]
+
+ANTINOUS:
+Yo, Telemachus, chill out. You think your old man's in trouble? Well, I got news—
+he's a myth now, a story for the kids. This ain't no game, this is real life, son.
+Your momma's been stringing you along, keeping that throne warm for someone else.
+But we won't stand for it, not us, the men who keep Ithaca alive. Your daddy's dead—
+get used to it. And when Penelope tires of her weaving tricks, she'll be ours.
+[STAGING: Antinous gestures at the suitors, three men rise and join him]
+We don't need you to find your father, Telemachus—we are the future here.
