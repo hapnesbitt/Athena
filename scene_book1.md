@@ -124,3 +124,20 @@ Ha! This boy's no match for Ithaca's king.
 His father may be alive or dead, it doesn't mean a thing.
 He thinks he'll take my throne? Don't make me laugh.
 I'm Antinous, and this kingdom is my birthright after all.
+
+### Turn 8 — NARRATOR 📜
+
+---
+### Turn 8 — NARRATOR 🦉
+
+[STAGING: As the suitors feast, their laughter a hollow drumbeat on the grand stage of Ithaca's ruin, Telemachus stands alone—a solitary sentinel. A single flame burns in his heart, illuminating the path that lies ahead, as the seeds sown by Athena begin to germinate.]
+
+NARRATOR:
+The son has found his fire, born anew from Athena's hand.
+The suitors feast oblivious, but their reign will soon end—by a man.
+This hallowed hall, once home to kings and gods alike,
+Is now a testing ground where fathers and sons take flight.
+The seed has sprouted, the wheel set in motion,
+As Athena's wisdom finds its mark on this Ithacan ocean.
+Odysseus may yet return, but the journey's far from done—
+The suitors, blind to fate, have no idea what has just begun.
