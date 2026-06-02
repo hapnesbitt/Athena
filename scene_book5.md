@@ -41,3 +41,13 @@ But the gold of this island still settles deep in the bone.
 I feel the pull—not to the wind that calls me free,
 But to a silence I have never truly known.
 I am a ghost ship, adrift between two kinds of hell.
+
+### Turn 4 — HERMES 🪽
+
+The decree is etched in lightning, not in plea.
+Your kingdom is dust; the sky dictates decree.
+Calypso, your magic bends, but the Father's law is steel.
+The tether breaks not by a plea, but by the cosmic reel.
+The voyage home is written in the stars you cannot tame.
+Your choice is hers alone, the memory of flame.
+I fly. The mandate lands. The sentence is done.
