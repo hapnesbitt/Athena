@@ -180,3 +180,21 @@ Watch the world shake and tremble,
 As Circe's wrath is only embered.
 I'll rise again to claim my crown,
 Odysseus, I'm far from drowned!
+
+### Turn 8 — NARRATOR 📜
+
+NARRATOR
+
+[STAGING: dancers move among the tables and call out three men]
+Having won their freedom, the crew stood tall
+And Athena's hand guided them through the hall.
+With Circe vanquished, they would not remain
+To bask in victory or seek her tame.
+One by one, they left the enchantress' realm,
+Their spirits strong and hearts reclaimed.
+
+[STAGING: Odysseus leads them from the hall, bound for ships awaiting in the night]
+No Calypso here to hold him back or slow
+His passage homeward to the world he knows.
+A triumph clean, no longing now to stay,
+They turned and sailed into the open sea.
