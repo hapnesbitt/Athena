@@ -51,3 +51,13 @@ I chose six men to save Ithaca,
 No remorse for the loss, no moment of regret.
 The choice was mine, I made it clear,
 Now we set a course through danger and fear.
+
+### Turn 3 — SCYLLA 🐉
+
+[STAGING: Scylla — dancers — emerge from the cliffs. Six heads snake through the ship, each snatching a man in their grip. The men scream as they disappear.]
+
+Scylla:
+Six souls taken, life ebbs with each wrench,
+A dance of death played out without remorse,
+No pity, no mercy, no reprieve,
+Fate's cruel hands claim what we conceive.
