@@ -75,3 +75,14 @@ The gold of this island rusts to dust in my sight,
 But the ghost of Penelope burns hotter than the light.
 I choose the shadow, the weight of what I must reclaim,
 And walk toward the ruin, whispering my own name.
+
+### Turn 7 — CALYPSO 🌊
+
+The tide runs thick, Odysseus, hear my final word.
+This freedom you seek is a sound I have heard.
+You leave the gold behind, the shadow of Ogygia's gleam,
+But know the depth of this bond is more than a waking dream.
+Go carve your path on salt and fury, taste the mortal pain,
+But know the witch still watches, through the sun and the rain.
+Take what you crave, my prize, and carry it far,
+For even freedom has its cost beneath an Ogygia star.
