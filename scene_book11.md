@@ -48,3 +48,35 @@ So here's what you must know: beware the suitors, the treachery they sow.
 Take back your kingdom, son, let your heart break free from this slow flow.
 I missed you more than any man should ever miss his mother's love.
 Farewell, Odysseus... remember me as I am now above.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+Verse 1:
+The Underworld's chill, the dead closing in
+Mother gone, prophecy begun
+Ten years wandered, lost and aged
+But I don't flinch, this fight I've had
+
+Pre-hook:
+Anticlea's ghost, lodged deep within
+Prophecy she told, of what's been penned
+Suitors at home, feel their dread
+Now it's time to turn the tables on them dead
+
+Hook:
+Get ugly, let it out, let it bleed
+Stand tall, take the crown, claim my need
+I'm the sacker of cities, sea-king's seed
+Odysseus returns, can't you see?
+
+Verse 2:
+The journey's long, storm will rage and roar
+Faced worse, I'll face it once more
+Poseidon's wrath, Zeus's hand, I need 'em both
+Through the Underworld and beyond, my soul will troth
+
+[STAGING: Odysseus stands among the shades; the dancers close in; he does not flinch]
+Shadows swirl, darkness tightens round
+I stand tall, won't be unfurled
+Resolve is steel, spirit unbowed
+Odysseus returns, the game is cured.
