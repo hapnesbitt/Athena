@@ -54,3 +54,19 @@ Take this flame, my boy—it's a torch for your father's return.
 When you feel its heat, let it light a fire within your heart, burn.
 Stand tall and strong, just like the man he raised you to be.
 Odysseus will find his way back to Ithaca, and all that's right will be.
+
+### Turn 4 — TELEMACHUS ⚔️
+
+[STAGING: Telemachus stands tall, eyes blazing with newfound resolve, facing the suitors' tables without flinching]
+
+TELEMACHUS:
+Twenty years of this? The feast gone stale? I won't be silent, won't just deal.
+This house ain't a playground for the likes of you to steal.
+I've heard the words, felt the lie—Odysseus alive, not gone!
+No more games, no more dishonor, tonight I take my stand.
+
+[STAGING: Telemachus raises the torch from Mentes, the fire glowing brightly in his hand]
+
+TELEMACHUS:
+By Zeus and Athena, this fire burns with truth—Odysseus returns! And you can bet I'll fight to keep it alight.
+You've feasted long enough, time for the suitors to be supper tonight.
