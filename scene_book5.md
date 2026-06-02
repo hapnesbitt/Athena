@@ -118,3 +118,14 @@ The city-sacker shall return to his home,
 Where Penelope waits, and Telemachus grown.
 A vow I make, a promise cast afar,
 I leave my paradise, a cunning warrior.
+
+### Turn 9 — NARRATOR 📜
+
+The dawn's first light breaks as Odysseus sets sail,
+A raft afloat, homeward-bound from Calypso's gale.
+His heart is heavy, yet resolute and bold,
+A city-sacker's journey into unknown folds.
+The sea echoes with the songs of gods above,
+An epic tale, its opening verse: the raft's first shove.
+And so, Odysseus leaves behind his captor's hold,
+The long and winding road to Ithaca unfolded.
