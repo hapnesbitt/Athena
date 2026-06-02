@@ -86,3 +86,15 @@ So Zeus and all his Gods, I dare you try
 To pry him from my arms, I'll make you cry
 Odysseus is mine, and I'm not giving up
 My type's a predator, and he's never enough
+
+### Turn 6 — ODYSSEUS 🗡️
+
+I inhale deep the island's salty air, heart pounding like a drum
+Gazing out at Calypso's dance, her song is my undoing and my doom
+Yet whispering to me like a siren's call, is the voice of Penelope true?
+Ithaca beckons with grief, tugging at the ties that bind me to this view
+
+But Calypso's grip, it holds, a serpent's coil, strong and unyielding
+My heart is torn between desire and duty, a battlefield where I am yielding
+To leave her shores means sacrifice, the spoils of war a bitter pill
+No longer can I linger here, with every step a piece of me I will spill
