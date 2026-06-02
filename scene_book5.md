@@ -92,3 +92,18 @@ Within the hold of Calypso, city-sacker meet your sweet retreat?
 A heavy beat pulsates within me, her melody an unwelcome echo of a life left behind. But my heart whispers a different rhythm — one that calls to Ithaca, Penelope, and Telemachus. My home, my love, my son — the cost is high, but I choose them now.
 
 I can feel Calypso's pain, her grip on me weakening like seaweed torn from its roots. Yet, I must break free, for the pull of home is stronger than any siren's song. With every beat, my resolve grows, and I leave behind this paradise, a city-sacker turned family man.
+
+### Turn 7 — CALYPSO 🌊
+
+Odysseus, I'll not beg or plead my case,
+For in my heart, there lies a noble grace.
+I've kept you here ten years, with pleasure too,
+But now I see your soul, it's torn anew.
+The call of home is strong, I understand,
+No chains can hold you if that's your command.
+So go forth, my city-sacker, make your mark,
+I'll keep this island, till the dawn's first spark.
+But know this truth, when you lay in sleep at night,
+Odysseus, I'll be watching, guiding light.
+A sea-witch's love won't fade so easily,
+The predator and her partner, destiny.
