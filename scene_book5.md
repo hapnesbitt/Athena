@@ -107,3 +107,14 @@ But know this truth, when you lay in sleep at night,
 Odysseus, I'll be watching, guiding light.
 A sea-witch's love won't fade so easily,
 The predator and her partner, destiny.
+
+### Turn 8 — ODYSSEUS 🗡️
+
+By the moon's light and stars' gleam, I'll heed Athena's call,
+A raft I'll build, the sea's pull answering my own.
+I'll leave this haven, where desire did enthrall,
+My heart no longer trapped in Calypso's hold.
+The city-sacker shall return to his home,
+Where Penelope waits, and Telemachus grown.
+A vow I make, a promise cast afar,
+I leave my paradise, a cunning warrior.
