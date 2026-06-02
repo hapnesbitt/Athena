@@ -177,3 +177,13 @@ Home and throne, they're mine to reclaim
 The suitors in Ithaca, they must be slain
 I'll end this disgrace, my kingdom restored
 No longer a slave, but once more adored
+
+### Turn 6 — ALCINOUS 🏛️
+
+[STAGING: Alcinous speaks to the whole court; they lean forward as one.]
+
+Alcinous:
+Stranger, your heart is heavy with years of pain.
+Tell us your story. The weeping confirms it. Ask him directly —
+tell us everything. We will listen all night. In the Phaeacian court,
+there's no shame in sharing the burdens of war. Speak, and let your tale unfold.
