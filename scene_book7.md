@@ -37,3 +37,9 @@ But before you toast to me, there's something else you should know:
 
 I am Odysseus, son of Laertes, king of Ithaca,
 And once this feast is done, my journey home shall start.
+
+### Turn 3 — ALCINOUS 🏛️
+
+[STAGING: Alcinous leans forward, the court quiet, genuinely curious.]
+
+"Stranger, your deeds demand a name. Who are you that silence this young man with one throw?"
