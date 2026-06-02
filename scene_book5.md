@@ -64,3 +64,14 @@ You are the hunger that knows no place to roam,
 The sacker and the witch, finding our true home.
 So don't let the sunlight break this perfect spell,
 Stay where the depths call, where our two shadows dwell.
+
+### Turn 6 — ODYSSEUS 🗡️
+
+The air is thin now, Hermes’ decree a cruel, bright blade.
+This freedom tastes like wreckage, a promise unmade.
+I see Ithaca—not a dream, but bone beneath the foam,
+A tether forged in sorrow, pulling me back from home.
+The gold of this island rusts to dust in my sight,
+But the ghost of Penelope burns hotter than the light.
+I choose the shadow, the weight of what I must reclaim,
+And walk toward the ruin, whispering my own name.
