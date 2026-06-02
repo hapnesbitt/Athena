@@ -30,3 +30,10 @@ But Troy's fall unleashed gods' wrath upon us all. Poseidon, Zeus, they played t
 Now he lingers 'neath Calypso's red cloak, trapped upon her isle. Zeus, he knows not what to do; gods and mortals blame each other, as they've done since the dawn of time. But I sense a change in the winds, a shift that may bring your father home.
 
 I see the strength of Odysseus in you, young one. Carry his legacy forward, seek out his return with all your might. And remember this, no matter what they say or do: gods are sovereign but candid; they trash-talk and they grieve. [STAGING: Nestor raises a glass towards Telemachus] To Odysseus, to the future, to the son who seeks him still!
+
+### Turn 3 — ATHENA 🦉
+
+[STAGING: The atmosphere in the room shifts suddenly; a soft whisper of wind stirs the candles. An eagle's shadow crosses the ceiling, and the room stills for one breath. Mentor smiles, then the moment passes.]
+
+[ATHENA]
+Flash like lightning, swift as thought / Feel my strength, feel the might / This goddess ain't playin', I'm in control / Watch this game unfold.
