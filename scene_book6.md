@@ -95,3 +95,11 @@ I've guided you as far as I should,
 Now go, show them who you are, it's understood.
 
 [STAGING: dancers bring Odysseus up from the floor and into the palace, leaving Nausicaa in the shadows]
+
+### Turn 6 — NARRATOR 📜
+
+[STAGING: Odysseus follows Nausicaa, drawn towards the palace as if by destiny's hand.]
+
+Athena:
+The wind carries him forward, a beacon of hope amidst the night.
+Odysseus, once lost, finds solace in this land's embrace; his journey nears its end.
