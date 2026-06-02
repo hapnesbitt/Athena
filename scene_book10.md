@@ -65,3 +65,34 @@ Offer him the potion, think it's mine to take,
 But soon my dear, that lion will change the game before it's late.
 
 [STAGING: Odysseus holds out the moly and waits]
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Circe's potion washes over Odysseus and nothing happens; he steps forward unbroken]
+
+Yo, Circe, ain't no charm for me — this moly's the charm.
+Your magic won't touch me, it's like a dud in a game.
+Turn back my crew or I'll make you dance with shame.
+[STAGING: dancers bring three men up from the tables as Odysseus's crew]
+
+I'm not here for games, for traps or petty plots.
+Your power can't hold me — I got iron-clad thoughts.
+Turn 'em back now or I'll make you quake and roar.
+[STAGING: Odysseus extends the moly, daring Circe to resist]
+
+This ain't a contest, girl — it's a lesson learned.
+Don't mess with my crew, or I'll burn your world unconcerned.
+Turn back my men, or pay the price you've never known.
+[STAGING: one by one Odysseus touches the transformed men with the moly and they revert to human form]
+
+I'm the sacker of cities, the king of deceit.
+You ain't got a chance; you can't compete.
+So save your breath — I don't got time for play.
+[STAGING: Odysseus snatches Circe by the wrist and forces her to transform his crew back]
+
+Now scram, before my wrath erupts like a storm.
+I've got a kingdom to reclaim; I've waited too long, reformed.
+You ain't gonna stop me now — that much is clear.
+[STAGING: Odysseus forces Circe to transform one final time and she shrinks into a bat, flitting away in panic]
+
+Game over, girl — I rule this sphere unchallenged.
