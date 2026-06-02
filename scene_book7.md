@@ -43,3 +43,36 @@ And once this feast is done, my journey home shall start.
 [STAGING: Alcinous leans forward, the court quiet, genuinely curious.]
 
 "Stranger, your deeds demand a name. Who are you that silence this young man with one throw?"
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus rises, eyeing the crowd. The din of conversation fades as he speaks.]
+
+Verse 1:
+I'm a ghost from home, lost in foreign lands,
+A traveler weary, battle-scarred in every hand.
+Ten years gone, still the memories cling,
+Of a kingdom lost, a love that sings.
+
+Pre-hook:
+But you ain't heard nothing yet, I can see it in your eyes,
+I'll drop the mic and watch as silence fills the skies.
+
+Hook:
+Mic drop, say my name one time and let the crowd go wild,
+Odysseus, son of Laertes, ruler of Ithaca's isle.
+
+Verse 2:
+From Troy to Calypso's arms, I've wandered far and wide,
+But every step I took, my home was always by my side.
+Now I stand before you, weary but resolved,
+A man who'll risk all for the love that he has resolved.
+
+Bridge:
+My name is a weapon, my legacy unfolds,
+When I say it loud, all other stories are sold.
+[STAGING: The room goes silent as a hush falls over the crowd.]
+Now listen up, Phaeacians, 'cause I've got more to tell,
+Of battles fought and won, of war and treachery.
+I am Odysseus, my story's just begun,
+Get ready to ride the wave of my homecoming run.
