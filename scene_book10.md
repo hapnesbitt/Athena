@@ -32,3 +32,24 @@ Now it's your time to take action,
 Odysseus, it's the only foundation.
 
 [STAGING: Hermes slips Odysseus the moly and vanishes]
+
+### Turn 2 — CIRCE 🪄
+
+CIRCE
+
+Y'all best step inside and watch the show,
+I'm Circe, goddess of this flow.
+Aiaia's queen, no need for the intro,
+Seekin' power and I know just how to grow.
+
+[STAGING: dancers move among the tables, bringing men onto the floor as the crew]
+
+I turn these men into beasts, they at my feet,
+A sea-witch's power, it can't be beat.
+Don't stop 'til I get that lion's heat,
+Odysseus, you can't escape defeat.
+
+But for now, just watch the show unfold,
+My domain, my story to behold.
+You'll see each man become a beast, one by one,
+In Circe's hall, it's where it's done.
