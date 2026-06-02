@@ -38,3 +38,29 @@ This water is bitter, but I've faced worse before.
 So I push on, through the pain, won't give up this fight.
 Ain't about heroics, just about surviving,
 And I ain't never been one to back down.
+
+### Turn 3 — NAUSICAA 🌸
+
+[STAGING: Nausicaa approaches the figure on the beach; her maids hang back; she does not.]
+
+NAUSICAA:
+Yo, Odysseus, this here's a royal welcome
+From your highness, Nausicaa, princess of Scheria.
+I ain't afraid of a man down on his luck,
+No need to hide, I see the God in you struck.
+
+[STAGING: She offers him clothes and food.]
+
+NAUSICAA:
+Take these clothes, man, don't feel a thing,
+Your royal rags ain't fit for a king.
+Eat up, rest, and then follow me,
+To my father's court, where you will see.
+
+[STAGING: She leads him towards the palace.]
+
+NAUSICAA:
+I won't lie, it'll be a long walk home,
+But I believe in you, Odysseus, like stone.
+Stay strong, brother, we're almost there,
+The winds of change are calling, let's dare.
