@@ -36,3 +36,21 @@ Aye, listen up now, friends of Ithaca. You know Penelope's game, her weaving tri
 Odysseus gone these years, no trace, no sign. She keeps our hearts entwined in sorrow and despair.
 But what if we rise up? Set this heart ablaze! Let's find the truth, make our intentions clear:
 This feast was for Odysseus, not a test of will. We dine to show the world he's still the king of Ithaca here.
+
+### Turn 3 — ATHENA 🦉
+
+[STAGING: Athena as Mentes draws Telemachus to a quiet corner, away from the feast]
+
+MENTES:
+Yo, son, I see you've grown strong, despite the storm. I heard about your struggle here at home—
+You ain't alone. Your pops, Odysseus, may not be gone like they claim.
+Listen close: he's alive, and he's on his way back home again.
+I swear it, Telemachus, he'll be here anon.
+
+[STAGING: Mentes points to the flames of a lit fire concealed in his cloak, casting a soft glow over them]
+
+MENTES:
+Take this flame, my boy—it's a torch for your father's return.
+When you feel its heat, let it light a fire within your heart, burn.
+Stand tall and strong, just like the man he raised you to be.
+Odysseus will find his way back to Ithaca, and all that's right will be.
