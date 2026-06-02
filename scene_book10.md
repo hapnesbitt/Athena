@@ -24,3 +24,37 @@ HERMES
 Yo Odysseus, the game ain't over yet. I got a gift, tuck this moly in your hand, keep you safe when she casts her spell. Don't let Circe get the best of you tonight, my man, remember who you are and stand tall.
 
 [STAGING: Hermes slips Odysseus the moly and vanishes]
+
+### Turn 2 — CIRCE 🪄
+
+Circe steps onto the floor, her eyes blazing like twin stars. A low purr rumbles through her chest as she takes in each man before her, a predatory smile spreading across her face.
+
+[STAGING: dancers move among the tables and bring three men up from the tables as the crew]
+
+"Yo, welcome to my domain, where I weave the tapestry of fate. Your flesh is but clay in my hands, your souls mine to mold. Don't try to resist, don't even contemplate. You're here for Circe's delight and I won't have you waste it."
+
+She raises her arms, her voice soaring above the murmur of the crowd as she launches into a fierce, hypnotic verse. The rhythm pulsing through her body, she commands the room, each man transforming beneath her spell.
+
+[STAGING: Circe performs her 'Don't Stop' number]
+
+As she sings, she moves among them, her voice seductive and commanding, her magic weaving around them like tendrils of smoke. The men become beasts at her feet, a chorus of growls and snarls rising in harmony with her song.
+
+But the magic falters when it meets Odysseus, the lion among men. With a fierce roar, he pushes through the transformation, his power unyielding even under Circe's gaze. And as he stands, unchanged, her eyes flash with fury and humiliation.
+
+[STAGING: Circe overpowers Odysseus, but cannot transform him]
+
+"Impossible!" she snarls, claws digging into his arm. But the moly held firm, and her power was left unmatched. She glares at the lion before her, her pride stinging like a thousand bee-stings.
+
+[STAGING: Circe turns to face the crew, her eyes narrowed as she commands]
+
+"Beasts, do my bidding! Attack!"
+
+But Odysseus stands firm, and with a word, he snaps each beast back into its human form. The room is left in stunned silence as Circe's power is stripped away, the lion among men standing victorious.
+
+[STAGING: dancers move among the tables and restore the crew to their human forms]
+
+Circe watches as the crew returns to their human state, her anger simmering just beneath the surface. She knows she has been conquered, and it is a bitter pill to swallow. But she will not show weakness in front of this lion; instead, she bows her head and disappears, leaving Odysseus and his crew to continue on their journey home.
+
+[STAGING: Circe vanishes]
+
+Muse's voice echoes through the room as the immersive dinner theater continues, but the memory of Circe's powerful performance remains, a testament to the enduring allure of myth and magic.
