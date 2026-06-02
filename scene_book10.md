@@ -176,3 +176,11 @@ The night is won, the men are free, their spirits now unchained,
 This lion's den I ruled was shaken and in vain.
 I'll rise again with greater strength, to claim what is mine,
 This city-stormer bested me this eve, but not forever divine.
+
+### Turn 8 — NARRATOR 📜
+
+THE SCENE CLOSES —
+THE CREW RESTORED. Odysseus triumphant, unyielding power flipped.
+No partnership here. Circe conquered, left behind.
+Tonight, they turn for the ships and are gone.
+A clean victory, crowd-pleasing button.
