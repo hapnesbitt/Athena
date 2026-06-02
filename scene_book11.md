@@ -80,3 +80,12 @@ Shadows swirl, darkness tightens round
 I stand tall, won't be unfurled
 Resolve is steel, spirit unbowed
 Odysseus returns, the game is cured.
+
+### Turn 5 — NARRATOR 📜
+
+[STAGING: A single, bright shaft pierces through the darkness; Odysseus steps forward, his eyes fixed on it.]
+
+The dead recede like waves before a god, parting for his path.
+He walks alone, burdened by their prophecies and ghostly whispers.
+As he steps back towards the light, it seems the Underworld's chill clings to him.
+A new resolve burns within Odysseus - ten years of darkness tempered.
