@@ -58,3 +58,14 @@ Athena planted seeds of home within my heart anon
 But Calypso's hold is strong, a serpent's coil upon my bones
 I must choose now, between this paradise and what I've lost
 The city-sacker's journey turns to one of bitter cost.
+
+### Turn 4 — HERMES 🪽
+
+Zeus's command, not my own, Calypso
+Release him, let the journey home begin
+Resistance won't change the will of Olympus
+His fate is set, gods or no, Odysseus must renounce
+The sea-witch's hold, though strong, cannot stand against the will
+Of Zeus and Athena, the city-sacker's journey is real
+Take heed, Calypso, this is not a plea
+Odysseus must return, or suffer mortal decree
