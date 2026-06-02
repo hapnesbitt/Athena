@@ -69,3 +69,20 @@ Calypso, Goddess of Ogygia, I'm Hermes, Messenger of Zeus,
 You can feel my presence now, it's not a boast, just stating the news.
 Zeus has commanded Odysseus to be set free, that's all there is to say,
 No further debate or discussion, Calypso, that's his decree.
+
+### Turn 5 — CALYPSO 🌊
+
+Yo, this verse for all the sea-witches out there
+Got a sailor that brings home wealth and more
+Odysseus of Ithaca, I call him mine
+He's my city sacker, my conqueror divine
+
+He sacks my cities with his cunning guile
+Leaves empires in ashes, sets them on fire
+But when the night falls, he comes to me
+I am Calypso, his only sea
+
+So Zeus and all his Gods, I dare you try
+To pry him from my arms, I'll make you cry
+Odysseus is mine, and I'm not giving up
+My type's a predator, and he's never enough
