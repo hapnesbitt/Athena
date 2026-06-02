@@ -97,3 +97,12 @@ Let the waves claim the plunder, let the salt burn my skin,
 For where the true fire burns, that is where I begin.
 I sail not for pleasure, but for the place I must claim,
 To drag the broken ship back to my rightful name.
+
+### Turn 9 — NARRATOR 📜
+
+The decree was spoken, and the magic of the isle fractured.
+Calypso watched the tether sever, a frozen scream of sea-salt and rage.
+Odysseus turned from the gilded cage toward the blinding horizon.
+The waters, once a lover’s bed, became the crucible of his fate.
+And so the ghost ship slipped free, driven by the memory of Ithaca.
+The long road began, a reckoning written in salt and fire.
