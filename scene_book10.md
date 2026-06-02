@@ -16,3 +16,11 @@ So sit back, relax, and prepare to be swept away by the irresistible rhythm and 
 Let the games begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+HERMES
+
+Yo Odysseus, the game ain't over yet. I got a gift, tuck this moly in your hand, keep you safe when she casts her spell. Don't let Circe get the best of you tonight, my man, remember who you are and stand tall.
+
+[STAGING: Hermes slips Odysseus the moly and vanishes]
