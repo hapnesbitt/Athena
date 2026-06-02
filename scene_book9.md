@@ -83,3 +83,33 @@ Poseidon, my father, help me! The man called Nobody did this to me!
 [STAGING: A transformation begins, power seeping from Polyphemus as he collapses, the audience watches in horror]
 Nobody... but I know who you really are now. And I'll make you pay for this.
 [STAGING: Odysseus slips away into the shadows, leaving a devastated Polyphemus and a shaken court behind him]
+
+### Turn 5 — ODYSSEUS 🗡️
+
+Verse 1:
+(4 bars)
+Tales of raids, the Cicones and more,
+Lotus Eaters tried to swallow whole.
+Clever tricks to save my crew each time,
+But this reckless streak, it's no divine rhyme.
+
+Pre-hook:
+(2 bars)
+Yet here we are, stuck in the same snare,
+I know better but can't seem to care.
+
+Hook:
+(4 bars)
+Bad habits, they cost me ten years of life,
+Can't resist the rush that makes us strive.
+
+Verse 2:
+(4 bars)
+Cyclops lurking in his lair so vast,
+My trick works and now he's blinded fast.
+Ships clear the bay, I shout my name aloud,
+The god of sea hears but shows no cloud.
+
+[STAGING lines]
+As I let out that fateful cry,
+Poseidon's wrath flares up on high.
