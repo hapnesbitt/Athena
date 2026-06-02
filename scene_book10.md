@@ -157,3 +157,19 @@ You have shamed me before my peers.
 I WILL NOT BE FORGIVEN.
 
 [STAGING: Circe vanishes, humiliated and furious]
+
+### Turn 6 — ODYSSEUS 🗡️
+
+Odysseus steps forth, moly raised high in his grasp, a silver beacon against the dark. His voice echoes through Circe's hall like thunder, commanding:
+
+"Listen up, witch! This spell can't stand before my will. No charm you weave can hold me when I bear the goddess Athena's might.
+
+[STAGING: The moly glows bright as Circe's spell falters; the beasts tremble]
+
+By the gods, I am the king of men, and now I roar! Transform my crew back to their human forms, or watch me seize every ounce of your power. I am Odysseus, the storm that sweeps across the sea, unstoppable and fierce.
+
+With each word, his presence grows stronger, a force impossible to resist. Circe's power falters beneath his gaze, and she knows she must yield to the roar of the king. The beasts quake as they are returned to human flesh, released by Odysseus's power and the moly in his hand.
+
+The crew stands before him, united under their leader. Odysseus bows his head, a brief moment of victory before he turns away, knowing that his journey home is far from over. The immersive dinner theater continues, but Circe's defeat will be remembered as a tale of strength and cunning in the face of impossible odds.
+
+[STAGING: Odysseus's crew stands united before him]
