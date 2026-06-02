@@ -64,3 +64,22 @@ I won't lie, it'll be a long walk home,
 But I believe in you, Odysseus, like stone.
 Stay strong, brother, we're almost there,
 The winds of change are calling, let's dare.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus stands; the blue light shifts to gold; the dancers as waves become celebration]
+
+Two days I battled Poseidon's reign, no man could endure this pain
+My raft was wrecked, my heart was spent, in the depths it seemed so strange
+But Athena's grace, a beacon shining through the darkest of the rain
+I felt her hand, a miracle unseen, I survived it
+
+Rain on me, I fought to win it
+The ocean's fury tried to break me, but I stood tall and went on spinning
+A savior appeared, a maiden fair, Nausicaa, who led me from despair
+Her name rings in my heart, her kindness warms the cold of ten long years alone
+
+But I was more than just a warrior, beneath the pain, a fire burned
+The will to live, the hunger for a fight, it wasn't born but learned
+So here I am, still standing tall, a story yet to be unfurled
+I survived, now watch me conquer all, the storm is only a swirl.
