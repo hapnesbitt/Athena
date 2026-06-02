@@ -98,3 +98,26 @@ But Calypso's grip, it holds, a serpent's coil, strong and unyielding
 My heart is torn between desire and duty, a battlefield where I am yielding
 To leave her shores means sacrifice, the spoils of war a bitter pill
 No longer can I linger here, with every step a piece of me I will spill
+
+### Turn 7 — CALYPSO 🌊
+
+Anchor verse:
+Calypso's Crown, I wear it high
+Odysseus my treasure, he can't deny
+He's mine and always will be
+My sacker of cities, my sea's decree
+
+Goddess to Gods, hear me roar
+I keep no man captive, never before
+This island not a prison, but a sanctuary
+Where two predators formed an alliance, so it must be
+
+He sacks my cities with his cunning guile
+Leaves empires in ashes, sets them on fire
+But when the night falls, he comes to me
+I am Calypso, his only sea
+
+Now you shall set him free, Zeus and all
+The journey home has claimed its toll
+My heart is heavy with this decree
+But I stand tall, a Goddess of the sea
