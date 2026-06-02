@@ -38,3 +38,12 @@ Mistook bravery for foolishness, gave Poseidon a target to call.
 
 Yo, let me pour one out for my bad habits, 'cause they cost me everything,
 But don't forget the Odyssey starts again, right here in this moment.
+
+### Turn 2 — POLYPHEMUS 👁️
+
+[STAGING: Polyphemus — a dancer — fills the space, enormous; the others shrink back]
+
+RUMBLE, ROAR, CRUNCH-CRUNCH
+Men between teeth, no mercy in hunger
+This cave mine, I own it, I eat it up
+Strangers here taste my wrath, no quarter given.
