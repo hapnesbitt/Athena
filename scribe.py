@@ -187,10 +187,11 @@ BOOK10_TURN_ORDER = [
         "magic cannot touch you and the floor is yours now. This is your one "
         "truly ACTIVE scene — seize it, no torn hesitation. Include staging, "
         "e.g. [STAGING: Circe's potion washes over Odysseus and nothing "
-        "happens; he steps forward unbroken].",
+        "happens; he steps forward unbroken]. Do NOT free the crew yet — that "
+        "is the demand turn's job.",
         "flip",
-        "seize the room in one cold move — no hesitation, no wound showing; "
-        "you've been handed the key and you are turning it RIGHT NOW",
+        "seize the floor and establish immunity — cold and total — the crew "
+        "rescue comes next turn, not here",
         "torn, longing, appetite, Calypso, home, Ithaca, Penelope — this is NOT "
         "the torn-Odysseus of Book V; he is decisive and cold here",
     ),
