@@ -61,3 +61,17 @@ Six souls taken, life ebbs with each wrench,
 A dance of death played out without remorse,
 No pity, no mercy, no reprieve,
 Fate's cruel hands claim what we conceive.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus narrates, head bowed — he knew and he slept and they did it anyway]
+
+Odysseus:
+The cattle, sacred to Helios, now gone
+A feast for our famished crew, but I was alone
+In my dreams, a warning from Tiresias I'd seen
+Yet here on this island, under the sun's unforgiving glare
+I felt weary, and sleep crept upon me like a snare
+The beast within stirred, it yearned for that meat so rare
+My men devoured as I slumbered, my caution laid bare
+Now Zeus' wrath looms over us, my heart heavy with despair
