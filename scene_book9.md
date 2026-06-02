@@ -113,3 +113,21 @@ The god of sea hears but shows no cloud.
 [STAGING lines]
 As I let out that fateful cry,
 Poseidon's wrath flares up on high.
+
+### Turn 6 — NARRATOR 📜
+
+NARRATOR
+
+*As the audience holds their breath, a hush descends.*
+
+*The Cyclops falls to the ground, powerless; his transformation complete.*
+
+[STAGING: The Odysseus-shaped hole in Polyphemus now clear for all to see]
+
+Yet Poseidon's wrath was but a spark,
+Ignited by that fateful name in dark.
+With one moment of unchecked pride he paid,
+A heavy toll upon the sea to stay.
+
+Ten years wandering now, a price he pays,
+For that one boast that cost him endless days.
