@@ -173,3 +173,15 @@ With each word, his presence grows stronger, a force impossible to resist. Circe
 The crew stands before him, united under their leader. Odysseus bows his head, a brief moment of victory before he turns away, knowing that his journey home is far from over. The immersive dinner theater continues, but Circe's defeat will be remembered as a tale of strength and cunning in the face of impossible odds.
 
 [STAGING: Odysseus's crew stands united before him]
+
+### Turn 7 — CIRCE 🪄
+
+Circe, standing tall and resolute, lets out a low growl as she raises her hands high:
+
+"So be it. I concede to your strength."
+
+[STAGING: one by one the beasts rise onto two legs, men again, blinking in the light]
+
+"You have won this battle, but remember, Odysseus," Circe's voice echoes through the hall, "your victory comes at a price."
+
+Circe turns away, her pride swallowed by humiliation, but she breaks the spell on her own terms. With one final defiant glance, she vanishes, leaving behind only the echo of her fury and the restored men standing before Odysseus.
