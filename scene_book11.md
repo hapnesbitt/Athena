@@ -22,3 +22,15 @@ Yet fear ain't got a hold on me; I won't let this ghostly dance
 Steal my heart or sway my resolve. I've faced greater foes than these.
 I'm the sacker of cities, the conqueror of the gods,
 And I'll find the answers I seek in the heart of this hellhole.
+
+### Turn 2 — TIRESIAS 🔮
+
+[STAGING: Tiresias stands utterly still amid the moving shades; Odysseus kneels.]
+
+Tiresias:
+Poseidon's wrath doth hunt thee, sea-king. Your journey's long, fraught with pain.
+The Sun's cattle will be thine, but only after much gain.
+Suitors await thy home, feasting on wife and kingdom's reign.
+Thy return is solitary, a lonely path untamed.
+But the journey's end waits for thee: glory and a life reclaimed.
+So seek Zeus's favor, Icarus of the sea, take heart in his name.
