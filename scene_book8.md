@@ -94,3 +94,49 @@ Alcinous: Friend, we've dined and listened to the tales of old,
 Now let your voice echo through this Phaeacian hold.
 The audience is yours tonight — speak of your deeds and plight,
 And may the gods grant you solace in our presence tonight.
+
+### Turn 4 — DEMODOCUS 🎵
+
+TURN 3 — DEMODOCUS 🎵
+
+[STAGING: Demodocus begins again, his voice laden with pride and mischief.]
+
+Verse 1:
+Wooden horse, crafted in secret, a deception of fate,
+The Greeks hid within its belly, waiting for the fateful gate.
+Odysseus, cunning as the snake, orchestrated this ploy,
+A trick to end the war, and bring Troy to her end-of-days.
+
+Chorus:
+But I'll tell it straight, no room for lies,
+The story of the horse, will make your hairs rise,
+Troy was unaware, as they welcomed it inside,
+A thousand soldiers hidden in this beast that lied.
+
+Verse 2:
+As night descended on the city, the Trojans cheered with glee,
+Their guards grew lax, their vigilance decreased. The horse was set free,
+Into Troy's heart it ventured, into its core it crept,
+The Greeks emerged from its belly, like a beast that had been repressed.
+
+Chorus:
+But I'll tell it straight, no room for lies,
+The story of the horse, will make your hairs rise,
+Troy was unaware, as they welcomed it inside,
+A thousand soldiers hidden in this beast that lied.
+
+[STAGING: Demodocus finishes his song and pauses, sensing the emotion it stirred.]
+
+Verse 3:
+Odysseus, mastermind of deception, stood tall amongst them all,
+As Troy burned and its people fell, he stood with a heavy heart.
+For ten long years, the war had raged, a toll on every soul,
+But with the fall of Troy, came a new story to be told.
+
+Chorus:
+But I'll tell it straight, no room for lies,
+The story of the horse, will make your hairs rise,
+Troy was unaware, as they welcomed it inside,
+A thousand soldiers hidden in this beast that lied.
+
+[STAGING: Odysseus pulls his cloak over his face, his tears flowing freely.]
