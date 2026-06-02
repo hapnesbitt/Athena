@@ -119,3 +119,12 @@ A new chapter starts right now, no scar.
 Hook:
 Fast, moving fast, towards a father and a future,
 Claiming my birthright, no more fear or turmoil.
+
+### Turn 6 — NARRATOR 📜
+
+── THE SCENE'S CLOSE ---
+
+With sails hoisted high and wind beneath their wings, the ship leapt forth from its mooring.
+Telemachus stood atop, a son reclaiming his father's kingdom—an odyssey begun.
+Unnoticed by the suitors, who lingered in feasting and frivolity below,
+The sea opened wide before them, offering no more obstacles to their goal.
