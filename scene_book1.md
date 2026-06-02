@@ -84,3 +84,33 @@ I am the heart of this house, the queen of its sorrow.
 Bow your heads now, all suitors, before I decree:
 In this place where Odysseus once held court so proudly,
 Now stands Penelope, regal and worn by grief.
+
+### Turn 6 — TELEMACHUS ⚔️
+
+[STAGING: Telemachus steps to the center of the hall; the suitors fall silent]
+
+Verse 1:
+Twenty years they eat while my heart's shattered,
+Watching these leeches disrespect my father's legacy.
+They keep on laughing, keeping my king down,
+But tonight, Telemachus won't be found.
+
+Pre-hook:
+Tired of dealing with it, tired of the lies,
+Ready to rise up and strike like a surprise.
+
+Hook:
+Deal with it / This kingdom ain't yours, you playground squanderers,
+Can't take my father, won't let you dismantle his standers.
+
+Verse 2:
+Athena spoke to me, told of a father alive,
+A fire in her eyes, a warring spirit inside.
+I take up the torch, it's more than a symbol,
+Odysseus is coming, the time for him's here.
+
+Bridge:
+So listen up suitors, to my words so clear,
+From this moment on, your rule comes to an end here.
+My father returns, and he won't be silenced,
+Your days are numbered, now you gotta face it.
