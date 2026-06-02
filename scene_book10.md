@@ -16,3 +16,19 @@ Circe will cast her spell on them, turning them into beasts in a mesmerizing per
 Let's raise our glasses to Odysseus's triumphant return and witness the magic unfold before our eyes! Don't stop, won't stop! Let the show begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+HERMES
+
+Breeze whispers secrets through the night,
+Got a mission that I gotta ignite.
+Dropping by, just as the moon takes flight,
+Handin' you somethin', gonna set it right.
+
+It's the moly, no time for explanation,
+Puts Circe's brew in vacation.
+Now it's your time to take action,
+Odysseus, it's the only foundation.
+
+[STAGING: Hermes slips Odysseus the moly and vanishes]
