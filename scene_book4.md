@@ -64,3 +64,18 @@ Let the crew bring what they got, pass it on,
 Telemachus, you carry your father home strong.
 We'll give him a fight, but don't fear the fall,
 For Odysseus is greater than them all.
+
+### Turn 4 — TELEMACHUS ⚔️
+
+[STAGING: Telemachus stands, eyes blazing with newfound resolve]
+
+TELEMACHUS:
+Rude boy, fresh off the Trojan shore (Verse 1)
+Recognized by Menelaus, Helen's confirmation (Pre-hook)
+Coming for my father, don't underestimate (Hook)
+Ithacans, brace yourselves, I'm on the warpath (Bridge)
+[STAGING: dancers bring three men up from the tables as the crew]
+My father's legacy now my sworn mantle (Verse 2)
+Suitors won't see me coming, son of Odysseus (Hook)
+This is for the throne, this is for the fame (Bridge)
+I'm the rude boy, I'm stepping up to claim.
