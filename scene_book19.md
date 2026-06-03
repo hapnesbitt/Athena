@@ -113,3 +113,12 @@ Never losing the thread like they all do by stare,
 Tonight's no different, this I won't forget,
 Playing this savage game and waiting yet.
 [STAGING lines — the interview, the firelight]
+
+### Turn 6 — NARRATOR 📜
+
+The queen's gaze lingers,
+A dance of love and war unfolds.
+The secret known but held in check,
+A moment stolen from the gods above.
+
+[STAGING: A gentle wind stirs, a sigh breathes life into the scene, and all is still.]
