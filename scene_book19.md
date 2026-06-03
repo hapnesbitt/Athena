@@ -38,3 +38,20 @@ You're wise and cunning, I can see it plain,
 But keep your sorrow close like an old pain.
 He'll come, you'll feel his love, like fire and storm,
 A husband lost but not forgotten, hear his form.
+
+### Turn 2 — PENELOPE 🧵
+
+[STAGING: Penelope leans in, studying the beggar's face, a question forming she does not ask]
+
+PENELOPE:
+You fought the Cyclops, you wore its hide as cloak,
+Bore the scar like brand on your foot, I probe.
+Speak, if the tales of old are true, reveal
+The man who claimed my heart and then did steal.
+
+A husband's name, his battle scars, a look -
+Each tested, each confirmed, a book unlooked.
+Yet from my lips these secrets do not flow,
+I am the queen, I wear my masks like snow.
+
+[STAGING: Penelope sits back, her eyes ablaze but her face unfaltering]
