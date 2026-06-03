@@ -60,3 +60,32 @@ My love... my king... I knew in that moment, pure and true,
 I'd never lost you to another, though the gods might move me through.
 Welcome home, Odysseus—my heart is yours, this night and evermore,
 A test passed, a secret revealed, our reunion by my terms it shall be explored.
+
+### Turn 4 — PENELOPE 🧵
+
+Athena's RAPS:
+Yo, this song, yo / This one's for all the Queens out there
+Who been lied to by Kings / And I know you feel me
+Over and over again / This is for y'all
+10 years ago today, Victory in Troy
+Odysseus sacrificed for us. He brought spoils and gave to Zeus (Yo, it was the truth)
+Odysseus gained victory through every adversity
+The whole time I thought to myself, this ain't right
+What is this I see? / He don't come home to me (Oh, no)
+You keep tellin' me lies / But to your surprise
+Look, I found Calypso's red coat / And you're caught out there
+So sick of your games, Calypso I'll set your truck to flames
+And watch it blow up, blow up — tell me / How you gonna make him see it now?
+
+New Rules:
+No more sneaking in under the guise of night
+I won't fall for those old tricks, no longer outta sight
+The bed test passed, your love has been tested and tried
+Now, Odysseus, you got a chance to prove that you're not just another guy
+
+My love for you was tested through these years
+A throne so strong it could withstand all tears
+Now we rebuild, our marriage stronger yet
+Together again, a bond beyond regret
+
+[STAGING: Penelope steps toward Odysseus, and they share a tender embrace]
