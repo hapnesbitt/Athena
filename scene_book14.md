@@ -60,3 +60,27 @@ But you, you're different. Your spirit feels true,
 And if I believed in hope for just one person, it's you.
 But don't mistake my kindness for some naive belief,
 I ain't no fool, can't afford to dream a dream that might leave me grief.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+Yo, without me here, the house feels hollow and cold,
+Eumaeus is the one left holding the fold.
+He's kept faith through these years gone by,
+I owe him a heartfelt "thank you" beneath this guise I hide.
+
+The moon hangs high, it's a tale of a king gone,
+Without me, his house and hounds left to mourn.
+But Eumaeus here, he's got a spirit unbroken,
+My heart strings ring as I watch him choked up.
+
+Without me, the tables lay empty and bare,
+The fires burn low, the laughter not there.
+This faithful servant keeps the memory alive,
+In my heart, I know I owe it to him to thrive.
+
+[STAGING: Odysseus's eyes glint under the firelight, a subtle transformation begins]
+
+Without me, this house feels like a kingdom in ruin,
+But Eumaeus here, he's a beacon of truth and a silver lining.
+I'll make it back home soon and restore the throne,
+But in this moment, I am Odysseus unshown.
