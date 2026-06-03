@@ -12,3 +12,18 @@ But fear not, our hero is about to be released, torn between his insatiable appe
 Now if you'd kindly direct your attention to the stage, Calypso awaits us with her rhythmic plea. It's time for "My Type," a tune that speaks volumes about power, desire, and the complex bonds that bind us all. Let's raise a glass to this intricate dance, shall we?
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Golden wings on fire, I swoop low to Calypso's land,
+Zeus' orders in hand, I got a message to command:
+Odysseus release, the journey home has begun,
+A king must return, his crown is awaited one.
+
+I know she'll resist, this sea-witch's allure is strong,
+But my wings won't be bound by Calypso's sweet song,
+Odysseus is a warrior, his heart yearns for the fight,
+The gods may have played him, but tonight I set things right.
+
+Now fly out with the wind, spread these words far and wide,
+A new chapter begins, time to turn from tide.
