@@ -122,3 +122,17 @@ I wanted my kingdom back, I put in twenty years of fight,
 Now it's mine, it's secured, I've paid the cost with sight.
 We did it, we achieved it, our struggles paid off,
 This is the triumphant close, the song that I have taught.
+
+### Turn 6 — NARRATOR 📜
+
+NARRATOR
+
+The suitors' final dance, their vengeful spirits quelled,
+The kingdom whole once more, three generations swell.
+Odysseus crowned anew, his line secure,
+This long-awaited song, at last, we sing with certainty:
+
+[STAGING: Athena, a goddess of peace and strife, smiles down upon them all]
+
+The Odyssey ends. Now may you find home in every heart,
+In every journey's end, in the love that binds us all apart.
