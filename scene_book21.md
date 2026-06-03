@@ -26,3 +26,10 @@ Antinous:
 This ain't right. The wood's cold or somethin'. It don't feel like me. Y'all see this? I'm still the kingmaker, y'all just waitin' on your turn to see me falter. I'll string it up later when the bow recognizes its master. This ain't over yet.
 
 [STAGING: Antinous passes the bow down with a forced smile.]
+
+### Turn 3 — EURYMACHUS 🎭
+
+[STAGING: Eurymachus steps up with a confident swagger, but falters as he grips the bow. A look of fear flickers across his face.]
+
+Eurymachus:
+Damn, son, this ain't right — it don't feel like me neither. Antinous, you wrong about this one. I mean, we both know it's your game but... (beat) This ain't the way it's supposed to go down. A king amongst thieves, we play 'em all, right? But now I see... (pauses, eyes widening) We ain't fit to shine Odysseus's shoes. The house is his and we just stole what wasn't ours to take. This trap, it's closing fast and there's no escape. Damn.
