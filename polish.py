@@ -103,8 +103,17 @@ def heading_speaker(line):
 
 
 def strip_labels(lines):
-    """Drop redundant in-body speaker labels. Returns (new_lines, warnings)."""
-    out, warnings = [], []
+    """Drop redundant in-body speaker labels (speaker-aware).
+
+    Returns (new_lines, stripped, flags):
+      stripped — count of ROUTINE cleanups done (redundant same-speaker labels and
+                 stray RAPS-style headers removed); no review needed.
+      flags    — notes for labels that need EYEBALLS: a label naming a different
+                 character than the turn heading = possible mis-attribution, kept
+                 in place rather than silently merged.
+    """
+    out, flags = [], []
+    stripped = 0
     current = None
     for ln in lines:
         sp = heading_speaker(ln)
@@ -115,17 +124,18 @@ def strip_labels(lines):
         if ln.strip().startswith("[STAGING"):
             out.append(ln)
             continue
-        # A "Name's RAPS:" header is a bleed mislabel, never a real speaker line.
+        # A "Name's RAPS:" header is a stray bleed mislabel — routine to drop.
         if RAPS_RE.match(ln):
-            warnings.append(f"dropped stray header: {ln.strip()!r}")
+            stripped += 1
             continue
         # Standalone bare label line ("Penelope:" / "ODYSSEUS").
         bare = ln.strip().rstrip(":").strip()
         if bare.upper() in LABELS:
             if current and bare.upper() == current:
-                continue  # redundant — drop it
-            warnings.append(f"kept mismatched label {ln.strip()!r} inside {current} turn "
-                            f"(possible mis-attribution — review)")
+                stripped += 1             # redundant same-speaker label — routine drop
+                continue
+            flags.append(f"kept mismatched label {ln.strip()!r} inside {current} turn "
+                         f"(possible mis-attribution — review)")
             out.append(ln)
             continue
         # Inline "Name: rest" prefix.
@@ -133,15 +143,16 @@ def strip_labels(lines):
         if m and m.group(1).upper() in LABELS:
             name, rest = m.group(1).upper(), m.group(2)
             if current and name == current:
+                stripped += 1             # redundant same-speaker prefix — routine drop
                 if rest.strip():
-                    out.append(rest)        # strip the redundant prefix, keep the words
+                    out.append(rest)      # keep the words, drop the prefix
                 continue
-            warnings.append(f"kept mismatched inline label {ln.strip()[:40]!r} inside "
-                            f"{current} turn (possible mis-attribution — review)")
+            flags.append(f"kept mismatched inline label {ln.strip()[:40]!r} inside "
+                         f"{current} turn (possible mis-attribution — review)")
             out.append(ln)
             continue
         out.append(ln)
-    return out, warnings
+    return out, stripped, flags
 
 
 # ---------- 2. deterministic bleed detection ----------
@@ -280,7 +291,11 @@ def clean_rewrite(text):
 
 
 def rewrite_span(stanza_lines, speaker, bible_text, frags):
-    """Rewrite a bleeding stanza; retry once if it still bleeds. Returns (lines, note)."""
+    """Rewrite a bleeding stanza; retry once if it still bleeds.
+
+    Returns (lines, note, flagged): flagged=True means it needs review (the rewrite
+    still echoes the bible, or it failed and the stanza was left as-is).
+    """
     content = [ln for ln in stanza_lines if ln.strip()]
     n = len(content)
     speaker = speaker or "the speaker"
@@ -288,11 +303,11 @@ def rewrite_span(stanza_lines, speaker, bible_text, frags):
         raw = call_ollama(REWRITE_SYSTEM, build_rewrite_prompt(stanza_lines, speaker, bible_text, n))
         new = clean_rewrite(raw)
         if new and not any(line_is_bleed(ln, frags) for ln in new):
-            return new, f"rewritten ({n}->{len(new)} lines, attempt {attempt})"
+            return new, f"rewritten ({n}->{len(new)} lines, attempt {attempt})", False
     # Still bleeding (or empty) after retries — keep the best attempt but flag it.
     if new:
-        return new, "rewritten but STILL echoes bible — review"
-    return stanza_lines, "rewrite failed/empty — left as-is, review"
+        return new, "rewritten but STILL echoes bible — review", True
+    return stanza_lines, "rewrite failed/empty — left as-is, review", True
 
 
 # ============================== PER-BOOK =====================================
@@ -303,48 +318,61 @@ def scene_paths(book_id):
 
 
 def polish_book(book_id, bible_text, frags):
-    """Polish one book. Returns (status, raw_chars, polished_chars)."""
+    """Polish one book. Returns (status, rewritten, stripped, flagged).
+
+    rewritten — bleed stanzas actually rewritten (routine fix done).
+    stripped  — redundant same-speaker labels removed (routine cleanup done).
+    flagged   — items that need Ross's eyeballs (mismatched labels + stanzas whose
+                rewrite still echoes the bible or failed).
+    status    — 'done', 'review' (flagged>0), or 'skipped'.
+    """
     raw_path, polished_path = scene_paths(book_id)
     if not os.path.isfile(raw_path):
         log(f"  · Book {book_id}: no {os.path.basename(raw_path)} — skipped")
-        return ("skipped", 0, 0)
+        return ("skipped", 0, 0, 0)
 
     with open(raw_path, "r", encoding="utf-8") as f:
         raw = f.read()
     lines = raw.splitlines()
 
-    # 1. deterministic label strip.
-    lines, warnings = strip_labels(lines)
-    for w in warnings:
-        log(f"    · label: {w}")
+    # 1. deterministic label strip (routine strips counted, mismatches flagged).
+    lines, stripped, flags = strip_labels(lines)
+    for fnote in flags:
+        log(f"    · label: {fnote}")
+    label_flagged = len(flags)
 
     # 2 + 3. detect bleed spans, rewrite each (last-to-first to keep indices valid).
     spans = find_bleed_spans(lines, frags)
     if spans:
         log(f"    · bleed: {len(spans)} copied stanza(s) detected")
-    failures = 0
+    rewritten = 0
+    stanza_flagged = 0
     for (start, end, speaker) in reversed(spans):
         stanza = lines[start:end + 1]
         try:
-            new, note = rewrite_span(stanza, speaker, bible_text, frags)
+            new, note, flagged = rewrite_span(stanza, speaker, bible_text, frags)
         except Exception as e:  # noqa: BLE001 — fail soft on a single stanza
             log(f"    !! Book {book_id}: stanza rewrite errored ({speaker}): {e}")
-            failures += 1
+            stanza_flagged += 1
             continue
-        lines[start:end + 1] = new
+        if new != stanza:
+            lines[start:end + 1] = new
+            rewritten += 1
+        if flagged:
+            stanza_flagged += 1
         log(f"    · bleed: {speaker} stanza @line {start + 1} — {note}")
 
     polished = "\n".join(lines).strip() + "\n"
     with open(polished_path, "w", encoding="utf-8") as f:
         f.write(polished)
 
-    if failures:
-        log(f"  ~ Book {book_id}: wrote {os.path.basename(polished_path)} "
-            f"with {failures} stanza error(s) — review")
-        return ("partial", len(raw), len(polished))
-    log(f"  ✓ Book {book_id}: wrote {os.path.basename(polished_path)} "
-        f"({len(spans)} stanza(s) rewritten, {len(warnings)} label note(s))")
-    return ("done", len(raw), len(polished))
+    flagged_total = label_flagged + stanza_flagged
+    status = "review" if flagged_total else "done"
+    mark = "⚠" if flagged_total else "✓"
+    log(f"  {mark} Book {book_id}: wrote {os.path.basename(polished_path)} — "
+        f"{rewritten} stanza(s) rewritten ({stanza_flagged} flagged), "
+        f"{stripped} labels stripped ({label_flagged} flagged for review)")
+    return (status, rewritten, stripped, flagged_total)
 
 
 def main():
@@ -371,22 +399,27 @@ def main():
     results = []
     for book_id in book_ids:
         try:
-            status, raw_c, pol_c = polish_book(book_id, bible_text, frags)
+            status, rewritten, stripped, flagged = polish_book(book_id, bible_text, frags)
         except Exception as e:  # noqa: BLE001 — fail soft per book, continue
             log(f"  !! Book {book_id} FAILED: {e}")
-            status, raw_c, pol_c = ("failed", 0, 0)
-        results.append((book_id, status, raw_c, pol_c))
+            status, rewritten, stripped, flagged = ("failed", 0, 0, 0)
+        results.append((book_id, status, rewritten, stripped, flagged))
 
+    # One-glance table: rewrote/stripped = routine work done; flagged = needs eyeballs.
     log("")
-    log("  book | raw chars | polished chars | status")
-    log("  -----+-----------+----------------+---------")
-    for book_id, status, raw_c, pol_c in results:
-        log(f"  {book_id:>4} | {raw_c:>9} | {pol_c:>14} | {status}")
-    done = sum(1 for _, s, _, _ in results if s in ("done", "partial"))
-    skipped = sum(1 for _, s, _, _ in results if s == "skipped")
-    failed = sum(1 for _, s, _, _ in results if s == "failed")
+    log("  book | rewrote | stripped | flagged | status")
+    log("  -----+---------+----------+---------+--------")
+    for book_id, status, rewritten, stripped, flagged in results:
+        log(f"  {book_id:>4} | {rewritten:>7} | {stripped:>8} | {flagged:>7} | {status}")
+    polished = sum(1 for r in results if r[1] in ("done", "review"))
+    need = sum(1 for r in results if r[4] > 0)
+    skipped = sum(1 for r in results if r[1] == "skipped")
+    failed = sum(1 for r in results if r[1] == "failed")
     log("")
-    log(f"  {done} polished, {skipped} skipped, {failed} failed")
+    log(f"  {polished} polished, {need} need review, {skipped} skipped, {failed} failed")
+    if need:
+        flagged_books = ", ".join(r[0] for r in results if r[4] > 0)
+        log(f"  → review these books: {flagged_books}")
     log(f"  log: {LOG_PATH}")
 
 
