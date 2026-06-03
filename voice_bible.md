@@ -1,4 +1,4 @@
-# Voice Bible — ATHENA (excerpted from /home/www/Athena_repo/README.md, Books I–IV by Ross)
+# Voice Bible — ATHENA (excerpted from the Athena repo README, Books I–IV by Ross)
 
 > The house style: HOMERIC CADENCE braided with HIP-HOP VOICE.
 > Gods speak with grandeur AND swagger. Athena raps. Goddesses have bars.

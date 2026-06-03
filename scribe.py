@@ -39,7 +39,7 @@ from datetime import datetime
 from personas import PERSONAS
 
 # ============================== CONFIG (Ross's knobs) ==========================
-OLLAMA_URL = "http://192.168.1.185:11434"   # the M1 Mac inference host
+OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434")  # set OLLAMA_URL to your inference host
 MODEL      = "mistral:7b"                    # `ollama list` to see options; swap freely
 TEMPERATURE = 0.9                            # higher = wilder; lower = tighter
 MAX_TURNS  = int(os.environ.get("MAX_TURNS", "12"))   # hard safety cap; env-overridable for smoke tests
@@ -59,7 +59,7 @@ EDITOR_SYSTEM = (
 HERE       = os.path.dirname(os.path.abspath(__file__))
 LOG_PATH   = os.path.join(HERE, "clb_run.log")
 VOICE_BIBLE_PATH = os.path.join(HERE, "voice_bible.md")
-# ^ Excerpted from /home/www/Athena_repo/README.md. Point this at the full repo
+# ^ Excerpted from the Athena repo README. Point this at the full repo
 #   README if you want the agents to chew on all of Books I–IV.
 
 # SCENE_PATH is set per-run from the selected book (see run()).
