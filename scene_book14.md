@@ -84,3 +84,11 @@ Without me, this house feels like a kingdom in ruin,
 But Eumaeus here, he's a beacon of truth and a silver lining.
 I'll make it back home soon and restore the throne,
 But in this moment, I am Odysseus unshown.
+
+### Turn 5 — NARRATOR 📜
+
+The moon hangs heavy in its throne, as Odysseus's true heart stirs. Eumaeus, unaware, serves the king beneath a mask of beggar's rags. A fleeting touch of recognition passes between them, as a bond stronger than blood unites the faithful servant and the lost ruler.
+
+[STAGING: Odysseus slips the guise like a serpent sheds its skin, revealing himself in full regalia.]
+
+And so, beneath the stars, the reunion begins.
