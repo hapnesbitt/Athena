@@ -33,3 +33,18 @@ This ain't right. The wood's cold or somethin'. It don't feel like me. Y'all see
 
 Eurymachus:
 Damn, son, this ain't right — it don't feel like me neither. Antinous, you wrong about this one. I mean, we both know it's your game but... (beat) This ain't the way it's supposed to go down. A king amongst thieves, we play 'em all, right? But now I see... (pauses, eyes widening) We ain't fit to shine Odysseus's shoes. The house is his and we just stole what wasn't ours to take. This trap, it's closing fast and there's no escape. Damn.
+
+### Turn 4 — PENELOPE 🧵
+
+Yo, y'all know me, I spun this web for twenty long years,
+Now they think it's a prize, but it's my trap, and they fear.
+The bow in my hands, the axes line up like a choir,
+No one can string it or claim the queen, that's just not their lore.
+
+[Hook]
+Black widow, now I reap what I sow,
+Weaving the threads, watch them all go low.
+My patience paid off, they taste my flow,
+Their demise is just a matter of time, don't you know?
+
+[STAGING: Penelope sits regally among the suitors, as they approach her to test their strength by stringing the bow.]
