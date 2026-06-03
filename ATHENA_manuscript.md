@@ -1,14 +1,7 @@
 # ATHENA
 ## The HipHop Odyssey
 
-*An immersive dinner-theater retelling of the Odyssey — 24 books, 24 contrafacts.*
-
-*Assembled 2026-06-03 from the polished scenes. Generated file — edit the scene files, not this one.*
-
-<!-- review list at assembly time: books 23 -->
-
-
-<div style="page-break-after: always;"></div>
+*An immersive dinner-theater retelling of the Odyssey — 24 books*
 
 ---
 
@@ -36,10 +29,8 @@
 20. **Book XX — Up** — *“Up”* (Cardi B)
 21. **Book XXI — Black Widow** — *“Black Widow”* (Iggy Azalea)
 22. **Book XXII — All About That Bass** — *“All About That Bass”* (Meghan Trainor)
-23. **Book XXIII — New Rules** — *“New Rules”* (Dua Lipa)  <!-- review -->
+23. **Book XXIII — New Rules** — *“New Rules”* (Dua Lipa)
 24. **Book XXIV — Work** — *“Work B*tch”* (Britney Spears)
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -108,9 +99,6 @@ Antinous, my man, this is our time,
 We keep it movin', this is just fine.
 If Penelope's lookin' for a reason to break free,
 Let's show her we're the ones that'll keep the throne for her, see?
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -241,9 +229,6 @@ Telemachus stood atop, a son reclaiming his father's kingdom—an odyssey begun.
 Unnoticed by the suitors, who lingered in feasting and frivolity below,
 The sea opened wide before them, offering no more obstacles to their goal.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book III: Freak
@@ -337,9 +322,6 @@ And bring you home to Ithaca once more.
 
 With newfound purpose, Telemachus steps forth. Sparta's horizon calls him home. The sea around him swells and expands like an endless breath, a world ripe for exploration. Nestor's benediction echoes through the night, as the young hero ventures onward to his destiny. [STAGING: As Telemachus departs, the dancers form waves that part around him.]
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book IV: Rude Boy
@@ -431,9 +413,6 @@ Ithaca awaits its prince, the suitors gather near,
 Plotting an ambush, but their plans shall fail to pierce.
 A hinge swings open on four books spun, a shift in song and tale,
 Odysseus himself takes center stage, with Athena by his side.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -588,9 +567,6 @@ Odysseus released, the raft begun,
 The long journey home finally underway,
 Silence fell upon Calypso's grotto.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book VI: Rain On Me
@@ -691,9 +667,6 @@ Now go, show them who you are, it's understood.
 
 The wind carries him forward, a beacon of hope amidst the night.
 Odysseus, once lost, finds solace in this land's embrace; his journey nears its end.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -797,9 +770,6 @@ As the flame flickered and danced, the crowd in silent thrall,
 The weight of destiny now lay upon the Phaeacians' call.
 To Ithaca they would bear him, his journey not yet small,
 But one step closer to a king who was long absent from his hall.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1004,8 +974,6 @@ The bard remains silent.
 [STAGING: Odysseus begins]
 
 
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book IX: Bad Habits
@@ -1140,9 +1108,6 @@ A heavy toll upon the sea to stay.
 
 Ten years wandering now, a price he pays,
 For that one boast that cost him endless days.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1327,9 +1292,6 @@ No partnership here. Circe conquered, left behind.
 Tonight, they turn for the ships and are gone.
 A clean victory, crowd-pleasing button.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book XI: Get Ugly
@@ -1421,9 +1383,6 @@ He walks alone, burdened by their prophecies and ghostly whispers.
 As he steps back towards the light, it seems the Underworld's chill clings to him.
 A new resolve burns within Odysseus - ten years of darkness tempered.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book XII: Outta Your Mind
@@ -1514,9 +1473,6 @@ Only Odysseus remains, adrift on Calypso's shore.
 
 The retrospective closes, and the final chapter begins,
 A tale of survival, a saga of a king reclaimed.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1633,9 +1589,6 @@ Odysseus walks in the shadows of his former glory.
 The goddess Athena, with words of strength and wisdom,
 Guides him through this long game, for patience it will require.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book XIV: Without Me
@@ -1729,9 +1682,6 @@ The moon hangs heavy in its throne, as Odysseus's true heart stirs. Eumaeus, una
 [STAGING: Odysseus slips the guise like a serpent sheds its skin, revealing himself in full regalia.]
 
 And so, beneath the stars, the reunion begins.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1871,9 +1821,6 @@ Unveil the secret that lies beneath its roof.
 [STAGING: Athena's whisper sparks a transformation; the veil between them dissipates.]
 
 [STAGING: As father and son lock eyes, the world stops and time resumes its course once more, the breath of recognition filling their souls. The audience watches in stunned silence as history is rewritten under one roof.]
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2025,9 +1972,6 @@ With their hearts ablaze, they prepare for action taken
 The reckoning with the suitors is now at hand
 They'll taste the wrath of Odysseus, father and his band.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book XVII: Walk It Out
@@ -2151,8 +2095,6 @@ The suitors, unaware their fates written, marked by hand invisible.
 The day of reckoning nears, the fire in his eyes ablaze.
 His patience tested like the sea, but he waits for the perfect wave.
 
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2281,8 +2223,6 @@ Invisible hand guiding all her moves,
 A God among men and his faithful bride.
 
 
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book XIX: Savage Love
@@ -2403,9 +2343,6 @@ The secret known but held in check,
 A moment stolen from the gods above.
 
 [STAGING: A gentle wind stirs, a sigh breathes life into the scene, and all is still.]
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2578,9 +2515,6 @@ And make them pay for what they have done,
 As I stand by your side through the tempest's roar,
 The queen and Odysseus together we shall soar.
 
-
-<div style="page-break-after: always;"></div>
-
 ---
 
 # ATHENA — Book XXI: Black Widow
@@ -2659,9 +2593,6 @@ Odysseus reveals his true form, his face alight,
 With a single arrow he shatters the night.
 The suitors fall like flies, caught in the snare,
 A reckoning is meted, their fate to share.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2798,11 +2729,8 @@ The bow warm still, his reign restored at last.
 [STAGING: The dancers exit stage left, leaving the king alone.]
 
 
-<div style="page-break-after: always;"></div>
-
 ---
 
-<!-- REVIEW: book 23 -->
 
 # ATHENA — Book XXIII: New Rules
 
@@ -2899,9 +2827,6 @@ The night unfurls its stars anew, as love once lost returns in sight,
 In Ithaca, where Penelope shines as queen, her power takes flight.
 A bond restored through twenty years and tested trials untold,
 No more a pawn for gods to play; the secret of the bed made whole.
-
-
-<div style="page-break-after: always;"></div>
 
 ---
 
@@ -3042,4 +2967,3 @@ This long-awaited song, at last, we sing with certainty:
 
 The Odyssey ends. Now may you find home in every heart,
 In every journey's end, in the love that binds us all apart.
-
