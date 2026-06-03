@@ -61,3 +61,19 @@ So off I go, but keep this flame alive
 When I return, we shall gather and thrive
 
 [STAGING: Eumaeus exits the hut]
+
+### Turn 4 — TELEMACHUS ⚔️
+
+[STAGING: Telemachus offers a morsel of food to the beggar, watching him closely.]
+
+Yo, here's some grub for you, man. Eat up.
+Feels like I've seen this face before, but can't recall why.
+There's something in your eyes that feels familiar, right?
+I'm Telemachus, son of Odysseus, we may share a plight.
+
+[STAGING: Telemachus hesitates, senses the blood pull but holds back.]
+
+Something tugging at my heartstrings, trying to break through.
+But I can't let this feeling take control, not here, not now.
+I need to keep it all together, show respect and courtesy.
+But in my soul, a fire burns, a secret longing grows steady.
