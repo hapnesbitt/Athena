@@ -51,3 +51,23 @@ He'll unleash a wrath upon them fierce and wild,
 A specter from their feasting table, an avenging child,
 Tonight he waits, coiled in the shadows like a viper,
 Tomorrow, Odysseus takes back his own river.
+
+### Turn 2 — ATHENA 🦉
+
+[STAGING: In the darkness, Athena descends like a whisper from above, hovering over Odysseus.]
+
+Athena:
+Yo, King of Ithaca, sleep no more. The storm's at hand.
+I've guided your journey, now let me hold your hand.
+The suitors feast, but their time's short and swift.
+Your reign awaits, and vengeance will be served.
+
+Don't fear the battle's edge; the gods are by your side.
+With courage in your heart, you'll conquer far and wide.
+This eve, I stand beside you, as the dawn draws near,
+Our plan unfolds, and we'll bring victory to your ears.
+
+Now close your eyes, let slumber claim your rest.
+For tomorrow brings the reckoning; fearless, press on.
+And when the sun rises, take your throne again,
+The King of Ithaca reborn, as all shall bend the knee.
