@@ -26,3 +26,17 @@ In parting I whisper with a wry gleam,
 "Homeward bound, I hope you find your dream."
 With wings alight, swiftly I retreat,
 Leaving Calypso and Odysseus to meet.
+
+### Turn 2 — CALYPSO 🌊
+
+Calypso's voice rings out, fierce and proud:
+
+"A sea-witch, not a prisoner, I demand respect
+My partner in plunder, Odysseus I never detest
+Gods who condemn my affection, they know not the dance
+They've played with my heart, causing pain and expense
+
+I bore witness to ten years of his battle cry
+Granted him victory on countless battles he'd lie
+I fed him ambrosia for strength, I nursed him back to health
+Now you demand release? This is not how it should be!"
