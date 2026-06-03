@@ -147,3 +147,29 @@ The dawn breaks, the suitors unaware,
 Tonight is when it all becomes clear.
 Odysseus's return begins tonight,
 In this eve of battle, fear takes flight.
+
+### Turn 6 — NARRATOR 📜
+
+---
+### Turn 6 — ATHENA 🦉
+
+[STAGING: The queen enters, a sight of war and wonder, her eyes sharp as the moon.]
+
+Athena:
+Step back, my child, your moment is near at hand.
+With bow in hand, the storm shall be commanded.
+The suitors feast ignores the omens' call,
+But all is one breath from the reckoning's fall.
+
+[STAGING: The queen readies the bow with a graceful precision.]
+
+Athena:
+One beat away from chaos, and the world will know,
+The night of vengeance has come, let the blood flow.
+But be aware, my child, this victory is not yours alone,
+For every life taken brings its own heavy tone.
+
+So take up the bow and let it fly,
+And make them pay for what they have done,
+As I stand by your side through the tempest's roar,
+The queen and Odysseus together we shall soar.
