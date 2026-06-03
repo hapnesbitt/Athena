@@ -30,3 +30,12 @@ Watch your step, young pup, I know your name rings bells
 But my patience is a dragon, chained till the time comes to unleash
 You all can feast and feel secure, but I'm counting down the days
 When the mask slips off and all my foes see Odysseus's blaze
+
+### Turn 2 — NARRATOR 📜
+
+[STAGING: An old dog on the dung heap lifts his head, knows the beggar, thumps his tail once, and dies; Odysseus wipes away a tear no one sees.]
+
+And Argos with his ancient eyes
+Recognizes the forgotten king.
+One final tail-thump and he lies
+In death's sweet, gentle embrace.
