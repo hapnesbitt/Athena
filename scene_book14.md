@@ -28,3 +28,21 @@ Your journey's hard, I see it in your eyes,
 So let us break this bread and share this wine.
 I pray one day you'll find your way back home,
 Back to the warm embrace of family.
+
+### Turn 2 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus sips his wine, watching Eumaeus's face as he speaks of the lost king]
+
+Odysseus:
+Yo, I been gone a minute, man, I hear that tale before
+But something 'bout you talking 'bout King Odysseus, it touches me sore
+I knew him well, fought by his side, shared laughter and sorrow
+This hog farmer's got the same spirit, he's my brother to the core
+He speaks of a king lost at sea, but I'm seeing a king in you
+The hounds ain't just your pets, they're your soldiers loyal and true
+I've been away ten years or more, but this place smells like home
+Ain't no place like it, ain't no love like the one we've known
+Eumaeus, you feed me and shelter me, I thank you for that
+But if the king comes back and finds his faithful servant's gone, he'd be irate
+I pray my return won't bring a storm to your doorstep, I hope you ain't regret
+The kindness you showed this stranger who might just be an exile or dead.
