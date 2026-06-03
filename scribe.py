@@ -22,8 +22,10 @@ Two scenes ship today, selected on the command line (defaults to Book V):
 
 Watch: tail -f clb_run.log   (in another terminal)
 
-Tweak the CONFIG block below, then the personas in personas.py, then a book's
-SCENE_BRIEF / TURN_ORDER in the BOOKS registry. No pip installs — pure stdlib.
+Tweak the CONFIG block below; personas, books, and song scaffolds live in
+athena.yaml and are reloaded fresh every run. Requires PyYAML. (The hardcoded
+PERSONAS/BOOKS/SONG_SCAFFOLDS remain as the reference the equivalence check
+compares the YAML against — see check_yaml_equiv.py.)
 """
 
 import json
@@ -35,6 +37,8 @@ import textwrap
 import time
 import urllib.request
 from datetime import datetime
+
+import yaml
 
 from personas import PERSONAS
 
@@ -61,6 +65,12 @@ LOG_PATH   = os.path.join(HERE, "clb_run.log")
 VOICE_BIBLE_PATH = os.path.join(HERE, "voice_bible.md")
 # ^ Excerpted from the Athena repo README. Point this at the full repo
 #   README if you want the agents to chew on all of Books I–IV.
+
+YAML_PATH = os.path.join(HERE, "athena.yaml")   # personas/books/scaffolds, reloaded per run
+
+# Per-persona model overrides, filled by load_config() from each persona's optional
+# `model:` field in athena.yaml. Empty unless a persona sets one; falls back to MODEL.
+PERSONA_MODELS = {}
 
 # SCENE_PATH is set per-run from the selected book (see run()).
 SCENE_PATH = None
@@ -2814,11 +2824,15 @@ def build_muse_prompt(book, voice_bible):
     """)
 
 
-def call_ollama(system_prompt, user_prompt, temp_override=None):
-    """Call the shared model on the M1 via Ollama's /api/chat. Pure stdlib."""
+def call_ollama(system_prompt, user_prompt, temp_override=None, model=None):
+    """Call the shared model on the M1 via Ollama's /api/chat. Pure stdlib.
+
+    `model` lets a persona override the global MODEL for its own turns; falls back
+    to MODEL when None (the case for everyone until a persona sets `model:`).
+    """
     temp = temp_override if temp_override is not None else TEMPERATURE
     payload = {
-        "model": MODEL,
+        "model": model or MODEL,
         "stream": False,
         "options": {"temperature": temp},
         "messages": [
@@ -2888,7 +2902,7 @@ def run_muse_turn(book, voice_bible):
 
     t0 = time.time()
     try:
-        raw = call_ollama(persona["system"], user_prompt)
+        raw = call_ollama(persona["system"], user_prompt, model=PERSONA_MODELS.get("MUSE"))
     except Exception as e:  # noqa: BLE001 — keep the run observable, fail soft
         log(f"  !! Ollama call failed: {e}")
         log("  !! Is the M1 reachable? Check OLLAMA_URL / that the model is pulled.")
@@ -2959,7 +2973,7 @@ def run(book):
 
         t0 = time.time()
         try:
-            raw = call_ollama(persona["system"], user_prompt)
+            raw = call_ollama(persona["system"], user_prompt, model=PERSONA_MODELS.get(character))
         except Exception as e:  # noqa: BLE001 — keep the run observable, fail soft
             log(f"  !! Ollama call failed: {e}")
             log("  !! Is the M1 reachable? Check OLLAMA_URL / that the model is pulled.")
@@ -3006,8 +3020,55 @@ def run(book):
     log("")
 
 
+def load_config(path=None):
+    """Load personas, books, and scaffolds from athena.yaml.
+
+    Returns (personas, books, scaffolds, persona_models), structurally identical to
+    the hardcoded reference dicts:
+      - a persona's optional `model:` is split into persona_models (empty unless set)
+        so the persona dict itself matches the hardcoded shape exactly;
+      - `author` is included only when present (the Muse);
+      - each book's `staging_clause` key maps back to the SAME constant object
+        (NO_STAGING_CLAUSE / STAGING_CLAUSE) so identity checks still hold;
+      - `turn_order` lists become tuples; absent keys (e.g. song_scaffold_key on
+        Books V/X) stay absent.
+    """
+    with open(path or YAML_PATH, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+
+    personas, persona_models = {}, {}
+    for name, p in data["personas"].items():
+        entry = {"label": p["label"], "emoji": p["emoji"], "email": p["email"]}
+        if p.get("author"):
+            entry["author"] = p["author"]
+        entry["system"] = p["system"]
+        personas[name] = entry
+        if p.get("model"):
+            persona_models[name] = p["model"]
+
+    scaffolds = dict(data["scaffolds"])
+
+    clause_for = {"NO_STAGING": NO_STAGING_CLAUSE, "STAGING": STAGING_CLAUSE}
+    books = {}
+    for bid, b in data["books"].items():
+        book = {}
+        for k, v in b.items():
+            if k == "staging_clause":
+                book[k] = clause_for[v]
+            elif k == "turn_order":
+                book[k] = [tuple(t) for t in v]
+            else:
+                book[k] = v
+        books[bid] = book
+
+    return personas, books, scaffolds, persona_models
+
+
 def main():
     book_id = sys.argv[1] if len(sys.argv) > 1 else "5"
+    # Reload config from athena.yaml every run so live YAML edits take effect.
+    global PERSONAS, BOOKS, SONG_SCAFFOLDS, PERSONA_MODELS
+    PERSONAS, BOOKS, SONG_SCAFFOLDS, PERSONA_MODELS = load_config()
     if book_id not in BOOKS:
         sys.stderr.write(
             f"unknown book '{book_id}'. choose one of: {', '.join(BOOKS)}\n"
