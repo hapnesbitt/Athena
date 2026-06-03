@@ -27,3 +27,20 @@ I'll play this game, wear this beggar's skin,
 But don't you worry 'bout me, I'll rise again.
 The gods may turn their back, but I can't forget,
 Home is here, but this war ain't over yet."
+
+### Turn 2 — ATHENA 🦉
+
+[STAGING: Athena emerges from the sea, a shimmering vision]
+
+ATHENA:
+Yo, my king, Odysseus, crowned in wisdom and grit.
+I've come for you, for the battle that we're about to sit.
+You'll play this game disguised, a beggar's skin you'll wear,
+Infiltrate the court, gather allies near.
+
+[STAGING: Athena passes her hand over Odysseus; the king becomes a ragged old beggar]
+
+This long game begins, brother in arms and divine,
+We'll strike when the moment is ripe, no time to unwind.
+I've got your back, you know this, so trust in my might,
+Together we'll end this war, banishing darkness from sight.
