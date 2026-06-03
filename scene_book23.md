@@ -89,3 +89,12 @@ Now we rebuild, our marriage stronger yet
 Together again, a bond beyond regret
 
 [STAGING: Penelope steps toward Odysseus, and they share a tender embrace]
+
+### Turn 5 — NARRATOR 📜
+
+[STAGING: The lights dim, and candles flicker as husband and wife embrace. Odysseus' hand traces Penelope's face, tenderly acknowledging years apart reconciled at last.]
+
+The night unfurls its stars anew, as love once lost returns in sight,
+In Ithaca, where Penelope shines as queen, her power takes flight.
+A bond restored through twenty years and tested trials untold,
+No more a pawn for gods to play; the secret of the bed made whole.
