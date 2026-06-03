@@ -83,3 +83,25 @@ Aye, I hear ye, but I'll stay by my own decree
 The night is young and this ends badly, as history decrees
 But when the time comes to stand or fall, I'll stand and take my place
 In the memory of a better world, the face of the human race.
+
+### Turn 5 — ODYSSEUS 🗡️
+
+Walkin' 'cross my palace, feast in disgrace,
+Gotta keep a cool while they hurl their hate, won't provoke a race.
+Those who forget their past are bound to make mistakes,
+Names on the list grow long, retaliation awaits.
+
+Argos' ghost by my side as I stride, final breath a call,
+Sharing victories and defeats, now death brings us one ball.
+Walk it out, I know my time will come,
+Walk it out, while I keep this list I've run.
+
+Suitors taunt me with their words, think they got the upper hand,
+Think I'm weak because I wear these rags, but I'll show them where I stand.
+Each shadowed face is a name on my list, every jab fuels my arsenal,
+The fire that burned in Troy burns here, for all to witness and feel.
+
+[STAGING lines - Odysseus walks through the hall, each step bringing him closer to his destiny]
+
+With every step I take, moves calculated,
+Every breath I draw is tallying up the battles I've started.
