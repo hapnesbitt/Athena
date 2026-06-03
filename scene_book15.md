@@ -77,3 +77,37 @@ Something tugging at my heartstrings, trying to break through.
 But I can't let this feeling take control, not here, not now.
 I need to keep it all together, show respect and courtesy.
 But in my soul, a fire burns, a secret longing grows steady.
+
+### Turn 5 — ODYSSEUS 🗡️
+
+Verse 1:
+Son's home, but father here in disguise,
+One more step from Calypso's hold—her lies.
+My heart beats fast as we share the same light,
+The son of my soul, no stranger to my sight.
+
+Pre-hook:
+Feeling this truth, beneath this beggar's guise,
+My essence, son, is burning in your eyes.
+
+Hook:
+Bounce back, bounce back, home soil, I return,
+One lifted veil away from what I've yearned.
+Bounce back, bounce back, time to shed this cloak,
+Telemachus, my son, soon you'll know my soul.
+
+Verse 2:
+Recognition coming closer, years nearly done,
+The truth about me is a story yet spun.
+The pull is strong, but I can hold the line,
+I'll wait and bide, let destiny unwind.
+
+Bridge:
+One lifted veil away from all I lost,
+The dance of recognition still to be sought.
+Son and father, our stories intertwined,
+This homecoming journey is close to an end.
+
+[STAGING lines as father and son stand unrecognized]
+As we sit here side by side, the bond between us tight,
+Our shared love for Ithaca burns with all its might.
