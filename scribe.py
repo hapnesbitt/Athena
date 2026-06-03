@@ -2503,8 +2503,12 @@ def build_user_prompt(book, character, beat, voice_bible, scene_so_far,
         ── THE SCENE ──────────────────────────────────────────────
         {book['scene_context']}
 
-        ── VOICE BIBLE (match this house style) ───────────────────
+        ── VOICE BIBLE (study the CADENCE and TONE only — never copy its words) ──
         {voice_bible}
+
+        The voice bible is a STYLE REFERENCE ONLY. Any lyrics or lines in it are
+        examples of the FEEL to emulate, NOT material to reuse. Write entirely
+        original words. Never repeat a phrase, line, or rhyme from the voice bible.
 
         ── THE SCENE SO FAR ───────────────────────────────────────
         {scene_so_far}
@@ -2524,6 +2528,12 @@ def build_user_prompt(book, character, beat, voice_bible, scene_so_far,
         scaffold_key = book.get("song_scaffold_key", character)
         if scaffold_key in SONG_SCAFFOLDS:
             prompt += "\n\n" + SONG_SCAFFOLDS[scaffold_key]
+        prompt += (
+            "\nWrite 100% ORIGINAL lyrics. Do not reuse any line, phrase, or rhyme from the\n"
+            "voice bible or from any earlier turn in this scene. The contrafact should\n"
+            "echo the SONG'S rhythm and spirit, never its actual words, and never the\n"
+            "voice bible's words."
+        )
 
     prompt += "\n        Keep it to roughly 4–12 lines (the song may run longer).\n"
     return prompt
@@ -2785,8 +2795,12 @@ def build_muse_prompt(book, voice_bible):
         ── THE BOOK YOU'RE INTRODUCING (your brief — the audience never sees this) ──
         {book['brief']}
 
-        ── VOICE BIBLE (the house style to match) ─────────────────
+        ── VOICE BIBLE (study the CADENCE and TONE only — never copy its words) ──
         {voice_bible}
+
+        The voice bible is a STYLE REFERENCE ONLY. Any lyrics or lines in it are
+        examples of the FEEL to emulate, NOT material to reuse. Write entirely
+        original words. Never repeat a phrase, line, or rhyme from the voice bible.
 
         ── YOUR TASK RIGHT NOW (THE MUSE) ─────────────────────────
         Welcome the audience to THIS book and set up the number that follows: {book['muse_setup']}
