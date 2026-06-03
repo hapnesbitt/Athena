@@ -10,3 +10,12 @@ Ladies and Gentlemen, esteemed diners, welcome once more to ATHENA! We've sailed
 But fear not, for there's one among us immune to Circe's charm - our brave Odysseus. He'll flip the script, conquer, and leave, leaving behind a triumphant rescue that sets the stage for his homecoming. Sit back and hold onto your glasses as we delve into an enchanting dance-off you'll never forget. Now, let's raise our glasses to the Goddess Circe and prepare for her entrance - and don't forget to keep those hands off the collection table!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+In the shadows of twilight's veil, a whisper in Odysseus' ear,
+A gift from Zeus, no more fear of Circe's enchanting sphere.
+Moly in hand, a talisman against her spell, you see,
+Its powers yours to wield, now conquer not surrendering.
+
+[STAGING: Hermes slips Odysseus the moly and vanishes]
