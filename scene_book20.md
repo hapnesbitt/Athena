@@ -71,3 +71,27 @@ Now close your eyes, let slumber claim your rest.
 For tomorrow brings the reckoning; fearless, press on.
 And when the sun rises, take your throne again,
 The King of Ithaca reborn, as all shall bend the knee.
+
+### Turn 3 — ANTINOUS 🍷
+
+[STAGING: Antinous, the loudest in the room, laughs off a dark omen with a swaggering bravado. The suitors follow, a little too loud.]
+
+Antinous:
+C'mon now, listen to this fool! Spread fear 'round like we ain't kings.
+We reign supreme, no prophecies can bring us down.
+The throne is mine and the suitors' feast continues strong.
+Odysseus and his delays, they won't stand up to our song.
+
+[STAGING: Antinous, the ringleader, struts around the room, pulling the others to their feet.]
+
+Antinous:
+I'm here for this throne, I ain't afraid to claim it now!
+The suitors feast will carry on without a doubt.
+Odysseus might come with tricks and traps, but we got strength in our power,
+Let the prophets shout their warnings, they don't mean a thing anyhow.
+
+[STAGING: Antinous lifts his glass high as the suitors cheer and raise theirs in turn.]
+
+Antinous:
+To Odysseus, dead or gone, we claim the throne tonight!
+The feast continues strong, until dawn's first light!
