@@ -123,3 +123,14 @@ It's the final beat before I claim my home once more.
 Final hook:
 All about that bass, my reign restored at last,
 This night is about the end of their feast, not a feast we'll pass.
+
+### Turn 6 — NARRATOR 📜
+
+NARRATOR
+
+The suitors are no more, a reckoning complete.
+The hall cleansed in blood, disloyal servants judged,
+Odysseus stands victorious in his own house.
+The bow warm still, his reign restored at last.
+
+[STAGING: The dancers exit stage left, leaving the king alone.]
