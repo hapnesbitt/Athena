@@ -67,3 +67,14 @@ Black widow, now I reap what I sow,
 Weaving the threads, watch them all go low.
 My patience paid off, they taste my flow,
 Their demise is just a matter of time, don't you know?
+
+### Turn 6 — NARRATOR 📜
+
+[STAGING: The bow strung in the beggar's hands, an arrow nocked and ready.]
+The suitors' laughter curdles with dread,
+A storm gathers in their hearts, in their heads.
+[STAGING: The audience-pull, a transformation unfolds as the beggar stands tall.]
+Odysseus reveals his true form, his face alight,
+With a single arrow he shatters the night.
+The suitors fall like flies, caught in the snare,
+A reckoning is meted, their fate to share.
