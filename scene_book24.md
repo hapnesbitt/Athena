@@ -51,3 +51,22 @@ The orchard I once planted for a boy now blooming with your presence grown.
 
 Now, in this moment, I am reborn. The father who retreated to the farm, no more.
 I stand before my son, a king anew, with strength that I once knew before.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus, Telemachus, and Laertes stand together, armed, as the angry families approach]
+
+Ay, hear me out, lads, we've been apart too long,
+Now's our moment, a united front to hold strong.
+The line of Odysseus reborn, three generations deep,
+Strike fear in these suitors' kin, let 'em know they can't creep.
+
+We were once just men, but fates have given us more,
+Now we stand as kings, the suitors' wrath to ignore.
+Let swords flash in the twilight, a dance of life and death,
+But remember, boys, our aim is peace—that's the work left.
+
+[STAGING: Odysseus steps forward, sword raised]
+
+I've weathered storms and battled gods, this fight's no different,
+Together we stand, a fortress unbent. Our kingdom, unbroken.
