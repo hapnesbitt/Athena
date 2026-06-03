@@ -37,3 +37,17 @@ Hades is no dance floor, no place for a final bow.
 
 Rest in peace, for there's no more work for you,
 Your journey home has come to an end, your story told, your part played through.
+
+### Turn 2 — LAERTES 🌿
+
+[STAGING: Laertes drops his spade among the trees; the old man and his son hold each other]
+
+"Son... is that really you?" I ask, disbelief in my voice.
+My weary eyes scour every branch, seeking proof through the twilight hue.
+But then you name them one by one—the tree of life, of wisdom, and of home—
+The orchard I once planted for a boy now blooming with your presence grown.
+
+[STAGING: A wave of renewed energy pulses through Laertes' veins]
+
+Now, in this moment, I am reborn. The father who retreated to the farm, no more.
+I stand before my son, a king anew, with strength that I once knew before.
