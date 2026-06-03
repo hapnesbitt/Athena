@@ -111,3 +111,26 @@ This homecoming journey is close to an end.
 [STAGING lines as father and son stand unrecognized]
 As we sit here side by side, the bond between us tight,
 Our shared love for Ithaca burns with all its might.
+
+### Turn 6 — NARRATOR 📜
+
+---
+
+### Turn 6 — ATHENA 🦉
+
+[STAGING: Athena whispers in Odysseus's ear, her voice a gentle breeze]
+
+Breathe, my son, the moment is nigh.
+The truth between you shall soon come to light.
+In this house where you have landed, under one roof,
+Unveil the secret that lies beneath its roof.
+
+---
+
+### EXIT 🚪
+
+[STAGING: The air thickens as time slows, a hush descends upon the gathered crowd. The unrecognized father and son sit side by side, each lost in their thoughts, the tension heavy in the air. And then...]
+
+[STAGING: Athena's whisper sparks a transformation; the veil between them dissipates.]
+
+[STAGING: As father and son lock eyes, the world stops and time resumes its course once more, the breath of recognition filling their souls. The audience watches in stunned silence as history is rewritten under one roof.]
