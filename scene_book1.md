@@ -36,3 +36,37 @@ The suitors feast while we rule the night,
 No fear here, no guilt, no shame in sight.
 This is my story, I write the script,
 Antinous reigns, and that's just how it is.
+
+### Turn 2 — EURYMACHUS 🎭
+
+[STAGING: Eurymachus moves table to table, leaning in, all charm and reasonableness]
+
+EURYMACHUS:
+Yo, fam, I hear your concerns, but don't ya see?
+Penelope's game's been up for twenty years.
+Telemachus is just a boy; he can't provide.
+We keep it runnin', why'd she gotta hide?
+
+[STAGING: Eurymachus raises hands, gesturing to the suitors around him]
+
+EURYMACHUS:
+Look at us, we feed the palace, make it shine,
+Got hearts and minds, and that's no crime.
+She's just stallin', holdin' out for a hero,
+But I'm tellin' ya, this ain't no show.
+
+[STAGING: Eurymachus pulls a diner aside, speaks in hushed tones]
+
+EURYMACHUS:
+I hear you, friend, you got concerns too,
+But think about it, what would we do?
+Without us here, the palace is empty,
+This game's been going on for twenty years and a day.
+
+[STAGING: Eurymachus moves back to the table, Antinous notices him]
+
+EURYMACHUS:
+Antinous, my man, this is our time,
+We keep it movin', this is just fine.
+If Penelope's lookin' for a reason to break free,
+Let's show her we're the ones that'll keep the throne for her, see?
