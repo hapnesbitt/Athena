@@ -93,3 +93,32 @@ I am the goddess who weaves your tales, the one who's seen it all,
 Now I ask you to remember those who've given their all.
 End this bloodshed, make peace the anthem of the day,
 For Athena commands, and so the cycle must sway.
+
+### Turn 5 — ODYSSEUS 🗡️
+
+Odysseus, the king restored:
+My kingdom's mine once more, and I stand victorious.
+But vengeance still calls forth, a bitter taste remains,
+Twenty years of bloodshed, a war that never wanes.
+
+(Pre-hook)
+This is what we fought for, this is our hard-earned prize,
+Now we leave the past behind, and turn the page with eyes
+unclouded by the past, no more deceit or guise,
+The throne is mine, the line reclaimed, a new era arises.
+
+(Hook)
+I worked (and claimed what was my right), I fought (now we stand united),
+Twenty years of war and bloodshed, now the peace I've sanctified.
+
+(Verse 2)
+My father armored up, Athena put a halt in sight,
+The kingdom safe, the line restored, a cycle ended tonight.
+All that's left is to embrace, our families can be whole again,
+This war was fought and won, we made it through the pain.
+
+(Bridge)
+I wanted my kingdom back, I put in twenty years of fight,
+Now it's mine, it's secured, I've paid the cost with sight.
+We did it, we achieved it, our struggles paid off,
+This is the triumphant close, the song that I have taught.
