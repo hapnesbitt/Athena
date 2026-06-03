@@ -111,3 +111,20 @@ Calculating every move on this chessboard wide
 - [STAGING: The goddess Athena appears with a disguised figure behind her]
 - [STAGING: Odysseus steps out from behind Athena, revealing his identity]
 - [STAGING: The suitors recoil as they realize who stands before them]
+
+### Turn 5 — NARRATOR 📜
+
+[STAGING: The queen works the room, her eyes gleaming like a serpent's.]
+
+[STAGING: Penelope exits to applause, leaving them all in awe.]
+
+[STAGING: The goddess Athena appears with a disguised figure behind her.]
+
+[STAGING: Odysseus steps out from behind Athena, revealing his identity.]
+
+[STAGING: The suitors recoil as they realize who stands before them.]
+
+The suitors' jests falter, their plumes wilted,
+As the queen's mastery over her court unfolds.
+Invisible hand guiding all her moves,
+A God among men and his faithful bride.
