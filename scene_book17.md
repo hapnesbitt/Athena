@@ -105,3 +105,16 @@ The fire that burned in Troy burns here, for all to witness and feel.
 
 With every step I take, moves calculated,
 Every breath I draw is tallying up the battles I've started.
+
+### Turn 6 — NARRATOR 📜
+
+[STAGING: Odysseus walks the length of the hall, each measured step a reminder of who he is.]
+
+A shadow in his own house, the beggar-king unbeknownst.
+The old dog's final breath a mournful sound, now silenced.
+The suitors, unaware their fates written, marked by hand invisible.
+
+[STAGING: The beggar reaches the hall's end, turns to face the feast.]
+
+The day of reckoning nears, the fire in his eyes ablaze.
+His patience tested like the sea, but he waits for the perfect wave.
