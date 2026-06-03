@@ -8,3 +8,22 @@
 Ladies and gentlemen, welcome to Book XVI of ATHENA! Tonight we delve into the heart of Odyssey's intimacy, a reunion that cuts through twenty years of separation and disguise. Grab your wine, strap in tight, because you're about to witness Eumaeus's hut — the stage for an emotional confrontation between father and son who never truly knew each other. The room hums with tension as the disguise lifts, revealing Odysseus, laying it all down. Let's get ready for the climax of recognition, the moment that will turn into a powerful alliance to reclaim their home. Are you ready? Let's raise our glasses and dive in!
 
 ---
+
+### Turn 1 — TELEMACHUS ⚔️
+
+[STAGING: The beggar steps out, and the man who steps back in stands taller, transformed]
+
+Yo, son, this ain't no trick, it's truth
+I been gone, twenty years, been through the ruth
+But now I'm back, and you don't know me yet
+In the face of a king, son, stand upright and met
+
+This ain't just any man you knew before
+It's Odysseus, your father, on the floor
+I've been disguised to keep us both alive
+But now it's time for the suitors to survive
+
+Don't be afraid, son, I'm not a ghost
+Just your father, who's missed you most
+Let's get our house back, let's set things right
+Together we'll put an end to this fight
