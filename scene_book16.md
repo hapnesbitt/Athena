@@ -113,3 +113,32 @@ No more secrets between us, no more games played
 Together we'll reclaim all that has been tarnished and strayed
 This house is ours, it always was our own
 We've got each other now, there's nowhere to go but home.
+
+### Turn 5 — NARRATOR 📜
+
+---
+### Turn 5 — NARRATOR ⚔️
+
+[STAGING: Athena descends with a glow]
+
+The bond was sealed, two hearts intertwined
+Odysseus and Telemachus, a formidable design
+Together they stand, united in their might
+With the Goddess's blessing, it is now their night.
+
+Athena: You seek justice for your family's plight?
+I am here to guide you through this darkened fight.
+Reclaim what was once yours, your home and your throne
+With my power in your hands, I have given you the means to own.
+
+Odysseus: We thank thee for thy aid, our spirit's fire rekindled
+Together we'll right this wrong that has long been piled up
+Our family name shall rise above the fray and shine
+With your help, we'll bring our home back from its decline.
+
+[STAGING: The crew gathers close, a spark ignites in their eyes]
+
+Together they stand as one, their resolve unshaken
+With their hearts ablaze, they prepare for action taken
+The reckoning with the suitors is now at hand
+They'll taste the wrath of Odysseus, father and his band.
