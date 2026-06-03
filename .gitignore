@@ -3,3 +3,9 @@ clb_run*.log
 polish_run.log
 __pycache__/
 *.pyc
+*.bak.*
+*.Jun*
+scene_book*_run*.md
+scene_book*_pre_*.md
+ceci_spec_*.md
+athena_songmap.md
