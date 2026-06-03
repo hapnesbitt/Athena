@@ -14,3 +14,14 @@ Ladies and gentlemen, esteemed guests, welcome to Circe's Hall! The witching hou
 So sit back, relax, and enjoy the show as we venture into Circe's dance floor, where the music is seductive, the stakes are high, and the night is far from ordinary. Let the games begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+[STAGING: Hermes swoops down from the shadows, approaching Odysseus with a knowing nod]
+
+ATHENA:
+Listen close, city-sacker, this I bring for you—
+Moly, an herb to break Circe's wicked brew.
+Her potion won't touch your blood tonight,
+This gift from Zeus'll see you through the fight.
+[STAGING: Hermes slips Odysseus the moly and vanishes]
