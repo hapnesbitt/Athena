@@ -103,3 +103,12 @@ Now I hear the whispers in the wind
 A sign my lord will soon return again
 I'll tend the fire and wait
 For Odysseus to grace this gate.
+
+### Turn 5 — NARRATOR 📜
+
+[STAGING: Odysseus, in disguise, exits Eumaeus's hut and wanders through Ithaca.]
+
+As dusk descends on the island, home at last but hidden,
+Odysseus walks in the shadows of his former glory.
+The goddess Athena, with words of strength and wisdom,
+Guides him through this long game, for patience it will require.
