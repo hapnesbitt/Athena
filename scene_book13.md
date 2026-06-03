@@ -27,3 +27,24 @@ I must move slow, lest I be found,
 Their trust in me is yet untested.
 This homecoming, just the first of many battles fought,
 Tonight, tomorrow, till my last breath I am haunted.
+
+### Turn 2 — ATHENA 🦉
+
+ATHENA
+
+[STAGING: Athena appears as a youth, shepherd's garb concealing her true form]
+
+King of Ithaca, I see the fire in your eyes. Don't worry 'bout disguise,
+I got you covered, son. This game ain't over till we see it through.
+I'll cloak ya as a beggar, let the world forget who you truly be,
+But not for long, my friend. Our time is comin', and they'll see the king again.
+
+[STAGING: Athena passes her hand over Odysseus; the king becomes a ragged old beggar]
+
+Now listen close, 'cause here's the plan. Gather intel, find your crew,
+Infiltrate the palace, strike when the time is ripe, and we'll break through.
+I got Telemachus on my side, he's smart like you and loyal as can be,
+Together we'll take down the traitors, and Odysseus will wear his crown once more.
+
+This game's afoot, my friend, the long road starts now,
+A final victory, a kingdom restored. The world will know your name again, somehow.
