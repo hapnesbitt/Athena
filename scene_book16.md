@@ -27,3 +27,22 @@ Don't be afraid, son, I'm not a ghost
 Just your father, who's missed you most
 Let's get our house back, let's set things right
 Together we'll put an end to this fight
+
+### Turn 2 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus opens his arms; Telemachus, disbelieving, steps into them]
+
+Yo, son, I know it's been too long
+Feels like an eternity since we've sung our songs
+But now I'm back, and I ain't gone hide
+I'm your father, Odysseus is my pride
+
+Together we'll rise above this pain
+Reclaim what was lost, rebuild the gain
+We'll laugh and cry, heal broken ties
+This house is ours, it's time for sacrifice
+
+The suitors tried to take our throne
+But now their reign has come alone
+Together we'll right the family name
+I'm your father, and I've got you again.
