@@ -39,3 +39,21 @@ And Argos with his ancient eyes
 Recognizes the forgotten king.
 One final tail-thump and he lies
 In death's sweet, gentle embrace.
+
+### Turn 3 — ANTINOUS 🍷
+
+[STAGING: Antinous struts over to the beggar, footstool in hand.]
+
+(Rapping)
+Yo, what you want, bum? Some scraps from our table crumbs?
+You think we're gonna feed you like a begging dog, dumb?
+I'm Antinous, I'm the future king of Ithaca
+The throne is mine and you won't stop me with your crap.
+
+[STAGING: Antinous hurls the footstool; it strikes the beggar's shoulder; the beggar does not fall.]
+
+(Rapping)
+Feel that? That's a taste of what's coming, I ain't bluffing
+I'll make your life a living hell till you're wishing for death.
+You may be Odysseus but I don't know, I don't care
+This is my throne and I ain't gonna share.
