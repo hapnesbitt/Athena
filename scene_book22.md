@@ -89,3 +89,37 @@ But my prophecies couldn't save you.
 Leodes (last breath):
 My words were right but never mattered,
 The pain of a conscience unheard in this slaughter.
+
+### Turn 5 — ODYSSEUS 🗡️
+
+[STAGING: The bass drops as Odysseus steps up, bow in hand.]
+
+Verse 1:
+Arrows flying, suitors screaming, revelation's sound,
+The beggar revealed, the king's crown now found.
+Ten years on an island, but the wait is over,
+Twenty years of pain, all about that bass, not sorrow.
+
+Pre-hook:
+Antinous falls first, Eurymachus follows suit,
+Leodes begs for truth, but none can save him from their doom.
+
+Hook:
+All about that bass, it's time to make a stand,
+It's all about retribution and reclaiming Ithaca's land.
+
+Verse 2:
+I walk among the bodies, blood on my hands,
+Vengeance complete as their lives come to an end.
+The suitors paid their dues, I've earned this dance,
+This is all about that bass and the reign that takes its chance.
+
+Bridge:
+Twenty years of pain, now it's time to unleash the storm,
+It's the final beat before I claim my home once more.
+
+[STAGING lines — dancers as the slaughter; murdering the dance floor, NOT the audience]
+
+Final hook:
+All about that bass, my reign restored at last,
+This night is about the end of their feast, not a feast we'll pass.
