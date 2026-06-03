@@ -46,3 +46,17 @@ Eumaeus, you feed me and shelter me, I thank you for that
 But if the king comes back and finds his faithful servant's gone, he'd be irate
 I pray my return won't bring a storm to your doorstep, I hope you ain't regret
 The kindness you showed this stranger who might just be an exile or dead.
+
+### Turn 3 — EUMAEUS 🐖
+
+[STAGING: Eumaeus shakes his head, pours more wine, looks into the fire.]
+
+Eumaeus:
+Nah, man. I ain't buying that hope anymore.
+It's been too long, too many tales gone sour.
+I lost faith a while back, but it still hurts deep,
+Like every time he promised to return and never kept the deal.
+But you, you're different. Your spirit feels true,
+And if I believed in hope for just one person, it's you.
+But don't mistake my kindness for some naive belief,
+I ain't no fool, can't afford to dream a dream that might leave me grief.
