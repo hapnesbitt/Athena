@@ -57,3 +57,29 @@ Feel that? That's a taste of what's coming, I ain't bluffing
 I'll make your life a living hell till you're wishing for death.
 You may be Odysseus but I don't know, I don't care
 This is my throne and I ain't gonna share.
+
+### Turn 4 — AMPHINOMUS 🕊️
+
+[STAGING: Amphinomus presses bread into the beggar's hand, troubled.]
+
+(Rapping)
+Aye, brother, take this loaf for your trouble and pain
+I've seen the way you all treat him; I ain't gon' feign
+Ignorance to your disgrace, it eats at my insides
+I sense there's more to this rags-clad man, like a hidden tide
+
+[STAGING: Odysseus looks up from his disguise, speaks quietly but firmly.]
+
+(Whispers)
+Thank you, son, but I advise ye to take yer leave
+Before the night takes its turn, and this all becomes a grief
+I've lived long and learned much 'fore I was forced away
+But I know that I must face the past, no matter how it weighs
+
+[STAGING: Amphinomus looks at Odysseus, then back at the beggar, decision made.]
+
+(Rapping)
+Aye, I hear ye, but I'll stay by my own decree
+The night is young and this ends badly, as history decrees
+But when the time comes to stand or fall, I'll stand and take my place
+In the memory of a better world, the face of the human race.
