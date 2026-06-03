@@ -82,3 +82,24 @@ Nobody knows who just walked in unseen
 My power hidden like a secret dream
 But the world will soon know my name
 And I'll reclaim the throne that I claim.
+
+### Turn 4 — EUMAEUS 🐖
+
+[STAGING: In the distance, smoke rises from Eumaeus's hut—the first stop]
+
+EUMAEUS
+(Sings softly)
+Feeding strays and singing songs
+Since you were gone my heart aches strong
+I knew it wouldn't be long
+For you to come home where you belong
+
+But night follows day
+And sorrow fills the fray
+I kept the fire burning bright
+Through all these twenty years of might
+
+Now I hear the whispers in the wind
+A sign my lord will soon return again
+I'll tend the fire and wait
+For Odysseus to grace this gate.
