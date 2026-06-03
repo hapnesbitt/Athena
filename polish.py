@@ -338,13 +338,13 @@ def polish_book(book_id, bible_text, frags):
     # 1. deterministic label strip (routine strips counted, mismatches flagged).
     lines, stripped, flags = strip_labels(lines)
     for fnote in flags:
-        log(f"    · label: {fnote}")
+        log(f"    · [Book {book_id}] label: {fnote}")
     label_flagged = len(flags)
 
     # 2 + 3. detect bleed spans, rewrite each (last-to-first to keep indices valid).
     spans = find_bleed_spans(lines, frags)
     if spans:
-        log(f"    · bleed: {len(spans)} copied stanza(s) detected")
+        log(f"    · [Book {book_id}] bleed: {len(spans)} copied stanza(s) detected")
     rewritten = 0
     stanza_flagged = 0
     for (start, end, speaker) in reversed(spans):
@@ -352,7 +352,7 @@ def polish_book(book_id, bible_text, frags):
         try:
             new, note, flagged = rewrite_span(stanza, speaker, bible_text, frags)
         except Exception as e:  # noqa: BLE001 — fail soft on a single stanza
-            log(f"    !! Book {book_id}: stanza rewrite errored ({speaker}): {e}")
+            log(f"    !! [Book {book_id}] stanza rewrite errored ({speaker}): {e}")
             stanza_flagged += 1
             continue
         if new != stanza:
@@ -360,7 +360,7 @@ def polish_book(book_id, bible_text, frags):
             rewritten += 1
         if flagged:
             stanza_flagged += 1
-        log(f"    · bleed: {speaker} stanza @line {start + 1} — {note}")
+        log(f"    · [Book {book_id}] bleed: {speaker} stanza @line {start + 1} — {note}")
 
     polished = "\n".join(lines).strip() + "\n"
     with open(polished_path, "w", encoding="utf-8") as f:
