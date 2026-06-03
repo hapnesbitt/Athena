@@ -69,3 +69,22 @@ My heart stops in this dark, I almost shout,
 Odysseus, Odysseus, your journey ends now!
 But silence takes me, his grip fierce and tight,
 He stills my lips, our secret locked tonight.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus seizes Eurycleia gently but firmly by the arm. His eyes lock with hers, a silent plea.]
+
+Odysseus:
+Shh...my love, my old friend, our fate's still at stake.
+This secret you guard 'til the time is right.
+Speak too soon and we lose all we seek to regain.
+I know it's a heavy burden but you understand.
+You see me as Odysseus beneath this disguise,
+Together we'll face the storm that lies ahead.
+But now I must go, for the gods have decreed,
+My journey back home is a road yet unread.
+I promise you'll see me soon, in Ithaca's glow,
+A king and his queen, our love will grow.
+In time you'll be free to speak out and share,
+The truth we both know, but now keep it fair.
+[STAGING: Odysseus releases Eurycleia and gives her a tender smile before he departs.]
