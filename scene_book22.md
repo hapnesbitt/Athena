@@ -40,3 +40,26 @@ I swore to gods I'd claim what was my own,
 Now I am nothing, a broken throne.
 Odysseus, you fool, where have you been?
 What magic spell has brought me low again?
+
+### Turn 3 — EURYMACHUS 🎭
+
+[STAGING: Eurymachus steps forward, hands raised]
+
+Eurymachus:
+I speak for us all now, my friends, listen well,
+Odysseus, we're no fools, we know the tale too.
+Antinous had his flaws, but he led, didn't screw.
+But this is not our doing, Odysseus, not true!
+
+[STAGING: Eurymachus pleads, then draws a sword and charges; an arrow takes him mid-stride]
+
+Eurymachus:
+You see my point? I'm on your side, Odysseus, hear me out!
+We pay what's due, we follow rules of the court.
+For Penelope, for Ithaca, let bygones be!
+But now you're here, Odysseus, let us agree!
+
+[STAGING: dancers bring three men up from the tables as the crew]
+
+Eurymachus (last breath):
+For Ithaca, for Penelope, let the bloodshed cease!
