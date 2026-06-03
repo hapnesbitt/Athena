@@ -28,3 +28,29 @@ You want to sit on my throne? / Then earn it, prove your worth
 But don't forget who the queen is / And who holds the power on this earth
 
 [STAGING: Penelope turns and exits.]
+
+### Turn 2 — ANTINOUS 🍷
+
+[STAGING: Antinous strides to the center, hands open as if for gifts.]
+
+Antinous:
+I got bars like a Goddess / Stacked like a king's treasury
+You think I come unarmed? No chance, it ain't reality
+I bring gold and jewels / For your heart, for your soul
+Gifts that will speak to you / The moment they take hold
+
+[STAGING: Antinous signals for gifts to be brought; the suitors scramble to outdo each other.]
+
+Antinous:
+This ain't no game to me / I'm not just another name on your list
+I've got power, I've got might / And you can't resist
+I'm the crown jewel of Ithaca / The prize for which we're all fighting
+So here's my offer, fair lady / My gifts are far from lightweight
+
+[STAGING: Antinous presents an ornate box, watches as Penelope opens it with a smile.]
+
+Antinous:
+This is a taste of me / The finest of Ithaca's spoils
+My gold and my jewels / A testament to my goals
+So what say you, Queen? / Is this offering enough?
+Or will I bring more until I've won your love?
