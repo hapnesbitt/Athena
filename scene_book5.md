@@ -27,3 +27,20 @@ The gods may have played him, but tonight I set things right.
 
 Now fly out with the wind, spread these words far and wide,
 A new chapter begins, time to turn from tide.
+
+### Turn 2 — CALYPSO 🌊
+
+Gold, Zeus? You play a treacherous game,
+My prize, your pawn, another move in this grand scheme.
+This is not a prison, 'tis a dance of the damned,
+His blade and my waves, our partnership unstranded.
+
+You speak of righteousness, yet forget what's been earned,
+By your own hands, he was crowned king, as I had first sworn.
+Now you seek to take him, with no thought for the cost,
+I'll not let you reap what I have so long been toast.
+
+He is my type, a kindred spirit, fierce and wild,
+A warrior in spirit, he bears a deadly smile.
+The gods may speak of honor, but who stands by his side?
+Only me, the sea-witch, when the world collides.
