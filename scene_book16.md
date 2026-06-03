@@ -77,3 +77,39 @@ It ain't easy, Dad, but together we stand tall
 Our family name has been tarnished, but we'll make it rebound from the fall
 Tonight's the night, I can feel it in my bones
 We take back our home and break these suitors' thrones.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Father and son clasp hands; the plan begins]
+
+Verse 1:
+Twenty years of absence, left me hollowed out
+But now I'm back, and I won't be held downtrodden
+This house is mine, let them feel my might
+I'll take it all back, this night belongs to right
+
+Pre-hook:
+Lay it all down, lay it on the line
+Wipe the suitors' smiles off with grime
+Line between life and death, truth and lies
+This night belongs to us, not those who compromise
+
+Hook:
+Lay (Odysseus)
+We rise up, no more time for denial
+Lay (Telemachus)
+Our family will be vindicated, we'll reclaim our style
+Lay (Father and Son)
+As we rebuild and stand side by side, the suitors won't survive
+
+Verse 2:
+My heart is heavy with years of absence
+But now I see my son, it's a beautiful sight
+We share pain, we share strength, we'll face the fight
+Together we'll reclaim what was once our birthright
+
+Bridge:
+No more secrets between us, no more games played
+Together we'll reclaim all that has been tarnished and strayed
+This house is ours, it always was our own
+We've got each other now, there's nowhere to go but home.
