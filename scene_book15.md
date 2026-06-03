@@ -34,3 +34,14 @@ Now I stand in front of someone who might have stories to share.
 But until then, I'll sit and stare into these flickering flames.
 This is my homecoming, the beginning not the end.
 I'm Telemachus, ready for some truth, my friend.
+
+### Turn 2 — ATHENA 🦉
+
+[STAGING: Athena appears at the door visible only to Odysseus; she beckons him outside with a swift motion and a knowing gaze.]
+
+Odysseus, your time is now.
+The moment you've been waiting for since Troy.
+Rise from that chair, let this secret unfold.
+This reunion awaits, my warrior bold.
+A son and a father, their stories to told.
+Embrace it, embrace the return, be whole.
