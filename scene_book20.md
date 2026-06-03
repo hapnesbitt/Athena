@@ -95,3 +95,25 @@ Let the prophets shout their warnings, they don't mean a thing anyhow.
 Antinous:
 To Odysseus, dead or gone, we claim the throne tonight!
 The feast continues strong, until dawn's first light!
+
+### Turn 4 — AMPHINOMUS 🕊️
+
+[STAGING: Amphinomus rises as if to go, hesitates at the door, and sits back down]
+
+Amphinomus:
+One more beat in this wrong room, then I'm gone.
+A storm's brewing, suits blind 'round their thrones.
+But it ain't just them playing this dangerous game.
+The queen, the beggar, even the cold night warns of change.
+
+I see the writing on the wall, but stay stuck in my seat.
+The prophecies whisperin', I can almost repeat.
+This time I could escape, and yet...
+I'm bound by a bond that won't let me retreat.
+
+[STAGING: Amphinomus leans back, defeated and somber]
+
+So here I stay, one breath from the storm,
+The last exit slipped through my fingers like a swan.
+Trapped in this dance of fate, I feel the dawn looming on.
+I know it ends badly, but I'll face the reckoning alone.
