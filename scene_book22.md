@@ -63,3 +63,29 @@ But now you're here, Odysseus, let us agree!
 
 Eurymachus (last breath):
 For Ithaca, for Penelope, let the bloodshed cease!
+
+### Turn 4 — LEODES 🙏
+
+[STAGING: Leodes kneels before Odysseus, hands clasped, eyes pleading]
+
+Leodes:
+Yo, Odysseus, I ain't here to fight,
+I only ever read the omens right.
+A seer among the suitors, I warned ya all,
+But none heeded my call.
+
+Odysseus, it wasn't my ambition,
+To bring you and your wife all this tension.
+I ain't wronged Penelope, I just read the signs,
+But now here I stand, begging for mercy, as if time—
+
+Would rewind and save us all from this fate,
+A fool's hope that won't abate.
+I tried to stop them, Odysseus, it's true,
+But my prophecies couldn't save you.
+
+[STAGING: Leodes is silent as Odysseus raises his sword and strikes]
+
+Leodes (last breath):
+My words were right but never mattered,
+The pain of a conscience unheard in this slaughter.
