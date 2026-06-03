@@ -117,3 +117,33 @@ So here I stay, one breath from the storm,
 The last exit slipped through my fingers like a swan.
 Trapped in this dance of fate, I feel the dawn looming on.
 I know it ends badly, but I'll face the reckoning alone.
+
+### Turn 5 — ODYSSEUS 🗡️
+
+Verse 1:
+Night turns to day, prophecies echo loud,
+Suitors feasting blind, oblivious to the cloud.
+Trap's set, bow cocked, for my vengeance now,
+One beat away from a world turned upside down.
+
+Pre-hook:
+Tomorrow brings what I've waited twenty years for,
+A reckoning, a storm, and a battle galore.
+
+Hook:
+Up, up, it's about to go off,
+One heartbeat 'fore the world turns cold.
+
+Verse 2:
+Suitors laugh, oblivious to their fate,
+The suitors feast will soon be terminated state.
+I've waited long for this moment to be mine,
+Now I rise to reclaim my throne and regal time.
+
+[STAGING lines — Odysseus rises from the shadows, the bow in hand]
+
+Bridge:
+The dawn breaks, the suitors unaware,
+Tonight is when it all becomes clear.
+Odysseus's return begins tonight,
+In this eve of battle, fear takes flight.
