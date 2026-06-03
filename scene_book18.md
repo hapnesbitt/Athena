@@ -74,3 +74,40 @@ But you, dear lady, you see through this guise,
 You're the only one who truly sees my prize.
 
 [STAGING: Eurymachus bows with satisfaction, oblivious to Penelope's mastery]
+
+### Turn 4 — PENELOPE 🧵
+
+Verse 1:
+(4 bars)
+Twenty years of pain, all tears spent
+No mercy for these suitors, my strength ascended
+They think they own me but I'm far from their pawn
+Got strategy down to an art form, let the game be drawn
+
+Pre-hook:
+(2 bars)
+Playing 'em like a fiddle with precision so fine
+Taking every move before they even align
+
+Hook:
+(4 bars)
+No tears left to cry, just strategy that's mine
+Smartest player in this room, no cause for whine
+
+Verse 2:
+(4 bars)
+I held this throne through a battle untold
+The long game I run, they'll never know my hold
+But they'll feel it when the dance comes to an end
+As Odysseus breaks free from where he's confined
+
+Bridge:
+(2 bars)
+Stronger than ever, never break my stride
+Calculating every move on this chessboard wide
+
+[STAGING lines as Penelope works the room]
+- [STAGING: Penelope exits to applause, leaving them all in awe]
+- [STAGING: The goddess Athena appears with a disguised figure behind her]
+- [STAGING: Odysseus steps out from behind Athena, revealing his identity]
+- [STAGING: The suitors recoil as they realize who stands before them]
