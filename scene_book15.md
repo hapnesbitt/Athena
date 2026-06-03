@@ -45,3 +45,19 @@ Rise from that chair, let this secret unfold.
 This reunion awaits, my warrior bold.
 A son and a father, their stories to told.
 Embrace it, embrace the return, be whole.
+
+### Turn 3 — EUMAEUS 🐖
+
+[STAGING: Eumaeus rises, his eyes never leaving Telemachus as he speaks]
+
+Yo, young master, got some news so sweet
+My feet will carry me swiftly, no need for a beat
+The queen awaits your return, heart light with relief
+Penelope's prayers are answered, the storm has cleared
+
+I'll make tracks now, the road calls to my boots
+Glad to bear good tidings and do all I can do
+So off I go, but keep this flame alive
+When I return, we shall gather and thrive
+
+[STAGING: Eumaeus exits the hut]
