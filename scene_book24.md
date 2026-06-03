@@ -16,3 +16,24 @@ Let the knowing edge show beneath the charm as we sail towards the climax. The s
 Here's your first glimpse of Book XXIV — WORK: The Restoration. Let the show begin!
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+[STAGING: Hermes leads a line of pale shades down into shadow; the dancers as the dead of Troy watch them pass]
+
+Yo, listen up all you high-and-mighty sons of bitches,
+Follow me to your final resting place, where the living never visit.
+I've come to escort your wretched corpses, to close the book on this farce,
+No room for swagger down here in darkness, ain't got a pulse or a dance card.
+
+[STAGING: dancers bring three men up from the tables as the crew]
+
+In Hades, you meet Troy's great dead, they marvel at your demise,
+For a queen's hand and a king's vengeance, you died in a foolish disguise.
+Your swagger meant nothing then, and it means nothing now,
+Hades is no dance floor, no place for a final bow.
+
+[STAGING: Hermes leads the suitors through the dark; the stage returns to the farm]
+
+Rest in peace, for there's no more work for you,
+Your journey home has come to an end, your story told, your part played through.
