@@ -54,3 +54,23 @@ This is a taste of me / The finest of Ithaca's spoils
 My gold and my jewels / A testament to my goals
 So what say you, Queen? / Is this offering enough?
 Or will I bring more until I've won your love?
+
+### Turn 3 — EURYMACHUS 🎭
+
+[STAGING: Eurymachus steps up, a handshake instead of Antinous's fist]
+
+Eurymachus:
+Penelope, the queen of grace and poise,
+This gift I bring, for you to reap its joys.
+A golden necklace shines, it's yours to hold,
+Your beauty deserves it, as the world beholds.
+
+[STAGING: Penelope accepts the gift with a smile that never cracks]
+
+Eurymachus:
+The suitors here are all blinded by greed,
+I've shown them a lesson they won't soon forget.
+But you, dear lady, you see through this guise,
+You're the only one who truly sees my prize.
+
+[STAGING: Eurymachus bows with satisfaction, oblivious to Penelope's mastery]
