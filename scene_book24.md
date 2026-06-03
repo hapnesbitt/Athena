@@ -70,3 +70,26 @@ But remember, boys, our aim is peace—that's the work left.
 
 I've weathered storms and battled gods, this fight's no different,
 Together we stand, a fortress unbent. Our kingdom, unbroken.
+
+### Turn 4 — ATHENA 🦉
+
+[STAGING: Athena rises like a storm between the two sides, lightning crackling around her]
+
+Yo, you've fought enough, this war's not worth another drop,
+I've seen your journeys, felt your pain — I've had enough of the plot.
+Hear me, for I am Athena, goddess of wisdom and strife,
+Today, I bring peace and end the cycle that's been your life.
+
+[STAGING: A thunderclap shakes the earth, weapons tumble to the ground]
+
+Put down your swords, forsake this endless quest,
+This vengeance is done, it will never be repressed.
+Your loved ones gone, your cities torn, it's time to move on,
+Let peace reign, and let the past be left unknown.
+
+[STAGING: A hush falls over the farm, the families lower their eyes]
+
+I am the goddess who weaves your tales, the one who's seen it all,
+Now I ask you to remember those who've given their all.
+End this bloodshed, make peace the anthem of the day,
+For Athena commands, and so the cycle must sway.
