@@ -19,3 +19,21 @@ Moly in hand, a talisman against her spell, you see,
 Its powers yours to wield, now conquer not surrendering.
 
 [STAGING: Hermes slips Odysseus the moly and vanishes]
+
+### Turn 2 — CIRCE 🪄
+
+[STAGING: Circe emerges from the shadows, clad in shimmering robes and a crown adorned with jewels that seem to pulse with an ethereal light]
+
+Circe:
+Welcome one and all to Circe's hall, where power is mine to claim,
+Where men become beasts beneath my gaze, like ripples on a flame.
+I am the storm that breaks the shore, the serpent coiled in wait,
+The goddess who will rule them all, for tonight I command this space.
+
+[STAGING: dancers move among the tables and bring three men up from the tables as the crew]
+
+Circe:
+Beware, my beauties, beware, for I'll twist and bend you at my will,
+I'll watch as you succumb to me, in agony or thrill.
+Don't fight, don't struggle, let it come, embrace the change that's near,
+This is Circe's domain, and here I am — your conqueror, queen of fear!
