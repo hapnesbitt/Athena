@@ -17,3 +17,12 @@ Penelope:
 Yo, listen up, suitors. My lord is long dead, but tonight his ghost walks among you. Bring forth the bow that felled so many foes. Let him challenge you all one last time. [STAGING: Penelope brings out the great bow and sets up the twelve axes in a row.]
 
 I've been weaving a web for years, y'all. It's time to close the trap and reclaim what's mine. I won't perform my grief for you. You think I'm beaten, but watch this—the Black Widow rises. The bow strings easily in these hands, I weave through axes like a thread through the loom. Tonight, the true king returns and I'll be by his side once more. Game over.
+
+### Turn 2 — ANTINOUS 🍷
+
+[STAGING: Antinous strides to the bow with bravado, grabs it firmly, but struggles.]
+
+Antinous:
+This ain't right. The wood's cold or somethin'. It don't feel like me. Y'all see this? I'm still the kingmaker, y'all just waitin' on your turn to see me falter. I'll string it up later when the bow recognizes its master. This ain't over yet.
+
+[STAGING: Antinous passes the bow down with a forced smile.]
