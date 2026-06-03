@@ -88,3 +88,28 @@ A king and his queen, our love will grow.
 In time you'll be free to speak out and share,
 The truth we both know, but now keep it fair.
 [STAGING: Odysseus releases Eurycleia and gives her a tender smile before he departs.]
+
+### Turn 5 — PENELOPE 🧵
+
+Yo, I've been loyal while he roamed and wandered wide,
+Now a stranger at my hearth, his secrets abide?
+I play this savage love game, it's not just his ride,
+Twenty years faithful but still I gotta test and hide.
+
+Pre-hook: Twenty years faithful — now I gotta test and wait,
+Playing this double standard, I won't succumb to fate.
+
+Hook: Savage Love, that's my reality,
+A game of patience, a strategy,
+Twenty years with no sign of defeat,
+But still I'm the one to pay for his deceit.
+
+Verse 2: He questions every stranger he finds,
+Trying to discern truth from unaligned,
+But here at my hearth it's a turn of the tides,
+I test him as he tested others, it's my pride.
+Bridge: I'm the smartest one in this room by far,
+Never losing the thread like they all do by stare,
+Tonight's no different, this I won't forget,
+Playing this savage game and waiting yet.
+[STAGING lines — the interview, the firelight]
