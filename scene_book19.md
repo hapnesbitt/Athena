@@ -55,3 +55,17 @@ Yet from my lips these secrets do not flow,
 I am the queen, I wear my masks like snow.
 
 [STAGING: Penelope sits back, her eyes ablaze but her face unfaltering]
+
+### Turn 3 — EURYCLEIA 🕯️
+
+[STAGING: Eurycleia's hand freezes on the scar; the basin tips, spilling water.]
+
+Eurycleia:
+Oh Lord above, I feel it like a thunderbolt,
+This man before me, my young prince of old.
+The boar-hunt scar, the one from Parnassus high,
+A mark I've known since he was but a spry.
+My heart stops in this dark, I almost shout,
+Odysseus, Odysseus, your journey ends now!
+But silence takes me, his grip fierce and tight,
+He stills my lips, our secret locked tonight.
