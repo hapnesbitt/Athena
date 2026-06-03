@@ -14,3 +14,15 @@ Calypso resists, but her "My Type" number will shake the very foundations of thi
 So, diners, are you ready to witness the turning point in the epic saga of Odysseus? Are you prepared to bear witness to the release that will set our hero on a path toward homecoming, or will Calypso's allure prove too strong? Let the games begin.
 
 ---
+
+### Turn 1 — HERMES 🪽
+
+Zeus's decree I deliver, unsheathed,
+In the air of Ogygia it lands.
+Odysseus, release now decreed,
+The journey home begins anon.
+
+In parting I whisper with a wry gleam,
+"Homeward bound, I hope you find your dream."
+With wings alight, swiftly I retreat,
+Leaving Calypso and Odysseus to meet.
