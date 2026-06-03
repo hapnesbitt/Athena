@@ -48,3 +48,22 @@ My patience paid off, they taste my flow,
 Their demise is just a matter of time, don't you know?
 
 [STAGING: Penelope sits regally among the suitors, as they approach her to test their strength by stringing the bow.]
+
+### Turn 5 — ODYSSEUS 🗡️
+
+[STAGING: The beggar takes up the great bow; the hall laughs.]
+
+Odysseus:
+I've strung this beast for battles fierce, a sparrow wouldn't stand a chance.
+[STAGING: He strings it in one smooth motion and the laughter stops.]
+
+I weave through axes like a thread through my loom,
+A king amongst thieves, I'm the one who roams.
+Odysseus, Odysseus — they whisper my name with dread,
+The black widow rises from her web.
+
+[Hook]
+Black widow, now I reap what I sow,
+Weaving the threads, watch them all go low.
+My patience paid off, they taste my flow,
+Their demise is just a matter of time, don't you know?
