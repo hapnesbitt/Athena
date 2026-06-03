@@ -37,3 +37,26 @@ Now prove yourself worthy of this throne, our love, our bed,
 Your loyalty and devotion have been tested to the edge.
 I'll wait, while you show me it's you, the man I loved before,
 The one who fought with all his heart, and conquered Troy's roar.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus steps forward, his eyes meeting Penelope's, and begins]
+
+Odysseus:
+Yo, this ain't no trick you're putting on me, queen,
+The bed's my own design—an olive tree its spine.
+Told you I've seen the gods up close, remember?
+Well, that bed's a testament to my resolve.
+
+I built it with my hands, under Phoebus' gaze,
+Anchored to the earth by Calypso's tears and days.
+Only the real Odysseus could have made this stand,
+A throne so strong it can't be moved by man.
+
+[STAGING: Odysseus points to the bed, Penelope's composure breaks as recognition sweeps over her]
+
+Penelope:
+My love... my king... I knew in that moment, pure and true,
+I'd never lost you to another, though the gods might move me through.
+Welcome home, Odysseus—my heart is yours, this night and evermore,
+A test passed, a secret revealed, our reunion by my terms it shall be explored.
