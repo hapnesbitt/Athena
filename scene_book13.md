@@ -48,3 +48,37 @@ Together we'll take down the traitors, and Odysseus will wear his crown once mor
 
 This game's afoot, my friend, the long road starts now,
 A final victory, a kingdom restored. The world will know your name again, somehow.
+
+### Turn 3 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus pulls the beggar's hood up; the disguise complete]
+
+Verse 1:
+Home at last, but cloaked in rags
+Twenty years to reach this drag, no sign of kingship tags
+But I won't show my face, yet
+I play this game until we meet our end
+
+Pre-hook:
+Worn down but never broken, strength beneath the skin
+A kingdom waits for me, but it's not mine to win
+
+Hook:
+Wow, look who just walked in, unrecognized
+Twenty years on Calypso's shore, now disguised
+The goddess by my side, our plan unfolds tonight
+Together we will rise, and I'll reclaim what's mine
+
+Verse 2:
+I must act the fool, pretend to be weak
+Patience is required for the game we seek
+But Penelope and Telemachus need not wait
+The traitors shall fall, and justice will be meted out
+This king in disguise is ready, for this final fight
+I'll wear the crown again, and prove my might
+
+Bridge:
+Nobody knows who just walked in unseen
+My power hidden like a secret dream
+But the world will soon know my name
+And I'll reclaim the throne that I claim.
