@@ -1334,6 +1334,1134 @@ lines.""",
         "muse_extra": "",
         "title_md": "# ATHENA — Book XII: Outta Your Mind\n\n*Immersive dinner theater.*\n\n---\n",
     },
+
+    "13": {
+        "scene_file": "scene_book13.md",
+        "commit_prefix": "Book XIII",
+        "banner": "🎭  ATHENA writers' room — Book XIII: WOW",
+        "scene_id": "Book XIII — WOW",
+        "song_scaffold_key": "ODYSSEUS_WOW",
+        "turn_order": [
+            ("ODYSSEUS",
+             "HOME AT LAST. The Phaeacians have set you sleeping on the shore of Ithaca. "
+             "You wake and at first do not know it — a mist hides the land. Then you "
+             "realize: you are HOME, after twenty years. Narrate the disbelief, the "
+             "relief, the wariness. Include staging, e.g. [STAGING: Odysseus wakes "
+             "alone on the shore; the mist lifts; he touches the ground of Ithaca].",
+             "dialogue",
+             "feel the ground of home under you after twenty years — disbelief and "
+             "wariness both; you are not safe yet and you know it",
+             "complacent, relieved — you are home but the work is just beginning"),
+            ("ATHENA",
+             "THE SCHEME. You appear — first as a young shepherd, then revealed as "
+             "yourself, goddess to your favorite mortal. You and Odysseus are two of a "
+             "kind: both cunning, both players. Lay out the plan: he must go disguised "
+             "as a beggar, gather intelligence, find his allies, and strike when the "
+             "moment is right. You disguise him. Include staging, e.g. [STAGING: Athena "
+             "passes her hand over Odysseus; the king becomes a ragged old beggar].",
+             "dialogue",
+             "run the operation with your favorite mortal — you two are the smartest "
+             "players in the poem and you enjoy each other; this is a partnership of equals",
+             "subordinate, deferential — you are the goddess running this; he follows YOUR plan"),
+            ("ODYSSEUS",
+             "WOW — THE NUMBER. Post Malone's 'WOW' as contrafact. You are home and you "
+             "are in rags and nobody knows the king just walked in. The low-key swagger "
+             "of a man who has everything and is hiding all of it. Full verse-and-hook. "
+             "Original lyrics, real rhythm, real rhyme. Include staging, e.g. [STAGING: "
+             "Odysseus pulls the beggar's hood up; the disguise complete].",
+             "song",
+             "the quiet swagger of a king in disguise — you know who you are even if "
+             "no one else does; wow, look what just walked in unrecognized",
+             "boastful, loud — this is LOW-KEY swagger; the power is in the secret; "
+             "Calypso, Circe, sea-witch — wrong register"),
+            ("EUMAEUS",
+             "FORESHADOW. As the scene closes, a brief beat: the loyal swineherd is "
+             "mentioned or glimpsed — the first ally Odysseus will go to. Warm, loyal, "
+             "grieving for a master he doesn't know is back. Brief. Include staging, "
+             "e.g. [STAGING: in the distance, smoke rises from Eumaeus's hut — the "
+             "first stop].",
+             "dialogue",
+             "establish the loyalty waiting for Odysseus — you are the first true "
+             "ally, grieving and faithful",
+             "aware that Odysseus is back — you have no idea; you are just keeping faith"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: Odysseus "
+             "home at last but hidden, the goddess his ally, the long game begun.",
+             "dialogue",
+             "close with the weight of the homecoming and the patience it will require",
+             "triumphant — he's home but nothing is won yet"),
+        ],
+        "brief": """\
+BOOK XIII — WOW   (hidden brief)
+
+Anchor song: Post Malone — "WOW" → Odysseus's number. He is home after twenty
+years — and immediately puts on rags. The low-key swagger of a king in disguise.
+
+Dramatic function: THE RETURN. The Phaeacians deliver Odysseus to Ithaca. Athena
+appears, they scheme as equals, and she disguises him as a beggar for the long
+game ahead.
+
+Staging: Athena and Odysseus as two cunning players enjoying each other. The
+disguise goes on. No audience pull.
+""",
+        "scene_context": """\
+Book XIII is THE RETURN. The Phaeacians deliver Odysseus sleeping to Ithaca. He
+wakes home at last. Athena appears, schemes with him as an equal, and disguises
+him as a beggar. The long game begins.
+
+Anchor song: Post Malone "WOW" → Odysseus's number.
+
+Athena runs the operation. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the shore of Ithaca — Odysseus is finally home after twenty years, and the goddess is about to turn the king into a beggar.",
+        "muse_extra": "",
+        "title_md": "# ATHENA — Book XIII: WOW\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "14": {
+        "scene_file": "scene_book14.md",
+        "commit_prefix": "Book XIV",
+        "banner": "🎭  ATHENA writers' room — Book XIV: Without Me",
+        "scene_id": "Book XIV — Without Me",
+        "song_scaffold_key": "ODYSSEUS_WITHOUT",
+        "turn_order": [
+            ("EUMAEUS",
+             "WELCOME THE STRANGER. A ragged beggar comes to your hut. You don't know "
+             "him — but you feed him, shelter him, treat him with dignity, because that "
+             "is who you are. You speak of your lost master Odysseus with love and "
+             "grief. Include staging, e.g. [STAGING: Eumaeus sets bread and wine before "
+             "the beggar, his dogs settling at the stranger's feet].",
+             "dialogue",
+             "show hospitality without expecting anything — and grieve for your "
+             "master openly; you are the most decent man in the poem and it costs "
+             "you nothing to be kind",
+             "suspicious, transactional — you give freely; that is your whole character"),
+            ("ODYSSEUS",
+             "THE TEST. You are the beggar. You test Eumaeus — spin a false tale of who "
+             "you are, watch how he treats you, probe his loyalty. He passes every test "
+             "without knowing it's a test. You feel the love this man has for you and "
+             "you cannot yet reveal yourself. Include staging, e.g. [STAGING: Odysseus "
+             "watches Eumaeus's face as he speaks of the lost king].",
+             "dialogue",
+             "test the loyalty while hiding the love — you are moved by this man's "
+             "faith and you have to keep playing the beggar; that tension is the scene",
+             "revealing, sentimental — you cannot reveal yourself yet; play the long game"),
+            ("EUMAEUS",
+             "THE FAITH. The beggar suggests Odysseus might still return. You have heard "
+             "this too many times from too many liars looking for a meal. You refuse to "
+             "hope — but the refusal is itself a kind of grief. Include staging, e.g. "
+             "[STAGING: Eumaeus shakes his head, pours more wine, looks into the fire].",
+             "dialogue",
+             "refuse to hope because hope has hurt too much — your weariness is the "
+             "measure of how long you've kept faith",
+             "naively hopeful — you are guarding yourself against another disappointment"),
+            ("ODYSSEUS",
+             "WITHOUT ME — THE NUMBER. Halsey's 'Without Me' as contrafact. Everything "
+             "fell apart without you — but this one man kept faith. The ache of the hole "
+             "you left in this household, and the loyalty that survived it. Full "
+             "verse-and-hook. Original lyrics, real rhythm, real rhyme. Sing it as the "
+             "beggar but let the king's grief bleed through.",
+             "song",
+             "the ache of seeing what your absence cost and the loyalty that "
+             "survived it — you are home and still hidden, watching a good man "
+             "grieve for you",
+             "self-pitying — this is about the loyalty, not just the loss; "
+             "Calypso, Circe — wrong register"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the king "
+             "fed by his own faithful servant, unrecognized, the reunion still to come.",
+             "dialogue",
+             "close with the quiet ache of the unrecognized homecoming",
+             "triumphant — this is tender, not victorious"),
+        ],
+        "brief": """\
+BOOK XIV — WITHOUT ME   (hidden brief)
+
+Anchor song: Halsey — "Without Me" → Odysseus's number, sung as the beggar with
+the king's grief bleeding through. Everything fell apart without him, but Eumaeus
+kept faith.
+
+Dramatic function: THE LOYAL SERVANT. Odysseus, disguised, shelters with Eumaeus
+the swineherd, tests his loyalty, and finds it whole. The reunion held back.
+
+Staging: Eumaeus's hut. Warm, intimate. No audience pull.
+""",
+        "scene_context": """\
+Book XIV is THE LOYAL SERVANT. The disguised Odysseus comes to the hut of Eumaeus
+the swineherd, who feeds and shelters him without knowing who he is. Odysseus
+tests his loyalty and finds it true.
+
+Anchor song: Halsey "Without Me" → Odysseus's number.
+
+Eumaeus's hut, intimate. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the hut of the swineherd Eumaeus — where the disguised king finds the one servant who never stopped believing.",
+        "muse_extra": "",
+        "title_md": "# ATHENA — Book XIV: Without Me\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "15": {
+        "scene_file": "scene_book15.md",
+        "commit_prefix": "Book XV",
+        "banner": "🎭  ATHENA writers' room — Book XV: Bounce Back",
+        "scene_id": "Book XV — Bounce Back",
+        "song_scaffold_key": "ODYSSEUS_BOUNCE",
+        "turn_order": [
+            ("TELEMACHUS",
+             "THE RETURN HOME. You have sailed back from Sparta, dodged the suitors' "
+             "ambush (Athena warned you), and come to Eumaeus's hut. You are a different "
+             "man than the boy who left — confident, road-tested. You don't yet know "
+             "the beggar by the fire is your father. Include staging, e.g. [STAGING: "
+             "Telemachus ducks into Eumaeus's hut, travel-worn and changed].",
+             "dialogue",
+             "arrive as the man you've become — and look right past the beggar who is "
+             "your father; the dramatic irony is the whole scene",
+             "boyish, uncertain — you have grown; carry it; the not-knowing is the point"),
+            ("ATHENA",
+             "PREPARE THE REVEAL. Unseen by Telemachus, you signal Odysseus — the moment "
+             "is coming. You will lift the disguise. Brief, divine, stage-managing. "
+             "Include staging, e.g. [STAGING: Athena appears at the door visible only "
+             "to Odysseus; she beckons him outside].",
+             "dialogue",
+             "set up the most intimate recognition in the poem — you choose the "
+             "moment; you are still running everything",
+             "absent, passive — you are the director calling this scene"),
+            ("EUMAEUS",
+             "SENT TO THE PALACE. Telemachus sends you to tell Penelope he is home safe. "
+             "You go — which clears the hut for the father-son reveal. Loyal, prompt, "
+             "glad to carry good news to the queen. Include staging, e.g. [STAGING: "
+             "Eumaeus sets out for the palace, leaving the beggar and the young master "
+             "alone].",
+             "dialogue",
+             "carry the good news gladly — and unknowingly clear the room for the "
+             "reunion; you are always doing the right thing",
+             "reluctant — you are happy to serve; go"),
+            ("TELEMACHUS",
+             "ALONE WITH THE BEGGAR. Eumaeus gone, you and the beggar are alone. You "
+             "treat him with courtesy — you are your father's son and Eumaeus's student "
+             "in decency. You sense something but cannot name it. Include staging, e.g. "
+             "[STAGING: Telemachus studies the beggar, troubled, not knowing why].",
+             "dialogue",
+             "extend courtesy to a stranger and feel something you can't explain — "
+             "the blood pull you don't yet understand",
+             "dismissive — you are decent to him; the unease is the recognition trying "
+             "to surface"),
+            ("ODYSSEUS",
+             "BOUNCE BACK — THE NUMBER. Little Mix's 'Bounce Back' as contrafact. You "
+             "are back on home soil, your son in front of you, and the disguise still "
+             "holds. The bounce-back is bittersweet: so close, one lifted veil away. "
+             "Full verse-and-hook. Original lyrics, real rhythm, real rhyme. Sing as "
+             "the beggar with the father straining underneath.",
+             "song",
+             "the bittersweet bounce-back of being home with your son right there and "
+             "still hidden — one disguise away from everything you lost",
+             "triumphant — this is the ache of almost; the reveal hasn't happened yet; "
+             "Calypso, Circe — wrong register"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: father and "
+             "son under one roof at last, unrecognized, the veil about to lift.",
+             "dialogue",
+             "close on the held breath before the recognition",
+             "resolved — the reveal is Book XVI; hold the tension"),
+        ],
+        "brief": """\
+BOOK XV — BOUNCE BACK   (hidden brief)
+
+Anchor song: Little Mix — "Bounce Back" → Odysseus's number. Back on home soil,
+his son in front of him, the disguise still holding. The bittersweet of almost.
+
+Dramatic function: THE NON-RECOGNITION. Telemachus returns from Sparta, dodges
+the ambush, comes to Eumaeus's hut — and does not recognize the beggar who is his
+father. Athena prepares the reveal for Book XVI.
+
+Staging: Eumaeus's hut. The dramatic irony of father and son unrecognized. No
+audience pull.
+""",
+        "scene_context": """\
+Book XV is THE NON-RECOGNITION. Telemachus returns from Sparta and comes to
+Eumaeus's hut where his disguised father sits by the fire. He does not recognize
+him. Athena sets up the reveal to come.
+
+Anchor song: Little Mix "Bounce Back" → Odysseus's number.
+
+The dramatic irony of the unrecognized father. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "Eumaeus's hut — Telemachus comes home a changed man and sits down across from a beggar he does not know is his father.",
+        "muse_extra": (
+            "Set up the cruelest, sweetest irony of the night: a son and a father "
+            "in the same small room, and the boy has no idea. Let the room ache "
+            "for it."
+        ),
+        "title_md": "# ATHENA — Book XV: Bounce Back\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "16": {
+        "scene_file": "scene_book16.md",
+        "commit_prefix": "Book XVI",
+        "banner": "🎭  ATHENA writers' room — Book XVI: Lay",
+        "scene_id": "Book XVI — Lay",
+        "song_scaffold_key": "ODYSSEUS_LAY",
+        "turn_order": [
+            ("TELEMACHUS",
+             "THE TRANSFORMATION. Athena draws the beggar outside and lifts the "
+             "disguise — when the man returns he is changed, radiant, kingly. You think "
+             "he is a god and you are afraid. Include staging, e.g. [STAGING: the beggar "
+             "steps out, and the man who steps back in stands taller, transformed].",
+             "dialogue",
+             "react to the impossible — the beggar transformed into something "
+             "godlike; fear before understanding",
+             "calm, knowing — you don't understand yet; the fear is right"),
+            ("ODYSSEUS",
+             "THE REVEAL. You tell him: I am no god. I am your father. The man you have "
+             "waited for your whole life. Lay it down — the disguise, the distance, the "
+             "twenty years. This is the most intimate reunion in the poem. Include "
+             "staging, e.g. [STAGING: Odysseus opens his arms; Telemachus, "
+             "disbelieving, steps into them].",
+             "dialogue",
+             "reveal yourself to your son and let twenty years of held grief release "
+             "— this is the reunion you crossed the world for",
+             "guarded, cold — this is the one moment you let the armor all the way "
+             "down; let it land"),
+            ("TELEMACHUS",
+             "THE EMBRACE. You cannot believe it and then you can. Twenty years without "
+             "a father and he is here, holding you. Weep. Then: turn to business — you "
+             "are your father's son, and there are suitors to deal with. Include "
+             "staging, e.g. [STAGING: father and son weep; then Telemachus straightens, "
+             "all business].",
+             "dialogue",
+             "break open and then pull together — the reunion and then the readiness; "
+             "you are a man now and there is work",
+             "purely emotional — feel it fully, then become the strategist your "
+             "father needs"),
+            ("ODYSSEUS",
+             "LAY — THE NUMBER. Jason Derulo's 'Lay' as contrafact. Lay it all down — "
+             "the years, the disguise, the distance between a father and a son who "
+             "never knew each other. The plan forms as you sing: how the two of you "
+             "will take back the house. Full verse-and-hook. Original lyrics, real "
+             "rhythm, real rhyme. Include staging, e.g. [STAGING: father and son "
+             "clasp hands; the plan begins].",
+             "song",
+             "the release of twenty years and the forging of a partnership with the "
+             "son you finally have — intimacy turning into shared purpose",
+             "boastful, distant — this is the most tender scene Odysseus gets; "
+             "sea-witch, Calypso — wrong register entirely"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: father and "
+             "son reunited and allied, the plan set, the reckoning with the suitors "
+             "now a matter of when.",
+             "dialogue",
+             "close on the alliance forged — the most important partnership in the "
+             "back half of the poem",
+             "ambiguous — this is a clear, earned moment of joy and resolve"),
+        ],
+        "brief": """\
+BOOK XVI — LAY   (hidden brief)
+
+Anchor song: Jason Derulo — "Lay" → Odysseus's number. Lay it all down — the
+disguise, the distance, the twenty years between a father and son who never knew
+each other.
+
+Dramatic function: THE RECOGNITION. Athena lifts the disguise. Odysseus reveals
+himself to Telemachus. The most intimate reunion in the poem, turning into the
+alliance that will take back the house.
+
+Staging: Eumaeus's hut. The reveal, the embrace, the plan. No audience pull.
+""",
+        "scene_context": """\
+Book XVI is THE RECOGNITION. Athena lifts Odysseus's disguise and he reveals
+himself to Telemachus. Father and son reunite, weep, and begin planning the
+reckoning with the suitors.
+
+Anchor song: Jason Derulo "Lay" → Odysseus's number.
+
+The most intimate scene in the back half. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "Eumaeus's hut — the disguise lifts, and a son meets his father for the first time as a man.",
+        "muse_extra": "",
+        "title_md": "# ATHENA — Book XVI: Lay\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "17": {
+        "scene_file": "scene_book17.md",
+        "commit_prefix": "Book XVII",
+        "banner": "🎭  ATHENA writers' room — Book XVII: Walk It Out",
+        "scene_id": "Book XVII — Walk It Out",
+        "song_scaffold_key": "ODYSSEUS_WALK",
+        "turn_order": [
+            ("ODYSSEUS",
+             "BACK INTO THE PALACE. Disguised again as the beggar, you walk into your "
+             "own hall for the first time in twenty years. You see the suitors at your "
+             "tables, eating your house. You take it all in — cold, patient, cataloging. "
+             "Include staging, e.g. [STAGING: the beggar shuffles into the great hall; "
+             "the suitors barely glance at him].",
+             "dialogue",
+             "walk into your own stolen house and master your rage — every detail you "
+             "catalog now is a debt you will collect; patience is the weapon",
+             "explosive, impatient — the power is in the restraint; you wait"),
+            ("NARRATOR",
+             "ARGOS. The old dog Argos — Odysseus's own hound, now ancient and neglected "
+             "on a dung heap — lifts his head. He alone knows his master through the "
+             "disguise. He wags his tail once. And he dies. Spare Homeric prose; this "
+             "is pure staging and the saddest beat in the poem. Include staging, e.g. "
+             "[STAGING: a old dog on the dung heap lifts his head, knows the beggar, "
+             "thumps his tail once, and dies; Odysseus wipes away a tear no one sees].",
+             "dialogue",
+             "land the Argos beat with total restraint — the dog who waited twenty "
+             "years recognizes his master and lets go; do not overwrite it",
+             "wordy, sentimental — this is spare and devastating; few words"),
+            ("ANTINOUS",
+             "ABUSE THE BEGGAR. The beggar asks for scraps. You — entitled, cruel — "
+             "throw a footstool at him, hit him, mock him. You have no idea you are "
+             "striking the king. Include staging, e.g. [STAGING: Antinous hurls a "
+             "footstool; it strikes the beggar's shoulder; the beggar does not fall].",
+             "dialogue",
+             "abuse the helpless beggar for sport — this cruelty is the specific "
+             "thing that will get you killed first; you are writing your own death",
+             "restrained, decent — you are at your worst here; that's the point"),
+            ("AMPHINOMUS",
+             "THE DECENT ONE. You are uneasy at the abuse. You offer the beggar "
+             "kindness — bread, a gentle word. Odysseus quietly warns you (in disguise) "
+             "to leave before the reckoning comes. You feel the warning and you stay "
+             "anyway. Include staging, e.g. [STAGING: Amphinomus presses bread into the "
+             "beggar's hand, troubled].",
+             "dialogue",
+             "show the decency that won't save you — you sense the danger, you are "
+             "warned, and you stay; that is the tragedy",
+             "cruel, oblivious — you are the conscience who dies anyway"),
+            ("ODYSSEUS",
+             "WALK IT OUT — THE NUMBER. Usher's 'Walk It Out' as contrafact. You walk "
+             "through your own hall, patient and watching, every insult a name on the "
+             "list, the dog who knew you dead behind you. The slow walk of a man biding "
+             "his time before the storm. Full verse-and-hook. Original lyrics, real "
+             "rhythm, real rhyme.",
+             "song",
+             "the patient, watching walk through your stolen house — cold control, "
+             "the list growing, the reckoning coming; you walk it out and you wait",
+             "explosive — this is biding, not striking yet; the restraint is the power; "
+             "Calypso, Circe — wrong register"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the beggar-"
+             "king walking his own hall unknown, the dog dead, the suitors marked, the "
+             "reckoning one day off.",
+             "dialogue",
+             "close with the patient menace of the disguised king in his own house",
+             "light — the danger is coiling"),
+        ],
+        "brief": """\
+BOOK XVII — WALK IT OUT   (hidden brief)
+
+Anchor song: Usher — "Walk It Out" → Odysseus's number. The patient walk through
+his own stolen hall, watching, cataloging, biding his time.
+
+Dramatic function: THE RETURN TO THE PALACE. Odysseus, disguised, walks into his
+own hall. Argos the old dog recognizes him and dies. The suitors abuse the beggar.
+Amphinomus alone is kind — and is warned, and stays.
+
+Staging: the great hall. Argos is pure staging — the saddest beat in the poem.
+No audience pull. Dancers/cast only.
+""",
+        "scene_context": """\
+Book XVII is THE RETURN TO THE PALACE. The disguised Odysseus walks into his own
+hall. His old dog Argos recognizes him and dies. The suitors abuse the beggar;
+Antinous throws a stool. Amphinomus is kind and is quietly warned to leave.
+
+Anchor song: Usher "Walk It Out" → Odysseus's number.
+
+Argos is a staging beat, no speaking. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the great hall of Ithaca — the king walks back into his own house in rags, and only his old dog knows him.",
+        "muse_extra": (
+            "Warn the room there's a heartbreak coming — an old dog who waited "
+            "twenty years. And that the beggar taking abuse tonight is the king, "
+            "keeping a list."
+        ),
+        "title_md": "# ATHENA — Book XVII: Walk It Out\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "18": {
+        "scene_file": "scene_book18.md",
+        "commit_prefix": "Book XVIII",
+        "banner": "🎭  ATHENA writers' room — Book XVIII: No Tears Left To Cry",
+        "scene_id": "Book XVIII — No Tears Left To Cry",
+        "song_scaffold_key": "PENELOPE_NOTEARS",
+        "turn_order": [
+            ("PENELOPE",
+             "THE APPEARANCE. You come down into the hall — the first time the suitors "
+             "have seen you in a while. Athena has made you radiant. You are not here "
+             "to be admired; you are here to play them — to extract gifts, to keep them "
+             "off balance, to remind them whose house this is. Include staging, e.g. "
+             "[STAGING: Penelope descends the stairs; the hall goes quiet; every suitor "
+             "turns].",
+             "dialogue",
+             "command the room you've been besieged in — you are not a prize, you are "
+             "the player working every man here; let them think they're winning",
+             "passive, victimized, dazzled — you are running this; they are your marks"),
+            ("ANTINOUS",
+             "THE SUITORS BITE. Penelope has them mesmerized. You promise gifts, you "
+             "preen, you compete for her attention — exactly as she intended. Include "
+             "staging, e.g. [STAGING: Antinous signals for gifts to be brought; the "
+             "suitors scramble to outdo each other].",
+             "dialogue",
+             "be played without knowing it — you think you're courting; you're being "
+             "milked for gifts by a smarter operator",
+             "suspicious, wary — you are dazzled and manipulated; that's the joke"),
+            ("EURYMACHUS",
+             "THE SMOOTH PLAY. You lay on the charm, the flattery, the smooth talk — "
+             "and Penelope takes your gifts and gives you nothing real. You congratulate "
+             "yourself the whole time. Include staging, e.g. [STAGING: Eurymachus "
+             "presents a golden necklace with a flourish; Penelope accepts it, "
+             "unreadable].",
+             "dialogue",
+             "perform your charm and lose the exchange without realizing it — she "
+             "out-games you completely",
+             "aware you're being played — you think you're winning; you're not"),
+            ("PENELOPE",
+             "NO TEARS LEFT TO CRY — THE NUMBER. Ariana Grande's 'No Tears Left To Cry' "
+             "as contrafact. Twenty years of grief have burned down to pure strategy. "
+             "You're out of tears — what's left is the coldest, smartest game in the "
+             "house. The suitors think they dazzle you; you're picking them clean. Full "
+             "verse-and-hook. Original lyrics, real rhythm, real rhyme.",
+             "song",
+             "transform exhaustion into power — the tears are spent and what remains "
+             "is a tactician who owns every man in this room while they think they "
+             "own her",
+             "weepy, fragile, victimized — this is strength forged from grief; "
+             "she is the smartest player on the floor"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the queen "
+             "having worked the room and walked out richer and untouched, the suitors "
+             "preening over nothing, the disguised king watching his wife run the game.",
+             "dialogue",
+             "close on Penelope's mastery — and Odysseus watching, proud and unseen",
+             "diminishing — let her win this scene outright"),
+        ],
+        "brief": """\
+BOOK XVIII — NO TEARS LEFT TO CRY   (hidden brief)
+
+Anchor song: Ariana Grande — "No Tears Left To Cry" → Penelope's number. Twenty
+years of grief burned down to pure strategy. She's out of tears; what's left is
+the smartest game in the house.
+
+Dramatic function: PENELOPE'S MASTERY. She appears before the suitors and plays
+them — extracting gifts, keeping them off balance — while the disguised Odysseus
+watches his wife run the game. She is a tactician, not a victim.
+
+Staging: the great hall. Penelope works the room. The disguised Odysseus watches.
+No audience pull.
+""",
+        "scene_context": """\
+Book XVIII is PENELOPE'S MASTERY. She appears before the suitors, radiant, and
+plays them for gifts while keeping them off balance. The disguised Odysseus
+watches his wife out-game a hall full of men.
+
+Anchor song: Ariana Grande "No Tears Left To Cry" → Penelope's number.
+
+Penelope is the smartest player in the room. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the great hall — the queen comes downstairs, and a room full of men who think they're hunting her are about to get played.",
+        "muse_extra": (
+            "Tell the room the queen is about to walk in, and every man here thinks "
+            "he's got a shot — and not one of them realizes she's the smartest "
+            "operator in the building."
+        ),
+        "title_md": "# ATHENA — Book XVIII: No Tears Left To Cry\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "19": {
+        "scene_file": "scene_book19.md",
+        "commit_prefix": "Book XIX",
+        "banner": "🎭  ATHENA writers' room — Book XIX: Savage Love",
+        "scene_id": "Book XIX — Savage Love",
+        "song_scaffold_key": "PENELOPE_SAVAGE",
+        "turn_order": [
+            ("ODYSSEUS",
+             "THE INTERVIEW. Still the beggar, you are brought before Penelope. She "
+             "questions you about the lost king. You spin a tale — you say you met "
+             "Odysseus once, he is alive, he is near. You watch her face. You are "
+             "talking to your wife and you cannot tell her. Include staging, e.g. "
+             "[STAGING: the beggar sits across from Penelope in the firelight, the "
+             "hall emptied for the interview].",
+             "dialogue",
+             "talk to your wife across a fire while hiding from her — the agony of "
+             "near-recognition; you test her as you tested everyone",
+             "revealing — you cannot reveal yourself yet; play it close"),
+            ("PENELOPE",
+             "THE NEAR-RECOGNITION. Something about this beggar. You almost know. You "
+             "probe him — the details only Odysseus would know — and he answers them "
+             "all. You are too smart not to suspect, and too careful to say. You hold "
+             "it. Include staging, e.g. [STAGING: Penelope leans in, studying the "
+             "beggar's face, a question forming she does not ask].",
+             "dialogue",
+             "almost know your husband and choose not to say it yet — you are testing "
+             "HIM as much as he tests you; you hold the cards close because that's "
+             "how you've survived",
+             "naive, oblivious — you are the sharpest mind in the poem; you suspect "
+             "and you wait"),
+            ("EURYCLEIA",
+             "THE SCAR. You are sent to wash the beggar's feet. Your hands find the scar "
+             "on his thigh — the boar-hunt scar you have known since he was a boy. You "
+             "KNOW. Your hand stops. Your heart stops. Include staging, e.g. [STAGING: "
+             "Eurycleia's hand freezes on the scar; the basin tips; water spills].",
+             "dialogue",
+             "recognize your master in a single touch and nearly cry out — twenty "
+             "years end in your hands in the dark",
+             "calm, slow — this is a thunderbolt of recognition; let it land hard "
+             "and fast"),
+            ("ODYSSEUS",
+             "THE SILENCING. You grip Eurycleia — by the throat, by the arm — and "
+             "whisper: not yet, say nothing, or you doom us both. She obeys. The secret "
+             "holds. Include staging, e.g. [STAGING: Odysseus seizes the old nurse; a "
+             "whispered command; she nods, trembling, and keeps the secret].",
+             "dialogue",
+             "protect the whole plan in one swift silencing — gentle and absolute; "
+             "she is loyal and she will hold",
+             "violent, cruel — this is urgent, not brutal; she is your ally"),
+            ("PENELOPE",
+             "SAVAGE LOVE — THE NUMBER. Jason Derulo's 'Savage Love' as contrafact. "
+             "Here is the savage thing: you've been faithful twenty years while he "
+             "wandered, and now a stranger who knows too much sits at your fire and you "
+             "have to play it cool. The double standard, the long game, the love that's "
+             "survived as strategy. Full verse-and-hook. Original lyrics, real rhythm, "
+             "real rhyme.",
+             "song",
+             "name the savage deal you've been handed — faithful while he roamed, and "
+             "still you have to test and wait and hold your cards; the love is real "
+             "and so is the grievance, and you play both",
+             "purely romantic, purely sad — there's an edge here, a knowing about the "
+             "double standard; she's a player too"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the scar "
+             "known and the secret kept, husband and wife circling each other in the "
+             "firelight, the recognition deferred to the queen's own chosen hour.",
+             "dialogue",
+             "close on the deferred recognition — Penelope will decide when, not him",
+             "resolved — the recognition is hers to grant in Book XXIII"),
+        ],
+        "brief": """\
+BOOK XIX — SAVAGE LOVE   (hidden brief)
+
+Anchor song: Jason Derulo — "Savage Love" → Penelope's number. The savage deal:
+faithful twenty years while he wandered, and now she has to play it cool with a
+stranger who knows too much. The double standard named, the long game played.
+
+Dramatic function: THE NEAR-RECOGNITION + THE SCAR. The disguised Odysseus is
+interviewed by Penelope, who almost knows him. Eurycleia recognizes the scar and
+is silenced. Penelope holds her cards — the recognition will be on her terms.
+
+Staging: the hall by firelight. The scar scene. No audience pull.
+""",
+        "scene_context": """\
+Book XIX is THE NEAR-RECOGNITION. Penelope interviews the disguised Odysseus and
+almost knows him. The nurse Eurycleia recognizes the boar-hunt scar while washing
+his feet; Odysseus silences her. Penelope holds her suspicion close.
+
+Anchor song: Jason Derulo "Savage Love" → Penelope's number.
+
+The scar recognition. Penelope as tactician. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the hall by firelight — a queen interrogates a beggar who knows too much, and an old nurse is about to feel a scar she has known for forty years.",
+        "muse_extra": "",
+        "title_md": "# ATHENA — Book XIX: Savage Love\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "20": {
+        "scene_file": "scene_book20.md",
+        "commit_prefix": "Book XX",
+        "banner": "🎭  ATHENA writers' room — Book XX: Up",
+        "scene_id": "Book XX — Up",
+        "song_scaffold_key": "ODYSSEUS_UP",
+        "turn_order": [
+            ("ODYSSEUS",
+             "THE SLEEPLESS NIGHT. The eve of the reckoning. You lie awake in your own "
+             "hall, disguised, rage and readiness coiling. You see the disloyal "
+             "servants, you hear the suitors' confidence. Tomorrow it all goes up. "
+             "Include staging, e.g. [STAGING: the beggar lies sleepless in the hall, "
+             "eyes open in the dark, the house breathing around him].",
+             "dialogue",
+             "hold the coiled tension of the night before — everything you've waited "
+             "twenty years for is one sunrise away; master the rage one more night",
+             "calm, resolved — the tension is everything; you barely sleep"),
+            ("ATHENA",
+             "STEADY HIM. You appear to Odysseus in the night. Steady him — the plan is "
+             "sound, the moment near, the gods are with him. Brief, divine, the "
+             "commander's reassurance before the battle. Include staging, e.g. [STAGING: "
+             "Athena appears in the dark above the sleepless king; a word, and she "
+             "is gone].",
+             "dialogue",
+             "reassure your favorite before the storm — you've engineered this moment "
+             "and you know it will hold",
+             "uncertain, absent — you are the architect; tell him it's time"),
+            ("ANTINOUS",
+             "THE OMENS IGNORED. Morning. Strange omens fill the hall — a prophet sees "
+             "blood, the suitors laugh uneasily. You dismiss it all, lead the others in "
+             "mockery, double down on the feast. Include staging, e.g. [STAGING: "
+             "Antinous laughs off a dark omen; the suitors follow, a little too loud].",
+             "dialogue",
+             "dismiss the warning and lead the others to their doom — your "
+             "fearlessness is fatal blindness now",
+             "afraid, heeding — you ignore every sign; that's why you die"),
+            ("AMPHINOMUS",
+             "THE LAST WARNING. You feel the dread in the room. The omens, the strange "
+             "beggar, the queen's calm — something is coming. You almost leave. You "
+             "don't. This is your last chance and you let it pass. Include staging, "
+             "e.g. [STAGING: Amphinomus rises as if to go, hesitates at the door, and "
+             "sits back down].",
+             "dialogue",
+             "feel the doom and fail to act on it one final time — the conscience who "
+             "knows and stays; this is the last exit and you miss it",
+             "oblivious, comfortable — you sense everything and stay anyway; tragedy"),
+            ("ODYSSEUS",
+             "UP — THE NUMBER. Cardi B's 'Up' as contrafact. Everything is about to go "
+             "up. The trap is set, the bow is waiting, the suitors are blind, the dawn "
+             "has come. The coiled, electric energy of the moment before the storm "
+             "breaks. Full verse-and-hook. Original lyrics, real rhythm, real rhyme.",
+             "song",
+             "the electric readiness of the moment before everything blows — up, it's "
+             "all about to go up; twenty years coiled into one held breath",
+             "mournful, hesitant — this is Cardi B 'Up' energy: hard, ready, "
+             "unstoppable; the storm one beat away"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the omens "
+             "ignored, the trap set, the queen about to bring out the bow, the whole "
+             "house one breath from the reckoning.",
+             "dialogue",
+             "close on the held breath — the next scene is the bow and the blood",
+             "relaxed — the tension should be unbearable"),
+        ],
+        "brief": """\
+BOOK XX — UP   (hidden brief)
+
+Anchor song: Cardi B — "Up" → Odysseus's number. Everything about to go up. The
+trap set, the bow waiting, the suitors blind, the dawn arrived.
+
+Dramatic function: THE EVE OF THE RECKONING. The sleepless night, Athena's
+reassurance, the ignored omens, Amphinomus's last missed chance to leave. The
+coiled tension before the storm.
+
+Staging: the hall at night and dawn. No audience pull. The tension is the scene.
+""",
+        "scene_context": """\
+Book XX is THE EVE OF THE RECKONING. Odysseus lies sleepless; Athena steadies
+him. Morning brings omens the suitors ignore. Amphinomus feels the doom and fails
+to leave. Everything is one breath from the storm.
+
+Anchor song: Cardi B "Up" → Odysseus's number.
+
+The coiled tension before the slaughter. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the last night before the reckoning — the trap is set, the bow is waiting, and everything is about to go up.",
+        "muse_extra": "",
+        "title_md": "# ATHENA — Book XX: Up\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "21": {
+        "scene_file": "scene_book21.md",
+        "commit_prefix": "Book XXI",
+        "banner": "🎭  ATHENA writers' room — Book XXI: Black Widow",
+        "scene_id": "Book XXI — Black Widow",
+        "song_scaffold_key": "PENELOPE_BLACKWIDOW",
+        "turn_order": [
+            ("PENELOPE",
+             "BRING OUT THE BOW. You announce the contest: string Odysseus's great bow "
+             "and shoot an arrow through twelve axe-heads, and you will marry the winner. "
+             "The suitors think it's a prize. It's a trap you've spun for years — only "
+             "one man alive can string that bow. Include staging, e.g. [STAGING: "
+             "Penelope brings out the great bow and sets up the twelve axes in a row].",
+             "dialogue",
+             "spring the trap you've been weaving for years — they think you're "
+             "finally surrendering; you're setting the killing floor; you are the "
+             "black widow and this is your web",
+             "resigned, defeated, giving up — this is your masterstroke; you engineered "
+             "this exact moment"),
+            ("ANTINOUS",
+             "THE FAILURE BEGINS. You take the bow confident and you cannot even bend "
+             "it. You make excuses — the wood is cold, you'll try later — and pass it "
+             "on. The mighty suitors humiliated by a bow. Include staging, e.g. "
+             "[STAGING: Antinous strains at the bow, fails, covers with bluster, "
+             "passes it down].",
+             "dialogue",
+             "fail at the bow and cover with excuses — your weakness exposed in front "
+             "of everyone; the throne you claimed you can't even draw the bow for",
+             "graceful, humble — you bluster and blame the bow; that's who you are"),
+            ("EURYMACHUS",
+             "THE SMOOTH FAILURE. You try the bow with all your charm and you fail too "
+             "— and unlike Antinous, the failure frightens you. You see what it means: "
+             "you are lesser men than the king whose house you've eaten. Include "
+             "staging, e.g. [STAGING: Eurymachus fails at the bow, and for the first "
+             "time real fear crosses his face].",
+             "dialogue",
+             "fail and feel the fear behind it — you're the smart one and you "
+             "suddenly understand exactly what this means",
+             "confident, untroubled — the fear is the recognition of doom; let it show"),
+            ("PENELOPE",
+             "BLACK WIDOW — THE NUMBER. Iggy Azalea's 'Black Widow' as contrafact. "
+             "You've spun this web for twenty years — the weaving, the waiting, the "
+             "contest none of them can win. The trap is closing and they don't even "
+             "see it. The cold satisfaction of the long game paying off. Full "
+             "verse-and-hook. Original lyrics, real rhythm, real rhyme.",
+             "song",
+             "savor the web closing — every thread you wove for twenty years pulling "
+             "tight at once; you are the predator here and they walked right in",
+             "passive, mournful, fragile — this is the black widow's triumph; she "
+             "set this whole thing and it's working perfectly"),
+            ("ODYSSEUS",
+             "THE BEGGAR ASKS FOR THE BOW. Still disguised, you ask to try the bow. The "
+             "suitors mock you — a beggar? But Penelope (who may now suspect) and "
+             "Telemachus insist he be allowed. You take the bow. Include staging, e.g. "
+             "[STAGING: the beggar takes up the great bow; the hall laughs; then he "
+             "strings it in one smooth motion and the laughter stops].",
+             "dialogue",
+             "reveal your strength in one impossible motion — the beggar strings the "
+             "bow no suitor could bend; the room realizes too late what just happened",
+             "boastful, slow — let the action speak; the strung bow IS the reveal"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the bow "
+             "strung in the beggar's hands, the arrow nocked, the suitors' laughter "
+             "curdling to dread, the trap sprung and the storm about to break.",
+             "dialogue",
+             "close on the strung bow — the next scene is the slaughter",
+             "relaxed — this is the trap snapping shut"),
+        ],
+        "brief": """\
+BOOK XXI — BLACK WIDOW   (hidden brief)
+
+Anchor song: Iggy Azalea — "Black Widow" → Penelope's number. She's spun this web
+for twenty years; the bow contest is the trap closing. Only one man alive can
+string that bow.
+
+Dramatic function: THE TRAP SPRUNG. Penelope announces the bow contest. The
+suitors fail one by one. The disguised Odysseus asks for the bow and strings it
+in one motion. The reveal is one beat away.
+
+Staging: the great hall, the bow, the twelve axes. No audience pull. Penelope's
+long game pays off.
+""",
+        "scene_context": """\
+Book XXI is THE TRAP SPRUNG. Penelope brings out Odysseus's bow and announces the
+contest — string it and shoot through twelve axes. The suitors fail. The disguised
+Odysseus strings it effortlessly. The reckoning is one beat away.
+
+Anchor song: Iggy Azalea "Black Widow" → Penelope's number.
+
+Penelope's twenty-year trap closes. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the great hall — the queen brings out the great bow and announces a contest none of these men can win. The web is closing.",
+        "muse_extra": (
+            "Tell the room the queen has spun a trap twenty years in the weaving, "
+            "and the suitors are about to walk right into it — they think it's a "
+            "wedding contest; it's a killing floor."
+        ),
+        "title_md": "# ATHENA — Book XXI: Black Widow\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "22": {
+        "scene_file": "scene_book22.md",
+        "commit_prefix": "Book XXII",
+        "banner": "🎭  ATHENA writers' room — Book XXII: All About That Bass",
+        "scene_id": "Book XXII — All About That Bass",
+        "song_scaffold_key": "ODYSSEUS_BASS",
+        "turn_order": [
+            ("ODYSSEUS",
+             "THE REVEAL AND THE FIRST SHOT. You throw off the rags. You are Odysseus, "
+             "and the bow is in your hands. Your first arrow takes Antinous in the "
+             "throat as he drinks. The hall erupts. Include staging, e.g. [STAGING: "
+             "Odysseus throws off the beggar's rags; the first arrow flies; Antinous "
+             "falls. The dancers freeze, then scatter].",
+             "dialogue",
+             "drop the disguise and open the reckoning — twenty years of patience "
+             "released in one shot; you are the king again and the floor is yours",
+             "hesitant, merciful — this is the moment of no return; cold and total"),
+            ("ANTINOUS",
+             "THE FIRST TO FALL. You are mid-boast, mid-drink, when the arrow takes "
+             "you. You never saw it coming — your contempt blinded you to the end. A "
+             "few last shocked words, if any. Include staging, e.g. [STAGING: Antinous "
+             "clutches at the arrow, the cup falling from his hand].",
+             "dialogue",
+             "die first and stunned — the ringleader who never believed this could "
+             "happen; your blindness was total to the last second",
+             "wise, prepared — you die shocked and uncomprehending; that's the justice"),
+            ("EURYMACHUS",
+             "THE LAST BARGAIN. You try what you do best — you talk. Blame it all on "
+             "the dead Antinous, offer payment, beg for terms. Odysseus is not buying. "
+             "Then you rally the suitors to fight. Include staging, e.g. [STAGING: "
+             "Eurymachus pleads, then draws a sword and charges; an arrow takes him "
+             "mid-stride].",
+             "dialogue",
+             "make your final smooth play and have it fail — the talker who can't "
+             "talk his way out of this one; then die fighting",
+             "silent, accepting — you bargain to the last; it's who you are"),
+            ("LEODES",
+             "THE PROPHET BEGS. You are the suitor who warned them, the seer they "
+             "ignored. You go to Odysseus and beg: I never wronged your wife, I tried "
+             "to stop them, I only read the omens. It is true. Odysseus kills you "
+             "anyway. Include staging, e.g. [STAGING: Leodes kneels and clasps "
+             "Odysseus's knees; Odysseus's blade does not pause].",
+             "dialogue",
+             "beg with the truth and die anyway — you were right about everything "
+             "and it saves no one, least of all you; the tragedy of the unheeded "
+             "conscience",
+             "defiant, proud — you plead the truth; it doesn't matter; that's the "
+             "horror of it"),
+            ("ODYSSEUS",
+             "ALL ABOUT THAT BASS — THE NUMBER. Meghan Trainor's 'All About That Bass' "
+             "as contrafact, flipped hard: it's all about that bass now — loud, "
+             "physical, final, the floor murdered, the reckoning total. Twenty years "
+             "of patience paying out in one storm of justice. Full verse-and-hook. "
+             "Original lyrics, real rhythm, real rhyme. Include staging, e.g. [STAGING: "
+             "the dancers perform the slaughter as choreography — the floor is murdered, "
+             "not the audience].",
+             "song",
+             "release twenty years of held rage as total reckoning — it's all about "
+             "that bass now, the floor murdered, the house reclaimed; loud and final "
+             "and earned",
+             "playful, light — this is the slaughter; it's heavy and final; the "
+             "dancers murder the FLOOR not the audience; keep it choreographic, "
+             "not gratuitous"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: the suitors "
+             "dead to the last man, the hall cleansed, the disloyal servants judged, "
+             "Odysseus standing in his reclaimed house with the bow still warm.",
+             "dialogue",
+             "close on the reckoning complete — the house reclaimed in blood",
+             "light — this is the climax of the whole poem"),
+        ],
+        "brief": """\
+BOOK XXII — ALL ABOUT THAT BASS   (hidden brief)
+
+Anchor song: Meghan Trainor — "All About That Bass" → Odysseus's number, flipped
+hard. It's all about that bass now: loud, physical, final. The floor murdered,
+the house reclaimed.
+
+Dramatic function: THE SLAUGHTER. Odysseus throws off the disguise and kills the
+suitors. Antinous first, Eurymachus bargaining and dying, Leodes begging the truth
+and dying anyway. Twenty years of patience paid in one storm.
+
+Staging: the great hall. The slaughter is DANCERS ONLY, performed as choreography
+— murdering the dance floor, NOT the audience. No audience pull. Keep it
+choreographic, not gratuitous.
+""",
+        "scene_context": """\
+Book XXII is THE SLAUGHTER. Odysseus reveals himself and kills the suitors —
+Antinous first, then Eurymachus who bargains and dies, then Leodes who begs the
+truth and dies anyway. The house is reclaimed in blood.
+
+Anchor song: Meghan Trainor "All About That Bass" → Odysseus's number, flipped.
+
+The slaughter is dancers only — murdering the dance floor, not the audience.
+Choreographic, not gratuitous. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the great hall — the beggar is the king, the bow is strung, and the suitors are about to find out. Tonight we murder the dance floor.",
+        "muse_extra": (
+            "Tell the room: tonight the dancers murder the DANCE FLOOR — nobody's "
+            "touching the diners. But the suitors? Their reckoning has come. "
+            "Twenty years in the making."
+        ),
+        "title_md": "# ATHENA — Book XXII: All About That Bass\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "23": {
+        "scene_file": "scene_book23.md",
+        "commit_prefix": "Book XXIII",
+        "banner": "🎭  ATHENA writers' room — Book XXIII: New Rules",
+        "scene_id": "Book XXIII — New Rules",
+        "song_scaffold_key": "PENELOPE_NEWRULES",
+        "turn_order": [
+            ("EURYCLEIA",
+             "THE NEWS. You rush to Penelope — it's over, the suitors are dead, the "
+             "beggar was Odysseus all along, your husband is home. You are overjoyed "
+             "and certain. Include staging, e.g. [STAGING: Eurycleia hurries up the "
+             "stairs to wake the queen with the impossible news].",
+             "dialogue",
+             "bring the impossible news with total joy and certainty — you knew, you "
+             "kept the secret, and now you get to tell her",
+             "doubtful, restrained — you are certain and overjoyed; you felt the scar"),
+            ("PENELOPE",
+             "THE REFUSAL TO BELIEVE. You do not run downstairs weeping with joy. You "
+             "are too smart for that — twenty years of liars and tricks. You will not "
+             "accept this man as your husband until HE proves it on YOUR terms. You set "
+             "the test. Include staging, e.g. [STAGING: Penelope descends slowly, "
+             "studying the man who claims to be her husband, giving nothing away].",
+             "dialogue",
+             "refuse to be told who your husband is — you decide, you test, you "
+             "control the terms of this reunion; you've earned the right to be sure",
+             "swept away, instantly believing — you are the most careful mind in the "
+             "poem; make him prove it"),
+            ("ODYSSEUS",
+             "THE TEST PASSED. Penelope orders the marriage bed moved from their chamber "
+             "— and you react with anger, because you KNOW that bed cannot be moved: you "
+             "built it yourself around a living olive tree rooted in the ground. Only "
+             "the real Odysseus knows this. The secret sign. Include staging, e.g. "
+             "[STAGING: Odysseus describes the bed built from the olive tree; Penelope's "
+             "composure finally breaks].",
+             "dialogue",
+             "prove yourself with the one secret only you could know — the bed you "
+             "built; let the indignation be real, because the bed is your marriage",
+             "uncertain, pleading — you KNOW this secret; assert it with the "
+             "confidence of the man who built the bed"),
+            ("PENELOPE",
+             "NEW RULES — THE NUMBER. Dua Lipa's 'New Rules' as contrafact. You don't "
+             "just fall back into his arms — you have rules, and he just passed the only "
+             "test that mattered. The bed test was YOURS. The recognition happens on "
+             "YOUR terms, in YOUR time. Now — only now — you let him home. Full "
+             "verse-and-hook. Original lyrics, real rhythm, real rhyme.",
+             "song",
+             "claim the reunion on your own terms — you set the rules, he passed the "
+             "test, and only now do you choose to let him back in; the agency is "
+             "entirely yours and you've earned it",
+             "passive, swept-away, helpless — this is Penelope in full command of her "
+             "own reunion; she decides; new rules, her rules"),
+            ("NARRATOR",
+             "CLOSE THE SCENE. One or two sentences of spare Homeric prose: husband and "
+             "wife reunited at last on the queen's own terms, the secret of the bed the "
+             "key that fit, twenty years ending not in surrender but in recognition "
+             "freely granted.",
+             "dialogue",
+             "close on the reunion as Penelope's choice — not surrender, recognition "
+             "granted on her terms",
+             "diminishing her — center her agency in the close"),
+        ],
+        "brief": """\
+BOOK XXIII — NEW RULES   (hidden brief)
+
+Anchor song: Dua Lipa — "New Rules" → Penelope's number. She doesn't just fall
+back into his arms — she has rules, and the bed test is hers. The recognition
+happens on HER terms.
+
+Dramatic function: THE REUNION ON HER TERMS. Eurycleia brings the news; Penelope
+refuses to believe until Odysseus passes her test — the secret of the immovable
+bed. Only then does she let him home. Her agency is the point.
+
+Staging: the palace. The bed test. No audience pull. Penelope decides.
+""",
+        "scene_context": """\
+Book XXIII is THE REUNION ON HER TERMS. Eurycleia tells Penelope the beggar was
+Odysseus. Penelope refuses to believe until she tests him with the secret of
+their immovable marriage bed. He passes. She chooses to accept him — on her terms.
+
+Anchor song: Dua Lipa "New Rules" → Penelope's number.
+
+Penelope controls the recognition. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the palace, after the storm — the suitors are dead, the king is home, and the queen is not about to just take anyone's word for it.",
+        "muse_extra": (
+            "Tell the room the queen has one last test — and that she'll decide "
+            "when this reunion happens, not him. Twenty years; she's earned the "
+            "right to be sure."
+        ),
+        "title_md": "# ATHENA — Book XXIII: New Rules\n\n*Immersive dinner theater.*\n\n---\n",
+    },
+
+    "24": {
+        "scene_file": "scene_book24.md",
+        "commit_prefix": "Book XXIV",
+        "banner": "🎭  ATHENA writers' room — Book XXIV: Work",
+        "scene_id": "Book XXIV — Work",
+        "song_scaffold_key": "ODYSSEUS_WORK",
+        "turn_order": [
+            ("HERMES",
+             "ESCORT THE DEAD. You lead the shades of the slaughtered suitors down to "
+             "the underworld — gibbering, bewildered, stripped of all their swagger. In "
+             "Hades they meet the great dead of Troy, who marvel that they died for a "
+             "queen's hand and a king's vengeance. Brisk, wry, final — you open and "
+             "close this poem. Include staging, e.g. [STAGING: Hermes leads a line of "
+             "pale shades down into shadow; the dancers as the dead of Troy watch them "
+             "pass].",
+             "dialogue",
+             "escort the suitors to their end with cold ceremony — you are the "
+             "psychopomp closing the ledger; their swagger means nothing now",
+             "warm, sentimental — you are the messenger of death; brisk and final"),
+            ("LAERTES",
+             "THE FATHER. On your farm, old and worn, you have nearly given up. Then "
+             "Odysseus comes to you. At first you cannot believe — you've been fooled "
+             "by grief too long. He proves it: the trees, the orchard you planted for "
+             "him as a boy, named one by one. You break. Your son is home. Include "
+             "staging, e.g. [STAGING: Laertes drops his spade among the trees; the old "
+             "man and his son hold each other].",
+             "dialogue",
+             "come back to life at the return of your son — the father who retreated "
+             "to the farm to grieve, restored in one impossible moment",
+             "youthful, energetic — you are old and nearly broken; the joy reanimates you"),
+            ("ODYSSEUS",
+             "THREE GENERATIONS. You stand with your father Laertes and your son "
+             "Telemachus — three generations of the line, armed together for the first "
+             "and only time, as the suitors' families come for revenge. The house "
+             "restored is a thing that must still be defended. Include staging, e.g. "
+             "[STAGING: Odysseus, Telemachus, and Laertes stand together, armed, as the "
+             "angry families approach].",
+             "dialogue",
+             "stand with your father and son and feel the line restored — but the "
+             "work isn't done; the kingdom still has to be held",
+             "finished, resting — the kingdom isn't won until peace is made; "
+             "there's work yet"),
+            ("ATHENA",
+             "THE PEACE. The families of the suitors come for vengeance — the cycle "
+             "could go on forever. You intervene: STOP. Enough blood. You broker the "
+             "peace, restore order, and end the cycle by divine command. You have run "
+             "this whole poem and now you close it. Include staging, e.g. [STAGING: "
+             "Athena rises between the two sides; a thunderclap; the weapons fall].",
+             "dialogue",
+             "end the cycle of vengeance by command — you've stage-managed the entire "
+             "epic and now you close it with peace; the goddess has the last word",
+             "subordinate, minor — you are the architect of the whole poem; "
+             "the resolution is yours to grant"),
+            ("ODYSSEUS",
+             "WORK — THE NUMBER. Britney Spears's 'Work' as contrafact. You wanted your "
+             "kingdom back and you worked twenty years for it — the war, the wandering, "
+             "the disguise, the slaughter, and even now the work of making peace. The "
+             "restoration of everything takes work, and you did it. Full verse-and-hook. "
+             "Original lyrics, real rhythm, real rhyme. The triumphant close of the "
+             "whole epic.",
+             "song",
+             "claim the restoration as twenty years of work paid in full — the "
+             "kingdom reclaimed, the line restored, the peace made; you wanted it, "
+             "you worked, and now it's yours",
+             "exhausted, bitter — this is the triumphant close of the whole poem; "
+             "earned, not weary; the work paid off"),
+            ("NARRATOR",
+             "CLOSE THE POEM. Two or three sentences of spare Homeric prose closing the "
+             "entire epic: the suitors dead and judged, the kingdom restored, the line "
+             "of Laertes secure across three generations, Odysseus home and king again, "
+             "the goddess's peace settling over Ithaca. The Odyssey ends. Then — a final "
+             "word to the house from the world of the poem, the long song finally sung.",
+             "dialogue",
+             "close the ENTIRE epic with full weight — this is the last sentence of "
+             "all twenty-four books; make it land like a benediction",
+             "abrupt, small — this is the end of the whole Odyssey; give it gravity"),
+        ],
+        "brief": """\
+BOOK XXIV — WORK   (hidden brief)
+
+Anchor song: Britney Spears — "Work" → Odysseus's number, the triumphant close of
+the whole epic. He wanted his kingdom back and worked twenty years for it — and
+even the peace takes work.
+
+Dramatic function: THE RESTORATION — the close of the entire poem. Hermes escorts
+the suitors' shades to Hades. Odysseus reunites with his father Laertes. Three
+generations stand armed together. The suitors' families come for revenge; Athena
+intervenes and ends the cycle with peace.
+
+Staging: the farm and the final confrontation. Athena closes the poem. No
+audience pull. This is the finale of all 24 books.
+""",
+        "scene_context": """\
+Book XXIV is THE RESTORATION and the close of the whole epic. Hermes leads the
+suitors' shades to Hades. Odysseus reunites with Laertes. Three generations stand
+together against the suitors' vengeful families. Athena intervenes, brokers peace,
+and ends the cycle. The kingdom is restored.
+
+Anchor song: Britney Spears "Work" → Odysseus's number — the triumphant finale.
+
+This is the last book. Athena closes the poem. Mark beats with [STAGING: ...] lines.""",
+        "staging_clause": STAGING_CLAUSE,
+        "muse_setup": "the end of the journey — the suitors judged, the king reunited with his aged father, and a goddess about to bring twenty years of war to peace.",
+        "muse_extra": (
+            "This is the last book — the close of the whole long song. Tell the "
+            "room what it took: twenty years, an ocean, an underworld, a slaughter "
+            "— and that it all comes down to this. Send them out remembering they "
+            "were part of it."
+        ),
+        "title_md": "# ATHENA — Book XXIV: Work\n\n*Immersive dinner theater.*\n\n---\n",
+    },
 }
 
 
@@ -1528,6 +2656,114 @@ SONG_SCAFFOLDS = {
         Verse 2  (4 bars): we know what you want most; we have it; come
         Bridge   (2 bars): the ropes are the only thing between you and us
         [STAGING lines showing Odysseus straining at the mast]
+    """),
+    "ODYSSEUS_WOW": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): home at last — and immediately putting on rags
+        Pre-hook (2 bars): twenty years to get here and you can't even show your face
+        Hook     (4 bars): "Wow / [rhyme]" — the low-key swagger of a king in disguise
+        Verse 2  (4 bars): the long game ahead; the patience it will take
+        Bridge   (2 bars): nobody knows who just walked in — wow
+        [STAGING lines as the disguise goes on]
+    """),
+    "ODYSSEUS_WITHOUT": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): the faithful servant grieving a master who isn't gone
+        Pre-hook (2 bars): everything fell apart without me — but someone kept faith
+        Hook     (4 bars): "Without me / [rhyme]" — the ache of the hole you left
+        Verse 2  (4 bars): testing the loyalty, the disguise holding, the love underneath
+        Bridge   (2 bars): you don't know it yet, but I'm already home
+        [STAGING lines at Eumaeus's hut]
+    """),
+    "ODYSSEUS_BOUNCE": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): the son returns, the father a beggar in front of him
+        Pre-hook (2 bars): so close, and the disguise still holds between you
+        Hook     (4 bars): "Bounce back / [rhyme]" — back on home soil, still hidden
+        Verse 2  (4 bars): the recognition coming, the years almost over
+        Bridge   (2 bars): one lifted disguise away from everything
+        [STAGING lines as father and son stand unrecognized]
+    """),
+    "ODYSSEUS_LAY": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): Athena lifts the disguise; the father revealed
+        Pre-hook (2 bars): lay it all down — the rags, the distance, the years
+        Hook     (4 bars): "Lay / [rhyme]" — the most intimate reunion in the poem
+        Verse 2  (4 bars): father and son, the plan forming, the tears
+        Bridge   (2 bars): no more hiding between us now
+        [STAGING lines at the embrace]
+    """),
+    "ODYSSEUS_WALK": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): walking back into your own palace in rags
+        Pre-hook (2 bars): the dog who waited knows you — and lets go
+        Hook     (4 bars): "Walk it out / [rhyme]" — patient, watching, biding
+        Verse 2  (4 bars): the suitors abuse the beggar; you take it; you wait
+        Bridge   (2 bars): every insult is a name on the list
+        [STAGING lines — Argos, the walk through the hall]
+    """),
+    "PENELOPE_NOTEARS": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): twenty years of crying — you're out of tears
+        Pre-hook (2 bars): the suitors think they dazzle you; you're playing them
+        Hook     (4 bars): "No tears left / [rhyme]" — exhausted strength, pure strategy
+        Verse 2  (4 bars): the long game you've run; the throne you've held
+        Bridge   (2 bars): you don't break — you calculate
+        [STAGING lines as Penelope works the room]
+    """),
+    "PENELOPE_SAVAGE": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): a stranger at your hearth who knows too much
+        Pre-hook (2 bars): twenty years faithful — and you get interrogated?
+        Hook     (4 bars): "Savage / [rhyme]" — the double standard named, the game played
+        Verse 2  (4 bars): the almost-recognition; you test him as he tested everyone
+        Bridge   (2 bars): you've been the smartest one in the room the whole time
+        [STAGING lines — the interview, the firelight]
+    """),
+    "ODYSSEUS_UP": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): the night before; the omens; the coiled readiness
+        Pre-hook (2 bars): everything you've waited for is one day away
+        Hook     (4 bars): "Up / [rhyme]" — it's about to go up; the calm before
+        Verse 2  (4 bars): the suitors oblivious; the trap set; the bow waiting
+        Bridge   (2 bars): tomorrow the whole thing blows
+        [STAGING lines — the restless hall at night]
+    """),
+    "PENELOPE_BLACKWIDOW": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): you bring out the bow — the contest is your move
+        Pre-hook (2 bars): they think it's a prize; it's a trap you've spun for years
+        Hook     (4 bars): "Black widow / [rhyme]" — the web closing, the kill set up
+        Verse 2  (4 bars): string the bow, win the queen — none of them can
+        Bridge   (2 bars): you've been weaving this exact moment the whole time
+        [STAGING lines — the bow, the axes, the suitors lining up to fail]
+    """),
+    "ODYSSEUS_BASS": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): the bow strung, the arrow through the axes, the reveal
+        Pre-hook (2 bars): the suitors realize who just stood up
+        Hook     (4 bars): "All about that bass / [rhyme]" — it's about to get loud and final
+        Verse 2  (4 bars): the slaughter; the floor murdered; the reckoning
+        Bridge   (2 bars): twenty years of patience paid in one storm
+        [STAGING lines — dancers as the slaughter; murdering the dance floor, NOT the audience]
+    """),
+    "PENELOPE_NEWRULES": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): the slaughter's over and you STILL don't just take him back
+        Pre-hook (2 bars): you have rules; he passes them or he doesn't
+        Hook     (4 bars): "New rules / [rhyme]" — the bed test, the reunion on your terms
+        Verse 2  (4 bars): the secret only he knows; the proof you demand
+        Bridge   (2 bars): you decide when this is over — and now it is
+        [STAGING lines — the bed test, the recognition]
+    """),
+    "ODYSSEUS_WORK": textwrap.dedent("""\
+        ── SONG STRUCTURE TARGET ───────────────────────────────────────────
+        Verse 1  (4 bars): the kingdom's not restored just because the suitors are dead
+        Pre-hook (2 bars): the families want revenge; the work isn't done
+        Hook     (4 bars): "Work / [rhyme]" — twenty years of work, and still more
+        Verse 2  (4 bars): Laertes armored, Athena intervening, peace brokered
+        Bridge   (2 bars): you wanted your kingdom back — you worked for it
+        [STAGING lines — Laertes rises; Athena calls the halt; restoration]
     """),
 }
 
