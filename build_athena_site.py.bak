@@ -305,11 +305,7 @@ def build_html(books) -> str:
             f'{art}'
             f'</div></header>'
             f'<div class="book-text">{"".join(blocks_html)}</div>'
-            f'<nav class="book-nav" aria-label="Book navigation">'
-            + (f'<a class="bn-prev" href="#book{b["num"]-1:02d}">← Book {ROMAN[b["num"]-2]}</a>' if b["num"] > 1 else '<span class="bn-prev disabled" aria-hidden="true"></span>')
-            + '<a class="bn-top" href="#top">↑ Contents</a>'
-            + (f'<a class="bn-next" href="#book{b["num"]+1:02d}">Book {ROMAN[b["num"]]} →</a>' if b["num"] < len(books) else '<span class="bn-next disabled" aria-hidden="true"></span>')
-            + '</nav>'
+            f'<a class="totop" href="#top">▲ back to contents</a>'
             f'</article>'
         )
 
@@ -519,33 +515,9 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
     text-transform:uppercase; letter-spacing:.12em; font-size:13px;
     color:var(--blue)}
   .colophon a{color:var(--red)}
-
-  /* a11y + breadcrumb upgrades */
-  .skip-link{position:absolute; left:-9999px; top:0; z-index:1000;
-    background:var(--ink); color:var(--paper); padding:10px 16px;
-    font-family:'Oswald',sans-serif; text-decoration:none; border-radius:0 0 6px 0}
-  .skip-link:focus{left:0}
-  a:focus-visible, .toc a:focus-visible{outline:3px solid #c08a2d; outline-offset:2px}
-  .sticky-top{position:fixed; right:16px; bottom:16px; z-index:900;
-    background:var(--ink); color:var(--paper); padding:10px 14px; border-radius:24px;
-    font-family:'Oswald',sans-serif; font-size:14px; text-decoration:none;
-    box-shadow:0 3px 10px rgba(0,0,0,.3); opacity:.9}
-  .sticky-top:hover{opacity:1}
-  .book-nav{display:flex; align-items:center; justify-content:space-between;
-    gap:12px; margin:8px 0 0; padding-top:14px; border-top:1px solid var(--ink)}
-  .book-nav a{font-family:'Oswald',sans-serif; text-decoration:none; color:var(--ink);
-    font-size:15px; padding:4px 2px}
-  .book-nav a:hover{text-decoration:underline}
-  .book-nav .bn-top{font-weight:600}
-  .book-nav .disabled{flex:1}
-  .bn-prev{flex:1; text-align:left}
-  .bn-next{flex:1; text-align:right}
-  @media print{.sticky-top,.skip-link{display:none}}
-
 </style>
 </head>
 <body>
-<a class="skip-link" href="#contents">Skip to contents</a>
 <span id="top"></span>
 
 <header class="masthead">
@@ -556,22 +528,16 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
   <div class="cover-wrap">{cover}</div>
 </header>
 
-<nav class="contents" id="contents" aria-label="Table of contents">
+<nav class="contents">
   <h2>The Books</h2>
   <p class="lede">Twenty-four books, each danced to a song the performers already know. Tap a title to begin.</p>
   {toc}
 </nav>
 
 <main>
-<a class="sticky-top" href="#top" aria-label="Back to contents">↑ Contents</a>
 {books}
 </main>
 
-<script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(()=>{}));
-}
-</script>
 <footer class="colophon">
   <p>ATHENA was made as an experiment in <strong>collaborative AI</strong> — a human author conducting an ensemble of machines, every creative decision made by a person. The gods authored their own lines; the builder-AI signed her own.</p>
   <p class="ai">A collaborative-AI illustrated edition</p>
