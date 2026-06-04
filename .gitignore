@@ -1,6 +1,6 @@
 # run logs are observability, not authored content — keep them out of version control
 clb_run*.log
-polish_run.log
+polish*_run.log
 __pycache__/
 *.pyc
 *.bak.*

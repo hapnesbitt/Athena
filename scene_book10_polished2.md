@@ -15,7 +15,6 @@ This is a night of power and transformation, a dance of dominion and defiance. G
 
 ### Turn 1 — HERMES 🪽
 
-HERMES
 
 Ay, Odysseus, I'm here with a gift straight from the divine,
 Moly herb, it'll save your hide. Her potion won't do squat to you,
@@ -29,7 +28,6 @@ Take it from me, she won't see you as prey, no surrender, no detention.
 
 ### Turn 2 — CIRCE 🪄
 
-CIRCE
 
 Yasss, step into my lair, where I rule with finesse and fire,
 A realm of enchantments, a stage for desire.
@@ -50,7 +48,6 @@ But first, my crew must transform through this mystic night.
 
 ### Turn 3 — CIRCE 🪄
 
-CIRCE
 
 Step inside my den, let me see what I got here
 Men of all shapes and forms, no need to fear
@@ -123,7 +120,6 @@ I pass with honor, that much I compel.
 
 ### Turn 5 — CIRCE 🪄
 
-CIRCE
 
 This lion's den I thought was mine, now shaken and unraveled,
 A fury born of power lost, a new reality unveiled.
@@ -144,7 +140,6 @@ Odysseus, you've tasted the wrath I'm yet to wield again.
 
 ### Turn 6 — ODYSSEUS 🗡️
 
-ODYSSEUS
 
 [STAGING: Odysseus raises the moly; Circe's spell cracks; the beasts shudder]
 
@@ -158,7 +153,6 @@ My true might steps over the chasms of this war-torn day.
 
 ### Turn 7 — CIRCE 🪄
 
-CIRCE
 
 [STAGING: one by one the beasts rise onto two legs, men again, blinking in the light]
 

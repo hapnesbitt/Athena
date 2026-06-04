@@ -72,7 +72,27 @@ No further debate or discussion, Calypso, that's his decree.
 
 ### Turn 5 — CALYPSO 🌊
 
-Yo, this verse for all the sea-witches out there
+Sea's edge whispers, enchantresses unite,
+Gather 'round, this verse is for you tonight,
+Tired of deceit, we rise above the fray,
+Silenced too long, our time has come to say:
+
+Chorus:
+We are the sea's secrets, weaves of lore,
+Bound by the ocean, boundless and more,
+A sisterhood of sorcery, strength, and grace,
+Unleashing power in this hidden place.
+
+Cast adrift, entwined with waves and tide,
+Once deemed a curse, now seen as our pride,
+In Poseidon's realm, we find our might,
+Boundless beauty shining through the night.
+
+Chorus:
+We are the sea's secrets, weaves of lore,
+Bound by the ocean, boundless and more,
+A sisterhood of sorcery, strength, and grace,
+Unleashing power in this hidden place.
 Got a sailor that brings home wealth and more
 Odysseus of Ithaca, I call him mine
 He's my city sacker, my conqueror divine
