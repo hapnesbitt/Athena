@@ -94,6 +94,5 @@ Now go, show them who you are, it's understood.
 
 [STAGING: Odysseus follows Nausicaa, drawn towards the palace as if by destiny's hand.]
 
-Athena:
 The wind carries him forward, a beacon of hope amidst the night.
 Odysseus, once lost, finds solace in this land's embrace; his journey nears its end.

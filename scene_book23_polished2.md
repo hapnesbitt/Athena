@@ -52,13 +52,12 @@ A throne so strong it can't be moved by man.
 
 [STAGING: Odysseus points to the bed, Penelope's composure breaks as recognition sweeps over her]
 
-Penelope:
+### Turn 4 — PENELOPE 🧵
+
 My love... my king... I knew in that moment, pure and true,
 I'd never lost you to another, though the gods might move me through.
 Welcome home, Odysseus—my heart is yours, this night and evermore,
 A test passed, a secret revealed, our reunion by my terms it shall be explored.
-
-### Turn 4 — PENELOPE 🧵
 
 A Queen's lament, a rhythm born
 For the throne unoccupied, a sorrow deep and torn

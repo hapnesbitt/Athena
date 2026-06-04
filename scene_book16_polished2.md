@@ -118,15 +118,21 @@ Odysseus and Telemachus, a formidable design
 Together they stand, united in their might
 With the Goddess's blessing, it is now their night.
 
-Athena: You seek justice for your family's plight?
+### Turn 6 — ATHENA 🦉
+
+You seek justice for your family's plight?
 I am here to guide you through this darkened fight.
 Reclaim what was once yours, your home and your throne
 With my power in your hands, I have given you the means to own.
 
-Odysseus: We thank thee for thy aid, our spirit's fire rekindled
+### Turn 7 — ODYSSEUS 🗡️
+
+We thank thee for thy aid, our spirit's fire rekindled
 Together we'll right this wrong that has long been piled up
 Our family name shall rise above the fray and shine
 With your help, we'll bring our home back from its decline.
+
+### Turn 8 — NARRATOR 📜
 
 [STAGING: The crew gathers close, a spark ignites in their eyes]
 

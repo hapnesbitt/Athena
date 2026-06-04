@@ -115,10 +115,6 @@ The truth between you shall soon come to light.
 In this house where you have landed, under one roof,
 Unveil the secret that lies beneath its roof.
 
----
-
-### EXIT 🚪
-
 [STAGING: The air thickens as time slows, a hush descends upon the gathered crowd. The unrecognized father and son sit side by side, each lost in their thoughts, the tension heavy in the air. And then...]
 
 [STAGING: Athena's whisper sparks a transformation; the veil between them dissipates.]

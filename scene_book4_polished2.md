@@ -42,7 +42,6 @@ For the legacy of Odysseus won't be denied.
 
 [STAGING: Helen studies Telemachus's face, then smiles — she knows exactly who he is]
 
-ATHENA:
 Yo, I see him. Odysseus in his flesh and blood,
 His legacy alive through his firstborn son.
 The gods may play their games, but not today,

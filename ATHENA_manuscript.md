@@ -1,7 +1,14 @@
 # ATHENA
 ## The HipHop Odyssey
 
-*An immersive dinner-theater retelling of the Odyssey — 24 books*
+*An immersive dinner-theater retelling of the Odyssey — 24 books, 24 contrafacts.*
+
+*Assembled 2026-06-04 from the polished scenes. Generated file — edit the scene files, not this one.*
+
+<!-- review list at assembly time: books  -->
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -31,6 +38,8 @@
 22. **Book XXII — All About That Bass** — *“All About That Bass”* (Meghan Trainor)
 23. **Book XXIII — New Rules** — *“New Rules”* (Dua Lipa)
 24. **Book XXIV — Work** — *“Work B*tch”* (Britney Spears)
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -99,6 +108,9 @@ Antinous, my man, this is our time,
 We keep it movin', this is just fine.
 If Penelope's lookin' for a reason to break free,
 Let's show her we're the ones that'll keep the throne for her, see?
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -200,7 +212,6 @@ This crew is assembled, ready to break free from this prison, my kin.
 [STAGING: Telemachus points at each man who stands with him]
 Fast like the wind carrying us away,
 A new chapter begins today.
-Hook:
 Fast, moving fast, towards a father and a future,
 Claiming my birthright, no more doubt or certainty.
 
@@ -216,7 +227,6 @@ This crew is assembled, breaking free from this den.
 [STAGING: Telemachus points at each man who stands with him]
 Fast as the wind that carries us far,
 A new chapter starts right now, no scar.
-Hook:
 Fast, moving fast, towards a father and a future,
 Claiming my birthright, no more fear or turmoil.
 
@@ -228,6 +238,9 @@ With sails hoisted high and wind beneath their wings, the ship leapt forth from 
 Telemachus stood atop, a son reclaiming his father's kingdom—an odyssey begun.
 Unnoticed by the suitors, who lingered in feasting and frivolity below,
 The sea opened wide before them, offering no more obstacles to their goal.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -269,10 +282,10 @@ I see the strength of Odysseus in you, young one. Carry his legacy forward, seek
 [STAGING: The atmosphere in the room shifts suddenly; a soft whisper of wind stirs the candles. An eagle's shadow crosses the ceiling, and the room stills for one breath. Mentor smiles, then the moment passes.]
 
 [ATHENA]
-Goddess's power, pure and bold,
-Aura of strength, a story untold,
-Invisible hand moving swiftly,
-The game I play, unpredictably.
+Yo, I materialize like a comet streaking through the night,
+Feel my essence, feel the pulse of my cosmic might,
+This goddess ain't just here to play, I set the rules and ignite,
+Watch as I orchestrate this celestial fight.
 
 ### Turn 4 — TELEMACHUS ⚔️
 
@@ -317,10 +330,10 @@ And bring you home to Ithaca once more.
 
 ### Turn 6 — NARRATOR 📜
 
----
-### Turn 6 — NARRATOR ⚔️
-
 With newfound purpose, Telemachus steps forth. Sparta's horizon calls him home. The sea around him swells and expands like an endless breath, a world ripe for exploration. Nestor's benediction echoes through the night, as the young hero ventures onward to his destiny. [STAGING: As Telemachus departs, the dancers form waves that part around him.]
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -391,14 +404,14 @@ For Odysseus is greater than them all.
 
 [STAGING: Telemachus stands, eyes blazing with newfound resolve]
 
-Rude boy, fresh off the Trojan shore (Verse 1)
-Recognized by Menelaus, Helen's confirmation (Pre-hook)
-Coming for my father, don't underestimate (Hook)
-Ithacans, brace yourselves, I'm on the warpath (Bridge)
+Rude boy, fresh off the Trojan shore
+Recognized by Menelaus, Helen's confirmation
+Coming for my father, don't underestimate
+Ithacans, brace yourselves, I'm on the warpath
 [STAGING: dancers bring three men up from the tables as the crew]
-My father's legacy now my sworn mantle (Verse 2)
-Suitors won't see me coming, son of Odysseus (Hook)
-This is for the throne, this is for the fame (Bridge)
+My father's legacy now my sworn mantle
+Suitors won't see me coming, son of Odysseus
+This is for the throne, this is for the fame
 I'm the rude boy, I'm stepping up to claim.
 
 ### Turn 5 — NARRATOR 📜
@@ -413,6 +426,9 @@ Ithaca awaits its prince, the suitors gather near,
 Plotting an ambush, but their plans shall fail to pierce.
 A hinge swings open on four books spun, a shift in song and tale,
 Odysseus himself takes center stage, with Athena by his side.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -490,10 +506,27 @@ No further debate or discussion, Calypso, that's his decree.
 
 ### Turn 5 — CALYPSO 🌊
 
-Sea-dwelling sorceresses, lend me your ears
-This one's a call to those ensnared in brine
-Hear my words, let them resonate divine
-A tribute to the hidden ones, lost in time
+Sea's edge whispers, enchantresses unite,
+Gather 'round, this verse is for you tonight,
+Tired of deceit, we rise above the fray,
+Silenced too long, our time has come to say:
+
+Chorus:
+We are the sea's secrets, weaves of lore,
+Bound by the ocean, boundless and more,
+A sisterhood of sorcery, strength, and grace,
+Unleashing power in this hidden place.
+
+Cast adrift, entwined with waves and tide,
+Once deemed a curse, now seen as our pride,
+In Poseidon's realm, we find our might,
+Boundless beauty shining through the night.
+
+Chorus:
+We are the sea's secrets, weaves of lore,
+Bound by the ocean, boundless and more,
+A sisterhood of sorcery, strength, and grace,
+Unleashing power in this hidden place.
 Got a sailor that brings home wealth and more
 Odysseus of Ithaca, I call him mine
 He's my city sacker, my conqueror divine
@@ -566,6 +599,9 @@ The sea-witch's hold was broken,
 Odysseus released, the raft begun,
 The long journey home finally underway,
 Silence fell upon Calypso's grotto.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -668,6 +704,9 @@ Now go, show them who you are, it's understood.
 The wind carries him forward, a beacon of hope amidst the night.
 Odysseus, once lost, finds solace in this land's embrace; his journey nears its end.
 
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 # ATHENA — Book VII: Mic Drop
@@ -720,27 +759,22 @@ And once this feast is done, my journey home shall start.
 
 [STAGING: Odysseus rises, eyeing the crowd. The din of conversation fades as he speaks.]
 
-Verse 1:
 I'm a ghost from home, lost in foreign lands,
 A traveler weary, battle-scarred in every hand.
 Ten years gone, still the memories cling,
 Of a kingdom lost, a love that sings.
 
-Pre-hook:
 But you ain't heard nothing yet, I can see it in your eyes,
 I'll drop the mic and watch as silence fills the skies.
 
-Hook:
 Mic drop, say my name one time and let the crowd go wild,
 Odysseus, son of Laertes, ruler of Ithaca's isle.
 
-Verse 2:
 From Troy to Calypso's arms, I've wandered far and wide,
 But every step I took, my home was always by my side.
 Now I stand before you, weary but resolved,
 A man who'll risk all for the love that he has resolved.
 
-Bridge:
 My name is a weapon, my legacy unfolds,
 When I say it loud, all other stories are sold.
 [STAGING: The room goes silent as a hush falls over the crowd.]
@@ -771,6 +805,9 @@ The weight of destiny now lay upon the Phaeacians' call.
 To Ithaca they would bear him, his journey not yet small,
 But one step closer to a king who was long absent from his hall.
 
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 # ATHENA — Book VIII: Every Day
@@ -788,26 +825,22 @@ Welcome to Book VIII, EVERY DAY! Tonight, we gather as Phaeacian court, and witn
 
 [STAGING: Demodocus sits at the center of the court; the room quiets; he begins]
 
-Verse 1:
 (Strumming slowly)
 A tale as old as time, now listen close,
 Troy's downfall and Odysseus in his role,
 Agamemnon's son, brave Achilles, too,
 Their quarrel fierce, like a river that floods through.
 
-Chorus:
 But I'll tell it straight, no room for lies,
 A story so grand, you'll have tears in your eyes,
 Hear the sirens call, the ships set afire,
 Ten long years of war, with nary a spared.
 
-Verse 2:
 The Trojans fought back, their courage unbroken,
 Spartan might clashed against Hector's spear token,
 But Odysseus, cunning as the fox,
 Brought forth a trick that would break Troy's box.
 
-Chorus:
 But I'll tell it straight, no room for lies,
 A story so grand, you'll have tears in your eyes,
 Hear the sirens call, the ships set afire,
@@ -815,13 +848,11 @@ Ten long years of war, with nary a spared.
 
 [STAGING: Demodocus pauses, then leans into a higher, more passionate pitch]
 
-Verse 3:
 And when Hector fell, in the dust he lay dead,
 Achilles' heart cried out, the war almost overhead,
 But Agamemnon, with cunning and deceit,
 Denied Achilles the honor of victory's seat.
 
-Chorus:
 But I'll tell it straight, no room for lies,
 A story so grand, you'll have tears in your eyes,
 Hear the sirens call, the ships set afire,
@@ -876,25 +907,21 @@ TURN 3 — DEMODOCUS 🎵
 
 [STAGING: Demodocus begins again, his voice laden with pride and mischief.]
 
-Verse 1:
 Wooden horse, crafted in secret, a deception of fate,
 The Greeks hid within its belly, waiting for the fateful gate.
 Odysseus, cunning as the snake, orchestrated this ploy,
 A trick to end the war, and bring Troy to her end-of-days.
 
-Chorus:
 But I'll tell it straight, no room for lies,
 The story of the horse, will make your hairs rise,
 Troy was unaware, as they welcomed it inside,
 A thousand soldiers hidden in this beast that lied.
 
-Verse 2:
 As night descended on the city, the Trojans cheered with glee,
 Their guards grew lax, their vigilance decreased. The horse was set free,
 Into Troy's heart it ventured, into its core it crept,
 The Greeks emerged from its belly, like a beast that had been repressed.
 
-Chorus:
 But I'll tell it straight, no room for lies,
 The story of the horse, will make your hairs rise,
 Troy was unaware, as they welcomed it inside,
@@ -902,13 +929,11 @@ A thousand soldiers hidden in this beast that lied.
 
 [STAGING: Demodocus finishes his song and pauses, sensing the emotion it stirred.]
 
-Verse 3:
 Odysseus, mastermind of deception, stood tall amongst them all,
 As Troy burned and its people fell, he stood with a heavy heart.
 For ten long years, the war had raged, a toll on every soul,
 But with the fall of Troy, came a new story to be told.
 
-Chorus:
 But I'll tell it straight, no room for lies,
 The story of the horse, will make your hairs rise,
 Troy was unaware, as they welcomed it inside,
@@ -939,13 +964,11 @@ My ship battered by storms, my men in defeat
 The winds whip and howl, the rain falls relentless
 We sail through the night, our spirits dwindling
 
-Bridge:
 Ghostly specters haunt this feast
 Echoes of every hard-won feat
 I've faced every enemy, I've taken their lives
 But still, every day, I move with vigor and rise
 
-[STAGING lines as the spirits dissipate back to their seats]
 
 Home and throne, they're mine to reclaim
 The suitors in Ithaca, they must be slain
@@ -973,6 +996,8 @@ The bard remains silent.
 
 [STAGING: Odysseus begins]
 
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1064,31 +1089,22 @@ Nobody... but I know who you really are now. And I'll make you pay for this.
 
 ### Turn 5 — ODYSSEUS 🗡️
 
-Verse 1:
-(4 bars)
 Tales of raids, the Cicones and more,
 Lotus Eaters tried to swallow whole.
 Clever tricks to save my crew each time,
 But this reckless streak, it's no divine rhyme.
 
-Pre-hook:
-(2 bars)
 Yet here we are, stuck in the same snare,
 I know better but can't seem to care.
 
-Hook:
-(4 bars)
 Bad habits, they cost me ten years of life,
 Can't resist the rush that makes us strive.
 
-Verse 2:
-(4 bars)
 Cyclops lurking in his lair so vast,
 My trick works and now he's blinded fast.
 Ships clear the bay, I shout my name aloud,
 The god of sea hears but shows no cloud.
 
-[STAGING lines]
 As I let out that fateful cry,
 Poseidon's wrath flares up on high.
 
@@ -1108,6 +1124,9 @@ A heavy toll upon the sea to stay.
 
 Ten years wandering now, a price he pays,
 For that one boast that cost him endless days.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1292,6 +1311,9 @@ No partnership here. Circe conquered, left behind.
 Tonight, they turn for the ships and are gone.
 A clean victory, crowd-pleasing button.
 
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 # ATHENA — Book XI: Get Ugly
@@ -1344,25 +1366,21 @@ Farewell, Odysseus... remember me as I am now above.
 
 ### Turn 4 — ODYSSEUS 🗡️
 
-Verse 1:
 The Underworld's chill, the dead closing in
 Mother gone, prophecy begun
 Ten years wandered, lost and aged
 But I don't flinch, this fight I've had
 
-Pre-hook:
 Anticlea's ghost, lodged deep within
 Prophecy she told, of what's been penned
 Suitors at home, feel their dread
 Now it's time to turn the tables on them dead
 
-Hook:
 Get ugly, let it out, let it bleed
 Stand tall, take the crown, claim my need
 I'm the sacker of cities, sea-king's seed
 Odysseus returns, can't you see?
 
-Verse 2:
 The journey's long, storm will rage and roar
 Faced worse, I'll face it once more
 Poseidon's wrath, Zeus's hand, I need 'em both
@@ -1383,6 +1401,9 @@ He walks alone, burdened by their prophecies and ghostly whispers.
 As he steps back towards the light, it seems the Underworld's chill clings to him.
 A new resolve burns within Odysseus - ten years of darkness tempered.
 
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 # ATHENA — Book XII: Outta Your Mind
@@ -1402,27 +1423,21 @@ Now, let us raise a glass to the madness that awaits, and remember: nothing is w
 
 ### Turn 1 — SIRENS 🎶
 
-Verse 1:
 Witnessed Troy's fall, warriors fell in their prime,
 Stories of the lost and secrets yet to shine.
 
-Pre-hook:
 Close your eyes, focus close, let our song unfold,
 Step nearer now, don't stay where you've been told.
 
-Hook:
 Knowledge, beauty, an offering divine,
 Break these ropes, join us, leave this life behind.
 
-Verse 2:
 Seen your deepest yearnings, found your hidden heart,
 In our arms you'll find peace, a rhythm yet to part.
 
-Bridge:
 Yet those ropes are all that keeps you from the end,
 One step towards us, and wisdom bequeathed again.
 
-[STAGING lines showing Odysseus straining at the mast]
 
 ### Turn 2 — ODYSSEUS 🗡️
 
@@ -1473,6 +1488,9 @@ Only Odysseus remains, adrift on Calypso's shore.
 
 The retrospective closes, and the final chapter begins,
 A tale of survival, a saga of a king reclaimed.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1530,23 +1548,19 @@ A final victory, a kingdom restored. The world will know your name again, someho
 
 [STAGING: Odysseus pulls the beggar's hood up; the disguise complete]
 
-Verse 1:
 Home at last, but cloaked in rags
 Twenty years to reach this drag, no sign of kingship tags
 But I won't show my face, yet
 I play this game until we meet our end
 
-Pre-hook:
 Worn down but never broken, strength beneath the skin
 A kingdom waits for me, but it's not mine to win
 
-Hook:
 Wow, look who just walked in, unrecognized
 Twenty years on Calypso's shore, now disguised
 The goddess by my side, our plan unfolds tonight
 Together we will rise, and I'll reclaim what's mine
 
-Verse 2:
 I must act the fool, pretend to be weak
 Patience is required for the game we seek
 But Penelope and Telemachus need not wait
@@ -1554,7 +1568,6 @@ The traitors shall fall, and justice will be meted out
 This king in disguise is ready, for this final fight
 I'll wear the crown again, and prove my might
 
-Bridge:
 Nobody knows who just walked in unseen
 My power hidden like a secret dream
 But the world will soon know my name
@@ -1588,6 +1601,9 @@ As dusk descends on the island, home at last but hidden,
 Odysseus walks in the shadows of his former glory.
 The goddess Athena, with words of strength and wisdom,
 Guides him through this long game, for patience it will require.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1683,6 +1699,9 @@ The moon hangs heavy in its throne, as Odysseus's true heart stirs. Eumaeus, una
 
 And so, beneath the stars, the reunion begins.
 
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 # ATHENA — Book XV: Bounce Back
@@ -1767,41 +1786,31 @@ But in my soul, a fire burns, a secret longing grows steady.
 
 ### Turn 5 — ODYSSEUS 🗡️
 
-Verse 1:
 Son's home, but father here in disguise,
 One more step from Calypso's hold—her lies.
 My heart beats fast as we share the same light,
 The son of my soul, no stranger to my sight.
 
-Pre-hook:
 Feeling this truth, beneath this beggar's guise,
 My essence, son, is burning in your eyes.
 
-Hook:
 Bounce back, bounce back, home soil, I return,
 One lifted veil away from what I've yearned.
 Bounce back, bounce back, time to shed this cloak,
 Telemachus, my son, soon you'll know my soul.
 
-Verse 2:
 Recognition coming closer, years nearly done,
 The truth about me is a story yet spun.
 The pull is strong, but I can hold the line,
 I'll wait and bide, let destiny unwind.
 
-Bridge:
 One lifted veil away from all I lost,
 The dance of recognition still to be sought.
 Son and father, our stories intertwined,
 This homecoming journey is close to an end.
 
-[STAGING lines as father and son stand unrecognized]
 As we sit here side by side, the bond between us tight,
 Our shared love for Ithaca burns with all its might.
-
-### Turn 6 — NARRATOR 📜
-
----
 
 ### Turn 6 — ATHENA 🦉
 
@@ -1812,15 +1821,14 @@ The truth between you shall soon come to light.
 In this house where you have landed, under one roof,
 Unveil the secret that lies beneath its roof.
 
----
-
-### EXIT 🚪
-
 [STAGING: The air thickens as time slows, a hush descends upon the gathered crowd. The unrecognized father and son sit side by side, each lost in their thoughts, the tension heavy in the air. And then...]
 
 [STAGING: Athena's whisper sparks a transformation; the veil between them dissipates.]
 
 [STAGING: As father and son lock eyes, the world stops and time resumes its course once more, the breath of recognition filling their souls. The audience watches in stunned silence as history is rewritten under one roof.]
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1908,19 +1916,16 @@ We take back our home and break these suitors' thrones.
 
 [STAGING: Father and son clasp hands; the plan begins]
 
-Verse 1:
 Twenty years of absence, left me hollowed out
 But now I'm back, and I won't be held downtrodden
 This house is mine, let them feel my might
 I'll take it all back, this night belongs to right
 
-Pre-hook:
 Lay it all down, lay it on the line
 Wipe the suitors' smiles off with grime
 Line between life and death, truth and lies
 This night belongs to us, not those who compromise
 
-Hook:
 Lay (Odysseus)
 We rise up, no more time for denial
 Lay (Telemachus)
@@ -1928,13 +1933,11 @@ Our family will be vindicated, we'll reclaim our style
 Lay (Father and Son)
 As we rebuild and stand side by side, the suitors won't survive
 
-Verse 2:
 My heart is heavy with years of absence
 But now I see my son, it's a beautiful sight
 We share pain, we share strength, we'll face the fight
 Together we'll reclaim what was once our birthright
 
-Bridge:
 No more secrets between us, no more games played
 Together we'll reclaim all that has been tarnished and strayed
 This house is ours, it always was our own
@@ -1971,6 +1974,9 @@ Together they stand as one, their resolve unshaken
 With their hearts ablaze, they prepare for action taken
 The reckoning with the suitors is now at hand
 They'll taste the wrath of Odysseus, father and his band.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2077,7 +2083,6 @@ Think I'm weak because I wear these rags, but I'll show them where I stand.
 Each shadowed face is a name on my list, every jab fuels my arsenal,
 The fire that burned in Troy burns here, for all to witness and feel.
 
-[STAGING lines - Odysseus walks through the hall, each step bringing him closer to his destiny]
 
 With every step I take, moves calculated,
 Every breath I draw is tallying up the battles I've started.
@@ -2095,6 +2100,8 @@ The suitors, unaware their fates written, marked by hand invisible.
 The day of reckoning nears, the fire in his eyes ablaze.
 His patience tested like the sea, but he waits for the perfect wave.
 
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2170,36 +2177,25 @@ You're the only one who truly sees my prize.
 
 ### Turn 4 — PENELOPE 🧵
 
-Verse 1:
-(4 bars)
 Twenty years of pain, all tears spent
 No mercy for these suitors, my strength ascended
 They think they own me but I'm far from their pawn
 Got strategy down to an art form, let the game be drawn
 
-Pre-hook:
-(2 bars)
 Playing 'em like a fiddle with precision so fine
 Taking every move before they even align
 
-Hook:
-(4 bars)
 No tears left to cry, just strategy that's mine
 Smartest player in this room, no cause for whine
 
-Verse 2:
-(4 bars)
 I held this throne through a battle untold
 The long game I run, they'll never know my hold
 But they'll feel it when the dance comes to an end
 As Odysseus breaks free from where he's confined
 
-Bridge:
-(2 bars)
 Stronger than ever, never break my stride
 Calculating every move on this chessboard wide
 
-[STAGING lines as Penelope works the room]
 - [STAGING: Penelope exits to applause, leaving them all in awe]
 - [STAGING: The goddess Athena appears with a disguised figure behind her]
 - [STAGING: Odysseus steps out from behind Athena, revealing his identity]
@@ -2222,6 +2218,8 @@ As the queen's mastery over her court unfolds.
 Invisible hand guiding all her moves,
 A God among men and his faithful bride.
 
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2333,7 +2331,6 @@ Bridge: I'm the smartest one in this room by far,
 Never losing the thread like they all do by stare,
 Tonight's no different, this I won't forget,
 Playing this savage game and waiting yet.
-[STAGING lines — the interview, the firelight]
 
 ### Turn 6 — NARRATOR 📜
 
@@ -2343,6 +2340,9 @@ The secret known but held in check,
 A moment stolen from the gods above.
 
 [STAGING: A gentle wind stirs, a sigh breathes life into the scene, and all is still.]
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2463,37 +2463,28 @@ I know it ends badly, but I'll face the reckoning alone.
 
 ### Turn 5 — ODYSSEUS 🗡️
 
-Verse 1:
 Night turns to day, prophecies echo loud,
 Suitors feasting blind, oblivious to the cloud.
 Trap's set, bow cocked, for my vengeance now,
 One beat away from a world turned upside down.
 
-Pre-hook:
 Tomorrow brings what I've waited twenty years for,
 A reckoning, a storm, and a battle galore.
 
-Hook:
 Up, up, it's about to go off,
 One heartbeat 'fore the world turns cold.
 
-Verse 2:
 Suitors laugh, oblivious to their fate,
 The suitors feast will soon be terminated state.
 I've waited long for this moment to be mine,
 Now I rise to reclaim my throne and regal time.
 
-[STAGING lines — Odysseus rises from the shadows, the bow in hand]
 
-Bridge:
 The dawn breaks, the suitors unaware,
 Tonight is when it all becomes clear.
 Odysseus's return begins tonight,
 In this eve of battle, fear takes flight.
 
-### Turn 6 — NARRATOR 📜
-
----
 ### Turn 6 — ATHENA 🦉
 
 [STAGING: The queen enters, a sight of war and wonder, her eyes sharp as the moon.]
@@ -2514,6 +2505,9 @@ So take up the bow and let it fly,
 And make them pay for what they have done,
 As I stand by your side through the tempest's roar,
 The queen and Odysseus together we shall soar.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2593,6 +2587,9 @@ Odysseus reveals his true form, his face alight,
 With a single arrow he shatters the night.
 The suitors fall like flies, caught in the snare,
 A reckoning is meted, their fate to share.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2688,31 +2685,25 @@ The pain of a conscience unheard in this slaughter.
 
 [STAGING: The bass drops as Odysseus steps up, bow in hand.]
 
-Verse 1:
 Arrows flying, suitors screaming, revelation's sound,
 The beggar revealed, the king's crown now found.
 Ten years on an island, but the wait is over,
 Twenty years of pain, all about that bass, not sorrow.
 
-Pre-hook:
 Antinous falls first, Eurymachus follows suit,
 Leodes begs for truth, but none can save him from their doom.
 
-Hook:
 All about that bass, it's time to make a stand,
 It's all about retribution and reclaiming Ithaca's land.
 
-Verse 2:
 I walk among the bodies, blood on my hands,
 Vengeance complete as their lives come to an end.
 The suitors paid their dues, I've earned this dance,
 This is all about that bass and the reign that takes its chance.
 
-Bridge:
 Twenty years of pain, now it's time to unleash the storm,
 It's the final beat before I claim my home once more.
 
-[STAGING lines — dancers as the slaughter; murdering the dance floor, NOT the audience]
 
 Final hook:
 All about that bass, my reign restored at last,
@@ -2729,8 +2720,9 @@ The bow warm still, his reign restored at last.
 [STAGING: The dancers exit stage left, leaving the king alone.]
 
 
----
+<div style="page-break-after: always;"></div>
 
+---
 
 # ATHENA — Book XXIII: New Rules
 
@@ -2793,18 +2785,16 @@ I'd never lost you to another, though the gods might move me through.
 Welcome home, Odysseus—my heart is yours, this night and evermore,
 A test passed, a secret revealed, our reunion by my terms it shall be explored.
 
-Yo, this verse, yo / This one's for every Queen in the game
-Been betrayed by Kings, I feel your pain
-Over and over again, it ain't fair
-10 years ago today, Victory in Troy
-Odysseus sacrificed for us, brought spoils to Zeus (Yo, truth)
-But he lost every battle, every fight
-The whole time I thought to myself, this ain't right
-What is this I see? / He don't come home to me (Oh, no)
-You keep tellin' me lies, but hear my plea
-Look, I found Calypso's coat, left out there
-Sick of your games, Calypso, feel the flame
-Watch it burn, watch it burn — tell me / How you gonna make him see it now?
+A Queen's lament, a rhythm born
+For the throne unoccupied, a sorrow deep and torn
+Through trials we persist, but the king's absence cuts like thorns
+A decade past the war, Odysseus returned with spoils and scars
+But the sacrifices made don't ease the pain in my heart, I yearn
+He fought through battles, yet I feel betrayed by him and those he chose to follow
+I held on, hopeful, but deep inside I knew it wasn't just
+What is this that unfolds? A king who doesn't honor his queen (Oh, no)
+Now the game of lies exposed, the truth can no longer hide
+A cloak of crimson red, found it, and your deceit will collide.
 
 New Rules:
 No more sneaking in under the guise of night
@@ -2827,6 +2817,9 @@ The night unfurls its stars anew, as love once lost returns in sight,
 In Ithaca, where Penelope shines as queen, her power takes flight.
 A bond restored through twenty years and tested trials untold,
 No more a pawn for gods to play; the secret of the bed made whole.
+
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -2933,23 +2926,19 @@ My kingdom's mine once more, and I stand victorious.
 But vengeance still calls forth, a bitter taste remains,
 Twenty years of bloodshed, a war that never wanes.
 
-(Pre-hook)
 This is what we fought for, this is our hard-earned prize,
 Now we leave the past behind, and turn the page with eyes
 unclouded by the past, no more deceit or guise,
 The throne is mine, the line reclaimed, a new era arises.
 
-(Hook)
 I worked (and claimed what was my right), I fought (now we stand united),
 Twenty years of war and bloodshed, now the peace I've sanctified.
 
-(Verse 2)
 My father armored up, Athena put a halt in sight,
 The kingdom safe, the line restored, a cycle ended tonight.
 All that's left is to embrace, our families can be whole again,
 This war was fought and won, we made it through the pain.
 
-(Bridge)
 I wanted my kingdom back, I put in twenty years of fight,
 Now it's mine, it's secured, I've paid the cost with sight.
 We did it, we achieved it, our struggles paid off,
@@ -2967,3 +2956,4 @@ This long-awaited song, at last, we sing with certainty:
 
 The Odyssey ends. Now may you find home in every heart,
 In every journey's end, in the love that binds us all apart.
+
