@@ -28,11 +28,16 @@ import re
 import sys
 import html
 import shutil
+import datetime
 
 # ── paths ────────────────────────────────────────────────────────────────────
 MANUSCRIPT = sys.argv[1] if len(sys.argv) > 1 else "ATHENA_manuscript.md"
 OUTDIR     = sys.argv[2] if len(sys.argv) > 2 else "site"
 IMAGESDIR  = sys.argv[3] if len(sys.argv) > 3 else "images"
+
+# ── canonical site identity (used for SEO: canonical, Open Graph, sitemap) ────
+SITE_URL   = "https://athena.arc-codex.com"   # no trailing slash
+OG_IMAGE   = SITE_URL + "/images/cover.png"    # brand cover art
 
 ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",
          "XIII","XIV","XV","XVI","XVII","XVIII","XIX","XX","XXI","XXII","XXIII","XXIV"]
@@ -327,6 +332,23 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ATHENA — The HipHop Odyssey · An Illustrated Edition</title>
 <meta name="description" content="An immersive dinner-theater retelling of Homer's Odyssey — 24 books, 24 songs. A collaborative-AI illustrated edition.">
+<!-- SEO: canonical + crawl directives -->
+<link rel="canonical" href="https://athena.arc-codex.com/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<!-- Open Graph (Facebook, Bluesky, Mastodon, LinkedIn link previews) -->
+<meta property="og:type" content="book">
+<meta property="og:site_name" content="ATHENA — The HipHop Odyssey">
+<meta property="og:title" content="ATHENA — The HipHop Odyssey · An Illustrated Edition">
+<meta property="og:description" content="An immersive dinner-theater retelling of Homer's Odyssey — 24 books, 24 songs. A collaborative-AI illustrated edition.">
+<meta property="og:url" content="https://athena.arc-codex.com/">
+<meta property="og:image" content="https://athena.arc-codex.com/images/cover.png">
+<meta property="og:image:alt" content="ATHENA — The HipHop Odyssey cover art">
+<meta property="og:locale" content="en_US">
+<!-- Twitter / X card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ATHENA — The HipHop Odyssey · An Illustrated Edition">
+<meta name="twitter:description" content="An immersive dinner-theater retelling of Homer's Odyssey — 24 books, 24 songs.">
+<meta name="twitter:image" content="https://athena.arc-codex.com/images/cover.png">
 <!-- PWA / installable app -->
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#1f4e79">
@@ -627,6 +649,35 @@ def main():
     import json
     with open(os.path.join(OUTDIR, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
+
+    # ── SEO: emit sitemap.xml + robots.txt ──────────────────────────────
+    # ATHENA is a single-page document: all 24 books are #book01..#book24
+    # anchors on one URL. Fragment URLs are not independently indexable, so
+    # the sitemap correctly lists the one canonical page. lastmod tracks the
+    # manuscript's last edit (falls back to build time).
+    try:
+        lastmod = datetime.date.fromtimestamp(os.path.getmtime(MANUSCRIPT)).isoformat()
+    except OSError:
+        lastmod = datetime.date.today().isoformat()
+    sitemap = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f'  <url>\n    <loc>{SITE_URL}/</loc>\n'
+        f'    <lastmod>{lastmod}</lastmod>\n'
+        '    <changefreq>monthly</changefreq>\n'
+        '    <priority>1.0</priority>\n  </url>\n'
+        '</urlset>\n'
+    )
+    with open(os.path.join(OUTDIR, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(sitemap)
+    robots = (
+        "User-agent: *\n"
+        "Allow: /\n\n"
+        "# ATHENA — The HipHop Odyssey · illustrated edition\n"
+        f"Sitemap: {SITE_URL}/sitemap.xml\n"
+    )
+    with open(os.path.join(OUTDIR, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(robots)
 
     # ── PWA: ensure icons exist in the served images dir ────────────────
     # If the user hasn't supplied custom icons, ship the built-in ATHENA crest
