@@ -38,6 +38,12 @@ IMAGESDIR  = sys.argv[3] if len(sys.argv) > 3 else "images"
 # ── canonical site identity (used for SEO: canonical, Open Graph, sitemap) ────
 SITE_URL   = "https://athena.arc-codex.com"   # no trailing slash
 OG_IMAGE   = SITE_URL + "/images/cover.png"    # brand cover art
+# Google Search Console verification. Two paths (use either):
+#   (a) HTML-file: drop the google<hash>.html Google gives you into site/ —
+#       survives rebuilds (the builder never deletes site/ root files).
+#   (b) Meta-tag: paste ONLY the token value (the content=... string) here and
+#       rebuild; an empty string emits no tag.
+GOOGLE_SITE_VERIFICATION = ""
 
 ROMAN = ["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",
          "XIII","XIV","XV","XVI","XVII","XVIII","XIX","XX","XXI","XXII","XXIII","XXIV"]
@@ -318,9 +324,13 @@ def build_html(books) -> str:
             f'</article>'
         )
 
+    verification = (
+        f'<meta name="google-site-verification" content="{html.escape(GOOGLE_SITE_VERIFICATION)}">\n'
+        if GOOGLE_SITE_VERIFICATION else "")
     return (PAGE_TEMPLATE
             .replace("{cover}", cover)
             .replace("{toc}", toc)
+            .replace("{verification}", verification)
             .replace("{books}", "\n".join(book_sections)))
 
 
@@ -335,7 +345,7 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
 <!-- SEO: canonical + crawl directives -->
 <link rel="canonical" href="https://athena.arc-codex.com/">
 <meta name="robots" content="index, follow, max-image-preview:large">
-<!-- Open Graph (Facebook, Bluesky, Mastodon, LinkedIn link previews) -->
+{verification}<!-- Open Graph (Facebook, Bluesky, Mastodon, LinkedIn link previews) -->
 <meta property="og:type" content="book">
 <meta property="og:site_name" content="ATHENA — The HipHop Odyssey">
 <meta property="og:title" content="ATHENA — The HipHop Odyssey · An Illustrated Edition">
