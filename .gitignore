@@ -8,3 +8,8 @@ __pycache__/
 scene_book*_run*.md
 scene_book*_pre_*.md
 athena_songmap.md
+
+# Generated audio, editor backup, run log — not authored content
+athena_audiobook.mp3
+build_athena_site.py.bak
+polish2_run.log
