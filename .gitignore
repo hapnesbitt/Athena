@@ -8,3 +8,6 @@ __pycache__/
 scene_book*_run*.md
 scene_book*_pre_*.md
 athena_songmap.md
+
+# Stray upload artifact, not authored content
+files.zip
