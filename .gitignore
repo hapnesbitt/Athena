@@ -13,3 +13,6 @@ athena_songmap.md
 athena_audiobook.mp3
 build_athena_site.py.bak
 polish2_run.log
+
+# Stray upload artifact, not authored content
+files.zip
