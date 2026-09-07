@@ -38,8 +38,7 @@ import time
 import urllib.request
 from datetime import datetime
 
-from scribe import OLLAMA_URL, MODEL   # single source of truth for the M1 host/model
-from personas import PERSONAS
+from scribe import OLLAMA_URL, MODEL, PERSONAS   # config now sourced from athena.yaml via scribe
 
 # ============================== CONFIG =======================================
 REWRITE_TEMP   = 0.7    # targeted stanza rewrite needs invention (vs verbatim echo)

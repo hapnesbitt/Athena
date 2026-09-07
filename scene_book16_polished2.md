@@ -1,0 +1,142 @@
+# ATHENA — Book XVI: Lay
+
+*Immersive dinner theater.*
+
+---
+### MUSE 🎩
+
+Ladies and gentlemen, welcome to Book XVI of ATHENA! Tonight we delve into the heart of Odyssey's intimacy, a reunion that cuts through twenty years of separation and disguise. Grab your wine, strap in tight, because you're about to witness Eumaeus's hut — the stage for an emotional confrontation between father and son who never truly knew each other. The room hums with tension as the disguise lifts, revealing Odysseus, laying it all down. Let's get ready for the climax of recognition, the moment that will turn into a powerful alliance to reclaim their home. Are you ready? Let's raise our glasses and dive in!
+
+---
+
+### Turn 1 — TELEMACHUS ⚔️
+
+[STAGING: The beggar steps out, and the man who steps back in stands taller, transformed]
+
+Yo, son, this ain't no trick, it's truth
+I been gone, twenty years, been through the ruth
+But now I'm back, and you don't know me yet
+In the face of a king, son, stand upright and met
+
+This ain't just any man you knew before
+It's Odysseus, your father, on the floor
+I've been disguised to keep us both alive
+But now it's time for the suitors to survive
+
+Don't be afraid, son, I'm not a ghost
+Just your father, who's missed you most
+Let's get our house back, let's set things right
+Together we'll put an end to this fight
+
+### Turn 2 — ODYSSEUS 🗡️
+
+[STAGING: Odysseus opens his arms; Telemachus, disbelieving, steps into them]
+
+Yo, son, I know it's been too long
+Feels like an eternity since we've sung our songs
+But now I'm back, and I ain't gone hide
+I'm your father, Odysseus is my pride
+
+Together we'll rise above this pain
+Reclaim what was lost, rebuild the gain
+We'll laugh and cry, heal broken ties
+This house is ours, it's time for sacrifice
+
+The suitors tried to take our throne
+But now their reign has come alone
+Together we'll right the family name
+I'm your father, and I've got you again.
+
+### Turn 3 — TELEMACHUS ⚔️
+
+[STAGING: Father and son weep]
+
+Yo, Dad, I never thought this day would come
+I been crying for years, but now it's done
+Twenty years apart, but here you stand before me
+My heart is full, my spirit sore with sorrow
+
+But now it's time to put our pain aside
+Our family has suffered long, and we can't abide
+The suitors mocking Penelope every day
+We got to take back what they stole away
+
+I seen Eumaeus at the tables, I know he's loyal
+And Melanthius too, but don't trust him fully
+I got a plan, Dad, let me put it in motion
+These suitors gonna rue the day they tried to usurp our motion
+
+[STAGING: Telemachus straightens, all business]
+
+Now listen close, I know what needs to be done
+We take the crew and we deal with these suitors one by one
+I've spoken with Menelaus, Agamemnon too
+They'll help us put this nightmare through
+
+It ain't easy, Dad, but together we stand tall
+Our family name has been tarnished, but we'll make it rebound from the fall
+Tonight's the night, I can feel it in my bones
+We take back our home and break these suitors' thrones.
+
+### Turn 4 — ODYSSEUS 🗡️
+
+[STAGING: Father and son clasp hands; the plan begins]
+
+Twenty years of absence, left me hollowed out
+But now I'm back, and I won't be held downtrodden
+This house is mine, let them feel my might
+I'll take it all back, this night belongs to right
+
+Lay it all down, lay it on the line
+Wipe the suitors' smiles off with grime
+Line between life and death, truth and lies
+This night belongs to us, not those who compromise
+
+Lay (Odysseus)
+We rise up, no more time for denial
+Lay (Telemachus)
+Our family will be vindicated, we'll reclaim our style
+Lay (Father and Son)
+As we rebuild and stand side by side, the suitors won't survive
+
+My heart is heavy with years of absence
+But now I see my son, it's a beautiful sight
+We share pain, we share strength, we'll face the fight
+Together we'll reclaim what was once our birthright
+
+No more secrets between us, no more games played
+Together we'll reclaim all that has been tarnished and strayed
+This house is ours, it always was our own
+We've got each other now, there's nowhere to go but home.
+
+### Turn 5 — NARRATOR 📜
+
+[STAGING: Athena descends with a glow]
+
+The bond was sealed, two hearts intertwined
+Odysseus and Telemachus, a formidable design
+Together they stand, united in their might
+With the Goddess's blessing, it is now their night.
+
+### Turn 6 — ATHENA 🦉
+
+You seek justice for your family's plight?
+I am here to guide you through this darkened fight.
+Reclaim what was once yours, your home and your throne
+With my power in your hands, I have given you the means to own.
+
+### Turn 7 — ODYSSEUS 🗡️
+
+We thank thee for thy aid, our spirit's fire rekindled
+Together we'll right this wrong that has long been piled up
+Our family name shall rise above the fray and shine
+With your help, we'll bring our home back from its decline.
+
+### Turn 8 — NARRATOR 📜
+
+[STAGING: The crew gathers close, a spark ignites in their eyes]
+
+Together they stand as one, their resolve unshaken
+With their hearts ablaze, they prepare for action taken
+The reckoning with the suitors is now at hand
+They'll taste the wrath of Odysseus, father and his band.
