@@ -133,7 +133,7 @@ def render_script(scene, first=False):
             out.append(f'<p class="stage">{esc(item[1])}</p>')
         elif kind == "beat":
             label = "Beat in" if item[1] == "IN" else "Beat out"
-            out.append(f'<p class="beat"><b>{label}</b>{": " + esc(item[2]) if item[2] else ""}</p>')
+            out.append(f'<p class="beat"><b>{label}</b>{esc(item[2])}</p>')
         elif kind == "gap":
             out.append('<p class="row bar gap" aria-hidden="true">&nbsp;</p>')
         elif FULL_DIR_RE.match(item[1]):
@@ -388,6 +388,7 @@ def render_cards(scenes, out):
 def artifact_main(doc):
     """The preview host wraps its main page in its own skeleton, so that one page drops the document tags."""
     head = re.search(r"<head>(.*)</head>", doc, re.S).group(1)
+    head = re.sub(r"<title>.*?</title>", f"<title>{PACK}</title>", head, count=1)
     body = re.search(r"<body[^>]*>(.*)</body>", doc, re.S).group(1)
     return head + body
 

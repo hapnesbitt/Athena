@@ -40,7 +40,7 @@ homer:
   note: "This translation calls him Noman where we say Nobody. In Greek the false name is Outis, which means no one."
 differs:
   - "Three days in the cave pass in a few minutes. Six men still die, as in Homer, but we hear about it and do not see it."
-  - "We cut the island of goats, the first day's sacrifice, and the feast after the escape. The Cicones and the lotus get one line each."
+  - "We cut the Cicones, the lotus-eaters, the island of goats, the prophecy Polyphemus remembers, and the feast after the escape."
   - "The closing lines of regret are ours. Homer's Odysseus says only that it would have been better to leave the cave. He never says he regrets the shout, though his crew begs him not to."
 ---
 
@@ -63,8 +63,6 @@ Here is what it cost me to say so.
 [BEAT IN: Step, clap, step, clap. Slow and heavy.]
 | Came out of Troy with twelve black ships,
 | Salt on my teeth and the war on my lips.
-| Six men a ship on the Cicones' shore.
-| Lotus? One bite, and you're home no more.
 |
 | Then the Cyclops' land: no law, no plow,
 | No court, no council. I'm curious now.
@@ -90,7 +88,7 @@ Here is what it cost me to say so.
 Then he came home, that monstrous thing,
 like a wooded peak of the high hills, standing apart and alone.
 He threw down his firewood, and the cave shook.
-He drove in his flocks. He lifted a doorstone
+He lifted a doorstone
 that twenty-two wagons could not have moved,
 and he set it in the door.
 
@@ -105,7 +103,6 @@ Traders? Or pirates, robbing the salt roads?
 
 ### ODYSSEUS
 We are Greeks, lord, blown off course from Troy.
-Men of Agamemnon. You know that name.
 We come to your knees. Give us what a stranger is owed.
 Fear the gods. Zeus himself looks after strangers.
 
@@ -128,15 +125,14 @@ Men between teeth. No mercy in hunger.
 (He lies down among his sheep and sleeps.)
 
 ### ODYSSEUS
-I put my hand on my sword. I found the place, under the ribs.
-One push. And then? Who moves the stone?
-Twenty-two wagons couldn't. Eleven men can't.
+I put my hand on my sword. One push, under the ribs.
+And then? Who moves the stone? Twenty-two wagons couldn't.
 We'd die in the dark, behind a dead giant's door.
 So I took my hand away, and we waited for the dawn.
 
 ### THE MUSE
 Early Dawn shone forth, the rosy-fingered.
-He milked his flocks, all in order. He ate two more.
+He ate two more.
 Then he rolled away the stone, drove his flocks out,
 and set it back as lightly as you'd put the lid on a quiver.
 
@@ -159,15 +155,13 @@ And Odysseus stood up, with a bowl of ivy wood in his hands.
 
 ### ODYSSEUS
 Cyclops. Here. Drink. You've had your meal of men.
-Taste what my ship was carrying.
-I brought it as an offering, hoping you'd pity me and send me home.
+I brought this as an offering, hoping you'd pity me and send me home.
 But you're out of your mind. Who will ever visit you again?
 
 [STAGING: Polyphemus takes the bowl and drinks. Mime it. The bowl can be empty hands.]
 
 ### POLYPHEMUS
 Good. GOOD.
-Our vines grow grapes. Zeus rains on them. This is different.
 This is nectar.
 Again. And your name, little man. Tell me.
 I give you a stranger's gift. You'll be glad.
@@ -179,8 +173,7 @@ Three times he poured. Three times, in his folly, the giant drank it down.
 You ask my famous name, Cyclops? I'll tell you.
 Then give me the gift you promised.
 Nobody. My name is Nobody.
-My mother calls me Nobody. My father calls me Nobody.
-So do all my friends.
+My mother, my father, all my friends call me Nobody.
 
 ### POLYPHEMUS
 (slowly, very pleased) Nobody.
@@ -230,8 +223,6 @@ Pray to your father Poseidon. And keep it down.
 
 ### ODYSSEUS
 (to the court) And my heart laughed, to see how my name had fooled them.
-| But he sat in the door with his arms out wide,
-| Feeling for any man sneaking outside.
 | His rams: thick fleece, wool dark as violet.
 | Three tied together, a man under it.
 | Three rams, one man, till the crew was tied.
@@ -268,9 +259,8 @@ You ate your guests in your own house! Zeus paid you back!
 [STAGING: Polyphemus tears the top off a hill and throws it. Everyone on the ship goes down with the wave.]
 
 ### CREW
-Captain, stop! Why poke him?
-He almost sank us! One more word and he'll have our range,
-and he'll crush our heads and the ship with one rock!
+Captain, stop! He almost sank us!
+One more word and he'll crush our heads and the ship with one rock!
 
 ### ODYSSEUS
 [BEAT IN: Steps only. Getting louder.]
@@ -288,8 +278,6 @@ Whose home is ITHACA!
 
 ### POLYPHEMUS
 Odysseus.
-An old prophet told me that name. I watched for a tall man, a strong man.
-And you are a little thing who beat me with wine.
 (to the sky) Hear me, Poseidon, Earth-shaker, god of the dark hair, if I am your son.
 You have a name now. Odysseus, son of Laertes. Ithaca.
 Let him never get home.
