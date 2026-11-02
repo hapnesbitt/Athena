@@ -12,7 +12,7 @@ USAGE:
   python3 build_school_pack.py --extract-homer # refresh school/homer/*.txt from the Arc library (Butcher & Lang)
   python3 build_school_pack.py --cards         # re-render the link-preview images (needs google-chrome)
 
-Before publishing, Ross decides the license. Until LICENSE_DECIDED is True every page carries a draft banner and a noindex tag.
+With LICENSE_DECIDED False, every page carries a draft banner and a noindex tag. Merging this into the live checkout publishes it at once.
 """
 
 import html
@@ -32,8 +32,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "school")
 MANUSCRIPT = os.path.join(HERE, "ATHENA_manuscript.md")
 
-# Ross's call before publishing. Flip to True once he has chosen, and edit the license lines if he chooses another.
-LICENSE_DECIDED = False
+# Ross chose CC BY-NC-SA 4.0 on 2026-11-02. To change it, edit these lines and the wording in about_block().
+LICENSE_DECIDED = True
 LICENSE_NAME = "CC BY-NC-SA 4.0"
 LICENSE_URL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 CONTACT = "ross@arc-codex.com"     # already public on arc-codex.com/about
@@ -160,7 +160,7 @@ def credit_line(title=None):
 
 def draft_banner():
     if LICENSE_DECIDED:
-        return ""
+        return '<div class="draft" role="note"><div class="wrap"><b>Preview, not published.</b></div></div>' if PREVIEW else ""
     return ('<div class="draft" role="note"><div class="wrap"><b>Draft, not published.</b> Question for Ross before publishing: '
             f'is {LICENSE_NAME} the right license? Every license line on these pages is a proposal until he decides.</div></div>')
 

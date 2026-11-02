@@ -69,3 +69,12 @@ def test_full_edition_rebuild_keeps_school_pages_in_the_sitemap(tmp_path):
     assert "<loc>https://athena.arc-codex.com/school/</loc>" in sitemap
     for slug in SCENES:
         assert f"<loc>https://athena.arc-codex.com/school/{slug}/</loc>" in sitemap
+
+
+def test_chosen_license_is_final_on_every_page(tmp_path):
+    school = built(tmp_path)
+    for page in school.rglob("*.html"):
+        text = page.read_text(encoding="utf-8")
+        assert "Draft, not published" not in text and "proposed" not in text.lower() and "DRAFT" not in text, page.name
+    for slug in SCENES:
+        assert 'name="robots" content="index, follow' in (school / slug / "index.html").read_text(encoding="utf-8"), slug
