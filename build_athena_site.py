@@ -23,6 +23,7 @@ USAGE:
 The manuscript stays PURE TEXT. All presentation lives here.
 """
 
+import glob
 import os
 import re
 import sys
@@ -617,6 +618,31 @@ if ('serviceWorker' in navigator) {
 """
 
 
+def write_sitemap(outdir, manuscript):
+    """Write sitemap.xml: the full edition, plus the School Edition pages found in outdir/school/ (build_school_pack.py calls this too)."""
+    # The full edition is a single-page document: all 24 books are #book01..#book24
+    # anchors on one URL. Fragment URLs are not independently indexable, so
+    # the sitemap correctly lists the one canonical page. lastmod tracks the
+    # manuscript's last edit (falls back to build time).
+    try:
+        lastmod = datetime.date.fromtimestamp(os.path.getmtime(manuscript)).isoformat()
+    except OSError:
+        lastmod = datetime.date.today().isoformat()
+    urls = [(f"{SITE_URL}/", lastmod, "1.0")]
+    # A School Edition page is listed by living at school/index.html or school/<slug>/index.html.
+    for page in sorted(glob.glob(os.path.join(outdir, "school", "index.html")) + glob.glob(os.path.join(outdir, "school", "*", "index.html"))):
+        rel = os.path.relpath(os.path.dirname(page), outdir).replace(os.sep, "/")
+        urls.append((f"{SITE_URL}/{rel}/", datetime.date.fromtimestamp(os.path.getmtime(page)).isoformat(), "0.8"))
+    sitemap = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "".join(f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{date}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>{prio}</priority>\n  </url>\n" for loc, date, prio in urls)
+        + '</urlset>\n'
+    )
+    with open(os.path.join(outdir, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(sitemap)
+
+
 def main():
     if not os.path.exists(MANUSCRIPT):
         print(f"ERROR: manuscript not found at {MANUSCRIPT}", file=sys.stderr)
@@ -663,25 +689,7 @@ def main():
         json.dump(manifest, f, indent=2)
 
     # ── SEO: emit sitemap.xml + robots.txt ──────────────────────────────
-    # ATHENA is a single-page document: all 24 books are #book01..#book24
-    # anchors on one URL. Fragment URLs are not independently indexable, so
-    # the sitemap correctly lists the one canonical page. lastmod tracks the
-    # manuscript's last edit (falls back to build time).
-    try:
-        lastmod = datetime.date.fromtimestamp(os.path.getmtime(MANUSCRIPT)).isoformat()
-    except OSError:
-        lastmod = datetime.date.today().isoformat()
-    sitemap = (
-        '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        f'  <url>\n    <loc>{SITE_URL}/</loc>\n'
-        f'    <lastmod>{lastmod}</lastmod>\n'
-        '    <changefreq>monthly</changefreq>\n'
-        '    <priority>1.0</priority>\n  </url>\n'
-        '</urlset>\n'
-    )
-    with open(os.path.join(OUTDIR, "sitemap.xml"), "w", encoding="utf-8") as f:
-        f.write(sitemap)
+    write_sitemap(OUTDIR, MANUSCRIPT)
     robots = (
         "User-agent: *\n"
         "Allow: /\n\n"

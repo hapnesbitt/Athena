@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>All Three Scripts | Athena School Edition</title>
+<meta name="description" content="All three Athena School Edition scripts on one page, with page breaks between scenes.">
+<link rel="canonical" href="https://athena.arc-codex.com/school/scripts.html">
+<meta name="robots" content="noindex, follow">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Athena School Edition">
+<meta property="og:title" content="All Three Scripts | Athena School Edition">
+<meta property="og:description" content="All three Athena School Edition scripts on one page, with page breaks between scenes.">
+<meta property="og:url" content="https://athena.arc-codex.com/school/scripts.html">
+<meta property="og:image" content="https://athena.arc-codex.com/school/og/pack.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="All Three Scripts | Athena School Edition">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="All Three Scripts | Athena School Edition">
+<meta name="twitter:description" content="All three Athena School Edition scripts on one page, with page breaks between scenes.">
+<meta name="twitter:image" content="https://athena.arc-codex.com/school/og/pack.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../images/icon-192.png">
+<style>
+@font-face{font-family:Literata;src:url(fonts/Literata-latin-normal.woff2) format("woff2");font-weight:400 700;font-style:normal;font-display:swap}
+@font-face{font-family:Literata;src:url(fonts/Literata-latin-italic.woff2) format("woff2");font-weight:400 700;font-style:italic;font-display:swap}
+@font-face{font-family:"Public Sans";src:url(fonts/PublicSans-latin-normal.woff2) format("woff2");font-weight:400 700;font-display:swap}
+/* Athena's own palette and comic-plate look (build_athena_site.py), on self-hosted fonts so a school network loads nothing from other sites. */
+:root{--paper:#f4e9d2;--paper-2:#eaddbf;--ink:#231b16;--red:#b32d27;--blue:#1f4e79;--gold:#9a6a1c;--muted:#594b3f;--line:#231b16;--shadow:rgba(35,27,22,.45);--on-red:#f4e9d2;
+  --serif:Literata,Georgia,"Times New Roman",serif;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#1b1713;--paper-2:#2a241d;--ink:#f1e6d0;--red:#f0897d;--blue:#8fbbe3;--gold:#dcae55;--muted:#c6b8a2;--line:#75685a;--shadow:rgba(0,0,0,.5);--on-red:#1b1713;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#1b1713;--paper-2:#2a241d;--ink:#f1e6d0;--red:#f0897d;--blue:#8fbbe3;--gold:#dcae55;--muted:#c6b8a2;--line:#75685a;--shadow:rgba(0,0,0,.5);--on-red:#1b1713;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:18px/1.6 var(--serif)}
+a{color:var(--red);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.wrap{max-width:46rem;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:18px}
+.draft{background:var(--paper-2);border-bottom:3px solid var(--line);font:600 .9rem/1.45 var(--sans)}
+.draft .wrap{padding-block:10px}
+.plate{margin:12px 0 22px;border:4px solid var(--line);background:var(--paper-2);box-shadow:7px 7px 0 var(--shadow)}
+.plate-banner{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 16px;background:var(--red);color:var(--on-red);padding:7px 14px;border-bottom:4px solid var(--line);font:700 .74rem var(--sans);letter-spacing:.09em;text-transform:uppercase}
+.plate-main{padding:18px 20px 20px}
+h1{margin:0 0 8px;font-size:clamp(2.2rem,8vw,3.5rem);line-height:1.04;font-weight:700;text-wrap:balance}
+.hook{margin:0;font-size:1.15rem;font-style:italic}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:10px 18px;margin:16px 0 0}
+.facts dt{font:700 .7rem var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--blue)}
+.facts dd{margin:0;font-size:1rem;line-height:1.35}
+h2{font-size:1.5rem;line-height:1.2;margin:28px 0 8px;padding-bottom:5px;border-bottom:3px solid var(--line);text-wrap:balance}
+h3{font-size:1.08rem;margin:18px 0 4px}
+ul,ol{padding-left:1.3em}li{margin:.35em 0}
+.small{font-size:.9rem;line-height:1.5}
+.actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;font:600 .9rem var(--sans)}
+button{font:700 .9rem var(--sans);color:var(--ink);background:var(--paper-2);border:2px solid var(--line);padding:7px 13px;cursor:pointer}
+button:hover{background:var(--paper)}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:.95rem;line-height:1.4}
+th,td{text-align:left;vertical-align:top;padding:7px 10px 7px 0;border-bottom:1px solid var(--line)}
+thead th{font:700 .72rem var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--blue)}
+td:last-child{white-space:nowrap;font-size:.86rem}
+.cards{list-style:none;margin:0;padding:0;display:grid;gap:14px}
+.cards li{margin:0}
+.cards a{display:block;color:inherit;text-decoration:none;border:3px solid var(--line);background:var(--paper-2);box-shadow:5px 5px 0 var(--shadow);padding:13px 16px}
+.cards a:hover .card-title{text-decoration:underline}
+.card-book{display:block;font:700 .72rem/1.4 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--blue)}
+.card-title{display:block;font-size:1.6rem;font-weight:700;line-height:1.2;color:var(--red)}
+.card-hook{display:block;font-style:italic}
+.printonly{display:none}
+/* the script */
+.script{margin-top:34px;padding-top:6px;border-top:6px solid var(--line)}
+.script-head h2{border:0;margin:2px 0 4px;padding:0;font-size:2rem}
+.kicker{margin:10px 0 0;font:700 .72rem/1.4 var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--blue)}
+.script-head .small{margin:4px 0}
+.speaker{margin:1.15em 0 .15em 2.4rem;font:700 .8rem var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--red)}
+.row{position:relative;margin:0 0 0 2.4rem;padding-left:1rem;text-indent:-1rem;line-height:1.45}
+.row.bar{border-left:3px solid var(--gold);padding-left:1.7rem}
+.row.gap{height:.55em;line-height:.55em;overflow:hidden}
+.n{position:absolute;left:-2.4rem;width:1.8rem;text-align:right;text-indent:0;top:.25em;font:.68rem var(--sans);color:var(--muted);user-select:none}
+.stage{margin:.6em 0 .6em 2.4rem;font-style:italic;color:var(--muted);line-height:1.4;font-size:.95em}
+.dir{color:var(--muted)}
+.beat{margin:.65em 0 .4em 2.4rem;font:500 .78rem/1.4 var(--sans);color:var(--blue)}
+.beat b{border:1.5px solid var(--blue);padding:0 .4em;margin-right:.35em;text-transform:uppercase;letter-spacing:.06em;font-size:.72rem;display:inline-block}
+.script-foot{margin:1.8em 0 0 2.4rem;color:var(--muted)}
+.homer p{margin:0 0 .9em}
+.marker{font:700 .8rem var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--on-red);background:var(--red);padding:5px 10px;scroll-margin-top:12px}
+@media (max-width:480px){.speaker,.row,.stage,.beat,.script-foot{margin-left:1.5rem}.n{left:-1.5rem;width:1.2rem}}
+@media print{
+  @page{margin:.75in .75in .8in;@bottom-center{content:"DRAFT · Athena School Edition · written mostly by AI · athena.arc-codex.com/school · page " counter(page);font:8.5pt Georgia,serif;color:#333}}
+  :root,:root:not([data-theme="light"]),:root[data-theme="dark"]{--paper:#fff;--paper-2:#fff;--ink:#000;--red:#000;--blue:#000;--gold:#000;--muted:#222;--line:#000;--on-red:#000;color-scheme:light}
+  body{background:#fff;font-size:11.5pt;line-height:1.4}
+  .noprint,.draft,button{display:none!important}
+  .printonly{display:inline}
+  .wrap{max-width:none;padding:0}
+  a{color:inherit;text-decoration:none}
+  .plate{box-shadow:none;border-width:2px;margin-top:0}
+  .plate-banner{border-bottom-width:2px}
+  .script{break-before:page;border-top:0;margin-top:0;padding-top:0}
+  .all-scripts .script.first,.script-only .script{break-before:auto}
+  .after-script{break-before:page}
+  .script-only .teacher,.script-only .plate,.script-only .actions{display:none!important}
+  .speaker{break-after:avoid}
+  .row,.stage,.beat{orphans:2;widows:2}
+  .beat{break-after:avoid}
+  .marker{border:1.5pt solid #000;background:#fff}
+  h2,h3{break-after:avoid}
+  li,tr{break-inside:avoid}
+}
+</style>
+</head>
+<body class="all-scripts">
+<!-- arc-family --><nav class="noprint" aria-label="Site path" style="box-sizing:border-box;width:100%;padding:6px 12px;background:#0b1220;color:#94a3b8;font:13px/1.4 system-ui,sans-serif;position:relative;z-index:50"><a href="https://arc-codex.com" style="color:#e2e8f0">&larr; Arc Codex</a> &rsaquo; Athena &rsaquo; School Edition</nav><!-- /arc-family -->
+<div class="draft" role="note"><div class="wrap"><b>Draft, not published.</b> Question for Ross before publishing: is CC BY-NC-SA 4.0 the right license? Every license line on these pages is a proposal until he decides.</div></div>
+<div class="wrap noprint"><p class="actions"><button type="button" onclick="window.print()">Print all three</button><a href="./">Back to the teacher notes</a></p><p class="small">Each script starts on a new page, so you can copy one scene or all three.</p></div><main class="wrap"><section class="script first" id="script-calypsos-offer"><header class="script-head"><p class="kicker">Athena School Edition · Book V of the Odyssey · about 8 minutes</p><h2>Calypso's Offer</h2><p class="small"><b>Parts:</b> Calypso, Odysseus, Hermes, The Muse, and anyone keeping the beat.</p><p class="small">A rule down the left side means the line goes on the beat. Everything else is spoken. Line numbers are for rehearsal.</p></header><p class="stage">Upstage, Calypso walks to and fro before a loom made of air, humming. Far downstage, Odysseus sits with his back to all of it, looking out over the audience. The audience is the sea. He hears nothing until she comes to him.</p>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Seven years on one island, in the navel of the sea.</p>
+<p class="row">All the others who came through Troy are home by now, or dead.</p>
+<p class="row">This one sits on the rocks and weeps, and the nymph Calypso, that fair goddess, holds him there.</p>
+<p class="row">But grey-eyed Athena has spoken for him on Olympus.</p>
+<p class="row"><span class="n" aria-hidden="true">5</span>So Zeus, gatherer of the clouds, has sent his messenger.</p>
+</div>
+<div class="speech"><p class="speaker">HERMES</p>
+<p class="beat"><b>Beat in</b>: Quick and light. Finger snaps. Hermes sets the speed.</p>
+<p class="row bar">Gold on my feet and the wind at my back,</p>
+<p class="row bar">Skim the wave like a cormorant, stay on track.</p>
+<p class="row bar">Long way. Salt. More salt. Still salt.</p>
+<p class="row bar">No town. No temple. That's Zeus's fault.</p>
+<p class="row bar"><span class="n" aria-hidden="true">10</span>Not one burnt offering for miles and miles.</p>
+<p class="row bar">Zeus said go, so I go, with style.</p>
+<p class="row bar">I'm Hermes, the messenger. That's no boast,</p>
+<p class="row bar">Just stating the news on a lonely coast.</p>
+<p class="beat"><b>Beat out</b></p>
+<p class="stage">He sees the cave. He stops.</p>
+<p class="row">Okay.</p>
+<p class="row"><span class="n" aria-hidden="true">15</span>Cedar on the fire. I could smell it from the beach.</p>
+<p class="row">Four springs running. Violets. A vine around the door.</p>
+<p class="row">Even a god could stand here and be glad.</p>
+<p class="stage">He stands there and is glad.</p>
+<p class="row">Okay. Work.</p>
+</div>
+<div class="speech"><p class="speaker">CALYPSO</p>
+<p class="stage">She does not stop weaving.</p>
+<p class="row">Hermes of the golden wand.</p>
+<p class="row"><span class="n" aria-hidden="true">20</span>Welcome. And what an honor. You never come here.</p>
+<p class="row">Gods are no strangers to each other, so say it.</p>
+<p class="row">If I can do it, I will. But sit. Eat first.</p>
+<p class="stage">She sets out ambrosia and nectar. He eats fast.</p>
+</div>
+<div class="speech"><p class="speaker">HERMES</p>
+<p class="row">You asked, so here it is, god to goddess.</p>
+<p class="row">Zeus sent me. I did not volunteer.</p>
+<p class="row"><span class="n" aria-hidden="true">25</span>Who would fly across all that on purpose?</p>
+<p class="row">You have a man here, the unluckiest of all who fought at Troy.</p>
+<p class="row">His crew is lost. The wind and the wave brought him to you.</p>
+<p class="row">Zeus says: send him home, and quickly.</p>
+<p class="row">It is not his fate to die far from his people.</p>
+<p class="row"><span class="n" aria-hidden="true">30</span>And no god gets around Zeus. That's all there is to say.</p>
+<p class="stage">The loom stops. Calypso shudders. Then she stamps, once, twice. It becomes her beat.</p>
+</div>
+<div class="speech"><p class="speaker">CALYPSO</p>
+<p class="beat"><b>Beat in</b>: Her own stamp, slow and hard. Others join in with claps.</p>
+<p class="row bar">Hard. You gods are hard. And jealous, too.</p>
+<p class="row bar">A god takes a lover? Not a word from you.</p>
+<p class="row bar">But a goddess loves a man in the light of day?</p>
+<p class="row bar">You can't stand it. You take him away.</p>
+<p class="row bar gap" aria-hidden="true">&nbsp;</p>
+<p class="row bar"><span class="n" aria-hidden="true">35</span>Dawn chose Orion. Artemis shot him.</p>
+<p class="row bar">Demeter chose Iasion. Zeus's bolt got him.</p>
+<p class="row bar">Now it's my turn, and he sends his boy,</p>
+<p class="row bar">Like I stole this man from the walls of Troy.</p>
+<p class="row bar gap" aria-hidden="true">&nbsp;</p>
+<p class="row bar">Who saved him? Me. Zeus threw the bolt</p>
+<p class="row bar"><span class="n" aria-hidden="true">40</span>That split his ship. So whose is the fault?</p>
+<p class="row bar">Alone on a keel, half drowned, half dead:</p>
+<p class="row bar">I pulled him in and I gave him bread.</p>
+<p class="row bar">You call this a prison. I call it a shore</p>
+<p class="row bar">Where a drowned man's breathing. Who did more?</p>
+<p class="row bar"><span class="n" aria-hidden="true">45</span>I loved him and kept him. I gave him my word:</p>
+<p class="row bar">No death, no old age. Best offer he's heard.</p>
+<p class="beat"><b>Beat out</b></p>
+<p class="stage">She picks up the shuttle.</p>
+<p class="row">But no god gets around Zeus. Fine.</p>
+<p class="row">Let him go, over the sea that gives no harvest.</p>
+<p class="row">I have no ships. I have no crew. I won't send him.</p>
+<p class="row"><span class="n" aria-hidden="true">50</span>But I'll tell him how to get home safe, and I will hide nothing.</p>
+</div>
+<div class="speech"><p class="speaker">HERMES</p>
+<p class="row">Good. Do it. And mind Zeus's temper. He remembers.</p>
+<p class="stage">He is gone.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">She went down to the shore and found him where he always was,</p>
+<p class="row">his eyes never dry, his sweet life running out,</p>
+<p class="row">looking across the sea that gives no harvest.</p>
+<p class="row"><span class="n" aria-hidden="true">55</span>She had stopped pleasing him long ago. He had no ship, no crew, no way to leave.</p>
+</div>
+<div class="speech"><p class="speaker">CALYPSO</p>
+<p class="row">Poor man. Stop crying. Don't let your life drain away on this beach.</p>
+<p class="row">I'm sending you home, with all my heart.</p>
+<p class="row">Get up. Cut long beams. Build a wide raft and deck it high.</p>
+<p class="row">I'll load it with bread and water. I'll put clothes on your back</p>
+<p class="row"><span class="n" aria-hidden="true">60</span>and send a good wind behind you.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="stage">He gets up slowly. He doesn't trust it.</p>
+<p class="row">No. What's the plan here, goddess?</p>
+<p class="row">A raft? On that? Good ships with a god's own wind don't like that crossing.</p>
+<p class="row">I'm not setting foot on any raft unless you swear to me,</p>
+<p class="row">a great oath, that you're planning nothing against me.</p>
+<p class="stage">Calypso smiles.</p>
+</div>
+<div class="speech"><p class="speaker">CALYPSO</p>
+<p class="row"><span class="n" aria-hidden="true">65</span>You rogue. Only you would think of that.</p>
+<p class="row">All right. Let Earth be my witness, and wide Heaven above,</p>
+<p class="row">and the falling water of the Styx, the greatest oath the gods can swear:</p>
+<p class="row">I plan no harm to you.</p>
+<p class="row">I'm telling you what I would tell myself, if I were where you are.</p>
+<p class="row"><span class="n" aria-hidden="true">70</span>I know what's right, too. My heart is not iron.</p>
+<p class="stage">Two chairs, facing. He sits in the one Hermes left. They eat. Nobody speaks.</p>
+</div>
+<div class="speech"><p class="speaker">CALYPSO</p>
+<p class="beat"><b>Beat in</b>: Just her fingers on the arm of the chair. Slow.</p>
+<p class="row bar">Son of Laertes, you really want home?</p>
+<p class="row bar">Today? Right now? Then go. Go alone.</p>
+<p class="row bar">But if you knew what the sea has in store,</p>
+<p class="row bar">You'd stay in this house and you'd ask for no more.</p>
+<p class="row bar"><span class="n" aria-hidden="true">75</span>No death. No old age. Think it through.</p>
+<p class="row bar">I know you miss her. I've watched you, too,</p>
+<p class="row bar">Every day at the edge of the sea.</p>
+<p class="row bar">Is she taller? Is she finer than me?</p>
+<p class="row bar">Look at me, man, and answer me. Say.</p>
+<p class="row bar"><span class="n" aria-hidden="true">80</span>A mortal, next to a goddess? No way.</p>
+<p class="beat"><b>Beat out</b></p>
+<p class="stage">He takes his time.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row">Goddess. Queen. Don't be angry with me.</p>
+<p class="row">I know all that. I know it well.</p>
+<p class="row">Penelope is wise, but next to you she is nothing to look at.</p>
+<p class="row">She will grow old. She will die. You never will.</p>
+<p class="stage">A pause.</p>
+<p class="row"><span class="n" aria-hidden="true">85</span>And still. Every day, I want to go home.</p>
+<p class="row">Every day.</p>
+<p class="beat"><b>Beat in</b>: His own feet. One step at a time.</p>
+<p class="row bar">If some god wrecks me on the wine-dark sea,</p>
+<p class="row bar">I'll take it. I've got that heart in me.</p>
+<p class="row bar">Waves and war, I've had my share.</p>
+<p class="row bar"><span class="n" aria-hidden="true">90</span>Add this to the pile. Put it there.</p>
+<p class="beat"><b>Beat out</b></p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">So soon as early Dawn shone forth, the rosy-fingered,</p>
+<p class="row">she gave him an axe of bronze, two-edged, with a handle of olive wood,</p>
+<p class="row">and she led him to the edge of the island, where the tall trees grew.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="beat"><b>Beat in</b>: The work. Everyone who isn't speaking chops, on counts one and three.</p>
+<p class="row bar">Twenty trees: alder, poplar, pine.</p>
+<p class="row bar"><span class="n" aria-hidden="true">95</span>Cut them, trim them, make straight the line.</p>
+<p class="stage">Calypso comes with augers. She sets them down where he can reach them. She goes. She says nothing.</p>
+<p class="row bar">Bore every beam and peg it tight.</p>
+<p class="row bar">Deck it and rail it, stem to stern, right.</p>
+<p class="row bar">Mast. Yard. A rudder to steer.</p>
+<p class="stage">Calypso comes with cloth for the sails. She sets it down. She goes.</p>
+<p class="row bar">Sails I can sew. I'm nearly clear.</p>
+<p class="row bar"><span class="n" aria-hidden="true">100</span>Four days' work, and she's built to float.</p>
+<p class="row bar">Lever her down to the sea. That's my boat.</p>
+<p class="beat"><b>Beat out</b></p>
+</div>
+<div class="speech"><p class="speaker">CALYPSO</p>
+<p class="stage">On the fifth day. She puts a cloak around him. She hands him a bag and a skin.</p>
+<p class="row">Water. Grain. The food you like.</p>
+<p class="stage">She lifts her hand. A warm wind.</p>
+<p class="row">Steer by the Bear. Keep it on your left.</p>
+<p class="stage">She has more to say. She doesn't say it.</p>
+<p class="row">Go.</p>
+<p class="stage">He raises the sail. He is glad. It's the first time we have seen him glad. He doesn't look back. Calypso watches him a while, then walks to the loom, picks up the gold shuttle and starts to hum.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row"><span class="n" aria-hidden="true">105</span>Ten days and seven he sailed, and sleep never fell on his eyes.</p>
+<p class="row">On the eighteenth day the shadowy hills of the Phaeacians rose up,</p>
+<p class="row">like a shield on the misty sea.</p>
+<p class="row">And far off, on his way home from the Ethiopians,</p>
+<p class="row">the lord who shakes the earth looked up and saw him.</p>
+<p class="stage">One stomp, everyone. Stop.</p>
+</div><p class="small script-foot">“Calypso's Offer” from Athena School Edition, athena.arc-codex.com/school/. Written mostly by AI. proposed license CC BY-NC-SA 4.0.</p></section>
+<section class="script" id="script-nobody"><header class="script-head"><p class="kicker">Athena School Edition · Book IX of the Odyssey · about 11 minutes</p><h2>Nobody</h2><p class="small"><b>Parts:</b> Odysseus, Polyphemus, The Muse, Crew, Cyclopes, and anyone keeping the beat.</p><p class="small">A rule down the left side means the line goes on the beat. Everything else is spoken. Line numbers are for rehearsal.</p></header><p class="stage">A bare floor. One chair upstage is the cave door. The Crew sit in a huddle. The audience is the court of King Alcinous.</p>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Hear now of the man of many devices.</p>
+<p class="row">Ten years gone from Troy. Wrecked, washed up, and fed</p>
+<p class="row">in the hall of King Alcinous, among people who do not know his name.</p>
+<p class="row">They feed a stranger first. Then they ask.</p>
+<p class="row"><span class="n" aria-hidden="true">5</span>You in the seats: you are that court.</p>
+<p class="row">The king has asked. Listen.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><i class="dir">(to the court)</i> My name? I'll tell you. Remember that I told you.</p>
+<p class="row">I am Odysseus, son of Laertes.</p>
+<p class="row">My home is Ithaca, a rough rock low in the sea,</p>
+<p class="row"><span class="n" aria-hidden="true">10</span>and to me there is nothing sweeter.</p>
+<p class="row">Here is what it cost me to say so.</p>
+<p class="beat"><b>Beat in</b>: Step, clap, step, clap. Slow and heavy.</p>
+<p class="row bar">Came out of Troy with twelve black ships,</p>
+<p class="row bar">Salt on my teeth and the war on my lips.</p>
+<p class="row bar">Six men a ship on the Cicones' shore.</p>
+<p class="row bar"><span class="n" aria-hidden="true">15</span>Lotus? One bite, and you're home no more.</p>
+<p class="row bar gap" aria-hidden="true">&nbsp;</p>
+<p class="row bar">Then the Cyclops' land: no law, no plow,</p>
+<p class="row bar">No court, no council. I'm curious now.</p>
+<p class="row bar">I took twelve men and a goatskin of wine,</p>
+<p class="row bar">Dark, sweet, strong, and the gift was mine:</p>
+<p class="row bar"><span class="n" aria-hidden="true">20</span>Maron gave it, Apollo's priest.</p>
+<p class="row bar">One cup in twenty of water: still a feast.</p>
+<p class="row bar gap" aria-hidden="true">&nbsp;</p>
+<p class="row bar">We found his cave, and nobody home.</p>
+<p class="row bar">Cheese in the baskets. Lambs. Alone.</p>
+</div>
+<div class="speech"><p class="speaker">CREW</p>
+<p class="row bar">Captain! Take the cheese! Take the lambs! Let's go!</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row bar"><span class="n" aria-hidden="true">25</span>I looked at my crew and I told them no.</p>
+<p class="row bar">I wanted the giant. I wanted his gift,</p>
+<p class="row bar">The gift that's owed when you're cast adrift.</p>
+<p class="beat"><b>Beat out</b></p>
+<p class="row"><i class="dir">(to the court)</i> It would have been far better to take the cheese.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Then he came home, that monstrous thing,</p>
+<p class="row"><span class="n" aria-hidden="true">30</span>like a wooded peak of the high hills, standing apart and alone.</p>
+<p class="row">He threw down his firewood, and the cave shook.</p>
+<p class="row">He drove in his flocks. He lifted a doorstone</p>
+<p class="row">that twenty-two wagons could not have moved,</p>
+<p class="row">and he set it in the door.</p>
+<p class="stage">Polyphemus fills the space. The Crew shrink back.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row"><span class="n" aria-hidden="true">35</span>RUMBLE. ROAR.</p>
+<p class="row">This cave mine. These sheep mine.</p>
+<p class="stage">He milks. He lights the fire. He sees them.</p>
+<p class="row">Strangers. Who are you?</p>
+<p class="row">Traders? Or pirates, robbing the salt roads?</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row">We are Greeks, lord, blown off course from Troy.</p>
+<p class="row"><span class="n" aria-hidden="true">40</span>Men of Agamemnon. You know that name.</p>
+<p class="row">We come to your knees. Give us what a stranger is owed.</p>
+<p class="row">Fear the gods. Zeus himself looks after strangers.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row">You stupid, little man. Or you come from far.</p>
+<p class="row">Cyclopes do not fear Zeus. We are better than Zeus.</p>
+<p class="row"><span class="n" aria-hidden="true">45</span>I spare you if I want. Not for Zeus.</p>
+<p class="row">Where is your ship? Far? Near? Tell me.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><i class="dir">(to the court)</i> He thought he could catch me. Me.</p>
+<p class="row"><i class="dir">(to Polyphemus)</i> What ship? Poseidon broke it on your rocks.</p>
+<p class="row">We are all that's left.</p>
+<p class="stage">Polyphemus says nothing. He reaches into the Crew. Two of them step back into the dark and turn away. That is all we see.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row"><span class="n" aria-hidden="true">50</span>CRUNCH. CRUNCH.</p>
+<p class="row">Men between teeth. No mercy in hunger.</p>
+<p class="stage">He lies down among his sheep and sleeps.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row">I put my hand on my sword. I found the place, under the ribs.</p>
+<p class="row">One push. And then? Who moves the stone?</p>
+<p class="row">Twenty-two wagons couldn't. Eleven men can't.</p>
+<p class="row"><span class="n" aria-hidden="true">55</span>We'd die in the dark, behind a dead giant's door.</p>
+<p class="row">So I took my hand away, and we waited for the dawn.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Early Dawn shone forth, the rosy-fingered.</p>
+<p class="row">He milked his flocks, all in order. He ate two more.</p>
+<p class="row">Then he rolled away the stone, drove his flocks out,</p>
+<p class="row"><span class="n" aria-hidden="true">60</span>and set it back as lightly as you'd put the lid on a quiver.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="beat"><b>Beat in</b>: Faster and quieter. The Crew whisper it with him.</p>
+<p class="row bar">By the pen lay his club, green olive wood,</p>
+<p class="row bar">Long as a ship's mast. There it stood.</p>
+<p class="row bar">Cut off six feet. Crew, make it clean.</p>
+<p class="row bar">I shaved the point, burned it hard and mean.</p>
+<p class="row bar"><span class="n" aria-hidden="true">65</span>Hid it in the dung where the sheep had been.</p>
+<p class="row bar">Cast lots: who lifts it? Four men in,</p>
+<p class="row bar">The same four men I would have picked.</p>
+<p class="row bar">I make five. Now here's the trick.</p>
+<p class="beat"><b>Beat out</b></p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Evening. He came home. He set the stone. He milked. He ate two more.</p>
+<p class="row"><span class="n" aria-hidden="true">70</span>That was six.</p>
+<p class="row">And Odysseus stood up, with a bowl of ivy wood in his hands.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row">Cyclops. Here. Drink. You've had your meal of men.</p>
+<p class="row">Taste what my ship was carrying.</p>
+<p class="row">I brought it as an offering, hoping you'd pity me and send me home.</p>
+<p class="row"><span class="n" aria-hidden="true">75</span>But you're out of your mind. Who will ever visit you again?</p>
+<p class="stage">Polyphemus takes the bowl and drinks. Mime it. The bowl can be empty hands.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row">Good. GOOD.</p>
+<p class="row">Our vines grow grapes. Zeus rains on them. This is different.</p>
+<p class="row">This is nectar.</p>
+<p class="row">Again. And your name, little man. Tell me.</p>
+<p class="row"><span class="n" aria-hidden="true">80</span>I give you a stranger's gift. You'll be glad.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Three times he poured. Three times, in his folly, the giant drank it down.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row">You ask my famous name, Cyclops? I'll tell you.</p>
+<p class="row">Then give me the gift you promised.</p>
+<p class="row">Nobody. My name is Nobody.</p>
+<p class="row"><span class="n" aria-hidden="true">85</span>My mother calls me Nobody. My father calls me Nobody.</p>
+<p class="row">So do all my friends.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row"><i class="dir">(slowly, very pleased)</i> Nobody.</p>
+<p class="row">Nobody I eat last. All your friends first.</p>
+<p class="row">Nobody last.</p>
+<p class="row"><span class="n" aria-hidden="true">90</span>That is your gift.</p>
+<p class="stage">He falls back. He sleeps.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="beat"><b>Beat in</b>: One finger on a table. Then two. Then the Crew.</p>
+<p class="row bar">Shove that stake down deep in the ash,</p>
+<p class="row bar">Green wood glowing. Now move. Fast.</p>
+<p class="row bar">Five of us lift it, a god in our chests.</p>
+<p class="row bar">I lean from above and the crew does the rest.</p>
+<p class="row bar"><span class="n" aria-hidden="true">95</span>Turn it like a drill through a ship's thick beam.</p>
+<p class="row bar">Hear it hiss. Now hear him scream.</p>
+<p class="beat"><b>Beat out</b></p>
+<p class="stage">All of this is mime. The stake is made of air. No one touches Polyphemus.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row">AAAAH!</p>
+<p class="row">CYCLOPES! NEIGHBORS! HELP ME!</p>
+</div>
+<div class="speech"><p class="speaker">CYCLOPES</p>
+<p class="row"><i class="dir">(from far off, half asleep)</i> Polyphemus! It's the middle of the night!</p>
+<p class="row"><span class="n" aria-hidden="true">100</span>What is wrong with you?</p>
+<p class="row">Is somebody stealing your sheep? Is somebody killing you?</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row">FRIENDS! NOBODY IS KILLING ME!</p>
+<p class="row">NOBODY! BY A TRICK!</p>
+</div>
+<div class="speech"><p class="speaker">CYCLOPES</p>
+<p class="row">Nobody? Nobody's hurting you?</p>
+<p class="row"><span class="n" aria-hidden="true">105</span>Then it's a sickness from Zeus, and nobody can help with that.</p>
+<p class="row">Pray to your father Poseidon. And keep it down.</p>
+<p class="stage">Their footsteps go away. Silence. Polyphemus feels his way to the door, rolls the stone aside, and sits in the doorway with his arms spread wide. Very quietly, the Crew start the beat.</p>
+</div>
+<div class="speech"><p class="speaker">CREW</p>
+<p class="stage">whispering, on the beat</p>
+<p class="row bar">Who's in your cave? Nobody.</p>
+<p class="row bar">Who took your eye? Nobody.</p>
+<p class="row bar">Who's going to help you? Nobody.</p>
+<p class="row bar"><span class="n" aria-hidden="true">110</span>Nobody. Nobody. Nobody.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><i class="dir">(to the court)</i> And my heart laughed, to see how my name had fooled them.</p>
+<p class="row bar">But he sat in the door with his arms out wide,</p>
+<p class="row bar">Feeling for any man sneaking outside.</p>
+<p class="row bar">His rams: thick fleece, wool dark as violet.</p>
+<p class="row bar"><span class="n" aria-hidden="true">115</span>Three tied together, a man under it.</p>
+<p class="row bar">Three rams, one man, till the crew was tied.</p>
+<p class="row bar">The best ram's mine. I clung to his hide.</p>
+<p class="row bar">Hands in the wool, my face to the sky,</p>
+<p class="row bar">We waited for dawn. Then the rams went by.</p>
+<p class="beat"><b>Beat out</b></p>
+<p class="stage">The Crew crawl past Polyphemus, one at a time, low. His hands pass over their backs, not quite touching. Last comes Odysseus, slowly.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="stage">His hands stop over Odysseus.</p>
+<p class="row"><span class="n" aria-hidden="true">120</span>Ram. My good ram.</p>
+<p class="row">You, first out every morning. First to the grass. First to the river.</p>
+<p class="row">Why are you last today?</p>
+<p class="row">You are sad for my eye.</p>
+<p class="row">A bad man did it. Nobody. He filled my head with wine.</p>
+<p class="row"><span class="n" aria-hidden="true">125</span>If you could talk. If you could tell me where he hides.</p>
+<p class="row">I would break him on this floor, and my heart would hurt less.</p>
+<p class="row"><i class="dir">(He lets go.)</i> Go on. Go eat.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row">And he let that ram walk, with me underneath.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">They ran for the ship. They rowed.</p>
+<p class="row"><span class="n" aria-hidden="true">130</span>Here the story could have ended, with a few more strokes.</p>
+<p class="row">But he was not yet so far that a man's shout could not be heard.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><i class="dir">(shouting)</i> CYCLOPS! That was no weak man's crew you ate!</p>
+<p class="row">You ate your guests in your own house! Zeus paid you back!</p>
+<p class="stage">Polyphemus tears the top off a hill and throws it. Everyone on the ship goes down with the wave.</p>
+</div>
+<div class="speech"><p class="speaker">CREW</p>
+<p class="row">Captain, stop! Why poke him?</p>
+<p class="row"><span class="n" aria-hidden="true">135</span>He almost sank us! One more word and he'll have our range,</p>
+<p class="row">and he'll crush our heads and the ship with one rock!</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="beat"><b>Beat in</b>: Steps only. Getting louder.</p>
+<p class="row bar">They begged me, every man at his oar:</p>
+<p class="row bar">Captain, enough. Don't say any more.</p>
+<p class="row bar">But Nobody's trick gets Nobody's fame.</p>
+<p class="row bar"><span class="n" aria-hidden="true">140</span>So I stood up tall, and I gave him my name.</p>
+<p class="beat"><b>Beat out</b>: Dead stop.</p>
+<p class="row">CYCLOPS! If anybody ever asks you who took your eye,</p>
+<p class="row">say it was ODYSSEUS!</p>
+<p class="row">Sacker of cities! Son of Laertes!</p>
+<p class="row">Whose home is ITHACA!</p>
+<p class="stage">Silence. Polyphemus turns his face to the sound. Then he lifts his hands to the sky.</p>
+</div>
+<div class="speech"><p class="speaker">POLYPHEMUS</p>
+<p class="row"><span class="n" aria-hidden="true">145</span>Odysseus.</p>
+<p class="row">An old prophet told me that name. I watched for a tall man, a strong man.</p>
+<p class="row">And you are a little thing who beat me with wine.</p>
+<p class="row"><i class="dir">(to the sky)</i> Hear me, Poseidon, Earth-shaker, god of the dark hair, if I am your son.</p>
+<p class="row">You have a name now. Odysseus, son of Laertes. Ithaca.</p>
+<p class="row"><span class="n" aria-hidden="true">150</span>Let him never get home.</p>
+<p class="row">But if he is fated to get home, let him come late.</p>
+<p class="row">Let him come broken, every man of his dead,</p>
+<p class="row">in a stranger's ship.</p>
+<p class="row">And let him find trouble in his house.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row"><span class="n" aria-hidden="true">155</span>So he prayed. And the god of the dark hair heard him.</p>
+<p class="stage">One stomp from everyone. Then the beat comes back, one slow step at a time.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="stage">to the court</p>
+<p class="row bar">Twelve ships I had. You found me alone.</p>
+<p class="row bar">You fed me. You asked me the way back home.</p>
+<p class="row bar">Nobody saved them from the cave that day.</p>
+<p class="row bar">Somebody's mouth threw the rest away.</p>
+<p class="beat"><b>Beat out</b></p>
+</div><p class="small script-foot">“Nobody” from Athena School Edition, athena.arc-codex.com/school/. Written mostly by AI. proposed license CC BY-NC-SA 4.0.</p></section>
+<section class="script" id="script-the-olive-tree"><header class="script-head"><p class="kicker">Athena School Edition · Book XXIII of the Odyssey · about 8 minutes</p><h2>The Olive Tree</h2><p class="small"><b>Parts:</b> Penelope, Odysseus, Eurycleia, Telemachus, The Muse, and anyone keeping the beat.</p><p class="small">A rule down the left side means the line goes on the beat. Everything else is spoken. Line numbers are for rehearsal.</p></header><p class="stage">Two chairs, far apart, facing each other. Odysseus sits in one, in rags, looking at the floor. Upstage, Penelope is asleep on a third chair.</p>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">Night in the palace at Ithaca. The fight is over.</p>
+<p class="row">The suitors lie in a heap by the gates of the court.</p>
+<p class="row">Up the stairs comes the old nurse, Eurycleia, laughing,</p>
+<p class="row">her knees moving fast for joy, her feet stumbling over each other.</p>
+</div>
+<div class="speech"><p class="speaker">EURYCLEIA</p>
+<p class="row"><span class="n" aria-hidden="true">5</span>Wake up, Penelope! Wake up, dear child!</p>
+<p class="row">Come see with your own eyes what you have wanted every day!</p>
+<p class="row">Odysseus is home! He's in this house!</p>
+<p class="row">And he has killed the suitors, every one!</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="row">Nurse. The gods have driven you crazy. They can do that.</p>
+<p class="row"><span class="n" aria-hidden="true">10</span>Why mock me? That was the best sleep I've had</p>
+<p class="row">since the day he sailed for that evil city I won't name.</p>
+<p class="row">Any other woman in this house, I'd send her down in tears.</p>
+<p class="row">Your age saves you. Go.</p>
+</div>
+<div class="speech"><p class="speaker">EURYCLEIA</p>
+<p class="row">I'm not mocking you, child! He's the beggar!</p>
+<p class="row"><span class="n" aria-hidden="true">15</span>The stranger they all insulted in the hall!</p>
+<p class="row">Telemachus knew, and he kept it quiet.</p>
+<p class="stage">Penelope jumps up and throws her arms around the old woman.</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="row">Tell me the truth, then. If he's home, how?</p>
+<p class="row">One man, and so many of them, always in a pack?</p>
+</div>
+<div class="speech"><p class="speaker">EURYCLEIA</p>
+<p class="row">I didn't see. We were locked in. I only heard the groaning.</p>
+<p class="row"><span class="n" aria-hidden="true">20</span>Then your son called me, and there he stood among the dead,</p>
+<p class="row">stained like a lion with the blood and dirt of battle.</p>
+<p class="row">It would have warmed your heart.</p>
+<p class="stage">Penelope lets go. She steps back. She goes cold.</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="row">Don't gloat yet, nurse.</p>
+<p class="row">You know how welcome he would be. To everyone. To me.</p>
+<p class="row"><span class="n" aria-hidden="true">25</span>But this isn't true. Some god killed them, angry at their insults.</p>
+<p class="row">Odysseus is lost, far away.</p>
+</div>
+<div class="speech"><p class="speaker">EURYCLEIA</p>
+<p class="row">Your heart never believes anything!</p>
+<p class="row">Then here's your proof: the scar the boar gave him with its tusk.</p>
+<p class="row">I saw it when I washed his feet. I tried to tell you,</p>
+<p class="row"><span class="n" aria-hidden="true">30</span>and he put his hand over my mouth.</p>
+<p class="row">Come and see. If I'm lying, kill me.</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="row">Even you can't read the gods, nurse. But let's go down.</p>
+<p class="row">I'll look at the dead, and at the man who killed them.</p>
+<p class="stage">She walks the whole length of the floor and sits in the far chair, across from him. She looks. He looks at the floor. Nobody speaks. Hold it for a slow count of fifteen. It should feel too long.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">She sat long in silence.</p>
+<p class="row"><span class="n" aria-hidden="true">35</span>Now she looked at him, and knew him.</p>
+<p class="row">Now she looked at his rags, and she did not.</p>
+</div>
+<div class="speech"><p class="speaker">TELEMACHUS</p>
+<p class="row">Mother. Some mother you are.</p>
+<p class="row">Why are you sitting over there? Go to him! Ask him something!</p>
+<p class="row">No other woman would keep this far from a husband</p>
+<p class="row"><span class="n" aria-hidden="true">40</span>home in the twentieth year.</p>
+<p class="row">Your heart is harder than stone.</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="beat"><b>Beat in</b>: Just Penelope's finger, tapping the arm of her chair. One, two, three, four. No one else.</p>
+<p class="row bar">My son, I can't speak. I can't look at his face.</p>
+<p class="row bar">Twenty years of strangers have come to this place,</p>
+<p class="row bar">Every one with a story, and the story's the same:</p>
+<p class="row bar"><span class="n" aria-hidden="true">45</span>"I saw him. He's coming. I know him by name."</p>
+<p class="row bar">I've fed them. I've cried. I've been played for a fool.</p>
+<p class="row bar">The door stays shut, and I make the rule.</p>
+<p class="row bar">If this is Odysseus, then he and I</p>
+<p class="row bar">Have signs no one knows. So let him try.</p>
+<p class="beat"><b>Beat out</b></p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><span class="n" aria-hidden="true">50</span><i class="dir">(He smiles.)</i> Telemachus, let your mother test me. She'll know soon enough.</p>
+<p class="row">Right now I'm filthy and I'm in rags. That's why she won't say it's me.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">They took him to the bath. They put a clean cloak on him,</p>
+<p class="row">and Athena poured grace over his head and shoulders,</p>
+<p class="row">as a master lays gold over silver.</p>
+<p class="row"><span class="n" aria-hidden="true">55</span>He came back looking like a god, and sat down again across from his wife.</p>
+<p class="row">She did not move.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><i class="dir">(The smile is gone.)</i> Strange woman.</p>
+<p class="row">The gods gave you a heart nobody can soften.</p>
+<p class="row">No other wife alive would keep away from a husband,</p>
+<p class="row"><span class="n" aria-hidden="true">60</span>after all that, home in the twentieth year.</p>
+<p class="row">Nurse. Make me up a bed. I'll sleep alone.</p>
+<p class="row">Her heart is iron.</p>
+<p class="stage">Penelope stands. This is the test. She says it lightly, and she does not look at him.</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="row">Strange man.</p>
+<p class="row">I'm not proud. I'm not scornful. I'm not amazed.</p>
+<p class="row"><span class="n" aria-hidden="true">65</span>I remember very well what you looked like, sailing out of Ithaca.</p>
+<p class="row">Eurycleia, make up his bed.</p>
+<p class="row">Take the big bed out of our room, the one he built himself.</p>
+<p class="row">Move it out here. Put fleeces on it, and blankets.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row">So she spoke, and tested her husband.</p>
+<p class="row"><span class="n" aria-hidden="true">70</span>The test is hers. She decides when this reunion happens, not him.</p>
+</div>
+<div class="speech"><p class="speaker">ODYSSEUS</p>
+<p class="row"><i class="dir">(He is on his feet.)</i> WHAT did you say?</p>
+<p class="row">Who moved my bed?</p>
+<p class="row">That bed can't be moved. Not by any man alive, however strong.</p>
+<p class="row">Only if a god came down.</p>
+<p class="row"><span class="n" aria-hidden="true">75</span>Because I made that bed. I made it, and no one else.</p>
+<p class="beat"><b>Beat in</b>: He stamps it himself. Then the others take it up, one by one. Hammer and adze.</p>
+<p class="row bar">That bed's my own design,</p>
+<p class="row bar">An olive tree its spine.</p>
+<p class="row bar">An olive grew inside our wall,</p>
+<p class="row bar">Long in the leaf, like a pillar, tall.</p>
+<p class="row bar"><span class="n" aria-hidden="true">80</span>I didn't cut it. I laid the stone,</p>
+<p class="row bar">I built our room around it, alone.</p>
+<p class="row bar">Then I cut the branches, trimmed the crown,</p>
+<p class="row bar">Left the trunk with its root still driven down.</p>
+<p class="row bar">Smoothed it, trued it, drilled it, and there:</p>
+<p class="row bar"><span class="n" aria-hidden="true">85</span>That's our bedpost. It goes nowhere.</p>
+<p class="row bar">Gold and silver and ivory laid,</p>
+<p class="row bar">Purple oxhide, tight. I made</p>
+<p class="row bar">That bed with these hands. That was my sign.</p>
+<p class="row bar">So tell me, woman: is that bed still mine?</p>
+<p class="row bar"><span class="n" aria-hidden="true">90</span>Or did some man come with a saw,</p>
+<p class="row bar">Cut through that trunk, and move it all?</p>
+<p class="beat"><b>Beat out</b>: Dead stop.</p>
+<p class="stage">Silence. Penelope's knees give way. Then she runs, the whole length of the floor, and puts her arms around his neck.</p>
+</div>
+<div class="speech"><p class="speaker">PENELOPE</p>
+<p class="row">Don't be angry with me, Odysseus.</p>
+<p class="row">You were always the wisest of men.</p>
+<p class="row">It was the gods who gave us sorrow.</p>
+<p class="row"><span class="n" aria-hidden="true">95</span>They could not bear to let us stay together and be young,</p>
+<p class="row">and come to the door of old age side by side.</p>
+<p class="row">Don't be angry that I didn't run to you when I first saw you.</p>
+<p class="row">All this time my heart has been shaking,</p>
+<p class="row">afraid some man would come and fool me with his words.</p>
+<p class="row"><span class="n" aria-hidden="true">100</span>There are so many.</p>
+<p class="row">But you have told me the sign of our bed.</p>
+<p class="row">No one has ever seen it but you, and me, and one maid,</p>
+<p class="row">Actor's daughter, who kept our door.</p>
+<p class="row">There. You have won it, my stubborn heart.</p>
+<p class="stage">Odysseus weeps. They hold on.</p>
+</div>
+<div class="speech"><p class="speaker">THE MUSE</p>
+<p class="row"><span class="n" aria-hidden="true">105</span>As when the sight of land is welcome to swimmers,</p>
+<p class="row">whose ship Poseidon has smashed on the open sea,</p>
+<p class="row">and only a few escape the grey water and swim for shore,</p>
+<p class="row">their bodies crusted with salt, glad to set foot on land:</p>
+<p class="row">so welcome to her was the sight of her husband,</p>
+<p class="row"><span class="n" aria-hidden="true">110</span>and her white arms she would not let go from his neck.</p>
+<p class="row">And rosy-fingered Dawn would have found them weeping still,</p>
+<p class="row">but grey-eyed Athena held the night back at the edge of the west,</p>
+<p class="row">and would not let the morning harness her horses.</p>
+</div><p class="small script-foot">“The Olive Tree” from Athena School Edition, athena.arc-codex.com/school/. Written mostly by AI. proposed license CC BY-NC-SA 4.0.</p></section></main>
+<script>function printScript(){document.body.classList.add('script-only');window.print();}addEventListener('afterprint',function(){document.body.classList.remove('script-only');});</script>
+</body>
+</html>
