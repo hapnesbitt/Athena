@@ -221,8 +221,10 @@ def render_verse(text: str) -> str:
     blocks = [b for b in re.split(r"\n\s*\n", text) if b.strip()]
     html_blocks = []
     for b in blocks:
-        lines = [html.escape(ln.strip()) for ln in b.split("\n") if ln.strip()]
-        html_blocks.append('<p class="verse">' + "<br>".join(lines) + "</p>")
+        # The manuscript's page breaks are for a printed edition; escaped here, they showed as raw HTML under 23 scenes (2026-11-02).
+        lines = [html.escape(ln.strip()) for ln in b.split("\n") if ln.strip() and "page-break-after" not in ln]
+        if lines:
+            html_blocks.append('<p class="verse">' + "<br>".join(lines) + "</p>")
     return "\n".join(html_blocks)
 
 
