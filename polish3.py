@@ -19,8 +19,9 @@ BEST version so far:
      stanza gets the next round.
 
 When a book's rounds are done the judge reads the whole scene again, with the opening's exact
-question. Those two readings are the before-and-after scores for the scene. Don't compare scene
-averages from the rounds in between: the comparison call scores on a different footing.
+question, as a second check on each rewritten stanza. Scene averages don't measure progress: in the
+first Book V run only one stanza changed, yet 14 of the other 31 moved and the averages fell.
+Trust the side-by-side scores in each round, and a person's ear over all of them.
 
 Writes scene_bookN_polished3.md and polish3_logs/bookN_rounds.md (before, after and scores for
 every round). Never touches the raw scene, _polished, _polished2 or ATHENA_manuscript.md, and
@@ -75,7 +76,8 @@ JUDGE_TEMP   = 0                    # the judge should give the same answer to t
 WRITER_TEMP  = 0.7                  # as polish2: rewrites need invention
 STOP_AT      = 9                    # a book is finished when every stanza scores this on both scales
 MIN_GAIN     = 2                    # a rewrite must gain this much (story + speak). One point is within the judge's noise: asked the same
-                                    # question twice, gemma4 moved 4 of Book V's 32 stanzas, mostly by one point (2026-11-02)
+                                    # question twice, gemma4 moved 4 of Book V's 32 stanzas, mostly by one point; with one stanza changed, 14 of 31 (2026-11-02)
+LENGTH_SLACK = 15                   # a rewrite may grow by half or by this many words, whichever is more; short lines have room to breathe
 WEAKEST_ASKED = 3                   # stanzas the judge names per call
 REQUEST_TIMEOUT = 600               # generous, as polish2; a call that times out still counts
 MAX_ERRORS_IN_A_ROW = 2             # the cloud is down: stop rather than burn the budget on errors
@@ -629,7 +631,7 @@ def gate_failures(book, scene, st, new_lines, frags, titles):
             if label and label.group(1).upper() in polish.LABELS and label.group(0) not in old_text:
                 fails.append(f"adds a speaker label: {s[:40]!r}")
         old_words, new_words = len(old_text.split()), len(new_text.split())
-        if not 0.6 <= new_words / max(old_words, 1) <= 1.5:
+        if new_words < 0.6 * old_words or new_words > max(1.5 * old_words, old_words + LENGTH_SLACK):
             fails.append(f"length changed too much: {old_words} to {new_words} words")
         if len(old_lines) >= 3 and not 0.6 <= len(new_lines) / len(old_lines) <= 1.5:
             fails.append(f"line count changed too much: {len(old_lines)} to {len(new_lines)}")
@@ -687,6 +689,7 @@ class BookRun:
                            "raw": f"scene_book{book}.md"}[src]
         self.scene = parse_scene(text.strip() + "\n")
         self.table, self.weakest, self.opening, self.closing = None, [], None, None
+        self.closing_note = ""
         self.tried = set()
         self.kept = self.discarded = 0
         self.rounds_done = 0
@@ -847,10 +850,12 @@ class BookRun:
         self.closing = scene_scores(self.scene, table)
         rewritten = {st.sid for st in changed}
         moved = [sid for sid in table if sid not in rewritten and tuple(table[sid]) != tuple(before[sid])]
-        by_stanza = ", ".join(f"{sid} {list(before[sid])} to {list(table[sid])}" for sid in sorted(rewritten, key=lambda x: int(x[1:])))
-        log(f"  Book {self.book}: closing scores story {self.closing[0]}, speak {self.closing[1]} (opening story {self.opening[0]}, speak {self.opening[1]}). {by_stanza}")
-        self._note(f"Closing scores, the opening's exact question: story {self.closing[0]}, speak {self.closing[1]} (opening story {self.opening[0]}, speak {self.opening[1]}).\n"
-                   f"Stanzas rewritten: {by_stanza or 'none'}.\nStanzas not touched that moved anyway (the judge's noise): {len(moved)} of {len(table) - len(rewritten)}.\n")
+        lower = [sid for sid in rewritten if sum(table[sid]) < sum(before[sid])]
+        by_stanza = ", ".join(f"{sid} {list(before[sid])} to {list(table[sid])}" + (" (LOWER: read this one)" if sid in lower else "") for sid in sorted(rewritten, key=lambda x: int(x[1:])))
+        self.closing_note = f"{by_stanza}. Untouched stanzas that moved anyway: {len(moved)} of {len(table) - len(rewritten)}"
+        log(f"  Book {self.book} closing reading: {self.closing_note}")
+        self._note(f"Closing reading, the opening's exact question. Rewritten stanzas: {self.closing_note}.\n"
+                   f"Scene averages, which do not measure progress: story {self.opening[0]} to {self.closing[0]}, speak {self.opening[1]} to {self.closing[1]}.\n")
         self._record({"round": rnd, "event": "closing", "story": self.closing[0], "speak": self.closing[1], "table": table, "untouched_moved": moved, "calls_used": cloud.used})
 
     def _note_round(self, row, where, cloud):
@@ -921,14 +926,14 @@ def run_rounds(books, opts, cloud, run_id):
 
 def summary(runs, stop, cloud, opts):
     log("")
-    log("  book | rounds | kept | discarded | story       | speak       | file")
-    log("  -----+--------+------+-----------+-------------+-------------+-----")
+    log("  book | rounds | kept | discarded | opening > closing, same question")
+    log("  -----+--------+------+-----------+---------------------------------")
     for run in runs:
         if run.opening is None:
             log(f"  {run.book:>4} | not reached")
             continue
-        now = run.closing or (("?", "?") if run.kept else run.opening)
-        log(f"  {run.book:>4} | {run.rounds_done:>6} | {run.kept:>4} | {run.discarded:>9} | {run.opening[0]:>4} > {now[0]:<4} | {run.opening[1]:>4} > {now[1]:<4} | {os.path.basename(scene_path(run.book))}")
+        note = run.closing_note or ("no closing reading" if run.kept else "nothing kept, nothing to read again")
+        log(f"  {run.book:>4} | {run.rounds_done:>6} | {run.kept:>4} | {run.discarded:>9} | {note}")
     log("")
     if stop:
         log(f"  stopped: {stop}")

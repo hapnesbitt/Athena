@@ -436,6 +436,18 @@ def test_structure_and_length_gates(repo):
     assert gates(repo, 5, scene, st, []) == ["empty rewrite"]
 
 
+def test_short_lines_have_room_to_grow_but_a_stanza_cant_balloon(repo):
+    """About 25 to 40 words was the trial's canon fix for "I've been held captive". It failed a flat limit of half again."""
+    scene = scene5(repo)
+    st = stanza_with(scene, "I've been held captive")
+    grows = ["No cage held me here, just a hunger for the gold,", "A partnership of predators, a story left untold.",
+             "But the appetite is fading, and the home-fire starts to burn,", "Calypso, I'm a ghost now, it's my time to return."]
+    assert len(" ".join(polish3.stanza_lines(scene, st)).split()) == 25 and len(" ".join(grows).split()) == 40
+    assert not [f for f in gates(repo, 5, scene, st, grows) if "length" in f]
+    assert any("length" in f for f in gates(repo, 5, scene, st, grows + ["And on it goes with many other words"]))
+    assert any("length" in f for f in gates(repo, 5, scene, st, ["Far too short now."]))
+
+
 def test_a_stage_direction_stays_one_stage_direction(repo):
     scene = polish3.parse_scene((repo / "scene_book10_polished2.md").read_text())
     st = next(s for s in scene.stanzas if s.kind == "staging")
@@ -477,11 +489,11 @@ def test_round_log_shows_before_after_scores_and_the_closing_reading(repo, capsy
     fake = FakeCloud()
     run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
     log = (repo / "polish3_logs" / "book5_rounds.md").read_text()
-    for needle in ("Opening scores", "Before:", "After:", "Scores [story, speak]: old", "KEPT", "Requests used so far: 3 of 4", "Closing scores, the opening's exact question", "the judge's noise"):
+    for needle in ("Opening scores", "Before:", "After:", "Scores [story, speak]: old", "KEPT", "Requests used so far: 3 of 4", "Closing reading, the opening's exact question", "Untouched stanzas that moved anyway", "do not measure progress"):
         assert needle in log, needle
     assert "VERSION A:" not in fake.prompts[3] and fake.prompts[3].split("── THE SCENE ──")[0] == fake.prompts[0].split("── THE SCENE ──")[0]
     assert "FRESH1" in fake.prompts[3] and fake.calls[3]["options"]["seed"] == fake.calls[0]["options"]["seed"]
-    assert "closing scores" in capsys.readouterr().out
+    assert "closing reading" in capsys.readouterr().out
 
 
 def test_nothing_kept_means_no_closing_call_and_a_closing_is_kept_back_from_the_rounds(repo):
