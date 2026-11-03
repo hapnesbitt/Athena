@@ -12,28 +12,33 @@ BEST version so far:
   2. A cloud writer rewrites that one stanza, as its speaker.
   3. Hard gates, no cloud call: no copied voice-bible lines, no new real song lyrics, no "fixes"
      of Ross's deliberate changes to Homer, framing and song hook kept, structure untouched.
-  4. The judge compares the old and new stanza blind, in random order. The rewrite ships only if
-     neither score falls and at least one rises and the judge's own pick agrees. Then a different
-     model, the referee, gets the same question with the order swapped and must agree too.
-     Otherwise it is discarded and the next weakest stanza gets the next round.
+  4. The judge compares the old and new stanza blind, in random order, against the complaint that
+     started the round. The rewrite ships only if neither score falls, the total rises by MIN_GAIN
+     and the judge's own pick agrees. Then a different model, the referee, gets the same question
+     with the order swapped and must agree too. Otherwise it is discarded and the next weakest
+     stanza gets the next round.
+
+When a book's rounds are done the judge reads the whole scene again, with the opening's exact
+question. Those two readings are the before-and-after scores for the scene. Don't compare scene
+averages from the rounds in between: the comparison call scores on a different footing.
 
 Writes scene_bookN_polished3.md and polish3_logs/bookN_rounds.md (before, after and scores for
 every round). Never touches the raw scene, _polished, _polished2 or ATHENA_manuscript.md, and
 assemble.py does not read polished3, so nothing here reaches the site. A second run starts from
 the existing polished3 (hand edits included) and first copies it to polish3_logs/history/.
 
-  python3 polish3.py --books 5 --rounds 3 --budget 10       # one book, at most 10 cloud requests
-  python3 polish3.py --books 5,9,23 --rounds 2 --budget 21
-  python3 polish3.py --books all --rounds 3 --budget 240
+  python3 polish3.py --books 5 --rounds 3 --budget 11       # one book, at most 11 cloud requests
+  python3 polish3.py --books 5,9,23 --rounds 2 --budget 24
+  python3 polish3.py --books all --rounds 3 --budget 264
   python3 polish3.py --estimate --books all --rounds 3      # what a run would cost; sends nothing
   python3 polish3.py --spent                                # what has been spent; sends nothing
 
 --budget is a hard limit in REQUESTS, the unit on Ross's Ollama dashboard, and it has no default.
 A request is counted before it goes out, failed ones too, so the dashboard should never show more
 than this. These calls spend the same ollama.com account as Arc and Hunt, and cloud_budget.py does
-not see them, so polish3_logs/spend.jsonl is the only record. A book costs 1 request to open and
-at most 3 a round: rewrite, judge, and the referee only if the rewrite passed the judge. A small
-budget is shared across books, one round at a time. Watch: tail -f polish3_run.log
+not see them, so polish3_logs/spend.jsonl is the only record. A book costs 2 requests to open and
+close and at most 3 a round: rewrite, judge, and the referee only if the rewrite passed the judge.
+A small budget is shared across books, one round at a time. Watch: tail -f polish3_run.log
 
 A machine judge can still approve bad verse. A person should read a sample before any of it goes
 live. Pure stdlib + the same Ollama call pattern as polish2.py.
@@ -69,6 +74,8 @@ REFEREE_MODEL = "gpt-oss:120b-cloud"   # the second opinion; --referee none turn
 JUDGE_TEMP   = 0                    # the judge should give the same answer to the same question
 WRITER_TEMP  = 0.7                  # as polish2: rewrites need invention
 STOP_AT      = 9                    # a book is finished when every stanza scores this on both scales
+MIN_GAIN     = 2                    # a rewrite must gain this much (story + speak). One point is within the judge's noise: asked the same
+                                    # question twice, gemma4 moved 4 of Book V's 32 stanzas, mostly by one point (2026-11-02)
 WEAKEST_ASKED = 3                   # stanzas the judge names per call
 REQUEST_TIMEOUT = 600               # generous, as polish2; a call that times out still counts
 MAX_ERRORS_IN_A_ROW = 2             # the cloud is down: stop rather than burn the budget on errors
@@ -110,8 +117,9 @@ FRAMING_RE = re.compile(r"ladies and gentlemen|\bpatrons?\b|\bdiners?\b|\bguests
                         r"|\baudience\b|raise a glass|\btoast\b|\bcollection\b|dance-off|\bwager\b", re.I)
 
 # Homer "corrections" a model is likely to make. no_new: a rewrite may not use these more often than
-# the stanza it replaces. keep: if the old stanza has this, the rewrite must too. The school edition
-# made several of these changes on purpose; the full edition must not (school/EDIT_NOTES.md).
+# the stanza it replaces. keep: the scene must still say this somewhere, so one stanza may drop the word
+# but the last mention stays. The school edition made several of these changes on purpose; the full
+# edition must not (school/EDIT_NOTES.md).
 CANON_GUARDS = {
     5:  {"no_new": [r"\bseven\b.{0,12}\byears?\b", r"\bseventh\b", r"\b7\s+years?\b", r"\bnymph\b", r"\bprison(er)?\b", r"\bcaptive\b",
                     r"\bgoddess of ogygia\b", r"\bkept (him )?against\b"],
@@ -442,13 +450,15 @@ def build_judge_prompt(book, scene, bible_text, compare=None, compare_only=False
             f"── COMPARE ──\nStanza {compare['sid']} has two candidates, in no particular order. Score each on the same two scales, as if it sat in the scene. "
             f"Pick the better one for this show, or say \"same\"."
             + ("" if compare_only else f" Leave {compare['sid']} out of \"scores\" and out of \"weakest\".") + "\n"
+            f"A reader raised this concern about the stanza: \"{compare['concern']}\" Check both versions against it, and against everything above.\n"
             f"Under lyrics_A and lyrics_B, copy any line of that version you recognize as a real published song's lyric, word for word or nearly so; [] if none.\n\n"
             f"VERSION A:\n" + "\n".join(compare["A"]) + "\n\nVERSION B:\n" + "\n".join(compare["B"]))
     versus = {"A": [7, 6], "B": [7, 7], "better": "A or B or same", "why": "one short sentence", "lyrics_A": [], "lyrics_B": []}
     if compare_only:
         parts.append(f"── REPLY ──\nJSON only, in this shape, with [story, speak] for each version.\n{json.dumps({'compare': versus})}")
         return "\n\n".join(parts)
-    scored = [i for i in ids if i != hide]
+    hidden = {c.sid for c in copies_of(scene, scene.by_id[hide])} if hide else set()
+    scored = [i for i in ids if i not in hidden]
     shape = {"scores": {scored[0]: [7, 6], scored[-1]: [9, 5]},
              "weakest": [{"id": scored[-1], "problem": "one sentence", "homer": "exact words or empty"}]}
     if compare:
@@ -483,7 +493,8 @@ def build_writer_prompt(book, scene, st, bible_text, problem, homer_quote):
     else:
         how = (f"- Fix that problem. Keep what already works, the same job in the scene, and every fact the editor did not name as wrong.\n"
                f"- About {len(old)} line{'s' if len(old) != 1 else ''} and about {sum(len(ln.split()) for ln in old)} words. One stanza, no blank lines.\n"
-               f"- Easy to say aloud: everyday word order, one breath per line, stress that falls on the beat, nothing that tangles the tongue. If a line rhymes only by twisting, rewrite the line.\n"
+               f"- Easy to say aloud: everyday word order, one breath per line, stress that falls on the beat, nothing that tangles the tongue.\n"
+               f"- Every line must make plain sense. Never choose a word just because it rhymes: if you can't say what a line means, rewrite it.\n"
                f"- Homeric grandeur next to hip-hop swagger, in {st.speaker}'s voice.\n"
                f"- If the stanza uses the song's hook (\"{hook}\"), it still does. If it speaks to the diners, it still does.\n"
                f"- 100% original words: no line, phrase or rhyme from the voice bible, and no real song's lyrics. A song's rhythm and spirit may echo here; its words may not.\n"
@@ -636,12 +647,13 @@ def gate_failures(book, scene, st, new_lines, frags, titles):
     for pat in guards.get("no_new", []):
         if len(re.findall(pat, new_text, re.I)) > len(re.findall(pat, old_text, re.I)):
             fails.append(f"changes canon, adds /{pat}/")
+    after_text = replace_stanza(scene, st, new_lines)
     for pat in guards.get("keep", []):
-        if re.search(pat, old_text, re.I) and not re.search(pat, new_text, re.I):
-            fails.append(f"changes canon, drops /{pat}/")
+        if re.search(pat, "\n".join(scene.lines), re.I) and not re.search(pat, after_text, re.I):
+            fails.append(f"changes canon, the scene no longer says /{pat}/")
 
     if not fails:                                                   # the scene around it must come through untouched
-        after = parse_scene(replace_stanza(scene, st, new_lines))
+        after = parse_scene(after_text)
         heads = [ln for ln in scene.lines if ln.startswith("#")]
         if stanza_shape(after) != stanza_shape(scene) or [ln for ln in after.lines if ln.startswith("#")] != heads:
             fails.append("breaks the scene's structure")
@@ -649,9 +661,9 @@ def gate_failures(book, scene, st, new_lines, frags, titles):
 
 
 def decide(old_scores, new_scores, better, new_label):
-    """polish2's rule with a better number: keep only if neither score falls, at least one rises, and the judge's pick agrees."""
+    """polish2's rule with a better number: keep only if neither score falls, the total rises by MIN_GAIN, and the judge's pick agrees."""
     return (new_scores[0] >= old_scores[0] and new_scores[1] >= old_scores[1]
-            and sum(new_scores) > sum(old_scores) and better == new_label)
+            and sum(new_scores) - sum(old_scores) >= MIN_GAIN and better == new_label)
 
 
 # ============================== PER-BOOK =====================================
@@ -674,7 +686,7 @@ class BookRun:
             self.source = {"polished2": f"scene_book{book}_polished2.md", "polished1": f"scene_book{book}_polished.md",
                            "raw": f"scene_book{book}.md"}[src]
         self.scene = parse_scene(text.strip() + "\n")
-        self.table, self.weakest, self.opening = None, [], None
+        self.table, self.weakest, self.opening, self.closing = None, [], None, None
         self.tried = set()
         self.kept = self.discarded = 0
         self.rounds_done = 0
@@ -718,6 +730,8 @@ class BookRun:
         verdict = self.ask_judge(cloud, rnd)
         self.table, self.weakest = verdict["table"], verdict["weakest"]
         self.opening = scene_scores(self.scene, self.table)
+        self.opening_table = dict(self.table)
+        self.opening_text = {st.sid: stanza_lines(self.scene, st) for st in self.scene.stanzas}
         log(f"  Book {self.book}: opening scores story {self.opening[0]}, speak {self.opening[1]} ({len(self.scene.stanzas)} stanzas)")
         self._note(f"Opening scores: story {self.opening[0]}, speak {self.opening[1]} (word-weighted, {len(self.scene.stanzas)} stanzas).\n"
                    f"Every stanza [story, speak]: " + ", ".join(f"{k} {list(v)}" for k, v in sorted(self.table.items(), key=lambda kv: int(kv[0][1:]))) + "\n")
@@ -740,10 +754,10 @@ class BookRun:
             return self.scene.by_id[sid], item
         return None
 
-    def ask_referee(self, cloud, rnd, st, new_lines, new_label):
+    def ask_referee(self, cloud, rnd, st, new_lines, new_label, concern):
         """The same comparison from a different model. A reply it can't read twice is a no: an unanswered question never counts as passed."""
         old_label = "A" if new_label == "B" else "B"
-        compare = {"sid": st.sid, new_label: new_lines, old_label: stanza_lines(self.scene, st)}
+        compare = {"sid": st.sid, "concern": concern, new_label: new_lines, old_label: stanza_lines(self.scene, st)}
         prompt = build_judge_prompt(self.book, self.scene, self.bible_text, compare, compare_only=True)
         for attempt in (1, 2):
             try:
@@ -784,7 +798,7 @@ class BookRun:
         if not row["gates"]:
             new_label = self.rng.choice("AB")
             old_label = "A" if new_label == "B" else "B"
-            verdict = self.ask_judge(cloud, rnd, {"sid": st.sid, new_label: new_lines, old_label: old_lines})
+            verdict = self.ask_judge(cloud, rnd, {"sid": st.sid, "concern": item["problem"], new_label: new_lines, old_label: old_lines})
             c = verdict["compare"]
             old, new = c[old_label], c[new_label]
             self.table, self.weakest = {**verdict["table"], st.sid: old_scores}, verdict["weakest"]
@@ -796,7 +810,7 @@ class BookRun:
             elif keep and self.opts.referee:
                 row["referee"] = self.opts.referee
                 swapped = old_label
-                r = self.ask_referee(cloud, rnd, st, new_lines, swapped)
+                r = self.ask_referee(cloud, rnd, st, new_lines, swapped, item["problem"])
                 if r is None:
                     keep, row["gates"] = False, ["the referee gave no readable answer"]
                 else:
@@ -816,13 +830,28 @@ class BookRun:
             row["decision"] = "kept"
         else:
             self.discarded += 1
-        now = scene_scores(self.scene, self.table)
-        row.update(story=now[0], speak=now[1], calls_used=cloud.used)
+        row["calls_used"] = cloud.used
         self._record(row)
         self._note_round(row, where, cloud)
         log(f"    · {row['decision'].upper()}" + (f" (gate: {row['gates'][0]})" if row["gates"] else f" old {row['old']} new {row['new']}, judge picks {row['better']}"
                                                   + (f"; referee old {row['ref_old']} new {row['ref_new']}, picks {row['ref_better']}" if row.get("ref_new") else ""))
-            + f". Scene now story {now[0]}, speak {now[1]}. Requests {cloud.used} of {cloud.budget}")
+            + f". Requests {cloud.used} of {cloud.budget}")
+
+    def close_book(self, cloud, rnd):
+        """The opening's exact question again, so the two readings compare like with like. Stanzas nobody touched that moved anyway show the judge's noise."""
+        before = dict(self.opening_table)
+        changed = [st for st in self.scene.stanzas if stanza_lines(self.scene, st) != self.opening_text.get(st.sid)]
+        verdict = read_judge_reply(cloud.chat(self.opts.judge, JUDGE_SYSTEM, build_judge_prompt(self.book, self.scene, self.bible_text), "judge", self.book, rnd, JUDGE_TEMP,
+                                              json_reply=True, seed=7, max_out=JUDGE_MAX_OUT), self.scene, homer_book(self.book))
+        table = verdict["table"]
+        self.closing = scene_scores(self.scene, table)
+        rewritten = {st.sid for st in changed}
+        moved = [sid for sid in table if sid not in rewritten and tuple(table[sid]) != tuple(before[sid])]
+        by_stanza = ", ".join(f"{sid} {list(before[sid])} to {list(table[sid])}" for sid in sorted(rewritten, key=lambda x: int(x[1:])))
+        log(f"  Book {self.book}: closing scores story {self.closing[0]}, speak {self.closing[1]} (opening story {self.opening[0]}, speak {self.opening[1]}). {by_stanza}")
+        self._note(f"Closing scores, the opening's exact question: story {self.closing[0]}, speak {self.closing[1]} (opening story {self.opening[0]}, speak {self.opening[1]}).\n"
+                   f"Stanzas rewritten: {by_stanza or 'none'}.\nStanzas not touched that moved anyway (the judge's noise): {len(moved)} of {len(table) - len(rewritten)}.\n")
+        self._record({"round": rnd, "event": "closing", "story": self.closing[0], "speak": self.closing[1], "table": table, "untouched_moved": moved, "calls_used": cloud.used})
 
     def _note_round(self, row, where, cloud):
         quoted = lambda lines: "\n".join("> " + ln + "  " for ln in (lines or [])) or "> (nothing)"
@@ -836,7 +865,7 @@ class BookRun:
             out.append(f"Scores [story, speak]: old {row['old']}, new {row['new']}. Judge's pick: {row['better']}. {row['why']}")
         if row.get("ref_new"):
             out.append(f"Referee ({row['referee']}), order swapped: old {row['ref_old']}, new {row['ref_new']}. Pick: {row['ref_better']}. {row['ref_why']}")
-        out += [f"Scene now: story {row['story']}, speak {row['speak']}. Requests used so far: {cloud.used} of {cloud.budget}.", ""]
+        out += [f"Requests used so far: {cloud.used} of {cloud.budget}.", ""]
         self._note("\n".join(out))
 
 
@@ -858,8 +887,9 @@ def run_rounds(books, opts, cloud, run_id):
         for run in runs:
             if run.finished:
                 continue
-            if cloud.left() < calls_needed(run):
-                stop = f"budget reached: {cloud.left()} request(s) left, and Book {run.book}'s next round needs {calls_needed(run)}"
+            owed = sum(1 for r in runs if r.kept or r is run)      # closing readings, kept back from the rounds
+            if cloud.left() < calls_needed(run) + owed:
+                stop = f"budget reached: {cloud.left()} request(s) left, and Book {run.book}'s next round needs {calls_needed(run)} plus {owed} for closing"
                 break
             try:
                 run.round(cloud, rnd)
@@ -881,6 +911,11 @@ def run_rounds(books, opts, cloud, run_id):
     for run in runs:
         if run.opening is not None and not os.path.isfile(scene_path(run.book)):
             run.save()                 # even a book where nothing was kept gets its file, identical to where it started
+        if run.kept and not (stop and stop.startswith("cloud refused")):
+            try:
+                run.close_book(cloud, opts.rounds + 1)
+            except (BudgetSpent, CloudFailed, Unreadable, CloudRefused) as e:
+                log(f"  !! Book {run.book}: no closing scores ({e})")
     return runs, stop
 
 
@@ -892,7 +927,7 @@ def summary(runs, stop, cloud, opts):
         if run.opening is None:
             log(f"  {run.book:>4} | not reached")
             continue
-        now = scene_scores(run.scene, run.table)
+        now = run.closing or (("?", "?") if run.kept else run.opening)
         log(f"  {run.book:>4} | {run.rounds_done:>6} | {run.kept:>4} | {run.discarded:>9} | {run.opening[0]:>4} > {now[0]:<4} | {run.opening[1]:>4} > {now[1]:<4} | {os.path.basename(scene_path(run.book))}")
     log("")
     if stop:
@@ -967,12 +1002,12 @@ def estimate(books, opts):
     n = len(books)
     per_round = n * (3 if opts.referee else 2)
     pct = lambda dollars: dollars / ALLOWANCE_USD * 100
-    print(f"\n  to open {n} book(s): {n} requests, ${open_usd:.3f}, about {pct(open_usd):.1f} % of a month's allowance")
-    print(f"  each round after that, at most: {per_round} requests, ${round_usd:.3f}, about {pct(round_usd):.1f} %")
+    print(f"\n  to open and close {n} book(s): {n * 2} requests, ${open_usd * 2:.3f}, about {pct(open_usd * 2):.1f} % of a month's allowance")
+    print(f"  each round, at most: {per_round} requests, ${round_usd:.3f}, about {pct(round_usd):.1f} %")
     if opts.referee:
         print(f"    if no rewrite passes the judge: {n * 2} requests, ${no_ref_usd:.3f}, about {pct(no_ref_usd):.1f} %. The referee only runs after a pass")
-    total = n + per_round * opts.rounds
-    total_usd = open_usd + round_usd * opts.rounds
+    total = n * 2 + per_round * opts.rounds
+    total_usd = open_usd * 2 + round_usd * opts.rounds
     print(f"  {opts.rounds} round(s) in all, at most: --budget {total} requests, ${total_usd:.3f}, about {pct(total_usd):.1f} %")
     print("  The % assumes the dashboard's percentage follows list price, which fits two readings so far. Treat it as rough.")
 
@@ -1015,7 +1050,7 @@ def main(argv=None, post=None):
         return 0
     if opts.budget is None:
         ap.error("--budget is required: cloud requests this run may spend. Try --estimate first")
-    first = 3 + (1 if opts.referee else 0)
+    first = 4 + (1 if opts.referee else 0)                         # open, rewrite, judge, referee, close
     if opts.budget < first:
         ap.error(f"--budget must be at least {first}: a book's first round is {first} requests")
     for name, model in (("--judge", opts.judge), ("--writer", opts.writer), ("--referee", opts.referee)):

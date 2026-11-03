@@ -68,7 +68,8 @@ def repo(tmp_path, monkeypatch):
     for name in COPIED:
         shutil.copy(ROOT / name, tmp_path / name)
     for path in ROOT.glob("scene_book*.md"):
-        shutil.copy(path, tmp_path / path.name)
+        if "polished3" not in path.name:            # a run's output in this checkout must not leak into the tests
+            shutil.copy(path, tmp_path / path.name)
     monkeypatch.setattr(polish3, "HERE", str(tmp_path))
     monkeypatch.setattr(polish, "VOICE_BIBLE_PATH", str(tmp_path / "voice_bible.md"))
     monkeypatch.setattr(assemble, "HERE", str(tmp_path))
@@ -98,7 +99,7 @@ def writer_prompts(fake):
 
 # ---------- budget ----------
 
-@pytest.mark.parametrize("budget", [3, 4, 5, 6, 7, 11])
+@pytest.mark.parametrize("budget", [4, 5, 6, 7, 11])
 def test_budget_is_never_exceeded_and_is_printed(repo, capsys, budget):
     fake = FakeCloud()
     assert run(fake, "--books", "all", "--rounds", 5, "--budget", budget) == 0
@@ -108,8 +109,8 @@ def test_budget_is_never_exceeded_and_is_printed(repo, capsys, budget):
 
 def test_a_round_that_cant_finish_is_not_started(repo, capsys):
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 5, "--budget", 4)      # open + one round = 3; a fourth alone would be a rewrite nobody judges
-    assert len(fake.calls) == 3
+    run(fake, "--books", 5, "--rounds", 5, "--budget", 5)      # open, rewrite, judge, close = 4; a fifth alone would be a rewrite nobody judges
+    assert len(fake.calls) == 4
     assert "budget reached" in capsys.readouterr().out
 
 
@@ -118,12 +119,12 @@ def test_budget_required_and_estimate_sends_nothing(repo, capsys):
     with pytest.raises(SystemExit):
         run(fake, "--books", 5, "--rounds", 1)
     with pytest.raises(SystemExit):
-        run(fake, "--books", 5, "--rounds", 1, "--budget", 2)
+        run(fake, "--books", 5, "--rounds", 1, "--budget", 3)
     assert run(fake, "--estimate", "--books", "5", "--rounds", 2) == 0
     assert run(fake, "--spent") == 0
     assert fake.calls == []
     out = capsys.readouterr().out
-    assert "to open 1 book(s): 1 requests" in out and "each round after that, at most: 2 requests" in out and "--budget 5 requests" in out
+    assert "to open and close 1 book(s): 2 requests" in out and "each round, at most: 2 requests" in out and "--budget 6 requests" in out
 
 
 def test_local_models_are_refused(repo):
@@ -153,7 +154,7 @@ def test_cloud_down_stops_after_two_errors(repo, capsys):
 
 def test_spend_ledger_records_every_call(repo, capsys):
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 2, "--budget", 5)
+    run(fake, "--books", 5, "--rounds", 2, "--budget", 6)
     rows = [json.loads(x) for x in (repo / "polish3_logs" / "spend.jsonl").read_text().splitlines()]
     assert len(rows) == len(fake.calls)
     assert {r["kind"] for r in rows} == {"judge", "rewrite"}
@@ -166,7 +167,7 @@ def test_spend_ledger_records_every_call(repo, capsys):
 
 def test_a_kept_rewrite_is_what_the_next_round_starts_from(repo):
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 2, "--budget", 5)
+    run(fake, "--books", 5, "--rounds", 2, "--budget", 6)
     prompts = writer_prompts(fake)
     assert "FRESH1" not in prompts[0] and "FRESH1" in prompts[1]
     final = (repo / "scene_book5_polished3.md").read_text()
@@ -178,20 +179,21 @@ def test_a_kept_rewrite_is_what_the_next_round_starts_from(repo):
 
 @pytest.mark.parametrize("old,new,pick_is_new", [
     ([5, 5], [5, 5], True),      # a tie is not better
+    ([6, 6], [6, 7], True),      # one point is within the judge's noise
     ([6, 6], [7, 5], True),      # one score fell
     ([6, 6], [5, 9], True),      # story fell, though the sum rose
     ([5, 5], [8, 8], False),     # the numbers say yes, the judge's own pick says no
 ])
 def test_a_rewrite_that_does_not_score_better_is_discarded(repo, old, new, pick_is_new):
     fake = FakeCloud(compare=lambda old_label, new_label: (old, new, new_label if pick_is_new else old_label))
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 3)
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
     assert rounds_log(repo)[0]["decision"] == "discarded"
     assert (repo / "scene_book5_polished3.md").read_text().strip() == (repo / "scene_book5_polished2.md").read_text().strip()
 
 
 def test_after_a_discard_the_next_round_tries_another_stanza(repo):
     fake = FakeCloud(compare=lambda old_label, new_label: ([6, 6], [5, 5], old_label))
-    run(fake, "--books", 5, "--rounds", 3, "--budget", 7)
+    run(fake, "--books", 5, "--rounds", 3, "--budget", 8)
     picked = [r["stanza"] for r in rounds_log(repo)]
     assert len(picked) == 3 and len(set(picked)) == 3
     assert all(r["decision"] == "discarded" for r in rounds_log(repo))
@@ -220,7 +222,7 @@ def verdicts(*answers):
 
 def test_the_referee_is_a_different_model_asked_with_the_order_swapped_and_must_agree(repo):
     fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True), ([6, 6], [6, 6], True)))
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
     assert [c["model"] for c in fake.calls] == ["gemma4:31b-cloud", "gemma4:31b-cloud", "gemma4:31b-cloud", "gpt-oss:120b-cloud"]
     row = rounds_log(repo)[0]
     assert row["decision"] == "discarded" and row["old"] == [5, 5] and row["new"] == [7, 7] and row["ref_new"] == [6, 6] and row["ref_better"] == "new"
@@ -233,7 +235,7 @@ def test_the_referee_is_a_different_model_asked_with_the_order_swapped_and_must_
 
 def test_a_rewrite_ships_when_judge_and_referee_both_prefer_it(repo):
     fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True), ([6, 6], [8, 6], True)))
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
     row = rounds_log(repo)[0]
     assert row["decision"] == "kept"
     assert "FRESH1" in (repo / "scene_book5_polished3.md").read_text()
@@ -243,38 +245,45 @@ def test_a_rewrite_ships_when_judge_and_referee_both_prefer_it(repo):
 
 def test_the_referee_only_runs_after_the_judge_passes_a_rewrite(repo):
     fake = FakeCloud(compare=verdicts(([6, 6], [5, 5], False)))
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
     assert [c["model"] for c in fake.calls].count("gpt-oss:120b-cloud") == 0 and len(fake.calls) == 3
 
 
 def test_a_round_is_not_started_without_a_request_for_the_referee(repo, capsys):
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 2, "--budget", 6, "--referee", "gpt-oss:120b-cloud")    # 4 for the first round leaves 2, and a round needs 3
-    assert len(fake.calls) == 4
+    run(fake, "--books", 5, "--rounds", 2, "--budget", 7, "--referee", "gpt-oss:120b-cloud")    # 4 for the first round leaves 3, and a round needs 3 + 1 to close
+    assert len(fake.calls) == 5
     assert "budget reached" in capsys.readouterr().out
     with pytest.raises(SystemExit):
-        run(FakeCloud(), "--books", 5, "--budget", 3, "--referee", "gpt-oss:120b-cloud")
+        run(FakeCloud(), "--books", 5, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
 
 
 def test_a_referee_that_cant_be_read_is_a_no(repo, monkeypatch):
     fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True)))
     good = fake.judge
     monkeypatch.setattr(fake, "judge", lambda user: good(user) if "weakest" in user else {"message": {"content": "no json here"}, "done_reason": "stop"})
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 6, "--referee", "gpt-oss:120b-cloud")
     assert len(fake.calls) == 5
     row = rounds_log(repo)[0]
     assert row["decision"] == "discarded" and "referee" in row["gates"][0]
 
 
-def test_a_rewrite_the_referee_cant_afford_to_check_does_not_ship(repo, monkeypatch):
-    """A judge retry eats the request kept for the referee. The rewrite must then be discarded, not shipped unchecked."""
+def test_a_rewrite_the_referee_cant_finish_checking_does_not_ship(repo, monkeypatch):
+    """A judge retry and a referee retry can together outrun the budget. The rewrite must then be discarded, not shipped unchecked."""
     fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True)))
     good = fake.judge
-    bad_once = iter([True])
-    monkeypatch.setattr(fake, "judge", lambda user: {"message": {"content": "oops"}, "done_reason": "stop"} if "VERSION A:" in user and next(bad_once, False) else good(user))
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
-    assert len(fake.calls) == 4 and "gpt-oss:120b-cloud" not in [c["model"] for c in fake.calls]
-    assert rounds_log(repo)[0]["decision"] == "discarded"
+    judge_bad_once = iter([True])
+
+    def replies(user):
+        if "weakest" not in user or ("VERSION A:" in user and next(judge_bad_once, False)):
+            return {"message": {"content": "oops"}, "done_reason": "stop"}
+        return good(user)
+
+    monkeypatch.setattr(fake, "judge", replies)
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
+    assert len(fake.calls) == 5 and fake.calls[-1]["model"] == "gpt-oss:120b-cloud"
+    row = rounds_log(repo)[0]
+    assert row["decision"] == "discarded" and "referee" in row["gates"][0]
     assert "FRESH1" not in (repo / "scene_book5_polished3.md").read_text()
 
 
@@ -282,13 +291,13 @@ def test_a_local_referee_is_refused_and_none_turns_it_off(repo):
     with pytest.raises(SystemExit):
         run(FakeCloud(), "--books", 5, "--budget", 5, "--referee", "gemma4:e4b")
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 3, "--referee", "none")
-    assert len(fake.calls) == 3
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "none")
+    assert len(fake.calls) == 4
 
 
 def test_small_budget_is_spread_across_books_one_round_at_a_time(repo):
     fake = FakeCloud()
-    run(fake, "--books", "5,9,23", "--rounds", 3, "--budget", 9)    # 3 x (open + round), not 3 rounds of Book V
+    run(fake, "--books", "5,9,23", "--rounds", 3, "--budget", 12)   # 3 x (open + round + close), not 3 rounds of Book V
     assert [len(rounds_log(repo, b)) for b in (5, 9, 23)] == [1, 1, 1]
 
 
@@ -297,7 +306,7 @@ def test_unreadable_judge_gets_one_retry_then_the_round_is_lost(repo, monkeypatc
     good = fake.judge
     replies = iter([{"message": {"content": "not json"}, "done_reason": "stop"}, {"message": {"content": "{\"scores\": 3}"}, "done_reason": "stop"}])
     monkeypatch.setattr(fake, "judge", lambda user: next(replies, None) or good(user))
-    assert run(fake, "--books", 5, "--rounds", 1, "--budget", 3) == 0
+    assert run(fake, "--books", 5, "--rounds", 1, "--budget", 4) == 0
     assert len(fake.calls) == 2
     assert not (repo / "scene_book5_polished3.md").exists()
 
@@ -330,8 +339,8 @@ def test_a_copied_voice_bible_line_goes_nowhere_near_the_judge(repo):
     assert any("voice bible" in f for f in fails)
 
     fake = FakeCloud(rewriter=lambda old, tag: old + ["So sick of your games, Calypso I'll set your truck to flames"])
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 3)
-    assert len(fake.calls) == 2                                       # opening judge + writer; no judge for the failed rewrite
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
+    assert len(fake.calls) == 2                                       # opening judge + writer; no judge for the failed rewrite, nothing to close
     row = rounds_log(repo)[0]
     assert row["decision"] == "discarded" and "voice bible" in row["gates"][0]
 
@@ -367,7 +376,7 @@ def test_the_judge_naming_a_real_lyric_kills_a_rewrite(repo, monkeypatch):
         return reply
 
     monkeypatch.setattr(fake, "judge", flags_lyric)
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 3)
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
     row = rounds_log(repo)[0]
     assert row["decision"] == "discarded" and "real lyric" in row["gates"][0]
 
@@ -384,9 +393,20 @@ def test_book_five_canon_cannot_be_fixed_toward_homer(repo, old_words, new_line)
     assert any("canon" in f for f in fails), fails
 
 
+def test_a_stanza_may_drop_a_canon_word_but_the_scene_must_keep_saying_it(repo):
+    scene = scene5(repo)
+    captive = stanza_with(scene, "I've been held captive")
+    better = ["No cage, no chains, just a taste for the gold,", "A partnership written in blood and in bold.",
+              "But the hunger for home hits harder than the greed,", "And Ithaca's the only ghost I still need."]
+    assert not [f for f in gates(repo, 5, scene, captive, better) if "canon" in f]
+    lone = polish3.parse_scene("\n".join(["# T", "", "### MUSE 🎩", "", "Tonight the sea-witch keeps her man, her partner in the raid, and ten long years go by."]) + "\n")
+    fails = gates(repo, 5, lone, lone.stanzas[0], ["Tonight the woman keeps her man, a friend upon the raid, and many years go by there."])
+    assert any("sea" in f for f in fails) and any("ten" in f for f in fails) and any("partner" in f for f in fails)
+
+
 def test_book_five_brief_and_canon_reach_the_judge_and_the_writer(repo):
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 3)
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
     for user in (fake.prompts[0], writer_prompts(fake)[0]):
         assert "morally murky PARTNERSHIP" in user and "ten missing years" in user and "the brief" in user.lower()
         assert "Calypso is a partner, not a prison" in user
@@ -428,7 +448,7 @@ def test_a_stage_direction_stays_one_stage_direction(repo):
 def test_earlier_files_stay_byte_identical_and_assemble_keeps_its_source(repo):
     before = fingerprints(repo)
     fake = FakeCloud()
-    run(fake, "--books", "5,9", "--rounds", 2, "--budget", 10)
+    run(fake, "--books", "5,9", "--rounds", 2, "--budget", 12)
     assert fingerprints(repo) == before
     assert (repo / "scene_book5_polished3.md").exists() and (repo / "polish3_logs" / "book5_rounds.md").exists()
     text, source = assemble.scene_text("5")
@@ -440,12 +460,12 @@ def test_assemble_does_not_read_polished3():
 
 
 def test_a_second_run_starts_from_polished3_and_keeps_a_copy_of_it(repo):
-    run(FakeCloud(), "--books", 5, "--rounds", 1, "--budget", 3)
+    run(FakeCloud(), "--books", 5, "--rounds", 1, "--budget", 4)
     first = (repo / "scene_book5_polished3.md").read_text()
     hand_edited = first.replace("### MUSE 🎩\n\n", "### MUSE 🎩\n\nA HAND EDIT by a person.\n\n", 1)
     (repo / "scene_book5_polished3.md").write_text(hand_edited)
     fake = FakeCloud()
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 3)
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
     assert "A HAND EDIT by a person." in fake.prompts[0]
     saved = list((repo / "polish3_logs" / "history").glob("scene_book5_polished3.*.md"))
     assert saved and any(p.read_text() == hand_edited for p in saved)
@@ -453,11 +473,32 @@ def test_a_second_run_starts_from_polished3_and_keeps_a_copy_of_it(repo):
     assert log.count("## Run ") == 2 and "started from scene_book5_polished3.md" in log
 
 
-def test_round_log_shows_before_after_and_scores(repo):
-    run(FakeCloud(), "--books", 5, "--rounds", 1, "--budget", 3)
+def test_round_log_shows_before_after_scores_and_the_closing_reading(repo, capsys):
+    fake = FakeCloud()
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
     log = (repo / "polish3_logs" / "book5_rounds.md").read_text()
-    for needle in ("Opening scores", "Before:", "After:", "Scores [story, speak]: old", "KEPT", "Requests used so far: 3 of 3"):
+    for needle in ("Opening scores", "Before:", "After:", "Scores [story, speak]: old", "KEPT", "Requests used so far: 3 of 4", "Closing scores, the opening's exact question", "the judge's noise"):
         assert needle in log, needle
+    assert "VERSION A:" not in fake.prompts[3] and fake.prompts[3].split("── THE SCENE ──")[0] == fake.prompts[0].split("── THE SCENE ──")[0]
+    assert "FRESH1" in fake.prompts[3] and fake.calls[3]["options"]["seed"] == fake.calls[0]["options"]["seed"]
+    assert "closing scores" in capsys.readouterr().out
+
+
+def test_nothing_kept_means_no_closing_call_and_a_closing_is_kept_back_from_the_rounds(repo):
+    fake = FakeCloud(compare=lambda old_label, new_label: ([6, 6], [5, 5], old_label))
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4)
+    assert len(fake.calls) == 3
+    fake = FakeCloud()
+    run(fake, "--books", "9,23", "--rounds", 2, "--budget", 8)
+    assert len(fake.calls) <= 8
+    assert sum("closing" == json.loads(x)["event"] for b in (9, 23) for x in (repo / "polish3_logs" / f"book{b}_rounds.jsonl").read_text().splitlines()) == 2
+
+
+def test_the_comparison_names_the_complaint_without_saying_which_version_is_new(repo):
+    fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True), ([6, 6], [8, 6], True)))
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
+    for user in (fake.prompts[2], fake.prompts[3]):
+        assert 'A reader raised this concern about the stanza: "S1 is weak"' in user
 
 
 # ---------- parsing and reference texts ----------
