@@ -77,7 +77,9 @@ def repo(tmp_path, monkeypatch):
 
 
 def run(fake, *args):
-    return polish3.main([str(a) for a in args], post=fake)
+    """No referee unless a test asks for one, so most budgets below are simply 1 + 2 a round."""
+    args = [str(a) for a in args]
+    return polish3.main(args if "--referee" in args else args + ["--referee", "none"], post=fake)
 
 
 def fingerprints(folder):
@@ -206,18 +208,82 @@ def test_the_judge_sees_the_two_versions_blind_and_in_both_orders(repo):
         assert "old version" not in user.lower() and "new version" not in user.lower() and "rewrite" not in user.lower().split("── compare ──")[1]
 
 
-def test_confirm_asks_again_with_the_order_swapped_and_must_agree(repo):
-    verdicts = iter([([5, 5], [7, 7], True), ([6, 6], [6, 6], True)])
+def verdicts(*answers):
+    """A compare() for FakeCloud that gives each answer in turn: (old scores, new scores, whether the pick is the new version)."""
+    answers = iter(answers)
 
-    def second_thoughts(old_label, new_label):
-        old, new, yes = next(verdicts)
+    def compare(old_label, new_label):
+        old, new, yes = next(answers)
         return old, new, new_label if yes else old_label
+    return compare
 
-    fake = FakeCloud(compare=second_thoughts)
-    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--confirm")
-    assert len(fake.calls) == 4
+
+def test_the_referee_is_a_different_model_asked_with_the_order_swapped_and_must_agree(repo):
+    fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True), ([6, 6], [6, 6], True)))
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    assert [c["model"] for c in fake.calls] == ["gemma4:31b-cloud", "gemma4:31b-cloud", "gemma4:31b-cloud", "gpt-oss:120b-cloud"]
     row = rounds_log(repo)[0]
-    assert row["decision"] == "discarded" and row["confirm_new"] == [6, 6]
+    assert row["decision"] == "discarded" and row["old"] == [5, 5] and row["new"] == [7, 7] and row["ref_new"] == [6, 6] and row["ref_better"] == "new"
+    judge_b, referee_b = (u.split("VERSION B:\n")[1].split("\n\n── REPLY")[0] for u in (fake.prompts[2], fake.prompts[3]))
+    assert ("FRESH1" in judge_b) != ("FRESH1" in referee_b)      # the new version changed sides
+    referee = fake.prompts[3]
+    assert FAKE_HOMER in referee and "morally murky PARTNERSHIP" in referee and "BEGIN CADENCE SAMPLE" in referee
+    assert '"scores"' not in referee and "weakest" not in referee
+
+
+def test_a_rewrite_ships_when_judge_and_referee_both_prefer_it(repo):
+    fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True), ([6, 6], [8, 6], True)))
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    row = rounds_log(repo)[0]
+    assert row["decision"] == "kept"
+    assert "FRESH1" in (repo / "scene_book5_polished3.md").read_text()
+    log = (repo / "polish3_logs" / "book5_rounds.md").read_text()
+    assert "Referee (gpt-oss:120b-cloud), order swapped: old [6, 6], new [8, 6]" in log
+
+
+def test_the_referee_only_runs_after_the_judge_passes_a_rewrite(repo):
+    fake = FakeCloud(compare=verdicts(([6, 6], [5, 5], False)))
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    assert [c["model"] for c in fake.calls].count("gpt-oss:120b-cloud") == 0 and len(fake.calls) == 3
+
+
+def test_a_round_is_not_started_without_a_request_for_the_referee(repo, capsys):
+    fake = FakeCloud()
+    run(fake, "--books", 5, "--rounds", 2, "--budget", 6, "--referee", "gpt-oss:120b-cloud")    # 4 for the first round leaves 2, and a round needs 3
+    assert len(fake.calls) == 4
+    assert "budget reached" in capsys.readouterr().out
+    with pytest.raises(SystemExit):
+        run(FakeCloud(), "--books", 5, "--budget", 3, "--referee", "gpt-oss:120b-cloud")
+
+
+def test_a_referee_that_cant_be_read_is_a_no(repo, monkeypatch):
+    fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True)))
+    good = fake.judge
+    monkeypatch.setattr(fake, "judge", lambda user: good(user) if "weakest" in user else {"message": {"content": "no json here"}, "done_reason": "stop"})
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 5, "--referee", "gpt-oss:120b-cloud")
+    assert len(fake.calls) == 5
+    row = rounds_log(repo)[0]
+    assert row["decision"] == "discarded" and "referee" in row["gates"][0]
+
+
+def test_a_rewrite_the_referee_cant_afford_to_check_does_not_ship(repo, monkeypatch):
+    """A judge retry eats the request kept for the referee. The rewrite must then be discarded, not shipped unchecked."""
+    fake = FakeCloud(compare=verdicts(([5, 5], [7, 7], True)))
+    good = fake.judge
+    bad_once = iter([True])
+    monkeypatch.setattr(fake, "judge", lambda user: {"message": {"content": "oops"}, "done_reason": "stop"} if "VERSION A:" in user and next(bad_once, False) else good(user))
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 4, "--referee", "gpt-oss:120b-cloud")
+    assert len(fake.calls) == 4 and "gpt-oss:120b-cloud" not in [c["model"] for c in fake.calls]
+    assert rounds_log(repo)[0]["decision"] == "discarded"
+    assert "FRESH1" not in (repo / "scene_book5_polished3.md").read_text()
+
+
+def test_a_local_referee_is_refused_and_none_turns_it_off(repo):
+    with pytest.raises(SystemExit):
+        run(FakeCloud(), "--books", 5, "--budget", 5, "--referee", "gemma4:e4b")
+    fake = FakeCloud()
+    run(fake, "--books", 5, "--rounds", 1, "--budget", 3, "--referee", "none")
+    assert len(fake.calls) == 3
 
 
 def test_small_budget_is_spread_across_books_one_round_at_a_time(repo):
@@ -270,7 +336,7 @@ def test_a_copied_voice_bible_line_goes_nowhere_near_the_judge(repo):
     assert row["decision"] == "discarded" and "voice bible" in row["gates"][0]
 
 
-def test_new_song_words_are_rejected_but_a_title_already_there_may_stay(repo):
+def test_new_song_words_are_rejected_but_this_books_own_title_is_the_hook(repo):
     scene = scene5(repo)
     st = stanza_with(scene, "My type's a predator")
     lines = polish3.stanza_lines(scene, st)
@@ -278,6 +344,13 @@ def test_new_song_words_are_rejected_but_a_title_already_there_may_stay(repo):
     assert any("song words" in f for f in gates(repo, 5, scene, st, plain_rewrite(lines[:-1]) + ["You sacked the place with all about that bass, my type"]))
     keep_hook = plain_rewrite(lines[:-1]) + ["My type's a predator who never had enough, a partner sacking towns"]
     assert not [f for f in gates(repo, 5, scene, st, keep_hook) if "song words" in f]
+    chorus = stanza_with(scene, "Sea's edge whispers")
+    adds_hook = plain_rewrite(polish3.stanza_lines(scene, chorus)[:-1]) + ["And that is exactly my type for the rest of the night"]
+    assert not [f for f in gates(repo, 5, scene, chorus, adds_hook) if "song words" in f]
+    nine = polish3.parse_scene((repo / "scene_book9_polished2.md").read_text())
+    other = next(s for s in nine.stanzas if s.kind == "verse" and len(polish3.stanza_lines(nine, s)) >= 3)
+    borrowed = plain_rewrite(polish3.stanza_lines(nine, other)[:-1]) + ["And that is exactly my type for the rest of the night"]
+    assert any("song words" in f for f in gates(repo, 9, nine, other, borrowed))
 
 
 def test_the_judge_naming_a_real_lyric_kills_a_rewrite(repo, monkeypatch):
@@ -438,3 +511,27 @@ def test_homer_is_the_right_book_from_the_library():
     assert "Nausicaa" in polish3.homer_book(6)
     last = polish3.homer_book(24)
     assert "covenant" in last and "Thy verse seems" not in last
+
+
+def test_requests_name_polish3_because_ollama_com_blocks_urllibs_default(monkeypatch):
+    seen = {}
+
+    class Reply:
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            return False
+
+        def read(self):
+            return b'{"message": {"content": "ok"}}'
+
+    def fake_urlopen(req, timeout=None):
+        seen["ua"] = req.get_header("User-agent")
+        seen["url"] = req.full_url
+        return Reply()
+
+    monkeypatch.setattr(polish3.urllib.request, "urlopen", fake_urlopen)
+    assert polish3.http_post({"model": "x"})["message"]["content"] == "ok"
+    assert "polish3" in seen["ua"] and "urllib" not in seen["ua"].lower()
+    assert seen["url"].endswith("/api/chat")
