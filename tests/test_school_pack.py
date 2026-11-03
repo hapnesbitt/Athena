@@ -1,8 +1,11 @@
 """School edition pages: everything a teacher was promised is on each page, and nothing from the dinner-theater edition or the song map leaked in."""
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
+
+import pytest
 
 ROOT = Path(__file__).resolve().parent.parent
 SCENES = ("calypsos-offer", "nobody", "the-olive-tree")
@@ -78,3 +81,19 @@ def test_chosen_license_is_final_on_every_page(tmp_path):
         assert "Draft, not published" not in text and "proposed" not in text.lower() and "DRAFT" not in text, page.name
     for slug in SCENES:
         assert 'name="robots" content="index, follow' in (school / slug / "index.html").read_text(encoding="utf-8"), slug
+
+
+def test_pack_page_prints_on_one_double_sided_sheet(tmp_path):
+    chrome, pdfinfo = shutil.which("google-chrome"), shutil.which("pdfinfo")
+    if not (chrome and pdfinfo):
+        pytest.skip("needs google-chrome and pdfinfo")
+    school = built(tmp_path)
+    pdf = tmp_path / "pack.pdf"
+    subprocess.run([chrome, "--headless=new", "--no-sandbox", "--disable-gpu", f"--print-to-pdf={pdf}", (school / "index.html").as_uri()], check=True, capture_output=True)
+    info = subprocess.run([pdfinfo, str(pdf)], check=True, capture_output=True, text=True).stdout
+    assert int(re.search(r"Pages:\s+(\d+)", info).group(1)) == 2
+
+
+def test_printed_banner_stays_readable_with_background_graphics_on(tmp_path):
+    page = (built(tmp_path) / "nobody" / "index.html").read_text(encoding="utf-8")
+    assert ".plate-banner{background:none;color:#000" in page

@@ -205,7 +205,7 @@ def print_buttons(path, scene=None):
 
 
 # ── pages ──────────────────────────────────────────────────────────────────────
-def page(path, title, desc, body, og_image, indexed=True, body_class=""):
+def page(path, title, desc, body, og_image, indexed=True, body_class="", extra_css=""):
     fonts = href(path, "school/fonts/x")[:-1]
     robots = "index, follow, max-image-preview:large" if indexed and LICENSE_DECIDED else "noindex, follow"
     url = f"{SITE_URL}/{path}"
@@ -237,7 +237,7 @@ def page(path, title, desc, body, og_image, indexed=True, body_class=""):
 <meta name="twitter:title" content="{t}">
 <meta name="twitter:description" content="{d}">
 <meta name="twitter:image" content="{image}">
-{icon}<style>{CSS.replace("FONTS/", fonts).replace("PRINTFOOT", foot)}</style>
+{icon}<style>{CSS.replace("FONTS/", fonts).replace("PRINTFOOT", foot)}{extra_css}</style>
 </head>
 <body class="{body_class}">
 {family_bar()}
@@ -283,7 +283,7 @@ def pack_page(scenes):
     path = "school/"
     cards = "".join(
         f'<li><a href="{href(path, "school/" + s["slug"] + "/")}"><span class="card-book">Book {s["book"]} · about {s["minutes"]} minutes · {esc(s["speakers"])}</span>'
-        f'<span class="card-title">{esc(s["title"])}</span><span class="card-hook">{esc(s["hook"])}</span></a></li>' for s in scenes)
+        f'<span class="card-title">{esc(s["title"])}</span><span class="card-hook">{esc(s["hook"])}</span><span class="printonly card-url">athena.arc-codex.com/school/{s["slug"]}/</span></a></li>' for s in scenes)
     body = f"""<main class="wrap">
 <header class="plate"><div class="plate-banner"><span>Free for classrooms</span><span>Homer’s Odyssey, with a beat</span></div>
 <div class="plate-main"><h1>{PACK}</h1><p class="hook">Three short scenes from a hip-hop retelling of the Odyssey. Each fits one class period with a small cast, and none needs a recording.</p></div></header>
@@ -291,12 +291,12 @@ def pack_page(scenes):
 <section><h2>The scenes</h2><ul class="cards">{cards}</ul></section>
 <section><h2>One class period</h2><ol><li><b>5 minutes:</b> teach the beat.</li><li><b>10 minutes:</b> read the scene aloud around the circle, with no parts yet.</li><li><b>20 minutes:</b> small groups pick parts and rehearse one section.</li><li><b>10 minutes:</b> show the work.</li><li><b>5 minutes:</b> talk through one prompt.</li></ol><p>Times on each scene are estimates from the word count. Time your own read.</p></section>
 <section><h2>Making the beat</h2>{beat_block()}</section>
-<section><h2>Music and rights</h2>{rights_block()}</section>
+<section class="side-two"><h2>Music and rights</h2>{rights_block()}</section>
 <section><h2>About this edition</h2>{about_block()}
-<p>These scenes come from the <a href="{SITE_URL}/">full Athena</a>, a dinner-theater script for adult audiences. The full edition has not been edited for school and it names the songs, so look at it yourself before you share it.</p></section>
+<p>These scenes come from the <a href="{SITE_URL}/">full Athena</a> <span class="printonly">(athena.arc-codex.com)</span>, a dinner-theater script for adult audiences. The full edition has not been edited for school and it names the songs, so look at it yourself before you share it.</p></section>
 </main>"""
     desc = "Three free, printable scenes from a hip-hop retelling of Homer's Odyssey. One class period, small casts, no recording needed. Written mostly by AI, and it says so."
-    return path + "index.html", page(path, f"{PACK}: Three Odyssey Scenes for the Classroom", desc, body, "pack")
+    return path + "index.html", page(path, f"{PACK}: Three Odyssey Scenes for the Classroom", desc, body, "pack", body_class="pack", extra_css=PACK_PRINT_CSS)
 
 
 def scripts_page(scenes):
@@ -490,7 +490,7 @@ td:last-child{white-space:nowrap;font-size:.86rem}
   .wrap{max-width:none;padding:0}
   a{color:inherit;text-decoration:none}
   .plate{box-shadow:none;border-width:2px;margin-top:0}
-  .plate-banner{border-bottom-width:2px}
+  .plate-banner{background:none;color:#000;border-bottom-width:2px}
   .script{break-before:page;border-top:0;margin-top:0;padding-top:0}
   .all-scripts .script.first,.script-only .script{break-before:auto}
   .after-script{break-before:page}
@@ -501,6 +501,33 @@ td:last-child{white-space:nowrap;font-size:.86rem}
   .marker{border:1.5pt solid #000;background:#fff}
   h2,h3{break-after:avoid}
   li,tr{break-inside:avoid}
+}
+"""
+
+# The pack page prints as one double-sided sheet: how to use it on the front, rights and credits on the back.
+# Each side keeps some room to spare, because browsers differ in margins and paper size (test_pack_page_prints_on_one_double_sided_sheet).
+PACK_PRINT_CSS = """
+@media print{
+  @page{margin:.6in .7in .65in}
+  .pack{font-size:11pt;line-height:1.4}
+  .pack .plate{margin:0 0 9pt}
+  .pack .plate-banner{padding:3pt 9pt;font-size:7.5pt}
+  .pack .plate-main{padding:8pt 12pt 9pt}
+  .pack h1{font-size:24pt;margin:0 0 3pt}
+  .pack .hook{font-size:11pt}
+  .pack h2{font-size:13pt;margin:12pt 0 4pt;padding-bottom:2pt;border-bottom-width:1.5pt}
+  .pack h3{font-size:11pt;margin:8pt 0 1pt}
+  .pack p{margin:4pt 0}
+  .pack ol,.pack ul{margin:4pt 0}
+  .pack li{margin:2pt 0}
+  .pack .cards{gap:6pt;margin:0}
+  .pack .cards a{box-shadow:none;border-width:1.5pt;padding:5pt 9pt}
+  .pack .card-book{font-size:7.5pt}
+  .pack .card-title{font-size:13pt}
+  .pack .card-url{display:block;font:600 8.5pt var(--sans)}
+  .pack .small{font-size:9.5pt;line-height:1.38}
+  .pack .side-two{break-before:page}
+  .pack .side-two h2{margin-top:0}
 }
 """
 

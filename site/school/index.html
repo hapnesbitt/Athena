@@ -94,7 +94,7 @@ td:last-child{white-space:nowrap;font-size:.86rem}
   .wrap{max-width:none;padding:0}
   a{color:inherit;text-decoration:none}
   .plate{box-shadow:none;border-width:2px;margin-top:0}
-  .plate-banner{border-bottom-width:2px}
+  .plate-banner{background:none;color:#000;border-bottom-width:2px}
   .script{break-before:page;border-top:0;margin-top:0;padding-top:0}
   .all-scripts .script.first,.script-only .script{break-before:auto}
   .after-script{break-before:page}
@@ -106,21 +106,44 @@ td:last-child{white-space:nowrap;font-size:.86rem}
   h2,h3{break-after:avoid}
   li,tr{break-inside:avoid}
 }
+
+@media print{
+  @page{margin:.6in .7in .65in}
+  .pack{font-size:11pt;line-height:1.4}
+  .pack .plate{margin:0 0 9pt}
+  .pack .plate-banner{padding:3pt 9pt;font-size:7.5pt}
+  .pack .plate-main{padding:8pt 12pt 9pt}
+  .pack h1{font-size:24pt;margin:0 0 3pt}
+  .pack .hook{font-size:11pt}
+  .pack h2{font-size:13pt;margin:12pt 0 4pt;padding-bottom:2pt;border-bottom-width:1.5pt}
+  .pack h3{font-size:11pt;margin:8pt 0 1pt}
+  .pack p{margin:4pt 0}
+  .pack ol,.pack ul{margin:4pt 0}
+  .pack li{margin:2pt 0}
+  .pack .cards{gap:6pt;margin:0}
+  .pack .cards a{box-shadow:none;border-width:1.5pt;padding:5pt 9pt}
+  .pack .card-book{font-size:7.5pt}
+  .pack .card-title{font-size:13pt}
+  .pack .card-url{display:block;font:600 8.5pt var(--sans)}
+  .pack .small{font-size:9.5pt;line-height:1.38}
+  .pack .side-two{break-before:page}
+  .pack .side-two h2{margin-top:0}
+}
 </style>
 </head>
-<body class="">
+<body class="pack">
 <!-- arc-family --><nav class="noprint" aria-label="Site path" style="box-sizing:border-box;width:100%;padding:6px 12px;background:#0b1220;color:#94a3b8;font:13px/1.4 system-ui,sans-serif;position:relative;z-index:50"><a href="https://arc-codex.com" style="color:#e2e8f0">&larr; Arc Codex</a> &rsaquo; Athena &rsaquo; School Edition</nav><!-- /arc-family -->
 
 <main class="wrap">
 <header class="plate"><div class="plate-banner"><span>Free for classrooms</span><span>Homer’s Odyssey, with a beat</span></div>
 <div class="plate-main"><h1>Athena School Edition</h1><p class="hook">Three short scenes from a hip-hop retelling of the Odyssey. Each fits one class period with a small cast, and none needs a recording.</p></div></header>
 <p class="actions noprint"><button type="button" onclick="window.print()">Print this page</button><a href="scripts.html">All three scripts, ready to print</a></p>
-<section><h2>The scenes</h2><ul class="cards"><li><a href="calypsos-offer/"><span class="card-book">Book V · about 8 minutes · 4 speakers</span><span class="card-title">Calypso's Offer</span><span class="card-hook">A goddess offers a man eternal life. He would rather go home and grow old.</span></a></li><li><a href="nobody/"><span class="card-book">Book IX · about 10 minutes · 3 speakers, plus a small crew</span><span class="card-title">Nobody</span><span class="card-hook">Odysseus beats the Cyclops by giving a false name. Then he gives the real one.</span></a></li><li><a href="the-olive-tree/"><span class="card-book">Book XXIII · about 8 minutes · 5 speakers, one of them small</span><span class="card-title">The Olive Tree</span><span class="card-hook">After twenty years, a stranger says he is her husband. Penelope has one test.</span></a></li></ul></section>
+<section><h2>The scenes</h2><ul class="cards"><li><a href="calypsos-offer/"><span class="card-book">Book V · about 8 minutes · 4 speakers</span><span class="card-title">Calypso's Offer</span><span class="card-hook">A goddess offers a man eternal life. He would rather go home and grow old.</span><span class="printonly card-url">athena.arc-codex.com/school/calypsos-offer/</span></a></li><li><a href="nobody/"><span class="card-book">Book IX · about 10 minutes · 3 speakers, plus a small crew</span><span class="card-title">Nobody</span><span class="card-hook">Odysseus beats the Cyclops by giving a false name. Then he gives the real one.</span><span class="printonly card-url">athena.arc-codex.com/school/nobody/</span></a></li><li><a href="the-olive-tree/"><span class="card-book">Book XXIII · about 8 minutes · 5 speakers, one of them small</span><span class="card-title">The Olive Tree</span><span class="card-hook">After twenty years, a stranger says he is her husband. Penelope has one test.</span><span class="printonly card-url">athena.arc-codex.com/school/the-olive-tree/</span></a></li></ul></section>
 <section><h2>One class period</h2><ol><li><b>5 minutes:</b> teach the beat.</li><li><b>10 minutes:</b> read the scene aloud around the circle, with no parts yet.</li><li><b>20 minutes:</b> small groups pick parts and rehearse one section.</li><li><b>10 minutes:</b> show the work.</li><li><b>5 minutes:</b> talk through one prompt.</li></ol><p>Times on each scene are estimates from the word count. Time your own read.</p></section>
 <section><h2>Making the beat</h2><p>Count 1, 2, 3, 4. Step on 1. Clap on 2. Step on 3. Clap on 4. Start slow, with a clap about every second and a half. For more drive, add a quick second step right after 3.</p><p>Students can also drum on a desk, beatbox, or bring a beat they made themselves. Ask everyone to speak in their own voice. No one needs an accent or a “rap voice.”</p></section>
-<section><h2>Music and rights</h2><p>No scene here needs a recording. The full Athena was built around popular songs, but this edition uses none of their titles, hooks or lyrics. Use a beat your students make.</p><p><b>If you want to use a real recording:</b> staging one in a show likely needs dramatic rights from the song’s owners, and a school’s usual music license often doesn’t cover that. Check with your school first. This is general information, not legal advice.</p></section>
+<section class="side-two"><h2>Music and rights</h2><p>No scene here needs a recording. The full Athena was built around popular songs, but this edition uses none of their titles, hooks or lyrics. Use a beat your students make.</p><p><b>If you want to use a real recording:</b> staging one in a show likely needs dramatic rights from the song’s owners, and a school’s usual music license often doesn’t cover that. Check with your school first. This is general information, not legal advice.</p></section>
 <section><h2>About this edition</h2><h3>Who wrote this</h3><p>Mostly machines. A person chose the story, the structure and the voice of Athena. A local AI model wrote the first draft of the full edition in 2026. Claude, an AI model made by Anthropic, rewrote these scenes for school, kept a few of the draft’s best lines, and checked the story against Butcher and Lang’s 1879 translation of Homer. These scenes have not yet been tried in a classroom.</p><h3>License</h3><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>. You may copy, perform and change these scenes for classes and other noncommercial use, as long as you credit the source and share your changes under the same license. Because most of the text was written by machines, its copyright may be thin, and parts of it may have none. We ask you to follow these terms anyway, and we claim no more than the law gives. Butcher and Lang’s translation is in the public domain.</p><p class="small"><b>Credit line:</b> Athena School Edition, athena.arc-codex.com/school/. Written mostly by AI. CC BY-NC-SA 4.0.</p><p class="small">Questions, or a report on how it went: ross@arc-codex.com. To charge admission, please ask first. No ads, no sign-in and no tracking; these pages load nothing from other sites.</p>
-<p>These scenes come from the <a href="https://athena.arc-codex.com/">full Athena</a>, a dinner-theater script for adult audiences. The full edition has not been edited for school and it names the songs, so look at it yourself before you share it.</p></section>
+<p>These scenes come from the <a href="https://athena.arc-codex.com/">full Athena</a> <span class="printonly">(athena.arc-codex.com)</span>, a dinner-theater script for adult audiences. The full edition has not been edited for school and it names the songs, so look at it yourself before you share it.</p></section>
 </main>
 <script>function printScript(){document.body.classList.add('script-only');window.print();}addEventListener('afterprint',function(){document.body.classList.remove('script-only');});</script>
 </body>
