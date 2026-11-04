@@ -18,3 +18,6 @@ polish2_run.log
 
 # Stray upload artifact, not authored content
 files.zip
+
+# polish3: run lock
+polish3_logs/.lock
